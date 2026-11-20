@@ -32,6 +32,14 @@
       const published = new URL(archiveLink.href);
       const routePattern = /^(?:index\.html|zh\/index\.html|(?:(?:zh|transcripts)\/)?\d{4}-\d{2}-\d{2}\.html)$/;
 
+      function setLanguage(route) {
+        const chinese = route.startsWith("zh/");
+        document.documentElement.lang = chinese ? "zh-CN" : "en";
+        loading.textContent = chinese ? "正在加载 AMA 档案… " : "Loading the archive… ";
+        archiveLink.textContent = chinese ? "在 GitHub Pages 打开" : "Open on GitHub Pages";
+        frame.title = chinese ? "Zeeverse-AMA 档案" : "Zeeverse-AMA archive";
+      }
+
       const indexRoute = (value) => {
         if (value === "zh" || value === "zh/") return "zh/index.html";
         return value || "index.html";
@@ -42,6 +50,7 @@
       const route = indexRoute(current.searchParams.get("page") || previousPage || current.pathname.slice(1));
       const target = new URL(routePattern.test(route) ? route : "index.html", published);
       target.hash = legacy || current.hash === "#/" ? "" : current.hash;
+      setLanguage(route);
       archiveLink.href = target.href;
       loading.hidden = false;
 
@@ -59,6 +68,7 @@
         share.hash = loaded.hash;
         if (share.href !== location.href) history.replaceState(null, "", share);
         if (typeof event.data.title === "string") document.title = event.data.title;
+        setLanguage(page);
         frame.hidden = false;
         status.hidden = true;
       });

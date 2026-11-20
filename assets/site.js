@@ -28,19 +28,42 @@ if (themeButton) {
 const query = document.getElementById("query");
 if (query) {
   const status = document.getElementById("result");
+  const index = document.getElementById("report-search-index");
+  const reports = index ? JSON.parse(index.textContent) : {};
+  const normalize = (text) => text.normalize("NFKC").replace(/[‘’]/g, "'").replace(/[–—]/g, "-").replace(/\s+/g, " ");
   const months = Array.from(document.querySelectorAll(".month"), (section) => ({
     section,
     count: section.querySelector(".month-count"),
-    rows: Array.from(section.querySelectorAll(".entries li")),
+    rows: Array.from(section.querySelectorAll(".entries li"), (row) => {
+      const day = row.querySelector("time").dateTime;
+      const body = normalize(reports[day] || "");
+      return {
+        row, body,
+        title: normalize(row.dataset.search).toLowerCase(),
+        bodySearch: body.toLowerCase(),
+        excerpt: row.querySelector(".entry-excerpt"),
+      };
+    }),
   }));
+  function showExcerpt(item, term) {
+    if (!item.excerpt) return;
+    item.excerpt.hidden = !term;
+    if (!term) return;
+    const hit = item.bodySearch.indexOf(term);
+    const start = Math.max(0, hit - 35);
+    const end = Math.min(item.body.length, hit + term.length + 100);
+    item.excerpt.textContent = (start > 0 ? "…" : "") + item.body.slice(start, end).trim()
+      + (end < item.body.length ? "…" : "");
+  }
   function filterReports() {
-    const terms = query.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    const terms = normalize(query.value).toLowerCase().trim().split(" ").filter(Boolean);
     let count = 0;
     for (const month of months) {
       let hits = 0;
-      for (const row of month.rows) {
-        const visible = terms.every((term) => row.dataset.search.includes(term));
-        row.hidden = !visible;
+      for (const item of month.rows) {
+        const visible = terms.every((term) => item.title.includes(term) || item.bodySearch.includes(term));
+        item.row.hidden = !visible;
+        showExcerpt(item, visible && terms.find((term) => !item.title.includes(term)));
         if (visible) hits += 1;
       }
       month.section.hidden = hits === 0;

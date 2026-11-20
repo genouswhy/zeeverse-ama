@@ -16,7 +16,7 @@ A bilingual archive of Zeeverse community calls, with the original English trans
 
 ## Surf 入口
 
-把 surf/index.html 作为现有 Surf 项目的静态入口发布一次。它在原 Surf 网址内显示 GitHub Pages 发布的内容，中英文报告和转录都可以分享直达链接。以后提交内容时，Surf 入口会继续读取 GitHub Pages 的发布结果。
+把 surf/index.html 原样作为现有 Surf 项目的静态首页发布一次。页面导航由归档站提供，Surf 入口加载 GitHub Pages 发布的内容。中英文报告和转录都可以分享直达链接。以后提交内容时，Surf 入口会继续读取 GitHub Pages 的发布结果。
 
 ## 本地预览
 

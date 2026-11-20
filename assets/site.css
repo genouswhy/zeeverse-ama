@@ -178,6 +178,7 @@ button, input { font: inherit; }
 .entry time { font: 500 .82rem/1.5 var(--mono); white-space: nowrap; }
 .topic { display: block; color: var(--ink); font-weight: 700; line-height: 1.55; overflow-wrap: anywhere; }
 .entry-meta { display: block; margin-top: .3rem; color: var(--muted); font-size: .83rem; }
+.entry-excerpt { display: block; margin-top: .42rem; color: var(--muted); font-size: .9rem; line-height: 1.5; overflow-wrap: anywhere; }
 .chip {
   display: inline-block;
   margin-left: .55rem;

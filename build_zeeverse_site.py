@@ -3,8 +3,10 @@
 
 import argparse
 from datetime import date
+from hashlib import sha256
 from html import escape
 from itertools import groupby
+import json
 from math import ceil
 from pathlib import Path
 import re
@@ -46,7 +48,7 @@ COPY = {
         "language": "Language",
         "count": "{count} reports",
         "find": "Find a report",
-        "placeholder": "Search by date, topic, or keyword — world boss, gathering",
+        "placeholder": "Search titles, dates, or report text",
         "found": "{count} matching reports",
         "one": "1 matching report",
         "empty": "No matching reports",
@@ -75,7 +77,7 @@ COPY = {
         "language": "语言",
         "count": "{count} 期中文 AMA 总结",
         "find": "查找报告",
-        "placeholder": "输入日期、议题或关键词，如 世界 Boss、采集",
+        "placeholder": "搜索标题、日期或报告正文",
         "found": "找到 {count} 期",
         "one": "找到 1 期",
         "empty": "没有符合的报告",
@@ -216,6 +218,22 @@ def read_minutes(source):
     return max(1, ceil(english_words / 200 + han / 310))
 
 
+def search_text(tokens):
+    parts = []
+    for token in tokens:
+        if token.type == "inline":
+            inline = []
+            for child in token.children or []:
+                if child.type in ("text", "code_inline", "image"):
+                    inline.append(child.content)
+                elif child.type in ("softbreak", "hardbreak"):
+                    inline.append(" ")
+            parts.append("".join(inline))
+        elif token.type in ("fence", "code_block"):
+            parts.append(token.content)
+    return " ".join(" ".join(parts).split())
+
+
 def reading_page(locale, day, topic, body, headings, meta, issue, minutes, has_transcript, nearby):
     words = COPY[locale]
     rail = ""
@@ -286,7 +304,7 @@ def report_index(markdown, reports):
     return topics, transcripts
 
 
-def archive_page(locale, entries):
+def archive_page(locale, entries, report_text):
     words = COPY[locale]
     count = len(entries)
     first, last = entries[-1][0], entries[0][0]
@@ -295,8 +313,9 @@ def archive_page(locale, entries):
     else:
         start = format_date(first, locale, short=True, year=first[:4] != last[:4])
         coverage = f'{start} – {format_date(last, locale, short=True)}'
+    languages = "English / Chinese" if locale == "en" else "中文 / English"
     stats = "".join(f"<div><dt>{label}</dt><dd>{value}</dd></div>"
-                    for label, value in zip(words["stats"], (count, coverage, "English / 中文")))
+                    for label, value in zip(words["stats"], (count, coverage, languages)))
     groups = []
     for month, group in groupby(enumerate(entries), key=lambda row: row[1][0][:7]):
         stamp = date.fromisoformat(month + "-01")
@@ -312,10 +331,12 @@ def archive_page(locale, entries):
             rows.append(f"""<li data-search="{search}"><a class="entry" href="{day}.html">
 <time datetime="{day}">{day}</time>
 <span class="entry-body"><span class="topic">{escape(topic)}</span>
-<span class="entry-meta">{details}{chip}</span></span><span class="chevron" aria-hidden="true"></span>
+<span class="entry-meta">{details}{chip}</span><span class="entry-excerpt" hidden></span></span>
+<span class="chevron" aria-hidden="true"></span>
 </a></li>""")
         groups.append(f'<section class="month"><h2>{label} <span class="month-count">{len(rows)}</span></h2>'
                       f'<ul class="entries">{"".join(rows)}</ul></section>')
+    search_index = json.dumps(report_text, ensure_ascii=False, separators=(",", ":")).replace("<", r"\u003c")
     contents = f"""<main class="wrap archive" id="main">
 <section class="hero">
   <p class="kicker">Zeeverse · Community Call</p>
@@ -333,6 +354,7 @@ def archive_page(locale, entries):
     data-one="{words["one"]}" data-empty="{words["empty"]}">{words["count"].format(count=count)}</p>
 </div>
 {''.join(groups)}
+<script id="report-search-index" type="application/json">{search_index}</script>
 </main>"""
     return html_page(locale, "index.html", f"{SITE_NAME} · {words['archive_title']}", contents)
 
@@ -378,6 +400,7 @@ def build(reports, output, embed_origin=None):
         words = COPY[locale]
         prefix = "" if locale == "en" else "zh/"
         entries = []
+        report_text = {}
         for position, day in enumerate(dates):
             path = reports_by_date[day]
             original = path.read_text(encoding="utf-8-sig")
@@ -385,6 +408,7 @@ def build(reports, output, embed_origin=None):
                 raise ValueError(f"Empty report: {path}")
             tokens = markdown.parse(original)
             normalize_links(tokens, dates, locale, path, transcript_dates, transcripts)
+            report_text[day] = search_text(tokens)
             body, headings, source_title, meta = render_report(markdown, tokens, locale)
             names = [name for _, name in headings]
             fallback = " · ".join(re.sub(r"^(?:[一二三四五六七八九十]+、|(?:\d+|[IVXLCDM]+)\.\s+)", "", name)
@@ -405,15 +429,21 @@ def build(reports, output, embed_origin=None):
                                    minutes, day in transcripts, nav)
             filename = f"{day}.html"
             files[prefix + filename] = html_page(locale, filename, f"{day} · {SITE_NAME}", article, article=True)
-        files[prefix + "index.html"] = archive_page(locale, entries)
+        files[prefix + "index.html"] = archive_page(locale, entries, report_text)
 
     if embed_origin:
         files["surf-bridge.js"] = (PROJECT / "surf-bridge.js").read_text(encoding="utf-8")
-        for filename in files:
-            if filename.endswith(".html"):
+    js_version = sha256(files["site.js"]).hexdigest()[:12]
+    css_version = sha256(files["site.css"]).hexdigest()[:12]
+    for filename in files:
+        if filename.endswith(".html"):
+            content = files[filename].replace('site.css">', f'site.css?v={css_version}">', 1)
+            content = content.replace('site.js" defer>', f'site.js?v={js_version}" defer>', 1)
+            if embed_origin:
                 prefix = "../" if "/" in filename else ""
                 script = f'<script src="{prefix}surf-bridge.js" data-parent-origin="{escape(embed_origin)}"></script>\n'
-                files[filename] = files[filename].replace("</body>\n", script + "</body>\n", 1)
+                content = content.replace("</body>\n", script + "</body>\n", 1)
+            files[filename] = content
 
     site = output / "zeeverse-ama-site"
     site.mkdir(parents=True, exist_ok=True)
