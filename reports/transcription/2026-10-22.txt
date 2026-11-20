@@ -1,0 +1,2139 @@
+Zeeverse AMA｜重返内容扩张期
+
+完整英文机器转录，534 段，保留原音频时间坐标；未逐句回听精校，可能存在专名误识、口语重复和断句错误，未做逐句说话人标注。中文精读已核对可确认的官方名称。
+
+[00:00]
+
+All right, guys. Happy Halloween. uh.
+
+[00:03]
+
+I guess uh I guess we are ready to begin, and uh yeah, I get, I guess you'll, I'm gonna give you the floor, until miss the last one, and then uh.
+
+[00:13]
+
+Yeah, totally. 
+
+[00:14]
+
+So, you guys and uh sorry for missing last day, may. I was in the Singapore and.
+
+[00:24]
+
+As, as some of you may read, most of people got pretty pretty fucked up there. 
+
+[00:29]
+
+uh, There was a very uh big uh fire happening in Indonesia. 
+
+[00:36]
+
+So their quality was uh very very bad. 
+
+[00:40]
+
+I don't know what was that uh Singapore flu or something, but all of our friends.
+
+[00:48]
+
+There was so many KOLs, all the VCs, pretty much everybody got super sick after awards. So, I'm I'm basically uh back from dead uh.
+
+[00:58]
+
+Since this Monday, let's put it that way. 
+
+[01:02]
+
+So, uh, so yeah, uh, now we are back at back at full force. 
+
+[01:08]
+
+uh, I'm back at full force, so, super happy to be here, uh, and.
+
+[01:13]
+
+I'll share today some stuff about forest. 
+
+[01:16]
+
+uh,And uh there is a lot of stuff actually to talk about the zebras. 
+
+[01:20]
+
+So, uh, I think we could actually start, I'll touch few subjects in the forest, and then we can spend the rest of AMA uh around the zebras. 
+
+[01:29]
+
+uh, How the the how the that sounds? 
+
+[01:31]
+
+OK. 
+
+[01:32]
+
+Yeah, let's do that. 
+
+[01:33]
+
+OK, you read my mind. 
+
+[01:35]
+
+Ha ha ha. 
+
+[01:37]
+
+So, uh, yeah, um, uh, in in general, it was like Singapore was pretty good. um, I would say the activity was lowest, uh.
+
+[01:47]
+
+Lowest in last years, so hopefully this marks the bottom and the start of the bull. 
+
+[01:51]
+
+People generally were quite optimistic. 
+
+[01:54]
+
+I had a chance to present uh forest and zebras to A bunch of different guys, uh, so had a bunch of valuable meetings as well.
+
+[02:04]
+
+But overall, I would say this year, it was more about just meeting the people you already know, and the main conference itself was for uhPeople who enjoy getting marriage. 
+
+[02:17]
+
+So, there were a lot of like almost like memes with people barely able to handle the bags with all the marriage they wou- they g- they got.
+
+[02:25]
+
+So so yeah, and um I mean, on on the forest and we have a harness out. uh, This is actually pretty cool tech.
+
+[02:35]
+
+And um I had a chat today with the dev team. 
+
+[02:38]
+
+We have um uh hopefully early next week, we could release uh the Windows version for the harness. 
+
+[02:48]
+
+So that will make it simple for people using Windows platform.
+
+[02:54]
+
+Also start building on chain. 
+
+[02:56]
+
+uh, We made sure that uh uh we s- support all the other BNB communities out there, which actually Greatly increases the things that you can build. 
+
+[03:09]
+
+So, it's not anymore about just launching your own coin. 
+
+[03:14]
+
+Now, it's actually building the on-chain apps and games uh for.
+
+[03:20]
+
+With other coins or four other coins, so that opens up a really wide variety of use cases. 
+
+[03:27]
+
+People can build cool stuff on AVA, people can build cool stuff for all the existing meme coins. 
+
+[03:33]
+
+You can use stable coins. 
+
+[03:34]
+
+You can even use forest to build uh whatever application you may want. 
+
+[03:38]
+
+And and and this is actually, yeah, I I I whenever we have to Work with the AI, I kind of feel this is like like black magic almost. 
+
+[03:50]
+
+The stuff is just getting scary good, and and with every model release, uh,What we do gets much much better and more capable. 
+
+[03:59]
+
+So, one of the big things uh and reason behind the reason why we released the harness in first place was that You are able to use your own existing ChatGPT subscription or your cloud subscription. And this is like.
+
+[04:14]
+
+Multitude.
+
+[04:17]
+
+Times cheaper than uh going with APIs or trying to mix different models. 
+
+[04:22]
+
+Now, if you own like a a good subscription plan, you just pick the best model at max reasoning. 
+
+[04:29]
+
+Bomb, few prompts, sometimes even one prompt, and you actually have a working application.
+
+[04:36]
+
+We also uh are now exploring a real interesting path. 
+
+[04:41]
+
+uh, How we can keep contributing to the harness, because we have like all the underlying tech out there, uh, right now. 
+
+[04:48]
+
+I mean Windows is following probably next week. 
+
+[04:51]
+
+uh,We have all the like launch an infra. 
+
+[04:54]
+
+We pretty much have all the infra. 
+
+[04:56]
+
+We we have cloud infra. 
+
+[04:58]
+
+uh, Funny thing, uh, our infra this time was not hit at all.
+
+[05:02]
+
+uh, By recent PHP uh exploit, which apparently brought down like 70 percent of the internet services. 
+
+[05:10]
+
+uh, Which is uh which is a cool thing, if you guys remember last December, when there was this node uh node exploit.
+
+[05:20]
+
+uh, We we we, tha, like, let's say ate some losses because of that, and since then, we become way more um careful and.
+
+[05:32]
+
+We are paying way more attention to things as such, and we also make um a lot of measures in order, uh, for nothing to happen, even if like this, something like this happens, uh.
+
+[05:46]
+
+So, uh, yeah, and one of the cool things we are right now working on when it comes to the harness is actually the brain itself. So, essentially, uh, it's not about.
+
+[05:57]
+
+Having the infra without having a smart brain within it. 
+
+[06:01]
+
+So, even if you use your any of your existing models, they're still relying on all the different files and like instructions we've been cooked in. 
+
+[06:12]
+
+So, what we are working on uh is that, even if you write, let's say I wanna make like a Candy Crush. 
+
+[06:19]
+
+uh, Then we ensure that we take care of the things you didn't even thought in the first place, and the game just come out better and better. And now, as we are, uh, hmm.
+
+[06:36]
+
+I mean we've been working for forever on the Z version, and I'm doing like a soft launch and marketing. 
+
+[06:42]
+
+When it comes to the uh user acquisition channels, we will start, we will need to start expand there more. And that also means we need to.
+
+[06:52]
+
+We need to uh be able to produce shitload of ads, because as the as the AI become become like a new standard for people creating content. 
+
+[07:04]
+
+The life uh lifespan of of each creative gets just shorter and shorter. 
+
+[07:09]
+
+So, in reality, that means we may even need to produce like 5 New ads every single day, so just we can keep them fresh and keep them running on the networks to acquire more players. 
+
+[07:22]
+
+And we are planning to use the forest harness for this, so that essentially means we will beum, Using uh Zivert's assets, and we will be uh working very uh.
+
+[07:39]
+
+Would be a good way to put it. 
+
+[07:41]
+
+uh, We will be very invested into making harness a freaking good machine to produce content and playable ads, which essentially are like mini games.
+
+[07:51]
+
+And so we can use uh also our ziva's resource in a smart way that contributes and gives value to pretty much everybody willing to build within our ecosystem. 
+
+[08:03]
+
+So, it it it's almost kind of if you think in a wayuh, How unreal engine was built? 
+
+[08:09]
+
+uh, Originally unreal engine was not built for people to build games. 
+
+[08:13]
+
+It actually was built as an engine to build uh games for uh for epic uh themselves.
+
+[08:20]
+
+And as that thing got better, uh, that became quite a big business for Epic Games, and later Epic Game Store, et cetera. 
+
+[08:29]
+
+So, we are kind of taking uhA similar path, and as we are uh kind of catering our own needs, we are able to invest more resources into technology, and later use the Forest platform to share that technology. 
+
+[08:43]
+
+With other builders, with with people just willing to explore game development, willing to explore explore on-chain development, and and so on. So, that's uh I think um.
+
+[08:57]
+
+uh, Kind of something to really look forward, and um I think, yeah, I I I I think we gonna make really really freaking good game builder. uh, And and.
+
+[09:09]
+
+It just happens that we also own all the downline, uh, like a cloud service to host all these games, essentially a store to explore those games, and underlying go DEX. 
+
+[09:21]
+
+To uh trade and build um uh financial systems behind it. 
+
+[09:26]
+
+So, yeah, that's uh that's something pretty pretty cool. 
+
+[09:29]
+
+So, uh, let me actually take a breath, and uh it's getting hot here, so I'll gonna take off my ZeeVerse hoodie, uh, Jack out maybe uhYou have some follow up stuff to say, or or we can just switch to Zivars. 
+
+[09:45]
+
+uh,And in meantime, if there is any questions from the audience, uh, as always, uh, hop on on the stage. 
+
+[09:53]
+
+uh, We can discuss anything here, or just drop a comment, and uhI'll make sure that I'll read it and answer as best as I can.
+
+[10:05]
+
+Oh, yeah, so I I I I'm, I I would love to switch back to Zivier's uh topic. 
+
+[10:10]
+
+uh, There's quite a bit of exciting things um coming and.
+
+[10:16]
+
+And yeah, I am I am I'm pretty excited about all the things coming to Zeevers, and I think you guys will be as well. 
+
+[10:23]
+
+So, uh, you know, just immediately getting this out of the way. 
+
+[10:28]
+
+We're planning for the next update to be submitted at October 30. 
+
+[10:33]
+
+uh, So, if that uh goes through fast, we might be looking at the next Friday update. 
+
+[10:39]
+
+Or uh monda- Monday after that. 
+
+[10:42]
+
+uh, Once in the update, uh, finally the main campaign, uh, uh.
+
+[10:48]
+
+uh, Part three quest, uh, that comes with a two new dungeons, treasure map systems, and two new jewelry slots. 
+
+[10:56]
+
+uh,uh, So, uh, yeah, that's currently in testing, and it's literally the biggest quest up uh to date. 
+
+[11:04]
+
+uh, I delivered around 300 uh uh localization lines, uh hun- hundred twenty of them were just the dialogues. uh, And now, uh.
+
+[11:18]
+
+You know, uh.
+
+[11:22]
+
+E- e- everybody on the team work really hard in this, and obviously we want to perpetuate the story more. 
+
+[11:29]
+
+The Build out the world more, which also gives us better ground for the quests, for the subsequent quests, uh, and uh yeah, it's uh it's uh looking really good, it's uh pretty clean, and I hope you guys will Enjoy. 
+
+[11:44]
+
+and yeah, it's been, it's pre-, it's been done for like a week already, I think, ish, uh, and we've been like heavily testing it, uh, adjusting rewards, uh, dungeon progressions, and so on and so forth.
+
+[11:58]
+
+uh, So, uh, one thing, I di- did out, I will bounce back to Euler on this, but we've picked up as we completed the the uh uh The question, the main question, uh, as we internally refer to it. 
+
+[12:14]
+
+we've also uh picked up work back on uh the forge and the great tree.
+
+[12:21]
+
+And now, from uh I think uh.
+
+[12:26]
+
+Some, uh, somebody might have a question in regards so, what's what about the onboarding, and onboarding is still super important for us, but uh we're finally starting touh, Redistribute uh the uh uh labor back into uh uh mid. 
+
+[12:45]
+
+both mid game, and mid to late game, and end game content.
+
+[12:51]
+
+Obviously, I'm very excited about it. 
+
+[12:53]
+
+uh, Yuler's really excited about it, and uh you know, uh, it it's the, it guys, it's not like w- it's not like we enjoyed, you know, just sitting in the on board. 
+
+[13:02]
+
+I mean Make no mistake, we're gonna still spend some time uh fine tuning a lot of stuff, but we feel we at least have uh the right shape, and and the stuff we really wanted to see. 
+
+[13:15]
+
+And there will be like still bunch of overall improvements to uh to game uh to like user experience throughout the game, and things such as map design, et cetera. 
+
+[13:28]
+
+But uh yeah, we are uh literally starting to put out now more content, and as this main campaign comes out, it will bring so much cool stuff. 
+
+[13:38]
+
+So, one of the things we also discussed is that this is probably a good time to start introduce a prestige mode. So, this will be this.
+
+[13:49]
+
+Hard mode for existing dungeons that will bring you back, even if you have good team, even if you have like a good equipment.
+
+[13:59]
+
+You will start to see the early dungeons quite challenging. 
+
+[14:04]
+
+Early boss mechanics which are actually pretty good, but you never really had a chance to Properly test yourself against them, because you're just so over leveled.
+
+[14:15]
+
+Suddenly, will, you will need to start to pay attention, and as these prestige mods come in, obviously, they will be only unlocked once you complete the main campaign.
+
+[14:26]
+
+uh, So you can then kind of relieve the whole thing, and this will become also uh uh like a platform for new reward distribution and new these. 
+
+[14:37]
+
+This is also something we've been planning uh for a while. 
+
+[14:41]
+
+So, we will be starting to put in not one, not two, not three, but actually maybe even up to 10 new these. 
+
+[14:49]
+
+uh, Let's see how that goes, but we want I mean at the end of the day, it's zivers. 
+
+[14:54]
+
+So, uh, we gonna put in uh more uh z's, so that will.
+
+[15:02]
+
+dramatically expand the possible like synergies between disease and the strategies, uh, that are available. 
+
+[15:11]
+
+The new uh ring and necklace slots are also bringing in pretty cool Expansion to existing strategies, cause we've basically lived with existing meta equipment for forever. 
+
+[15:23]
+
+Now that brings in uhAgain, like a new variables in uh in.
+
+[15:31]
+
+What you bring into the battle, and that then expands into, yo, you need to actually crap that's that stuff, you need to obtain those items, and.
+
+[15:42]
+
+And and that that kind of starts to bring in and spill over into the skill systems we have. So, even if you have like.
+
+[15:51]
+
+Skills that don't unlock anything for a good while, uh, because you're so over leveled, you will start to see some new stuff appearing there, and that will become uh again. More um.
+
+[16:06]
+
+More useful, and and so, basically what uh what this means is that having all these right pieces in a place, they kind of spill over, and and crossover. 
+
+[16:20]
+
+to multiple different systems, and that results into a lot of content density, uh, that we will be able to deliver, and we will be able to deliver this in somewhat relatively shorter time. Then it took us to actually get here.
+
+[16:38]
+
+uh, One thing we've been like discussing internally, and actually I would love to hear uh your opinion on this. uh.
+
+[16:47]
+
+Are the current starter Z's ugly?
+
+[16:52]
+
+That's the question, that's the question. 
+
+[16:54]
+
+Starter nine Zs, what's your favorite? Which ones do you had the most?
+
+[17:00]
+
+Jerry, yes. 
+
+[17:01]
+
+She doesn't count, she's a team member. 
+
+[17:02]
+
+Ha ha ha. 
+
+[17:04]
+
+Yeah, mute her. 
+
+[17:05]
+
+uh, Ha ha ha. 
+
+[17:07]
+
+OK, OK, sorry, sorry, Cherry. 
+
+[17:09]
+
+uh, That's uh very rude of me. 
+
+[17:12]
+
+But uh but yeah, so, it's it's it's essentially uh we feel that since inception, the disease.
+
+[17:23]
+
+Haven't really changed as the whole game around, uh, the them- themselves have evolved, and and they feel kind of very.
+
+[17:35]
+
+uh, I would say very very basic in a in a way, and and when we are going out there, and we have to compete with the brands like Anemo, that's actually pretty big game. 
+
+[17:47]
+
+Genshin style game released, I think last month. 
+
+[17:50]
+
+uh, Now making tens of millions dollars a month. 
+
+[17:54]
+
+So, this is kind of what we are having to compete against.
+
+[17:59]
+
+We need to also uh have like a fucking kickass, badass monsters that look up to the date. 
+
+[18:08]
+
+So, we will be exploring some face lift options for existing these.
+
+[18:14]
+
+And and as we will be adding some muses, uh, we will be maybe deviating a bit from the the current weirdness of original uh starters. 
+
+[18:26]
+
+Into into either cuteness or or bad badassness. 
+
+[18:32]
+
+So essentially, uh, we have a lot of uh enough weird stuff already inside the zivers. 
+
+[18:39]
+
+Now we wanna make bunch of really cute these. 
+
+[18:42]
+
+Now we wanna make some really badass these, and and maybe something in between, maybe maybe we would drop also something weird. But generally, as the game gets geared, uh, uh.
+
+[18:56]
+
+Yeah, for for for more uh general audiences, and we gonna need we gonna need a lot of personnel to uh.
+
+[19:07]
+
+Basically fall, um.
+
+[19:10]
+
+OK, not not the fall, but essentially to uh fit the taste of the.
+
+[19:17]
+
+of the of the general population. 
+
+[19:20]
+
+And and yeah, of course, Pokemon like, I I never been a big fan of Digimon. 
+
+[19:26]
+
+uh, Sorry, if there are any fans, I think uh this what It always felt. 
+
+[19:31]
+
+When you uh when uh when you get, when you when you.
+
+[19:35]
+
+to this world, uh, you're divided into either a Pokemon lover or Digimon lover. It's genetic.
+
+[19:44]
+
+Yeah, yeah, I ge-, I I guess it's it's a it's is that? 
+
+[19:48]
+
+uh,uh, I, little fast that read your question. 
+
+[19:50]
+
+I'll answer that in a bit. 
+
+[19:53]
+
+um, But, um, yeah, finishing on this note, this is something we wanna add. And also, uh.
+
+[20:06]
+
+We will start to pay a lot of thing, at at least this is where my focus is now, also leaning in, is the existing map design. 
+
+[20:13]
+
+And by map design, I'm thinking the world map. Because.
+
+[20:19]
+
+Even I.
+
+[20:22]
+
+Find myself constantly lost in existing ziverse world, and it's not because, I mean, it's it's beautiful, it's nice, but there are some things.
+
+[20:34]
+
+We didn't really pay attention when we designed it. We didn't really kind of um.
+
+[20:41]
+
+Built it, uh, from the angle of, yo, how the, this actually was one of the digging one I liked, when I was watching uh.
+
+[20:51]
+
+25 years ago, uh, that cartoon on on on on on television. 
+
+[20:57]
+
+But uh yeah, uh, es- essentially we will be moving maybe some pieces around the map.
+
+[21:04]
+
+uh, With a goal to essentially make that it feels very uh.
+
+[21:11]
+
+Initiative and user friendly, and maybe some volunteers, maybe some stuff. 
+
+[21:16]
+
+But generally, you should feel you shouldn't feel lost. You should feel more like.
+
+[21:23]
+
+keen to explore rather than keen to find a way how to get from point A to point B. 
+
+[21:31]
+
+And and speaking about getting from point A to point B. 
+
+[21:36]
+
+We are also looking to include the the auto walk. 
+
+[21:41]
+
+So, uh, small feature, but I believe many of you will find this valuable. We still don't have the right um.
+
+[21:50]
+
+Technique, how we gonna do that? 
+
+[21:51]
+
+But generally, when it comes to mobile, this actually is a bit of a problem uh for for many player. 
+
+[22:00]
+
+So, we will be um adding a way. 
+
+[22:03]
+
+For you to just pick a spot and just walk there. 
+
+[22:07]
+
+uh, And and most likely that will also uhApply to uh at least first starter quests where uh our.
+
+[22:21]
+
+Average joe gamer will be able. 
+
+[22:23]
+
+Oh, OK, now I I I I think we hit the jackpot, uh, based on the reactions. uh, So, so.
+
+[22:31]
+
+Some of the early quests, I won't spend that too much time here in onboarding today. 
+
+[22:36]
+
+But uh like regular average job, they need more guidance, souh, They will be able to just auto walk to their next objective. 
+
+[22:45]
+
+uh, Instead of using their brain and thinking how to get there, or or following anything, I mean, uh, this just kind of comes.
+
+[22:53]
+
+uh, As a system from there, and then we thought it would be, it wouldn't be right to not apply uh and allow to use same system of auto walk for existing players. 
+
+[23:07]
+
+So, this is basically what we gonna do, and and this is probably one of these times you can say, OK.
+
+[23:13]
+
+The guys who spent so much time polishing the onboarding. 
+
+[23:18]
+
+uh, This is the value I get out of it, because this is pretty much the reason you get out of walk.
+
+[23:26]
+
+And uh yeah, so, uh, that's that's that's one of the things, and and we gonna probably shape a bit of the world, and Jago, have we also mentioned uh this Little side boss, we came up with. 
+
+[23:44]
+
+uh, I know like I I'm I'm like sitting on like so much things to to to talk about, but yeah, I think you'll learn one more one more pretty.
+
+[23:56]
+
+Precluding you uh didn't mention is uh we will be also increasing walk speed. 
+
+[24:04]
+
+uhRegular walk speed for shamans. 
+
+[24:06]
+
+The Yeah, it's it's gonna be around to twen- 20~25 percent faster. uh, And yeah, uh, now, guys, uh.
+
+[24:18]
+
+We're testing out the fields. 
+
+[24:19]
+
+We're seeing how it feels. 
+
+[24:20]
+
+uh, If it's gonna be too fast, you might like turn it down a notch, but generally we're aiming to, you know, strike a nice uhNice balance between, you know, being too fast and you know. 
+
+[24:32]
+
+again feeling nice. uh, Yeah, so.
+
+[24:36]
+
+I will get to the world boss. 
+
+[24:38]
+
+uh, I, there's a couple of like small bits and pieces. 
+
+[24:41]
+
+I just wanted you you know hint and uh talk about. uh, So, uh.
+
+[24:47]
+
+As we're going uh to uh face lift the uh currency, we're also looking into uh reworking uh us. 
+
+[24:57]
+
+That's of all the z, how z damage formula is getting calculated, cause currently it's very linear, and uh now that also pro- comes with a couple of challenges when it comes touh, creating, for example, engage engaging uh dungeons. 
+
+[25:14]
+
+Because currently, it's you know, uh, there there's tricks, uh, there's tricks how how we do it, but generally, it's you know, you just have to put like bigger level, uh, for enemies these, which means higher helpful. 
+
+[25:29]
+
+and.
+
+[25:31]
+
+We we aim to do, you know, uh, migrate to an experience that's more like uh teamcom based. And now, you can also hear how uh.
+
+[25:41]
+
+Having like at least 10 more Zs coming to the game, uh, plays into that. So, uh.
+
+[25:48]
+
+uh, We got to the uh little side thing. 
+
+[25:50]
+
+Don't make the direction guy like woolring. uh, Ha ha ha. uh, So, so, um, um.
+
+[25:58]
+
+As as if you guys remember, when we talked about great requests, we didn't mention that it will have a world boss in it. 
+
+[26:06]
+
+uh, Now, before before the first world boss, we decided to introduce the first world boss. 
+
+[26:12]
+
+So, we will be adding uh with no quest requirement, uh, world boss. 
+
+[26:18]
+
+It's called the Molcher. 
+
+[26:19]
+
+uh, It will it will grow out of a a pile of leaves anduh, Once an hour, you will be e-, everybody will be able to fight, uh, and maybe more often, we're gonna see, we're gonna see on that point. 
+
+[26:34]
+
+OK, OK, OK, there, I mean, a-, a-, a-, as I'm saying, I'm I'm just uh saying currently what design we have. 
+
+[26:42]
+
+Sketch thin, uh, mortar will, there will also be able uh ability to spawn. 
+
+[26:47]
+
+So, if uh you will uh uhIf you will not enjoy, for example, me stealing all your drops, so you will be able to find a moment I will be offline and then spawn it yourselves. 
+
+[26:58]
+
+uh, But yeah, uh, with that comes a new Z, and we're looking into uh a teaser territory as well. 
+
+[27:06]
+
+So, you know how Umbral drops, for example, of uh adamantite, or how other dungeons drop souls of ruin, things you can't naturally craft. 
+
+[27:17]
+
+We're also uh cause we've, uh, as Yuler has talked about us, yeah, expanding the crafting menus, uh, not only for a crafting skill, but uh you know herbalism and so on and so forth. We're per- perhaps looking into.
+
+[27:32]
+
+uh, Maybe uh teasing a portion uh or or two, but uh uh that's additional things. 
+
+[27:38]
+
+Mainly we're kind of testing out the uh uh world boss functionality.
+
+[27:43]
+
+You know, as uh we're putting in, we're building life.
+
+[27:47]
+
+We're gonna put it out, see how it goes, adjust all the bugs, but uh yeah.
+
+[27:53]
+
+uh, I see Tyler as this new tele- Halloween set includes a third way to teleport. 
+
+[27:58]
+
+You plan to make something like wardrobe to configure different charmon sets, and allow us to change between them in any part of them. 
+
+[28:05]
+
+uh.
+
+[28:06]
+
+No, but we have talked about improving uh uh trash UI. 
+
+[28:10]
+
+So, I know how you currently have to, for example, withdraw to your uh uh inventory. 
+
+[28:16]
+
+Then uh close the stash, then reequip, then you know open the stash again, and uh if we like uh.
+
+[28:26]
+
+Decrease friction in these actions, then that actually gets closer to you know our intent and game design. 
+
+[28:32]
+
+With uh we've talked about it, we've talked about it uh a lot, but uh uh currently, uh things as loadouts uh or vanity item, uh item, armor slots.
+
+[28:44]
+
+uh, It's not currently in our scope. 
+
+[28:46]
+
+Now, that not to say that's not gonna ever happen, but currently, uh, yeah, making portion of truth and do it to our excel to make him spoil more. You guys? Ha! No, ha! um, hmm.
+
+[29:00]
+
+Actually, speaking about the the boss, I think one of the things uh.
+
+[29:07]
+
+didn't really mention here, and and obviously we wanna do this because we wanna just push out this. 
+
+[29:14]
+
+I mean, Zivors is an MMORPG, uh, and that name involves playing together.
+
+[29:21]
+
+And until this, uh,The playing together has been very limited in a ways. 
+
+[29:28]
+
+So, we feel that we need to uh kind of start tackling this.
+
+[29:36]
+
+And and we wanted to kind of rush in a a way to give you a piece of this content, and this piece of this new system uh before we release the grand request, which also comes with the world boss. 
+
+[29:50]
+
+That requires in most cases way more than just one people to kill it. 
+
+[29:56]
+
+uh,uh, And and and and then this won't be any uh exception, because uh Jackal correct me if I'm wrong, but.
+
+[30:08]
+
+E- even if you are one of the top guys, uh, you need to bring in some friends with you. Otherwise, you're gonna get uh probably smashed.
+
+[30:18]
+
+um, There there there there there are specific uh sets, uh specific z co- combinations that uh you you know.
+
+[30:29]
+
+Run you through it. 
+
+[30:30]
+
+uh, Now, obviously, those who understand Ziv's meta, those who understand Forge knows that Anunaki mask is crazy. 
+
+[30:38]
+
+uh, But, yeah, the boss will also have like crazy hit mechanic that will pretty much like.
+
+[30:44]
+
+uh, Select one unlucky individual that will uh knock his Z out basically. 
+
+[30:50]
+
+But uh yeah, uh, it, yeah, so, it is it is tuned, but uh it's not tuned towards you know.
+
+[31:00]
+
+End game players like the top of the players, uh, because uh you know, ha-, tilling everything toward, you know.
+
+[31:08]
+
+And for example, uh, strong players like Interpidos, uh, single, Boyman, me, uh, it's just not fair towards the rest of the player base. 
+
+[31:18]
+
+But uh yeah. 
+
+[31:19]
+
+Yeah, but I always this basically means that there is gonna be a bunch of players doing this together. 
+
+[31:25]
+
+Either you go with your friends, and then compete with other guys. 
+
+[31:30]
+
+And one important thing, we had a very very long discussion uh with Jacko. 
+
+[31:36]
+
+He was doing everything he could to uh make it more merciful. 
+
+[31:42]
+
+uh, But the the way the rewards will work for this world boss is that only one player.
+
+[31:51]
+
+receives the reward. 
+
+[31:52]
+
+even if there are 10 players trying to kill the boss, after boss is dead, the player who did the most of the damage, only him receives the reward. 
+
+[32:01]
+
+But the trick is, the reward will show up in the chat, so everybody will see who received what. So, if you are with your friends.
+
+[32:12]
+
+Going in as a team, uh, I think that adds a lot of uh fun, uh, a nice layer of building trust between your teammates.
+
+[32:22]
+
+um, I mean, it's, it it it should be you deciding how the game should be played. 
+
+[32:31]
+
+We are just setting basic constraints. 
+
+[32:33]
+
+So, uh, yeah, we gonna see how this works out, and um and, I, I, I, I think this is gonna make it um.
+
+[32:43]
+
+In many ways fun, in many ways, uh, some people will be angry. 
+
+[32:48]
+
+uh, But from our experience, the best content, the best events were when Discord went mad.
+
+[32:55]
+
+uh, About unfairness of something. So, let's say this will be.
+
+[33:02]
+
+In some way, uh, unfair by design, and and yeah, so, I'll hope PK after was well.
+
+[33:13]
+
+Because that uh that reminded me ofuh Omri, quest and how there were, you know, some uh lovely community members that ask for uh me to be fired. uh, Ha.
+
+[33:24]
+
+um, Ha ha ha. 
+
+[33:25]
+
+hmm. 
+
+[33:27]
+
+uh, OK, uh, there's still plenty, uh, you're, is there anything more, or you know I just wanna squeeze in because.
+
+[33:40]
+
+I I really like the ha ha a low pk after best drop. 
+
+[33:43]
+
+hmm. 
+
+[33:44]
+
+uh, uh, so, so, I, if I need to go.
+
+[33:53]
+
+If I need to go to change your stars to enter Hollow Trails with that inferior set is useless. 
+
+[33:57]
+
+Sorry, dude, you can also take two armor sets with you. 
+
+[34:03]
+
+Use a food in Holo Trials, you you're not like crazy auto player, you'll everyday do What? 
+
+[34:10]
+
+Now, like a a small reality, shake tower. 
+
+[34:14]
+
+If we if we were making this set to suit p- p- high level players like you.
+
+[34:21]
+
+We will we would make at least 150 players really strong starting players. 
+
+[34:28]
+
+So that would in turn devalue Your clothing, no one will change. 
+
+[34:32]
+
+Yeah, but you don't need to tp, bro. 
+
+[34:33]
+
+You don't need to tp, you can just bring some extra equipment in your inventory. 
+
+[34:39]
+
+I mean, that is the inventory all about. 
+
+[34:42]
+
+It's uh managing your needs versus wants, and and I I I I I think this is uh yeah, this constrained by default, so. 
+
+[34:52]
+
+Yeah, uh, is there. 
+
+[34:53]
+
+Yeah, uh, and yeah, no, no one will change close to teleport, uh, then uh then you know don't, uh, ha. 
+
+[35:00]
+
+It's, you know, then don't use it. uh, No one, I wou- I wouldn't uh uh.
+
+[35:07]
+
+Three different ways to teleport. 
+
+[35:08]
+
+I don't know, dude, there will be four, because uh great three will also introduce root network. 
+
+[35:14]
+
+uh, But, you know, yeah. I think we'll have that conversation at different day.
+
+[35:19]
+
+Yeah, so I I can I can actually just add a bit of this for TP for this for this set. 
+
+[35:28]
+
+uh, What we wanted to do is we didn't want it to include.
+
+[35:34]
+
+In a game, just a new cosmetic. 
+
+[35:36]
+
+I mean, this set isn't meant to change the way how you play the game. 
+
+[35:42]
+
+It isn't meant to change the way how balance works.
+
+[35:46]
+
+And also, but at the same time, we didn't want it to just give you something cosmetic. 
+
+[35:52]
+
+We wanted to give you something that sometimes you will find useful.
+
+[35:58]
+
+And and sometimes you will find it cool, sometimes you will find it convenient, some day sometimes you will find it completely useless. 
+
+[36:05]
+
+And and I think that's kind of the beauty of it. 
+
+[36:09]
+
+So, see this as one of potentially tens of different ways how you will be able to travels the world, uh, as we keep adding more and more content. 
+
+[36:21]
+
+Because like like Drago said, uh, first of all, the new totem from the quest also adds a new way to teleport. 
+
+[36:32]
+
+That's also the third totem you can teleport to, right?
+
+[36:36]
+
+Metal worker, it's gonna be a closer to furnace. 
+
+[36:40]
+
+Yeah, and also uh the grant request will be adding completely new teleportation system that you will be unlocking throughout the quest, that will again give you more ways to traverse the zivers, and that you will be Essentially getting.
+
+[36:59]
+
+Another way, and then you can kind of start combining these ways. I mean.
+
+[37:05]
+
+The beauty is that uh through those simple things, uh, a lot of complexity can emerge.
+
+[37:14]
+
+And and and and you should never like look on this as as just one thing and judge it by by a specific need. 
+
+[37:23]
+
+That specific need may arrive sometimes later, sometimes never. 
+
+[37:27]
+
+Sometimes it is just something cool you have here. So, uh, yeah, uh, yeah, I mean, we could.
+
+[37:38]
+
+The marking set is uh incidentally the first skill set we have introduced due to the teleport, and it's the best woodcutting, it's it's it's the best set you can wear for woodcutting. 
+
+[37:51]
+
+As it teleports you near an epic tree, and bringing village teleport rooms allows you to quite fast, uh, quite quickly, bank noble trees. 
+
+[38:01]
+
+uh, And it's the best farming set, because uh you start in the village, you teleport to umber patch, then you teleport to candle, and it's near another patch. 
+
+[38:11]
+
+And uh yeah, uh uh, so I'd I just wanna like add. 
+
+[38:16]
+
+Last year, we didn't that any utility, uh, uh, because we did intend these things to be purely cosmetic. This year, we added a small one, so.
+
+[38:28]
+
+Yeah, uh, we uh also aimed at, yeah, early to mid game. 
+
+[38:32]
+
+This is an small upgrade over steel equipment set, so if you are a past of steel equipment set.
+
+[38:40]
+
+uh, You know, unfortunately, you are not the target audience for, but yeah. Yeah.
+
+[38:45]
+
+And um now, um.
+
+[38:50]
+
+We still have some time, uh, before we keep digging in this. 
+
+[38:55]
+
+uh, Could we maybe quickly switch topic to the collector's profile? 
+
+[38:59]
+
+I just wanna add a bunch of things there. Go ahead.
+
+[39:03]
+
+So, yeah, uh, as many of you saw, like uh even if you hold so many assets, uh, you may find yourselves with the less than less than 100 percent bonus for for for uh spirit and.
+
+[39:20]
+
+and XP, and this was done intentionally to basically leave a bit of headroom, so we can later tune it down. 
+
+[39:27]
+
+But generally, uhuh, What we wanted to do with this, we wanted to make a unified system, which is which is basically what it says, it's it's kind of your like a rank, and this rank will then be filled with multiple different perks besides just the spirit or or XP bonuses. You will start to see things, uh.
+
+[39:49]
+
+ for example, as being able to access maybe some certain regions, uh, or certain, having a certain features inside the game, just because you have this rank. 
+
+[40:01]
+
+You will be able to get some extra bonuses towards the skills. 
+
+[40:04]
+
+So, generally, this is almost kind of our interpretation of VIP system. 
+
+[40:09]
+
+And if it's all unified under this one Umbrella, we are able to uh involve different systems. 
+
+[40:18]
+
+So, for people who may never own a mask, uh,uh, But they still wanna be part of the system, and they should be part of the system. 
+
+[40:27]
+
+There is plenty of the quests which we actually repurposed from the previous AirDrop campaign. 
+
+[40:34]
+
+So, uh, the existing like quests you complete inside the game. 
+
+[40:40]
+
+uh, Some of them are like just social things, follow do this X, Y, Z.
+
+[40:45]
+
+uh, They also contribute to your rank, and that also means that if you are just free to free to play player, uh, never heard of NFT.
+
+[40:56]
+
+Or don't wanna buy an NFT, or don't wanna collect anything, you will be able to actually uh progress a bit through the ranks, and as they progress through the ranks. 
+
+[41:06]
+
+At some point, they realized, oh shit, actually this is good, pretty cool system. 
+
+[41:10]
+
+I may actually go and find a way to buy some of these assets. 
+
+[41:15]
+
+So this serves as a like onboarding ramp, and an introduction.
+
+[41:20]
+
+uh, To the collectors inside the Ziverse, and it's, and and we use the game essentially to bring in people into uh.
+
+[41:31]
+
+in in into like complexities of uh on chain stuffs, such as mass collection and land collection. 
+
+[41:37]
+
+And also, it uh kind of reprofiles the way how.
+
+[41:43]
+
+uh, People should be collecting. 
+
+[41:45]
+
+So, it shouldn't be about just hoarding uh the the bunch of assets. 
+
+[41:51]
+
+So, I hold ten mass, now I get like hundred percent bonus, et cetera. 
+
+[41:55]
+
+It should be about, oh, uh, I may collect these three pieces and lock like a totem, and get like a very good bonus that could be equivalent to 5 or 6 masks. 
+
+[42:07]
+
+That's just an example, and uh getting back to original question around this is that uh hmm like in-game level, uh, in-game items, in-game achievements This is also something that uh will eventually come. 
+
+[42:25]
+
+So, even if you are like level 99, uh, that should come as an achievement as well. 
+
+[42:31]
+
+But we don't yet have a human system. 
+
+[42:33]
+
+But when we will do, when we will, uh, this will almost certainly uh connect within the rank system. 
+
+[42:43]
+
+So, there will be a ways, how, by being a really good player, you can unlock bunch of good perks in the ranks within the Zivors. 
+
+[42:51]
+
+And then, if you own the assets, you can extend your ranks, and being, be more recognized.
+
+[42:58]
+
+Towards like all the players. 
+
+[42:59]
+
+So, uh, yeah, I mean that's a pretty long topic on its own, but generally, I wanted to say that uh.
+
+[43:09]
+
+We just wanted to get it out. 
+
+[43:11]
+
+uh, We saw there is for people who own the masks, most of them have too much spirit anyways. 
+
+[43:17]
+
+uh, That's That's kind of a problem to deal with. 
+
+[43:22]
+
+uh, So, we are, we don't want to deal with it right now, or or or anything. 
+
+[43:27]
+
+I hopefully news theseuh, will uh help you spend all that spirit, but at the same time, we didn't see much harm by uh just cutting down that bonus, and giving us uh enough room space touh. 
+
+[43:42]
+
+Properly work on some stuff. 
+
+[43:44]
+
+And I agree if you own like 100 mass, you should be probably max rank. So, we will be adjusting those numbers as well.
+
+[43:52]
+
+So, yeah, uh, all the feedback more than welcome here. um, But I think it's finally.
+
+[44:01]
+
+System that uhcleans up all the confusing mess we made, uh, throughout the years with all these different systems, perks, et cetera. 
+
+[44:11]
+
+So now, it's just you, your shown in the rank, and then Bunch of ways how to get those points to rank up, and and that can come uh through Pay to win, essentially go and buy some assets. 
+
+[44:25]
+
+collect some stuff, that could come as uh playing the game by just collecting uh and completing the quests. 
+
+[44:34]
+
+And essentially, even if you complete tutorial, you pretty much get rank one, because you already earn some points. 
+
+[44:41]
+
+And later in a form of some achievements, and some of these achievements may beuh, Own that specific Z, or maybe own that specific piece of equipment, or uh for instance level up your skills to li-, level 99 or something. So.
+
+[44:58]
+
+Or or even go, and I don't know. 
+
+[45:01]
+
+uh,Kill hundred thousand zs, and and that unlocks your special achievement. 
+
+[45:07]
+
+So, um, we are not like in a rush with this system, but uh as you hear, there is a bunch of stuff we are already working.
+
+[45:14]
+
+uh, But yeah, we will spend some time, um, you know, listening to the feedbacks. 
+
+[45:20]
+
+We already got pretty strong feedback, thank you for that. 
+
+[45:23]
+
+uh, And then we'll just adjust the numbers a bit, souh, The guys who own.
+
+[45:30]
+
+That's probably like hundred max is like 3 percent of supply, and they should probably be close to max rank, if not, uhOnly they should be max rank. 
+
+[45:39]
+
+So, uh, so, yeah, we gonna we gonna pay some attention to that.
+
+[45:45]
+
+And uh yeah, so That's that's me on collector's profile, and thinking behind that, and I I also feel this is a very nice way how we can connect uh the game's success to the success of the collection and success of the core community inside the zivers. 
+
+[46:04]
+
+because as the more players.
+
+[46:06]
+
+Unlock it. 
+
+[46:07]
+
+Naturally, what happens is when you start a progression in a certain system, and you enjoy that, you look for a ways to rank up, and and and kind of get better. 
+
+[46:18]
+
+And and that get better at some point, maybe equal of obtaining your first mask. 
+
+[46:24]
+
+And I think that's a beautiful way to on board people, uh, rather than saying, you'll, you like playing Zeevers. 
+
+[46:31]
+
+by the mass get 10 percent of spirit. 
+
+[46:33]
+
+uh, I think before you are willing to commit to anything, you should be very involved in the system as such to even consider a purchase.
+
+[46:43]
+
+And and I I think this is just a great way to on board, very organic, and uh just, it just makes sense, so.
+
+[46:54]
+
+Uh, Speaking about marketing event in Asia, uh.
+
+[47:00]
+
+Not in Asia, but we we of course we would be opening uh open to do uh or join some event. 
+
+[47:09]
+
+uh, But in two weeks we will be uh we will not be ourselves present there, but Zivors will be present there in DevCon. 
+
+[47:18]
+
+In India, so you will be uh or people around there will be. 
+
+[47:24]
+
+This is in partnership with Arbitrum, by the way. 
+
+[47:27]
+
+uh, So, thanks thanks for Arbitrum guys for giving us this uh this opportunity. 
+
+[47:32]
+
+uh, But uh yeah, that may also bring one new collector badge. um.
+
+[47:39]
+
+For people who may somehow get their hands either on some codes or or be able to participate there. 
+
+[47:48]
+
+uh, So, yeah, I I I just wanted to mention this out. 
+
+[47:51]
+
+So, Zivors will be um one of the games uh presented at the.
+
+[47:57]
+
+At the DevCon uh 2026 in India, in roughly two weeks, and.
+
+[48:05]
+
+Looking forward to that. So, um, getting.
+
+[48:11]
+
+Okay, we got an event here in Malaysia, and we can cook you guys, but if you would like to do some marketing. 
+
+[48:17]
+
+I mean, I'm not sure we will be able to go ourselves there. 
+
+[48:21]
+
+But if we have a strong community, we're always happy to provide some merch, some rewards, uh, some some stuff, some some support, so If you have something concrete, uh, just drop it in the DMs. 
+
+[48:36]
+
+uh, I I don't think we gonna uhDig very deep into this uh over the la-, over the ten remaining minutes we have on the common call. So, let's let's use that time um.
+
+[48:50]
+
+Round up, but please do send me the information, or send it to uh Cherry. 
+
+[48:57]
+
+uh, And we'll be happy to look into it. Yeah, very cool.
+
+[49:04]
+
+I guess I guess you can uh you can catch your breath. 
+
+[49:06]
+
+I can uh pick up a couple of yeah, a couple of more things. 
+
+[49:09]
+
+All right, so uh Tyler asked uh in regards to plan changes to backpack slots, not carrying tools, their belt, not carrying so So, uh, I.
+
+[49:22]
+
+Isn't in like, even in a large scope, uh, toolbelt. 
+
+[49:27]
+
+I think it defeats the purpose of you know, gearing up for a skill. However, um.
+
+[49:33]
+
+uh, Yes, there there's a, the uhuh, Generally in the future, things coming that you know, let's say soul pouches, uh,I did. 
+
+[49:43]
+
+I mean, I I wanna actually be, step in here. 
+
+[49:45]
+
+One of the things we, um, uh, have been like thinking, uh, it's it's not very straightforward to design it, so it just makes sense and works. 
+
+[49:56]
+
+But again, it's we are zebras. 
+
+[49:59]
+
+So, we are having, we'll be having bunch of more these, and and uh all of these will have some.
+
+[50:09]
+
+Some effect, some contribution uh to the stuff outside the battles. 
+
+[50:14]
+
+Some helps you to cut down the tree faster, some helps you to travers the rivers faster. 
+
+[50:20]
+
+So, some of them may mate handle some tools for you. 
+
+[50:24]
+
+So, this is um one of the things we've been like thinking. 
+
+[50:29]
+
+So, for instanceum, For you wanna carry souls, maybe there should be a Z able to carry souls, not a backpack or uh an additional memory slot, and and one of the one of the things and challenges we've always like seen is how to make it that.
+
+[50:53]
+
+Even if your Z is not valuable at the current meta or at the current like dungeon or activity or whatever you're doing, uh, they should find some utility. 
+
+[51:05]
+
+In other stuff that doesn't involve combat, and and I having like these uh this blend would essentially mean that Even that Z is not valuable for you in a BIOS, it could be still very valuable for you to level it up. 
+
+[51:23]
+
+evolve it, because it can.
+
+[51:26]
+
+Make you much much easier life when it comes to certain aspects of skills, uh, and the rest of the deceivers. um, So.
+
+[51:36]
+
+So, yeah, uh, that being said, uh, I would love really explore this direction before we go into pouches or bags. 
+
+[51:45]
+
+But uh who knows? Maybe we we we do both. So, uh.
+
+[51:52]
+
+Oh yeah, I uh I did recently, uh, I did recently uh propose uh an activity that would award uh fishing barrel. 
+
+[52:01]
+
+That was an interesting concept that would yeah. But um uh.
+
+[52:07]
+
+Actually did it wanna. 
+
+[52:08]
+
+All right. 
+
+[52:09]
+
+Let's let's freely go over Taylor's list, and then I did wanna talk about passives, because I did mention.
+
+[52:15]
+
+previously, briefly, I uh I think I could you know run down a bit, uh, I I you know based a list of like what to expect, so you can guys already you know at least start preparing your these for them. 
+
+[52:28]
+
+But yeah uh so Tyler is also asking uh about these sacrifice and I know we've talked about this uh long and hard uh and you know explored various options But yeah uh where do we stand耶鲁
+
+[52:43]
+
+Like, I I'm generally open to that idea, and I see this as uhI mean we kind of did like really.
+
+[52:54]
+
+Really shitty way, uh, basically very shitty reward for your sacrifice through Dumbra. But uh we.
+
+[53:04]
+
+could explore this as a way, uh, to kind of.
+
+[53:10]
+
+Level up or help to speed up leveling your existing disease in some form. But like I said, it's.
+
+[53:17]
+
+As easy as it technically sounds, it's very very tricky design wise. 
+
+[53:24]
+
+uh,And I feel that this could make a lot of sense. 
+
+[53:30]
+
+This could become almost like this pay to way pay to win way ofuh, Like leveling up your disease, but that also comes in a form where then you can get so many bots that are now farming those disease again. 
+
+[53:47]
+
+Then selling them to some players who just want to level up their existing these. So.
+
+[53:54]
+
+Having that, uh, so basically, the the the big challenge here is.
+
+[54:00]
+
+The trading of the disease are allowed, then systems such become quite a big headache. And.
+
+[54:10]
+
+We may find a way to design around it, uh, but for sure, it's not easy. 
+
+[54:16]
+
+And and and yeah, I'm not saying no. 
+
+[54:21]
+
+But I'm also not saying when and if. 
+
+[54:23]
+
+So, yeah, I'm just op- open open to explore if it really makes sense, why or why not. 
+
+[54:30]
+
+But uh with these things, it's You know, it's easy to break stuff. 
+
+[54:35]
+
+I do, I, you know, just to add to the conversation here. 
+
+[54:38]
+
+uh, I do think there are there, you know, with, as we said, like, aiming for like around 10 users. I think there might be uh.
+
+[54:49]
+
+Might be ro- room and uh you know potential for these sacrifice to come out, because uh you know, 10 these uh we know how long it takes, you know, level one. uh, So.
+
+[55:01]
+
+Well, we do expect for there to be a big commitment into leveling disease. 
+
+[55:06]
+
+uh, You know, hmm, yeah, uh, if uh if if uh i- i- if a team grows by 10, then you know. 
+
+[55:15]
+
+A lot of uh choices and uh not enough chances to uh explore the ZZ itself. 
+
+[55:20]
+
+But um yeah, uh Gex improvements, uh history by by your seller names, orders. 
+
+[55:27]
+
+I think that's uh that's uh quite, it's actually a quite quite a small change, and uh I don't think it, I don't I don't know if we've like uhTalk publicly about GAX improvements, but uh have we even talked about uh GAX being on the website now.
+
+[55:45]
+
+That's uh a a actually one of the.
+
+[55:50]
+
+I I would say that's actually a pretty big thing. 
+
+[55:51]
+
+uh, So, if you are really looking into the financial side of the Divors, uh,Going in and being able to trade, and now we even added a simple way. 
+
+[56:03]
+
+I mean, uh, nobody really used it, but we gave you API, so you could write your own trading bots.
+
+[56:11]
+
+uh, And actually trade them uh inside uh inside the gex. 
+
+[56:16]
+
+uh, We didn't saw too ma- too much of activity.
+
+[56:21]
+
+So, we kind of, I mean, still available if you want to do that, and I feel uh when activity will pick up, there will be many people doing this.
+
+[56:31]
+
+But uh we men, we went one step forward, and we gave you few basic trading bots uh that you can set up and use from the website.
+
+[56:43]
+
+uh, And and yeah, you can just trade from the website as well. 
+
+[56:46]
+
+So, um, I think that's a um good good another way how to play Zivors.uh, is just a trading within the economy, so.
+
+[57:00]
+
+Go, if you haven't had a chance, go check it out. 
+
+[57:03]
+
+If you did, uh, who give give us a feedback, would love to get more, and uh yes, being about some of these get in get improvements.
+
+[57:14]
+
+I I I think we can probably end up there, uh, but yeah, no rush, uh, to add too much detail, because what we've learned um.
+
+[57:24]
+
+From the past is that kind of simplicity is what makes things beautiful, and we can always add more to it.
+
+[57:34]
+
+And and by shipping things things simple, uh, we also kind of are able to ship them faster, and not include stuff that's not really necessary.
+
+[57:46]
+
+So, that's kind of um behind this.
+
+[57:50]
+
+Dangon cameras, uh, I guess this is a uh big topic here. um.
+
+[57:58]
+
+Answer to this is not yet or not in a way you probably propose, but um as we go, we will, you will see that Some more flexibility over this, and also you will see more improvements and more smoothness. 
+
+[58:16]
+
+and and more, uh, I would say, um, again.
+
+[58:23]
+
+Having the same system, but things being more simple and more like uh rapid, rather than uh.
+
+[58:32]
+
+uh, Rather than than than stretched animation where it shouldn't be, and and so on. But like I said, yeah, it's um.
+
+[58:40]
+
+It all takes time. 
+
+[58:41]
+
+We we we we wanna bring things in a simple way, then see how it works, improve it, change it, or Or add some some missing functionality, I guess.
+
+[58:54]
+
+So, um, yeah, um.
+
+[58:57]
+
+I guess that's it, uh, pretty much from me. Yeah, uh.
+
+[59:04]
+
+um, And uh that, yeah, that that that should answer most of that question. So, oh, I guess let's wrap it up. um.
+
+[59:14]
+
+All right, eh, Jojo, what do you think? 
+
+[59:16]
+
+Yeah, no, uh, uh, let's, you know, let's keep the mystery, guys. 
+
+[59:19]
+
+We didn't get the cha-, we di- didn't get the chance to delve deeper. 
+
+[59:24]
+
+Into the Z passives, but you know, uh, remind me next week, uh, cause uh yeah, that's also something we have already in development. 
+
+[59:33]
+
+uh,But yeah, cool guys. 
+
+[59:35]
+
+Um, thank you guys for coming today, and I hope uh you you know, uh, as excited uh as we are about what we're we've been building. 
+
+[59:46]
+
+I hope you've been enjoying Halloween as much as I mean I have. 
+
+[59:49]
+
+uh, And And yeah, yeah, you'll. 
+
+[59:52]
+
+Did you check how many these are killed? 
+
+[59:55]
+
+uh, Yeah, it's, uh, I mean, I did, uh, but a way, I I did post an update, uh, an update channel some uh data. 
+
+[60:03]
+
+And you know, an hour ago, uh, we, uh, there were like 30 38 K defeated. 
+
+[60:09]
+
+So, you know, mental math here probably around 39 K right now. 
+
+[60:14]
+
+So yeah, uh, crazy stress test, and aside from the, oh, uh, you know, I I think I'm the only person that experienced the bug. 
+
+[60:23]
+
+uh huh.
+
+[60:23]
+
+Unfortunately, uh, I had a purple orb appear, and it was empty. 
+
+[60:28]
+
+uh, But everybody else has been, uh, you know, I've Happy it happens to me. 
+
+[60:35]
+
+uh, Because, you know, I'm I'm really, uh, uh, really happy that uh uh everywhere I go. 
+
+[60:42]
+
+What starts live on your website is fun to see, uh.
+
+[60:46]
+
+啊
+
+[60:48]
+
+I don't think we're gonna do much. 
+
+[60:50]
+
+I'm gonna, yeah, yeah, yeah, uh, but I'm gonna keep updating. 
+
+[60:53]
+
+Obviously, I I have my stats page, wipe coded, and you know. 
+
+[60:59]
+
+I can't share that, cause security. uh, But yeah, cool, uh.
+
+[61:05]
+
+Yeah, you learn any last words? uh, Or um last words? uh, Yeah, guys, so.
+
+[61:12]
+
+Cool, uh, cool to see, uh, so many of you showing up every every two weeks, uh, that's actually really cool, and I I think today we shared the.
+
+[61:25]
+
+uh, Some cooler stuff than usual, usually we do. 
+
+[61:29]
+
+So, yeah, uh, really looking forward to see what do you think of the new quest.
+
+[61:37]
+
+uh, And there is a lot of cool stuff coming to Zeevers. 
+
+[61:41]
+
+So, thanks for showing showing up, and cheers, see you guys.
+
+[61:48]
+
+Thank you, Laura. 
+
+[61:49]
+
+um, And uh guys, let's do a premium pass giveaway. 
+
+[61:54]
+
+You know, Dale, three premium passes. I don't think I need to explain more. uh.
+
+[61:59]
+
+Let's let's rip it.
+
+[62:02]
+
+If you win submit ticket雪儿 is gonna give you a call
+
+[62:06]
+
+Tyler Tyler wins everything these days, huh?
+
+[62:11]
+
+Congressman.
+
+[62:14]
+
+Alright, uh, next one.
+
+[62:24]
+
+Yeah.
+
+[62:28]
+
+Congratulation! That's two.
+
+[62:32]
+
+Quickly.
+
+[62:39]
+
+Oh, shit. Wrong one.
+
+[62:44]
+
+And the final one.
+
+[62:53]
+
+Oh, Mamba.
+
+[63:00]
+
+So, streaming, face that. 
+
+[63:03]
+
+I guess open up a ticket and claim your one month premium pass.
+
+[63:08]
+
+uh, But yeah, uh, I, you know, will be posting up the uh.
+
+[63:14]
+
+The uh summary, in you know, a couple of hours. 
+
+[63:17]
+
+uh, Yeah, thank you guys. 
+
+[63:19]
+
+uh, See you in Zivvers. Please don't steal these from my wild these spots.
+
+[63:26]
+
+I'm kidding, cause I I've been I've been stealing these parts from every everybody else. 
+
+[63:30]
+
+uh, All right guys, uh, see you in ZeeVerse, and uh oh yeah, Tyler, by the way, we literally fix that dog bug today, cause I found it in the morning.
+
+[63:40]
+
+And we did move this one a bit on the side.
+
+[63:44]
+
+uh, But uh yeah, guys, uh, see you in game, and um yeah, have a wonderful rest of the week. Bye bye.
