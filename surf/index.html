@@ -37,9 +37,11 @@
         return value || "index.html";
       };
       const current = new URL(location.href);
-      const route = indexRoute(current.searchParams.get("page") || current.pathname.slice(1));
+      const legacy = /^#\/(\d{4}-\d{2}-\d{2})(\/transcript)?\/?$/.exec(current.hash);
+      const previousPage = legacy ? (legacy[2] ? "transcripts/" : "") + legacy[1] + ".html" : "";
+      const route = indexRoute(current.searchParams.get("page") || previousPage || current.pathname.slice(1));
       const target = new URL(routePattern.test(route) ? route : "index.html", published);
-      target.hash = current.hash;
+      target.hash = legacy || current.hash === "#/" ? "" : current.hash;
       archiveLink.href = target.href;
       loading.hidden = false;
 
@@ -64,6 +66,13 @@
       frame.addEventListener("load", () => {
         frame.hidden = false;
         loading.hidden = true;
+      });
+      window.addEventListener("keydown", (event) => {
+        if (event.key !== "/" || event.altKey || event.ctrlKey || event.metaKey) return;
+        const page = new URLSearchParams(location.search).get("page");
+        if (page && !page.endsWith("index.html")) return;
+        event.preventDefault();
+        frame.contentWindow.postMessage("zeeverse-ama:focus-search", published.origin);
       });
       frame.src = target.href;
     })();

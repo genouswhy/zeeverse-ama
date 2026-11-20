@@ -4,6 +4,8 @@
 import argparse
 from datetime import date
 from html import escape
+from itertools import groupby
+from math import ceil
 from pathlib import Path
 import re
 from urllib.parse import unquote, urlsplit
@@ -24,16 +26,27 @@ DATE_HTML = re.compile(r"\d{4}-\d{2}-\d{2}\.html")
 INDEX_ROW = re.compile(r"^\| \[(\d{4}-\d{2}-\d{2})\]\(Zeeverse-AMA-\1\.md\) \| ([^|\n]+) \|([^\n]*)$", re.M)
 TRANSCRIPT_ALIAS = re.compile(r"(?:zeeverse-)?community-call-(\d{4}-\d{2}-\d{2})\.txt")
 TRANSCRIPT_STAMP = re.compile(r"^(\*\*)?(\[\d{2}:\d{2}(?::\d{2})?\])(?(1)\*\*)$", re.M)
+INTRO_DATE = re.compile(r"^(?:\d{4}\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日|\d{4}-\d\d-\d\d|[A-Za-z]+\s+\d{1,2},\s*\d{4})(?:\s*[|｜·]\s*|$)")
 
 COPY = {
     "en": {
         "lang": "en",
         "skip": "Skip to content",
-        "archive": "Archive",
+        "archive": "All reports",
+        "archive_title": "Zeeverse AMA archive",
+        "intro": "Write-ups of the biweekly community call, kept in English and Chinese: what the team said, when it lands, and what is still unconfirmed.",
+        "stats": ("Reports", "Coverage", "Languages"),
+        "issue": "Issue {number}",
+        "sections": "{count} sections",
+        "minutes": "{count} min read",
+        "recap": "Recap",
+        "transcript_tab": "Transcript",
+        "dark": "Switch to dark",
+        "light": "Switch to light",
         "language": "Language",
-        "count": "{count} AMA reports",
+        "count": "{count} reports",
         "find": "Find a report",
-        "placeholder": "Search by date or topic",
+        "placeholder": "Search by date, topic, or keyword — world boss, gathering",
         "found": "{count} matching reports",
         "one": "1 matching report",
         "empty": "No matching reports",
@@ -49,10 +62,20 @@ COPY = {
         "lang": "zh-CN",
         "skip": "跳到正文",
         "archive": "全部报告",
+        "archive_title": "Zeeverse AMA 档案",
+        "intro": "双周社区通话的中英文纪要，记录团队的说法、时间点和仍待确认的细节。",
+        "stats": ("报告期数", "时间跨度", "语言版本"),
+        "issue": "第 {number} 期",
+        "sections": "{count} 节",
+        "minutes": "约 {count} 分钟",
+        "recap": "总结",
+        "transcript_tab": "转录原文",
+        "dark": "切换深色模式",
+        "light": "切换浅色模式",
         "language": "语言",
         "count": "{count} 期中文 AMA 总结",
         "find": "查找报告",
-        "placeholder": "输入日期或议题",
+        "placeholder": "输入日期、议题或关键词，如 世界 Boss、采集",
         "found": "找到 {count} 期",
         "one": "找到 1 期",
         "empty": "没有符合的报告",
@@ -66,131 +89,30 @@ COPY = {
     },
 }
 
-CSS = """:root {
-  color-scheme: light;
-  --ink: #183329;
-  --muted: #4e655b;
-  --green: #175a3f;
-  --paper: #f7faf7;
-  --line: #d4e0d7;
-  font-family: system-ui, "Microsoft YaHei", "PingFang SC", sans-serif;
-}
-* { box-sizing: border-box; }
-body { margin: 0; background: var(--paper); color: var(--ink); line-height: 1.78; }
-a { color: var(--green); text-underline-offset: .18em; }
-a:hover { text-decoration-thickness: .13em; }
-:focus-visible { outline: 3px solid #217c58; outline-offset: 4px; }
-[hidden] { display: none !important; }
-.skip { position: absolute; transform: translateY(-200%); background: white; padding: .4rem .8rem; }
-.skip:focus { transform: translateY(.35rem); left: .75rem; z-index: 1; }
-.wrap { width: min(100% - 2rem, 54rem); margin-inline: auto; }
-.bar { background: #102d23; color: #f1f9f4; }
-.bar .wrap { display: flex; align-items: center; min-height: 3.25rem; gap: .85rem; }
-.brand { color: inherit; font-size: 1rem; font-weight: 750; text-decoration: none; white-space: nowrap; }
-.bar .back { color: #e3f5e8; font-size: .925rem; white-space: nowrap; }
-.bar .actions { display: flex; margin-left: auto; align-items: center; gap: .85rem; }
-.languages { display: flex; align-items: center; gap: .2rem; font-size: .9rem; white-space: nowrap; }
-.languages > * { border-radius: .3rem; padding: .2rem .4rem; }
-.languages a { color: #e3f5e8; }
-.languages [aria-current] { color: #fff; background: #27523f; font-weight: 700; }
-.bar :focus-visible { outline-color: #91e4bc; }
-.archive { padding-block: clamp(2.2rem, 6vw, 4rem) 3.5rem; }
-h1, h2, h3 { line-height: 1.35; }
-h1 { font-size: clamp(1.9rem, 5vw, 3rem); margin: 0; letter-spacing: -.025em; }
-.archive .intro { color: var(--muted); margin: .55rem 0 1.8rem; }
-.filter { margin-bottom: 1.4rem; }
-.filter label { display: block; font-size: .925rem; font-weight: 650; margin-bottom: .35rem; }
-.filter input { width: min(100%, 30rem); padding: .55rem .75rem; font: inherit; color: inherit; background: white;
-  border: 1px solid #78968a; border-radius: .4rem; }
-.status { color: var(--muted); margin: .5rem 0 0; font-size: .925rem; }
-.entries { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
-.entries li { border-bottom: 1px solid var(--line); }
-.entries a { display: grid; grid-template-columns: 8.3rem minmax(0, 1fr); gap: .8rem; align-items: baseline;
-  padding: .8rem .5rem; text-decoration: none; color: var(--ink); }
-.entries a:hover { background: #eaf3ec; color: var(--green); }
-.entries time { font-variant-numeric: tabular-nums; font-weight: 730; color: var(--green); }
-.entries .topic { overflow-wrap: anywhere; }
-.reading { width: min(100% - 2rem, 47rem); margin: 0 auto; padding-block: clamp(1.8rem, 4vw, 3rem) 3.3rem; }
-.reading article { font-size: 1.05rem; overflow-wrap: anywhere; }
-.reading article h1 { font-size: clamp(1.65rem, 4vw, 2.5rem); }
-.reading article h1 + p { color: var(--muted); font-size: .94rem; margin-top: .65rem; }
-.reading h2 { font-size: clamp(1.2rem, 3.5vw, 1.55rem); margin: 2.2rem 0 .75rem; scroll-margin-top: 1rem; }
-.reading h3 { font-size: 1.16rem; margin-top: 1.7rem; }
-.reading p { margin: .85rem 0; }
-.reading li + li { margin-top: .35rem; }
-.reading ul, .reading ol { padding-inline-start: 1.4rem; }
-.reading blockquote { margin: 1rem 0; padding: .2rem 1rem; border-left: .22rem solid #6c9c83; background: #edf4ee; }
-.reading pre { overflow: auto; padding: .9rem; background: #edf4ee; border-radius: .35rem; }
-.reading code { font-family: ui-monospace, Consolas, monospace; font-size: .93em; }
-.transcript-link { font-weight: 650; }
-.transcript-nav { display: flex; flex-wrap: wrap; gap: .4rem 1rem; margin-block: 1rem 1.5rem; }
-.transcript-text { white-space: pre-wrap; }
-.transcript-text strong { font-variant-numeric: tabular-nums; }
-.source-ref { color: var(--muted); }
-.table-scroll { overflow-x: auto; margin-block: 1.05rem; }
-table { border-collapse: collapse; width: 100%; min-width: 31rem; background: white; font-size: 1rem; }
-th, td { border: 1px solid var(--line); padding: .5rem .65rem; vertical-align: top; }
-th { text-align: left; background: #eaf3ec; }
-.toc { margin-block: 1.2rem; padding: .5rem .8rem; border: 1px solid var(--line); border-radius: .35rem; }
-.toc summary { cursor: pointer; font-size: .96rem; font-weight: 650; }
-.toc ul { margin: .5rem 0 .3rem; font-size: .96rem; }
-.nearby { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;
-  border-top: 1px solid var(--line); margin-top: 2.25rem; padding-top: .8rem; font-size: .95rem; }
-@media (max-width: 35rem) {
-  .entries a { grid-template-columns: minmax(0, 1fr); gap: .05rem; padding: .75rem .35rem; }
-  .bar .wrap { width: calc(100% - 1.2rem); }
-  .bar .wrap, .bar .actions { gap: .4rem; }
-  .languages > * { padding-inline: .29rem; }
-}
-"""
-
-FILTER_JS = """const query = document.getElementById("query");
-const items = Array.from(document.querySelectorAll(".entries li"));
-const status = document.getElementById("result");
-document.getElementById("filter").hidden = false;
-function filterReports() {
-  const terms = query.value.toLowerCase().trim().split(/\\s+/).filter(Boolean);
-  let count = 0;
-  for (const item of items) {
-    const visible = terms.every(term => item.dataset.search.includes(term));
-    item.hidden = !visible;
-    if (visible) count += 1;
-  }
-  if (!terms.length) {
-    status.textContent = "";
-  } else if (count === 0) {
-    status.textContent = status.dataset.empty;
-  } else {
-    status.textContent = count === 1 ? status.dataset.one : status.dataset.found.replace("{count}", count);
-  }
-}
-query.addEventListener("input", filterReports);
-filterReports();
-"""
-
-
-def html_page(locale, filename, title, contents, article=False, script="", *, transcript=False):
+def html_page(locale, filename, title, contents, article=False, *, transcript=False):
     words = COPY[locale]
     asset_base = "../" if locale == "zh" or transcript else ""
     home = "../index.html" if transcript else "index.html"
-    archive_link = f'<a class="back" href="{home}">{words["archive"]}</a>' if article else ""
+    archive_link = f'<a class="back" href="{home}">{words["archive"]}</a>' if article or transcript else ""
     switcher = ""
     alternate_link = ""
     if not transcript:
         if locale == "en":
             alternate = "zh/" + filename
-            active = '<span lang="en" aria-current="true">English</span>'
+            active = '<span lang="en" aria-current="true" aria-label="English">EN</span>'
             link = f'<a lang="zh-CN" hreflang="zh-CN" href="{alternate}">中文</a>'
             options = active + link
             alternate_lang = "zh-CN"
         else:
             alternate = "../" + filename
-            link = f'<a lang="en" hreflang="en" href="{alternate}">English</a>'
+            link = f'<a lang="en" hreflang="en" aria-label="English" href="{alternate}">EN</a>'
             active = '<span lang="zh-CN" aria-current="true">中文</span>'
             options = link + active
             alternate_lang = "en"
         switcher = f'<nav class="languages" aria-label="{words["language"]}">{options}</nav>'
         alternate_link = f'<link rel="alternate" hreflang="{alternate_lang}" href="{alternate}">\n'
+    progress = '<div class="reading-progress" aria-hidden="true"></div>' if article else ""
+    brand_note = "AMA archive" if locale == "en" else "AMA 档案"
     return f"""<!doctype html>
 {GENERATED}
 <html lang="{words["lang"]}">
@@ -202,10 +124,13 @@ def html_page(locale, filename, title, contents, article=False, script="", *, tr
 {alternate_link}</head>
 <body>
 <a class="skip" href="#main">{words["skip"]}</a>
-<header class="bar"><div class="wrap"><a class="brand" href="{home}">{SITE_NAME}</a>
-<div class="actions">{archive_link}{switcher}</div></div></header>
+<header class="bar"><div class="wrap"><a class="brand" href="{home}"><strong>Zeeverse</strong><span>{brand_note}</span></a>
+<div class="actions">{archive_link}{switcher}
+<button class="theme" type="button" data-dark="{words["dark"]}" data-light="{words["light"]}" hidden>
+<span class="moon" aria-hidden="true">☾</span><span class="sun" aria-hidden="true">☀</span>
+</button></div></div>{progress}</header>
 {contents}
-{script}
+<script src="{asset_base}site.js" defer></script>
 </body>
 </html>
 """
@@ -257,29 +182,86 @@ def render_report(markdown, tokens, locale):
             anchor = f"section-{len(headings) + 1}"
             token.attrSet("id", anchor)
             headings.append((anchor, name))
-    body = markdown.renderer.render(tokens, markdown.options, {})
+    start = 0
+    meta = ""
+    source_title = ""
+    if tokens and tokens[0].type == "heading_open" and tokens[0].tag == "h1":
+        start = 3
+        source_title = tokens[1].content
+    if len(tokens) > start + 2 and tokens[start].type == "paragraph_open":
+        first_paragraph = tokens[start + 1].content
+        date_prefix = INTRO_DATE.match(first_paragraph)
+        if date_prefix:
+            meta = first_paragraph[date_prefix.end():].strip()
+            start += 3
+    body = markdown.renderer.render(tokens[start:], markdown.options, {})
     body = body.replace("<table>", f'<div class="table-scroll" tabindex="0" aria-label="{words["table"]}"><table>')
     body = body.replace("</table>", "</table></div>")
+    return body, headings, source_title, meta
+
+
+def format_date(day, locale, *, short=False, year=True):
+    parsed = date.fromisoformat(day)
+    if locale == "zh":
+        month_day = f"{parsed.month} 月 {parsed.day} 日"
+        return f"{parsed.year} 年 {month_day}" if year else month_day
+    month = parsed.strftime("%b" if short else "%B")
+    return f"{month} {parsed.day}, {parsed.year}" if year else f"{month} {parsed.day}"
+
+
+def read_minutes(source):
+    text = re.sub(r"https?://[^\s)]+", "", source)
+    english_words = len(re.findall(r"\b[A-Za-z0-9]+(?:[’'-][A-Za-z0-9]+)*", text))
+    han = len(re.findall(r"[\u3400-\u9fff]", text))
+    return max(1, ceil(english_words / 200 + han / 310))
+
+
+def reading_page(locale, day, topic, body, headings, meta, issue, minutes, has_transcript, nearby):
+    words = COPY[locale]
+    rail = ""
+    toc = ""
     if headings:
-        contents = "".join(f'<li><a href="#{key}">{escape(name)}</a></li>' for key, name in headings)
-        toc = f'<details class="toc"><summary>{words["contents"]}</summary><ul>{contents}</ul></details>'
-        first_section = f'<h2 id="{headings[0][0]}">'
-        body = body.replace(first_section, toc + first_section, 1)
-    return body, [name for _, name in headings]
+        sections = "".join(f'<li><a href="#{anchor}">{escape(name)}</a></li>' for anchor, name in headings)
+        rail = (f'<nav class="toc-rail" aria-label="{words["contents"]}">'
+                f'<p>{words["contents"]}</p><ol>{sections}</ol></nav>')
+        toc = f'<details class="toc"><summary>{words["contents"]}</summary><ol>{sections}</ol></details>'
+    tabs = ""
+    if has_transcript:
+        url = transcript_href(day, locale)
+        tabs = f"""<nav class="report-tabs" aria-label="{words["transcript"]}">
+<span aria-current="page">{words["recap"]}</span>
+<a class="transcript-link" href="{url}" aria-label="{words["transcript"]}">{words["transcript_tab"]}</a>
+</nav>"""
+    stamp = format_date(day, locale)
+    details = f'{words["issue"].format(number=issue)} · {words["minutes"].format(count=minutes)}'
+    metadata = f'<p class="report-meta">{escape(meta)}</p>' if meta else ""
+    layout = ' class="reading-layout"' if rail else ""
+    return f"""<main class="wrap reading" id="main"><div{layout}>
+{rail}<article class="reading-content">
+<header class="report-head">
+<p class="kicker"><time datetime="{day}">{stamp}</time> · {details}</p>
+<h1>{escape(topic)}</h1>{metadata}
+</header>
+{tabs}
+{toc}
+<div class="report-body">{body}</div>
+{nearby}
+</article></div></main>"""
 
 
 def transcript_page(day, source):
     label = COPY["en"]["transcript"]
     text = re.sub(r"^# ([^\n]+)", r"<strong>\1</strong>", escape(source), count=1)
     text = TRANSCRIPT_STAMP.sub(r"<strong>\2</strong>", text)
-    body = f"""<main class="reading" id="main"><article>
-<h1>{label}</h1>
-<p><time datetime="{day}">{day}</time></p>
-<nav class="transcript-nav" aria-label="Reports for this call">
+    body = f"""<main class="wrap reading" id="main"><article class="reading-content transcript-content">
+<header class="report-head"><p class="kicker"><time datetime="{day}">{format_date(day, "en")}</time></p>
+<h1>{label}</h1></header>
+<nav class="report-tabs" aria-label="Reports for this call">
 <a href="../{day}.html">English report</a>
 <a href="../zh/{day}.html" lang="zh-CN" hreflang="zh-CN">中文报告</a>
+<span aria-current="page">Transcript</span>
 </nav>
-<div class="transcript-text">{text}</div>
+<div class="report-body transcript-text">{text}</div>
 </article></main>"""
     return html_page("en", f"{day}.html", f"{label} · {day} · {SITE_NAME}", body, transcript=True)
 
@@ -306,25 +288,53 @@ def report_index(markdown, reports):
 
 def archive_page(locale, entries):
     words = COPY[locale]
-    rows = []
-    for day, topic, headings in entries:
-        localized = f"{int(day[5:7])}月{int(day[8:])}日" if locale == "zh" else date.fromisoformat(day).strftime("%B %d")
-        search = escape(" ".join((day, localized, topic, *headings)).lower())
-        rows.append(f'<li data-search="{search}"><a href="{day}.html"><time datetime="{day}">{day}</time>'
-                    f'<span class="topic">{escape(topic)}</span></a></li>')
+    count = len(entries)
+    first, last = entries[-1][0], entries[0][0]
+    if locale == "zh":
+        coverage = f"{first} – {last}"
+    else:
+        start = format_date(first, locale, short=True, year=first[:4] != last[:4])
+        coverage = f'{start} – {format_date(last, locale, short=True)}'
+    stats = "".join(f"<div><dt>{label}</dt><dd>{value}</dd></div>"
+                    for label, value in zip(words["stats"], (count, coverage, "English / 中文")))
+    groups = []
+    for month, group in groupby(enumerate(entries), key=lambda row: row[1][0][:7]):
+        stamp = date.fromisoformat(month + "-01")
+        label = stamp.strftime("%B %Y") if locale == "en" else f"{stamp.year} 年 {stamp.month} 月"
+        rows = []
+        for position, (day, topic, headings, minutes, has_transcript) in group:
+            month_day = format_date(day, locale, year=False)
+            search = escape(" ".join((day, month_day, month_day.replace(" ", ""), topic, *headings)).lower())
+            details = " · ".join((words["issue"].format(number=count - position),
+                                  words["sections"].format(count=len(headings)),
+                                  words["minutes"].format(count=minutes)))
+            chip = f'<span class="chip">{words["transcript_tab"]}</span>' if has_transcript else ""
+            rows.append(f"""<li data-search="{search}"><a class="entry" href="{day}.html">
+<time datetime="{day}">{day}</time>
+<span class="entry-body"><span class="topic">{escape(topic)}</span>
+<span class="entry-meta">{details}{chip}</span></span><span class="chevron" aria-hidden="true"></span>
+</a></li>""")
+        groups.append(f'<section class="month"><h2>{label} <span class="month-count">{len(rows)}</span></h2>'
+                      f'<ul class="entries">{"".join(rows)}</ul></section>')
     contents = f"""<main class="wrap archive" id="main">
-<h1>{SITE_NAME}</h1>
-<p class="intro">{words["count"].format(count=len(entries))}</p>
+<section class="hero">
+  <p class="kicker">Zeeverse · Community Call</p>
+  <h1>{words["archive_title"]}</h1>
+  <p class="intro">{words["intro"]}</p>
+  <dl class="archive-stats">{stats}</dl>
+</section>
 <div class="filter" id="filter" hidden>
-  <label for="query">{words["find"]}</label>
-  <input id="query" type="search" placeholder="{words["placeholder"]}" autocomplete="off">
-  <p class="status" id="result" role="status" data-found="{words["found"]}" data-one="{words["one"]}" data-empty="{words["empty"]}"></p>
+  <label class="search-field">
+    <span class="magnifier" aria-hidden="true"></span>
+    <input id="query" type="search" aria-label="{words["find"]}" placeholder="{words["placeholder"]}" autocomplete="off">
+    <kbd aria-hidden="true">/</kbd>
+  </label>
+  <p class="status" id="result" role="status" data-count="{words["count"]}" data-found="{words["found"]}"
+    data-one="{words["one"]}" data-empty="{words["empty"]}">{words["count"].format(count=count)}</p>
 </div>
-<ul class="entries">{''.join(rows)}</ul>
+{''.join(groups)}
 </main>"""
-    asset_base = "" if locale == "en" else "../"
-    return html_page(locale, "index.html", f"{SITE_NAME} · {words['archive']}", contents,
-                     script=f'<script src="{asset_base}filter.js"></script>')
+    return html_page(locale, "index.html", f"{SITE_NAME} · {words['archive_title']}", contents)
 
 
 def build(reports, output, embed_origin=None):
@@ -345,7 +355,11 @@ def build(reports, output, embed_origin=None):
 
     markdown = MarkdownIt("commonmark", {"html": False}).enable("table")
     dates = sorted(inputs, reverse=True)
-    files = {"site.css": CSS, "filter.js": FILTER_JS}
+    assets = PROJECT / "assets"
+    files = {name: (assets / name).read_bytes() for name in ("site.css", "site.js")}
+    for path in (assets / "fonts").iterdir():
+        if path.is_file():
+            files[path.relative_to(assets).as_posix()] = path.read_bytes()
     topic_by_date, indexed_transcripts = report_index(markdown, reports)
     transcripts = {}
     for day in dates:
@@ -371,16 +385,14 @@ def build(reports, output, embed_origin=None):
                 raise ValueError(f"Empty report: {path}")
             tokens = markdown.parse(original)
             normalize_links(tokens, dates, locale, path, transcript_dates, transcripts)
-            body, headings = render_report(markdown, tokens, locale)
-            if day in transcripts:
-                href = transcript_href(day, locale)
-                action = f'<p class="transcript-link"><a href="{href}">{words["transcript"]}</a></p>\n'
-                lead, end, rest = body.partition("</p>\n")
-                body = lead + end + action + rest if end else action + body
+            body, headings, source_title, meta = render_report(markdown, tokens, locale)
+            names = [name for _, name in headings]
             fallback = " · ".join(re.sub(r"^(?:[一二三四五六七八九十]+、|(?:\d+|[IVXLCDM]+)\.\s+)", "", name)
-                                  for name in headings[:2])
+                                  for name in names[:2])
             curated = topic_by_date.get(day) if locale == "zh" else ""
-            entries.append((day, curated or fallback or words["fallback"], headings))
+            topic = curated or fallback or source_title or words["fallback"]
+            minutes = read_minutes(original)
+            entries.append((day, topic, names, minutes, day in transcripts))
             links = []
             if position + 1 < len(dates):
                 older = dates[position + 1]
@@ -389,7 +401,8 @@ def build(reports, output, embed_origin=None):
                 newer = dates[position - 1]
                 links.append(f'<a href="{newer}.html">{words["newer"]} {newer}</a>')
             nav = f'<nav class="nearby" aria-label="{words["nearby"]}">{"".join(links)}</nav>' if links else ""
-            article = f'<main class="reading" id="main"><article>{body}</article>{nav}</main>'
+            article = reading_page(locale, day, topic, body, headings, meta, len(dates) - position,
+                                   minutes, day in transcripts, nav)
             filename = f"{day}.html"
             files[prefix + filename] = html_page(locale, filename, f"{day} · {SITE_NAME}", article, article=True)
         files[prefix + "index.html"] = archive_page(locale, entries)
@@ -408,7 +421,7 @@ def build(reports, output, embed_origin=None):
         target = site / filename
         target.parent.mkdir(parents=True, exist_ok=True)
         temporary = target.with_suffix(target.suffix + ".tmp")
-        temporary.write_text(content, encoding="utf-8", newline="\n")
+        temporary.write_bytes(content if isinstance(content, bytes) else content.encode("utf-8"))
         temporary.replace(target)
     for directory in (site, site / "zh", site / "transcripts"):
         for path in directory.glob("*.html"):

@@ -20,5 +20,11 @@
 
   window.addEventListener("pageshow", sharePage);
   window.addEventListener("hashchange", sharePage);
+  window.addEventListener("message", (event) => {
+    if (event.source === window.parent && event.origin === parentOrigin
+        && event.data === "zeeverse-ama:focus-search") {
+      document.getElementById("query")?.focus();
+    }
+  });
   sharePage();
 })();
