@@ -6,6 +6,8 @@ The new onboarding was far enough along for the team to keep refining it while a
 
 ## 1. Chapter 3 ties together the Metal Totem, two dungeons, and 20 treasure sites
 
+[19:23](#t=1163)
+
 Jackal said Chapter 3 was in active development. He estimated another two to three weeks and preferred to count on at least three because QA would find issues. The quest has players repair the **Metal Totem**, unlock a teleport near the furnace area, and enter **The Ship** and **The Wicker**. He estimated about three bosses across the two dungeons, consistent with the previous call's description of one boss in The Ship and two fighting together in The Wicker. This call showed actual gameplay from The Ship, with ghost Zee visible aboard. The team deliberately saved The Wicker and the story cutscenes for players to discover. [September 10 transcript on the first dungeon preview](../transcription/2026-09-10.txt) · [Call transcript on Chapter 3 and the gameplay preview](../transcription/2026-09-24.txt)
 
 With **Treasure Maps**, players get a map, study the image, and find the matching spot in the world to dig up a chest. The design discussed on the call had around **20 locations**. Maps might come from activities like Stronghold of Umbra, and Jackal also floated rare Zee as a source. He expected Chapter 3 to unlock Ring and Necklace slots and award basic jewelry along the way. He also brought up gemstone resources from Land and Mr. Block chests. The call gave no full list of chest contents or opening date. [Official Stronghold of Umbra gameplay documentation](https://whitepaper.zee-verse.com/gameplay/pve/stronghold-of-umbra) · [Call transcript on equipment slots and treasure maps](../transcription/2026-09-24.txt)
@@ -14,11 +16,13 @@ The two figures given on the call applied to different steps. Jackal said the fi
 
 After explaining how to find a dig site from the map, Jackal distinguished the odds of finding the ring from the chance of a reroll while wearing it. His next example was clearing Stronghold of Umbra.
 
-> **Jackal**
+> **Jackal** · [19:23](#t=1163)
 >
 > “And the treasure chest will include a mega rare ring. At a rate of one to 5000, uh, that will be the, uh, first legendary ring. Uh, and it will increase your, it will give you a 20 percent chance to roll the drop table again.”
 
 ## 2. A new homepage would showcase the game, with collections, perks, and trading in the player dashboard
+
+[28:21](#t=1701)
 
 Euler planned to rebuild the homepage and account dashboard. The homepage would become an interactive 3D showcase so Web2 and Web3 users could quickly understand the game. The signed-in app would bring together **Collector Profile**, quests, staking, and claiming. The team had a preview and kept it off the call because the copy was still placeholder text. Another clear direction was bringing **GEX** to the web for direct trading and limit orders through a basic Trading Bot. The official game docs explain how GEX already handles resource trading and liquidity. [Zeeverse GEX documentation](https://whitepaper.zee-verse.com/economy/game-exchange-gex) · [Call transcript on the website and GEX](../transcription/2026-09-24.txt)
 
@@ -26,7 +30,7 @@ The idea behind Shaman Rank was to convert collections into Shaman Points and gr
 
 Asked how the change could affect someone who already held ten Masks, Euler said it depended on the score. He used a combination of Masks and badges as an example.
 
-> **Euler**
+> **Euler** · [28:21](#t=1701)
 >
 > “Just by holding, let’s say, three specific masks and earning few specific badges means that you will also be able to get more points, and and then it could happen that three right masks are actually more valuable than five masks that don’t essentially give you those to items.”
 
@@ -34,17 +38,21 @@ Asked how the change could affect someone who already held ten Masks, Euler said
 
 ## 3. Halloween looks beyond rare drops to gear with practical uses, while movement speed stays in testing
 
+[30:34](#t=1834)
+
 The previous year's **Watcher’s Fang** could already harvest mature plants like gardening shears. Jackal was also considering letting it replant at harvest when the player has seeds in their inventory. For Halloween 2026, the team wanted to retain rare drops from wild Zee and the world-spanning hunt for a carriage. It also wanted to add a useful legendary main-hand item and an armor set that unlocks a teleport. The armor was meant as a step up for midgame players. The call used Steel and higher-tier sets to explain its intended power. Jackal recalled the previous year's carriage, Watcher’s Light, and Watcher’s Fang to describe how that event had worked. **After the call**, the official October 21 announcement listed the **Watcher’s Crescent** main-hand item, three pieces of **Mawkin** gear, Candle Teleport, and the new carriage rules. [Zeeverse 1.17.4 release notes from September 22](https://zeeverse.com/news/1-17-4-release-notes) · [Halloween 2026 event announcement, published October 21 after the call](https://zeeverse.com/news/halloween-2026-the-hunt-is-on)
 
 Euler said onboarding analytics received that day showed a sizable improvement. He gave no retention percentage-point change or sample size this time. Combat was already faster. Faster character movement was still in testing. Jackal felt more confident about the first hour of Finding Your Feet. The team wanted to keep some capacity for small fixes and put more into short quests, gathering and crafting resources, and mid- and late-game content. The team expected to do more on Prestige after shipping the new dungeons, with harder enemies in old dungeons and rewards exclusive to the mode. The 1.17.4 notes already listed tutorial simplifications and simultaneous actions in wild combat. Version 1.17.5 on September 28 continued to fix tutorial blockers and dungeon bugs. [1.17.4 release notes](https://zeeverse.com/news/1-17-4-release-notes) · [1.17.5 release notes, published September 28 after the call](https://zeeverse.com/news/1-17-5-release-notes)
 
 ## 4. Maintaining live games was the first question after Forest Studio launched
 
+[00:59](#t=59)
+
 Euler opened by saying **Forest Studio launched on September 23**. He said the team had pushed an update on the morning of the 24th that let creators maintain and fix bugs in games they previously could not update once live. He expected to ship **Anthropic Claude subscription** support later that day and discussed choosing between Opus, Sonnet, and Haiku based on cost. The initial release already used creators' own OpenAI accounts. Euler's account on the call is the evidence for the exact rollout of the two September updates. The current official docs say a published Harness game is permanently linked to its token and cannot be replaced. They do not say which games the September change applied to or when the rules changed. [Call transcript on the Studio launch and updates](../transcription/2026-09-24.txt) · [Official Forest Harness guide for current rules](https://forest.inc/docs/creator-playbook/forest-harness) · [Forest Playkit documentation for current rules](https://forest.inc/docs/whitepaper/forest-playkit)
 
 The day after Studio launched, Euler said creators previously could not update published games and described an update released that morning.
 
-> **Euler**
+> **Euler** · [00:59](#t=59)
 >
 > “Oh, this morning we shipped an update that, uh, changes that, and and that kind of, um, it’s actually kind of a big deal, because now you can, um, keep working on your games, even after they’re live, even after some bugs show up.”
 
@@ -52,11 +60,13 @@ The team invited people to try a small drawing-board app where tokens buy pixels
 
 ## 5. The Builder Program offers USDT for finished projects, and Remix aims to pay original creators over time
 
+[40:15](#t=2415)
+
 Euler discussed the **Builder Program** at the start and close of the call. The proposed pool was **1,000 USDT**, first come, first served, with the team reviewing and paying out eligible submissions as they came in. Creators could submit a game or app built with the Harness. It had to be complete, usable, and polished. The program would judge entries independently of market cap, trading volume, or whether the token had graduated from the curve. The reward was meant to help some creators cover ChatGPT or Claude subscriptions. The call gave no individual amounts or actual payment list. [Call transcript on the Builder Program and closing remarks](../transcription/2026-09-24.txt)
 
 Euler returned to the Builder Program before leaving. The team wanted people to test the Harness by submitting finished work and to provide feedback.
 
-> **Euler**
+> **Euler** · [40:15](#t=2415)
 >
 > “It don’t have to be necessarily a game, it can also be an app. Just build something fun, just build something nice. Uh, we won’t be like looking into like graduations or volumes or anything. Um, we just need, uh, people to test, come in and test the harness.”
 
@@ -64,13 +74,15 @@ Euler returned to the Builder Program before leaving. The team wanted people to 
 
 Euler pictured a base game that found little traction until Jackal changed its theme or a feature. The 25% figure was the ceiling in that pre-release example.
 
-> **Euler**
+> **Euler** · [05:42](#t=342)
 >
 > “Then let’s say, uh, Jackie’s version of, uh, the game explodes. And it starts to generate some fees, some significant, uh, volume. Uh, and just because I was the original creator of the game, I’m eligible to collect up to 25 percent of those fees.”
 
 On marketing, Euler said a **Seed Vault** auction had started that day. The team wanted to hold another Vault or trading contest every few days. It planned to attend TOKEN2049 in Singapore in early October to meet exchanges, key opinion leaders, and potential partners. The organizer listed October 7–8 as the main conference dates. The call disclosed no deals or exchange listings. [FOREST Seed Vault mechanics](https://forest.inc/docs/whitepaper/forest-and-seed-economy) · [TOKEN2049 organizer’s announcement](https://token2049.com/dubai/announcement)
 
 ## 6. Closing remarks and the roadmap
+
+[39:55](#t=2395)
 
 Euler restated the Builder Program criteria before leaving. Jackal spun the wheel for three one-month Premium Passes. Winners could open a ticket with Cherry for their codes. The team expected to meet again in two weeks and hoped Chapter 3 would be close to completion by then. It also asked creators to try the Builder early. [Call transcript on the closing remarks](../transcription/2026-09-24.txt)
 

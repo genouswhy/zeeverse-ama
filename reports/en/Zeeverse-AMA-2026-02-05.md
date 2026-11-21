@@ -8,11 +8,13 @@ This report follows the original transcript, which has no line-by-line timestamp
 
 ## 1. Registration can wait until after play begins, and the soft launch yielded the first usable data
 
+[03:42](#t=222)
+
 The hosts opened with a work-in-progress intro made in Unity, beginning with the character being summoned. Euler said the old flow required registration after downloading. He estimated **40%–50%** of players dropped off there, one reason the new flow let them enter directly. The team also wanted to teach mobile controls clearly and reduce steps where players followed a tap instruction without understanding the action. The footage showed work in progress. The retention goal was to get players through the first hour and then look at longer-term engagement. Euler gave no comparable conversion figures for the old and new flows. [Transcript, Unity footage and registration drop-off](../transcription/2026-02-05.txt)
 
 After showing the summoning scene in Unity, Jackal asked Euler why the team was reworking the player's first steps into the game.
 
-> **Euler**
+> **Euler** · [03:42](#t=222)
 >
 > “The new users won't have to register accounts when they start to play, and and this is extremely important, because uh, because once the users download the game, and they realize they have to register, roughly 40~50 percent of them will bounce.”
 
@@ -22,13 +24,15 @@ The same player asked whether the team needed to hire. Euler estimated **about 2
 
 ## 2. The first hour connects hatching, exploration, and combat through a missing totem
 
+[15:26](#t=926)
+
 Jackal gave a preview of the opening story. It begins with **Waka's summons**, and players choose a Shaman body to carry their soul. A cave sequence involving drinking a potion shows that something is amiss in the world. Later, the player almost drowns somewhere else and is rescued by a fisherman. The fisherman sees their Zee and realizes they are one of the rare Shamans. Jackal explained that Zee come from the spirit world and appear in the physical world. Few people can form a bond with a Zee, so ordinary villagers generally have no followers. [Zeeverse lore](https://whitepaper.zee-verse.com/lore/your-journey) · [Transcript, Waka's summons, the fisherman, and Shamans](../transcription/2026-02-05.txt)
 
 The village lost a totem tied to the **Takanuwa** faith and, with it, the protection of its land. The fisherman asks players to learn to hatch a Zee and retrieve the totem from a dungeon. In the first-hour design at the time, players would recover two fragments and repair the totem. Most other game systems would stay locked until then. Jackal said other parts of the Grasslands had also lost totems and that the problem could recur in other biomes, giving the long-term main quest a goal across regions. The resources or effects that restoration could bring back were left for later. [Three Nations lore](https://whitepaper.zee-verse.com/lore/three-nations) · [Transcript, totems, the limits of the first hour, and later biomes](../transcription/2026-02-05.txt)
 
 After explaining why the fisherman asks the Shaman to recover the village totem, Jackal described where the first hour ends and how the story continues.
 
-> **Jackal**
+> **Jackal** · [15:26](#t=926)
 >
 > “The the tutorial and the first hour of your of your playthrough will end, as you retrieve two totem pieces \[…\] and restore the totems. \[…\] Now there are two more dungeons, right? And as uh as you will find out, more totems are missing around grasslands.”
 
@@ -36,13 +40,15 @@ The **Hatchery** was also due for a rework. Players would enter a depiction of t
 
 ## 3. Players would explore on their first clear and again after each weekly reset
 
+[39:17](#t=2357)
+
 At the time, players selected a portal, chose a stage, and finished a battle before they could replay it automatically. In Jackal's new design, **the first clear** took place in a walkable environment. Players could encounter Zee, keep exploring after a fight, open chests, and use skills to solve small puzzles. Some totems might be hidden in corners or behind puzzles. Skill actions would award the corresponding XP, and dedicated training in the open world was still expected to be more efficient. The team could use the Land Generator technology to build the dungeon environments. [Land Generator technology, November 28, 2025](https://zeeverse.com/news/zeeverse-worlds-from-words) · [Transcript, new dungeon routes and the role of skills](../transcription/2026-02-05.txt)
 
 Jackal initially named **the first three dungeon chapters and The Forge**, with Umbra under consideration for later. The new areas would have fishing spots for supplies and perhaps for puzzles. Berries were intended for the early stage when players had little health. At several thousand HP, fish would still be the primary way to recover health. The team wanted to preserve the protection from losing items on a failed dungeon attempt. The existing automatic repeat mode would be available after the first clear, while **dungeons that reset weekly were expected to require an exploration-based first clear each cycle**. The details across different dungeons, weekly resets, and normal stages would have to be checked in later builds. [Transcript, fishing spots and the first-clear design before the $VEE discussion](../transcription/2026-02-05.txt)
 
 Before the discussion moved on to $VEE, Jackal explained the redesigned dungeons' item-loss protection, auto-replay, and weekly reset rules.
 
-> **Jackal**
+> **Jackal** · [39:17](#t=2357)
 >
 > “We are still looking to keep the dungeon that safe, meaning, you know, no losing of the items. \[…\] You will be able to auto play these levels as they were today after the novel clear. So for dungeons that rotate uh and refresh every week, you will have to do the novel clear every week.”
 
@@ -50,11 +56,13 @@ The team planned to accelerate progression mainly through milestone rewards on t
 
 ## 4. The team wants a clearer map with a few supplies for explorers
 
+[33:37](#t=2017)
+
 Euler said the first map had been rushed out for open testing. Plants and trees clipped into each other and could block the camera. The team planned to improve the map and navigation gradually and add basic resources in some spots. Roadside berries were the example. Players could pick them to eat or cook as they went.
 
 Euler said trees in the early map could obstruct the view, then gave an example of resources the team might add along the way while polishing the map.
 
-> **Euler**
+> **Euler** · [33:37](#t=2017)
 >
 > “We are also thinking about adding \[…\] berries that are growing around, and you can just like pick it up and and and then eat it or cook it.”
 
@@ -64,17 +72,21 @@ On **April 2**, version 1.9.0 added a new introductory quest to replace Shaman�
 
 ## 5. $VEE rewards consolidate in one new staking program, and FOREST continues testing trading competitions
 
+[45:00](#t=2700)
+
 Euler said legacy stakes were expiring gradually, with limited rewards still being released. New incentives were concentrated in a $VEE staking program with monthly claims. The automatic transcript renders the scale of the annual rewards as “0.5 of total supply a year.” In context, this appears to mean **about 0.5% of total supply per year**. The hosts did not publish an emissions schedule to verify it. The team had seen people move from legacy stakes to the new contract or deposit $VEE in-game for off-chain trading. Uses that consume $VEE, such as evolution, remained available. Restaking rates, amounts, and full net flows were undisclosed. [Official staking page](https://zeeverse.com/app/stake) · [Zeeverse $VEE documentation](https://whitepaper.zee-verse.com/economy/utility-tokens/usdvee) · [Transcript, $VEE policy discussion](../transcription/2026-02-05.txt)
 
 Asked whether too many SEEDS might be distributed, as with Ambassador Program rewards, Euler said that the first and upcoming second contests each had **500,000 SEEDS**. The team saw them as technical tests to find problems with running competitions and with the trading experience. To illustrate the scale, he compared the prize pool to the points earned by staking approximately 120,000 $FOREST for one year. The dollar equivalent depended on the token price at the time. It was a rough comparison of points earned. The second competition's official announcement, published after the call on **February 9**, confirmed that it would run for five days on **$BLOOM** with a **500,000 SEEDS** prize pool and leaderboard volume measured in $FOREST. The call offered no full long-term emissions estimate. [First FOREST trading competition announcement, January 26, 2026](https://forest.inc/news/the-first-forest-trading-competition) · [Later second trading competition announcement, February 9, 2026](https://forest.inc/news/the-second-trading-competition) · [Transcript, SEEDS and the second competition Q&A](../transcription/2026-02-05.txt)
 
 A player worried that the FOREST trading competition would distribute too many SEEDS and repeat the Ambassador Program's reward problems.
 
-> **Euler**
+> **Euler** · [45:00](#t=2700)
 >
 > “These competitions, at least as of now, are more like a like a technical tests. Last competition taught a lot of stuff about which things are not working, which things are, are are are like broken, and and which things needs to be fixed.”
 
 ## 6. Wallets, community moderation, and closing
+
+[47:02](#t=2822)
 
 - **Wallet management.** A player asked for a dedicated wallet management entry point. Euler said it was not on the backlog at the time. Players could run the game in a browser and use the client's wallet features. [Transcript, wallet Q&A](../transcription/2026-02-05.txt)
 - **Feedback channels.** Jackal said the team would moderate Discord more actively starting that day. Repeatedly posting the same dispute could earn a short timeout to keep public channels readable. Players could post specific ideas in the suggestions channel or message the hosts privately. He acknowledged that putting onboarding first had created a wait for veterans and said other people were still working on The Forge and related content in parallel. [Transcript, Discord moderation and closing discussion](../transcription/2026-02-05.txt)

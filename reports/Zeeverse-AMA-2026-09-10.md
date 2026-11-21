@@ -6,11 +6,13 @@
 
 ## 一、入门流程的意外结果，把强制引导缩短仍是要做的事
 
+[05:37](#t=337)
+
 Euler 回顾，旧流程约三十分钟，下一版约十六分钟。团队观察到，普通手机玩家大概给游戏十分钟决定要不要继续。本来想让玩家做完开场 **Arrival** 就能自行探索，再自行接短任务，实际却把一串子任务也做成了强制引导。团队测到需要约四十分钟，与预期的八分钟相差很大。Euler 报告新版的 **D1 留存指标约提高 30%**。会上没有给绝对留存率、统计窗口和对照样本分组，也无法判断哪些具体改动带来了提升。他提到每天有数百名新玩家供团队观察，未给本项实验的准确人数。8 月 31 日的官方 1.17.0 日志确认了 Finding Your Feet 改成多段探索、战斗、采集和制作任务的背景。[Zeeverse 1.17.0 发布说明](https://zeeverse.com/news/1-17-0-release-notes) · [本期转录｜教程时长与留存](transcription/2026-09-10.txt)
 
 Euler 回顾入门设计时说，团队本想让玩家做完 Arrival 就自行探索。虽然串起来的教程超出预期，他仍报告 D1 留存指标约提高 30%。
 
-> **Euler**
+> **Euler** · [05:37](#t=337)
 >
 > “We ended up kind of forcing people into these, um, uh, sub quests. So essentially instead of like cutting down tutorial to like 8 8 minutes, we ended up ac- actually increasing it like 40 minutes.”
 >
@@ -20,11 +22,13 @@ Euler 回顾入门设计时说，团队本想让玩家做完 Arrival 就自行�
 
 ## 二、普通攻击回到一键选敌，野战里按奖励类型减少捡取
 
+[18:29](#t=1109)
+
 野生 Zee 战后，团队想让 **Spirit 直接入手**，将基础收益与其他需要玩家留意的掉落区分开。另有地图上的 **Corrupted Zees**，设计类似 Guarded Treasure Chests 的路上遭遇，击败后可给 Souls、遗物等。战斗动画改版曾让普通攻击从点击敌人变成先选普攻、再选敌人。Euler 希望把普通攻击恢复成直接点可见敌人，保留特殊技能的选择步骤。至于锁定镜头，会上没有近期改动安排，Euler 称未来若做，可能会考虑能自由调整方向的镜头。步速、动画速度也只是好手感的候选改动。
 
 Euler 说战斗动画改版后，玩家得先按普攻按钮，再点对手。他接着说明在什么条件下可以省掉第一次点击。
 
-> **Euler**
+> **Euler** · [18:29](#t=1109)
 >
 > “If you want to direct attack, you can just click on a, ju- just click on opponent, and if the opponent is in your visible range, you won't be required to do essentially two actions too do an attack.”
 >
@@ -34,11 +38,13 @@ Euler 说战斗动画改版后，玩家得先按普攻按钮，再点对手。�
 
 ## 三、第三章预告 The Ship 和 The Wicker，旧 Mr. Block 宝箱要等装备槽
 
+[28:27](#t=1707)
+
 Jackal 在会上放出两座地下城的选关画面。他预告 **The Ship** 在末段设置一位 Boss，**The Wicker** 则准备让两个 Boss 同时出战，配套双目标机制。Boss 图当时仍在做绑定等工作，现场没有公布。高等级 Zee 可能很快刷过基础难度，因此还讨论了 **Prestige**。设想是在主线 Campaign 完成后，通过小任务或互动解锁旧地下城的高难版本，沿用原来的 Boss，提高难度与奖励，并考虑第二档类似 Nightmare 的 **Prestige+**。Forge 每波 Boss 更大更强是团队试过的相关思路。高难版本仍是设计讨论。[本期转录｜副本预告](transcription/2026-09-10.txt)
 
 看过两座新副本的预览后，讨论转到高等级队伍可能快速打过基础难度的问题。会上设想通关主线后才能解锁 Prestige。
 
-> **主持人**
+> **主持人** · [28:27](#t=1707)
 >
 > “And prestige mode will give you a chance to go back into the dungeons, uh, into the old dungeons, and they won’t play out exactly the same, uh, but the bosses will be the same. But everything will be at much much higher difficulty level.”
 >
@@ -48,17 +54,21 @@ Jackal 在会上放出两座地下城的选关画面。他预告 **The Ship** �
 
 ## 四、Heist、锦标赛、旧活动道具和 AI Mask 的问答
 
+[12:51](#t=771)
+
 - **Heist 和多人内容**。恢复 Heist 的方向仍在，当前每天的开发分配优先处理新手体验。Euler 把社交、多人玩法、新 Campaign 和更往后的进度作为首日改善后要接住的内容。玩家问锦标赛时，Jackal 说游戏改动很多，赛事状态还需检查，可能要重测，短期没有恢复排期。
 - **Shells 和 Belt**。两类旧物品仍属于活动历史资产，团队讨论过用途，当前未排高优先级。Euler 提到更换个人头像、买入 Mask 是自己的行为，用来表达对收藏的态度。相关玩笑和昵称不能用来判断未来机制或价格。
 - **Mask 搭配 AI Agent**。Euler 说在 FOREST 实做 Agent 后，更清楚让 Agent 在游戏中持续运转会有 API 成本，也要解释清楚它给游戏增加什么。部分低操作频率玩法或许可探索，会上没有可确认的启用模式。[本期转录｜锦标赛、旧道具与 Masks 问答](transcription/2026-09-10.txt)
 
 ## 五、FOREST 公布 Forest Studio，先接 Mac 上用户自己的 AI 订阅
 
+[38:56](#t=2336)
+
 Euler 上周在台北 Mr. Block Summit 介绍 Forest Studio，这次跟社区讲了首版设想。网页 Builder 由平台调用模型 API，用户为生成消耗积分。Euler 用约 20 美元的 API 成本举例，说明创作者会觉得做一次简单实验太贵。团队当时正在测试的新 **Forest Studio（Forest Harness）** 放在本机运行。会上的下一周目标是先给 Mac 版接 OpenAI 账号，让已有 AI 订阅的用户用自己的额度。所谓“免费”针对免用原网页 Builder 的平台积分或另付其 API 成本的设想，现有订阅仍有自身额度与费用，链上发布也有流程与网络费用。
 
 Euler 用一次简单实验可能花约 20 美元说明网页 Builder 的成本，再介绍 Mac 版目标。这里的免费以用户已有订阅为前提。
 
-> **Euler**
+> **Euler** · [38:56](#t=2336)
 >
 > “We will be releasing next week this harness that you will be able to use on your Mac, and connect, you will be able to just connect with your, uh, OpenAI account. And use your existing charge of the subscription. So in practice, you will be able to use the currently best available models essentially for free.”
 >
@@ -68,11 +78,13 @@ Studio 计划提供项目管理、修改不同模块和 Tokenomics、查看源�
 
 ## 六、Remix 想让原作者拿到手续费分成，跨链看生态支持
 
+[47:18](#t=2838)
+
 Euler 提出的 **Remix** 是从已有作品继续改规则、换品牌，原作可以有后续收益。他用 Gold Miner 和 Diamond Miner 受到玩家讨论的经历说明，玩家最关心的有时是改几条规则。会上举例，衍生作品做成后，原作者可能获得约 **5% 的手续费分成**。他说的是衍生作品手续费的一小部分，会上没有形成正式费率表。有人问为何不从头做以省去分成，Euler 承认可以独立开发，认为 Remix 的路径靠节省重复工作和支持原作者来吸引创作者。大量衍生作品产生以 $FOREST 配对的流动性池，是他描述的增长设想，尚无按该机制运行的数据。[本期转录｜Remix 问答](transcription/2026-09-10.txt) · [$FOREST 与 Seed Economy 官方文档｜经济机制背景](https://forest.inc/docs/whitepaper/forest-and-seed-economy)
 
 Euler 先提到 Diamond Miner 和 Gold Miner 已引发玩家讨论玩法还能怎么改，然后用一笔改作产生的手续费举例说明原作者能得到什么。
 
-> **Euler**
+> **Euler** · [47:18](#t=2838)
 >
 > “If you succeed, then then small, more small percentage around 5 percent of the fees will go towards the original creator, which then inspires people actually build cool stuff, even if they don’t have a big strong social following.”
 >

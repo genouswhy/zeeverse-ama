@@ -1,1 +1,673 @@
-And then we've basically found a way. Oh, you just uh turned on the Craig. uh,Yeah, ha ha ha. Yeah, I mean, I mean, I think it's really cool that we found a way how we can um. uh, use the content and and and the stuff we are building for onboarding, and translate that into also a late game experience uh for existing player base. Which uh which is which is really cool, because that's uh another boss, another cool thing to do, and it will offer uh boss unique drops. And I will have uh few very uh interesting mechanics. So, think of him as uh some sort of like a Vulcan style uh encounter. So, um, yeah, I mean. That's that's the, uh, that's the small alpha. So so, uh, uh, how, from a player's perspective, obviously aside from the UI rework, uh, this tutorial launched what, as you know, and as existing Sievers player, what can I expect from the development pipeline? uh, How, uh, like, how will the updates look for me? And you know, naturally, uh, when uh when can users like look to expect? Some more endgame content, which uh are the quests we're also working on. Is, you can you could you sketch out this timeline? You know, oh. I mean, it it's all gonna go like one one thing after another. So, we're rolling out tutorial, then shortly after, we are rolling out uh the first uh. uh, First pieces of main campaign that follow right after tutorial. uh, Which is cool because um this will change the way how regular dungeons work. And even for all of our uh player base, they will find something new to do. uh. It may be that the the dungeons themselves, you won't find a big challenging them. But um I mean who who can say no to the good quest? And and this is something that will uh all of the players will uh. Encounter, and also one of the really cool things about main campaign is that uh I I see will be restoring the totems. uh. Have we mentioned this? Have we mentioned the totem thing? uh, No, uh, no, no. OK, I I get, I guess I can hint that that during uh the campaign, you will also um. Encounter and get to interact with a new mechanic, and and this will eventually uh turn into a way to traverse the world much faster. uh, By Call of Duty King, and it just generally will give more life of quality improvements for everyday player, because it will just become way more convenient to travel the world. And um yeah, so all I'm saying is uh even existing players will find the main quest very valuable and quite fun experience to do. and once, yeah yeah, now, to just just to expand expand a little bit on what you talked about, uh, upon restoring these totems, you'll be able to traverse in between them. However, uh, obviously, we're looking to balance this, because as you know, a free to play campaign versus the endgame quest. For example, the great tree offering, or like Doom Ber teleport offering traversal options, we're still looking into the balance of these teleports, not to make them, you know. uh, Too overpowered, uh, and this is not, may- may- this might be done, and you know, just throwing things out here, this might be done through, you know, some. uh, Whether that be coins, time, or you know, uh, your disease, ha ha ha. uh, Yeah, I'm probably not your disease, but uh. Make a good, make a good. OK, uh, so, and and yeah, and as as we are like rolling out to the parts of the main quest, you'll be able to join them, and on the parallel, there is like these two. New quests also being worked in, we have uh I think uhMost of in game market for for uh non-geks listable items are also uh related, uh, sorry, uh, in in in in development, and most of the stuff is actually. Already, uh, what we what we are waiting is the UI re-haul, where um because like the marketplace also needs to do, needs like updated UI, so um. will be able to roll out the the new marketplace in game, where you can trade uh any any item you may have, uh, which. may not be uh listable on the geeks. So, for instance, if you have like some some legendary armor or some soul sh- let's say uh shield of souls. uh, You will be able to list it in game marketplace for the B token. And will act almost similarly as OpenSea. uh, Just off chain. So that makes, and also and also you will be able to list your Zs inside the game marketplace. Which is very cool. uh, Emoji NFC, I need more, yeah, that's a that's that's that's a really good point. And For our uh maybe way more sophisticated users, there's also one more pretty cool thing which we are working towards. uh. I'm not sure when we will be able to release this tool publicly, but we will avenge, like we will have um. Of chain gags, the API API, uh, endpoints. So, that means, uh. will eventually open up um the off chain gags um to be programmatically tradable. So that means if any of uh like our player base wan- will want to build like a bot that. uh, That uh. as dark trade energy potions, or swing trade energy potions, you will be uh able to build build these tools, build these trading bots yourself, and I I I think that's very very important for having a Really good price and stable liquidity. uh, So, uh, yeah. You know, some people may have like negative notion towards trading bots, for example. So, I don't feel that anyone would have any uh negative. Because, I mean, for the Onchain games, uh, anyone is free to go in and do whatever they want, they can run, I mean, it's all public. So, uh, what we, what we think makes more sense, if we want to enable people to uh manage liquidity, manage prices between uh on chain and off chain gap. uh, Then then we kind of should give uh tools for people to do that. And and at the end of the day, the more the volume there is, the more utilization for existing liquidity there is. uh, The more uh healthy the marketplace becomes, so I I I think this is gonna be a just um. This is the umIt's not for every player, for sure. It's maybe not even for for for players, but uh I know there is people inside this year's community who will find this quite Quite valuable and handy. Some of them are in this voice chat already. uh, Yeah, most of them. We have we have quite quite a bit of very savvy users. uh, So, uh, uh, yeah, uh, so question from the y r uh is what will be your top priority after developing the new player guide, and how much time are you all allocating for it? And uh after we complete the tutorial, we are full steam ahead onto uh the mid to endgame content, which includes the great tree and the forge boat quests unlocking uhNew items, new areas, new methods to travel. and one of them unlocks the Vulcan, and the other one unlocks a world boss, which will be a multiplayer experience. So, uh, quite big content coming on there, and uh uh yeah, I I don't see anything, uh, you all correct me if I'm wrong, I don't see anything in the development timeline clashing with it. so, it's gonna be. uh, Onboarding experience done, and then it's all about the content. I mean, we will be just, we wanna, we we need to make sure the new players and existing players uh have more and more fun things to do. uh, 'cause that's ultimately the goal. um, So, yeah, we are um kind of ex- expecting to um. Quite, get quite um. OK, probably it's not gonna be very quickly. uh, It's still, it takes, it's still all that takes, and almost a force. uh, But, yeah, I mean, it's uh. We constantly wanna make game better, more fun. uh, And and and that's what we are allocating your time, for, I mean. Yeah, I don't I don't I don't, like, right now, we have allocated everything on this, so, after this, obviously, we allocate everything on on the next thing, so, uh, pretty straightforward. Very cool. uh, I guess, uh, you know, uh, so, some part of the development team, I guess, will still continuously uh uh adjust based on, you know, uh. Ada, uh, I just did tutorial, but these are small changes, and uh no reverts. uh, All right, uh, one more, and this, uh, this is a big question that uh sparked quite a big of uh conversation, and this kind of, like, takes a different to the forest side of the things that just feel like it's important to uh for us to. address. uh, It's part quite a bit of good, uh, conversation regarding the 7 million uh forest token stake. I believe you offered some insight into the chief council, but Perhaps you can uh uh you know talk about that a little bit, cause you know, uh, if we leave users to the imagination, then uh uh. uh, Just goes to the dark places. hmm, Surely, uh, you meant the the forest taking or? Yeah, the 7 million uh forest that uh was taken. Oh, yeah, yeah, we we actually uh had a brief look in that. Um. And uh we basically found that this is user or group of users uh traders who apparently bought the token uh uh. A few months ago, uh,And uh yeah, apparently, uh, it was decided to lock it, which um. I personally find quite good, because if if if if this amount of uh tokens are locked away, that definitely helps um for a price in the future. uh, And and yeah, I I I could I I could see how other players obviously, when you see uh low lower APY per token staked, nobody is happy when more people are staking. But generally, that's how the the system is designed, and the APYs is there to attract theuh, More people to stake, and and I think for sake of protocol health, uh, I would love to see the. like, the APY dropping more and more as more and more people will stake, anduh, So, I mean we already had a bunch of uh very um painful lessons uh throughout the zeevers. So Oh, learning from those experiences, I think uh the more conservative it gets, as the time goes. The m-, the better it's for for for longevity, and and and health of protocol. So, that's basically, I I can I I can see and say. So, um, yeah. And uh actually, regarding the forest, uh, I also do have bunch of few update, like a bunch of updates. So, maybe later when we shift uh in a in a forest topic. There is a bunch of cool stuff I could share uh as well, I think it's cool. I I I guess we can bundle it up, and then uh let some of the ziva's questions flow in, and then uh revisit ziva's towards the End of the call, yet again. Then we have like this nice little uh hamburger. So, uh, let's talk forest. uh, What's on your mind? uh, What's new and what's coming? So, what's new? uh, There is bunch of new stuff. So, one of the new stuff is we completely reworked all the platform, user experience and user interface. So, um, I can actually show. Could show something. One second, I'll just find a nice page to give. An example for design, let's say. I'm just looking for one. I I can, yeah, I can share um. Screen shot from. One of the pages we do have here, so people can get idea. So, we will be reworking this, and um. It will look much uh smoother, much more streamlined experience. I mean what we wanna do is to build a really um. Basically, we wanna build the best tool on the market when it comes to this. So, we have a super good foundation, uh, and and now we also will have a really A sleek user experience for this. uh, So, we did a lot of work there, and this should come live next week. Along with that, there is a bunch of new templates rolling out. uh, So, we'll be uh starting to support. uh, HTML 5 labels, so that means uh anyone will be able to upload their HTML 5 uh game or app uhOn top of the coin, and I think this is a really strong narrative that's uh starting to build up. where uh as the AI advances, and the AI generation becomes uh more and more streamlined, I think this is going to be like the perfect format. So, uh, and that also means uh we will be adding right after HTML 5, uh, support, uh, inbuilt AI game builder. So, you will be able to basically describe what kind of app you wanna build, uh, when you're creating the coin, and it will just magically do it, and um. And obviously, uh. Obviously, I mean like there is a lot of like challenges around that, and I think uh seeds will have, will find a really cool and good utility here, because we'll uh we'll most likely use the seeds as a currency. uh, For for uh a prompt generation, and and a way to to kind of limit uh the usage of the tool, uh, but yeah. Really, I think that's really cool. So, we'll start to see a lot of interesting creations, and when they will be combined with all the different possibilities, uh for the toy, uh for the coin, uh token design and economics. um, I I I think it's kind of um. Bring com-, really really interesting new experiences, yeah. So, uh, that's that. That's that that's that's kind of the alpha. uh, I can drop here uh right now. uh. There will be bunch of other cool things. I think I mentioned um briefly on one of the previous AMAs, we also do have uh seed vaults. So if you uh check the screenshot that I shared You actually see there is a Walt. A-Available, and and Walt will uh. Be this a hub where you can use your seeds to join the auctions. uh, We'll start with the forest token air drops, so you will be able to use your seeds. Joint auctions get a share of this. This won't be just like a one time event. This will be hmm ongoing effort where we'll be like running multiple of those campaigns. And in between of that, we'll also be uh starting to include some Some coins and tokens from the partner projects. So, uh, not only you will be able to get Forest for your seeds, you will be able to also get other uh o- other project tokens uh from this. uh, I I guess I have uh you know, n- not like a speculative uh question, but uh you know, uh, I know it's it's on somebody's mind, and you know, can we like piece together. and. You know, next era of uh uh. I know, like, this goes together with like Zeevers, uh, uh, Playtour and campaign, the face four, and, you know, obvi- obviously, it's like two things happening at the same time, and What have we, and if that's something like we can reveal. what have we planned for the face for air drop for the forest? 'Cause obviously, with the air drop, uh,There must, you know you know, we're not just like dropping the forest, it it should come with. I mean that this is exactly how it's gonna be handled, we're gonna use the seed walls, and this this is going to be like ongoing auctions. Where uh users will be able to get. So, and because right now, it would be suicide to generally just air drop tokens, right? Yeah, for sure. It it it it would be like uh tha- that would be game over, that would probably be game over, that would be uhBig red candle on a chart that uh at this point will probably. uh, OK, that's that's that's uh that's not a good good good way to do it is. uh, And and that's why uh we have a seed vaults where we will be handing out these air drops for the seeds, as ongoing thing, and I also think it's really cool because it kind of keeps um engagement active across the platform. Because there is al- constantly something happening, and uh lower the DPY for the next four stadium. I mean hmm. If you would do the forest air drop uh in this way, for sure, many people would stake, and that would lower the air drop uh A P Y as well, but. I I I I guess what I was what I was like more inquiring about is uh uh what's the, you know, what's the product we're like uhuh, focusing the air drop around, like, uh, what's the state of the product? Oh. uh, This will be generally like the, hmm, if you ask like what do we need to start doing this. Yeah, uh, right now, it's just about like building on the functionality, and we'll have like this closed loop, uh, where we will be. Why are is like a uh is a uh again going? What a, what a, uh uh uh yeah, what happened? uh, He yeah, he's not here anymore. He was uh, still alive. He's he's still alive. uh, We we basically found uh. For a better candidate for this job, and um. And and that that's basically what we've been doing. We've been working on uh with some new team members on running uh on building the seed vaults. And seed vaults will then power this this essential loop where we'll be uh. Running uh trading competitions, uh, together with like new coins and new projects launched, and and then we'll have like theseuh, Constant seed auctions where people will be able to use their seeds to uh exchange them for the token. And uh and we plan to have them ongoing, uh, very. I I would say with really high frequency. So, this this is generally the plan, and once we have all these moving pieces in place, we'll start moving there. uh, So, uh, so, yeah, that could be uh. All right, and I think I saw Cherry typing, perhaps she can address the wedding competition final winners been announced. uh, If, yeah, if Cherry could provide more context in regards to that or Yuler. 'cause I haven't been, uh, I've been, you know, uh, neck deep uh within the new uh new campaign. I haven't been uh tracking uh the trading competitions. uh, Medium, I I think we have to ask uh Cherry for this, if there is something which was not fully covered, uh, then then for sure it should be covered. So, I I I think Cherry can check uh check on this. uh, Yeah. Uh, Alright, cool. Um. Uh, Yeah, um, so, guys, uh, any questions in regards to this? I I I think I've uh co- covered, you know, some of the, uh you know, hard hitting and very inquisitive questions. uh,uh, That we get a lot in the chats. um, But, yep. uh, Yeah, I I I I I I think it now all kind of starts to fall into the places. uh, So, um. uh, I mean none of these things are easy, but seeing uh again, we did like the. uh, We again did everything the hard way. We built like actually good foundation uh for for our AMM, and now we can like just start add uh cool stuff on top of it. And first will be able to reward community uh with the seed vaults. uh. Way more uh flexibility over designing the coins, and uh and also full flexibility and AI to build your own uh playable experiences. So, um, I think it starts to look really, really good. So, uh, yeah, I winning from uh uh ten to four seat training. I think we should uh jaguar, I I have idea, uh, maybe we could do like a small test on this. uh, You come up with the the price fund. Maybe we can do a mask or some NFT, maybe some token. It it's up to you, you figure it out. And we could do a trading competition on with the GEX, on the GEX. On the GEX, yeah, we can do trading on uh let let's go for off chain GEX, so, it's way more accessible. And and um let's let's let's build like a small test competition. Let's build something for for people to do, uh, something fun. Let's allocate some rewards, and let's give it a go. I think this could be really really fun, uh, and and. I guess I guess uh uh you know some some uh some comments in in regards to that, uh, currently, the gax uh doesn't show, like, you know, the owners of the transactions, and uh will, this competition would also introduce them. And how would you like a uh show the leaderboard? Just so, it's not, just so, for the people, it doesn't feel like a closed door uh thing, it was like, oh yeah, no, this guy won, trust us. uh, Like like if we wanna do this rapidly, and not to really uh interleave with the. With the development plan, which I think we should do. uh, Yeah, I mean, we need to handle these things. Maybe not in real time. It would be fun in real time, but but uh the downside of that, again, we would need to wait like one or two weeks for this thing to be actually building a game. However, on the other hand, we have like dedicated analytic ops. uh, We can do like uh easily daily report, update daily leaderboards, and and just post them on the Discord. So, uh, I don't think it's it's that a big deal. uh, And if you see, OK, this is a pretty cool thing happening, fuck, why not? Let's let's build like a leaderboard system inside the exit, uh, itself. uh, But let's just not over engineer it. uh, Let's let's start simple. I mean, not over cook it. In that sense, we could even start the the the trading competition today, because we don't need anything. From the dev team, we just need the data. So, um, I'm just throwing a ball. uh, And if community thinks this is something fun to do, and if Jackal says yes as well, and he's willing to Or I mean, I'm like putting you in the situation where you can't say no anyway. uh, Like, if you're willing to create something, you're like, I don't know. uh. On the record, there has never been hmm anything, I've said no to, even it comes to working on this. ha ha ha, We're just cooking. uh, I'm, I'm, I'm, but yeah, no, yeah, totally, let's do it, let's talk after the, let's talk after the call, call after, after the call, about the details. I'll ask some assistant from Cherry and uh. uh, Hallelujah. Is it really worth wasting time on this? uh, Dude, it's, it's, uh, ha. I'm, I'm, I'm, I, like, bro, I think we're gonna just ban you from this community. I think you bring so, every time, every single time. There is something new, you always find the negative angle for this. Like literally, every single time. Anything that comes out of you is just a negative lens. So, I think the wisest thing would be just literally to ban you from this community. That's my proposal, because like genuinely, we just came up with, like, everybody is constantly saying, oh, we don't have anything to do. Why why are you focusing your time on like building tutorial, doing these fun things? Now we say, okay, we found it, just literally figure out a way how we canuh, Give something fun to do while we are working on this, and to the others, just like fucking finding uh every single negative angle. And if we would just scroll and find The history of this, uh,I would, like I mean that gives us an idea, an image. So, bro, fuck off. Yeah, we can we can continue from there. I mean, like, it's. Yeah, uh, oh, uh, other won't agree, but this is, yeah. Yeah, uh, we've been we've been timing out a couple of people that that uh do come into the ziver's game, and like, why was I muted? And it's like, if you look at the search history, it's just negative things. But guys, we've been incredibly lenient towards criticism, and uhuh, Yeah, but I don't think I've heard anything new, uh, for like months. And obviously, we haven't introduced anything new, but uh you know, uh. If you're criticizing, let's keep it original. uh, Let's keep it fun, uh, and let's keep it uh, you know, if not positive, then you know, neutral and objective instead of uhJust uh uh you know spinning the same uh same negative angle. cause I don't, uh you know, I guess uh I guess from my end, it's it's like uh what is that going to accomplish? Cause you're like uh in mask chat being incredible negative, and then going into the market chat and trying to sell your inventory, and then it's like. Anyway, uh, uh, I'm like, uh, I want, this is actually not criticism, this is a pattern we see, like, literally happening. Like I get, like, we can, we could pull up the chat uh with all the messages in the history, and that would illustrate that, uh, this is not about the criticism. I think we've been Incredibly lean, like Jackie said about criticism. Incredibly lean, uh,And uh and and this is just yeah, uh. I guess this is part of every community. uh, All I'm, all all all all we are doing is just kind of calling it out and saying what it is, uh, as of now. But that doesn't change the fact that we want to build the cool stuff. uh, There will always be people who are not happy about some some things. um, But then again, there is a lot of people who like, really love what we do, and uh yeah, I would love to focus more on those people. I I I guess and uh you know, just to just to add the final comment. uh, This is about like what's going on now. uh, Guys, I haven't met personally banned anyone during the, neither the harvester, neither the weikari right, where you know I was the main focal point of you know, our uh our our good friend YR here. uh, As as well, uh, we take it, we are so light with the criticism, but uh. This is not criticism. uh, As Tyler said, uh, yeah, uh, anyway, I I think we've spent a quite quite enough of time on this. Back to the uh trading competition. uh, I mean, you are gonna have a quick talk, uh, figure out uh what could be a fun fun angle. uh, Is that all items, is that uh some of the items? 'Cause you know, the liquidity changes and. uh, We're gonna figure out a cool way to approach it. Yeah, if if it's a hit between you guys, uh, we're down to run it back, uh, run it back on, you know, uh, weekly, by weekly, monthly basis. uh, hmm, Our data team can literally export the data, and we can just, you know, wrap it up nicely, nice and neat for y'all, and. Yeah, some something to do. uh, Also, uh, guangguang said I I'm winning 10 floor seat from talent competition, and you know what, it came to my mind like farmers market. Like, uh, obviously, we only have four seeds now, but with time, we'll have a lot more seeds. And I just, it, it, and it's such a s- simple and small thing, but I just found it so cool that there would be like these NPC uh shamans coming for in Example, Sunday, and like trading. for example, 10 sunflower seeds for one 10 to floor seeds, it just like random rates, and like they're like rapidly changing, and uh you know, cause seeds were a currency in an uhuh, In um. indigenous times, uh, just, you know, uh, quickly, uh. Quickly putting it out. Yeah, yeah, totally. I I I I I think we can um uh we'll we'll definitely figure something out uh on this, and um uh but but yeah, this is just like these, some really simple things we can do. uh uhAnd and yeah, let's let's let's try. Maybe maybe there is a cool thing around this, and uh we can turn it into actual in-game feature. Or like e- every every week's trading competition, or every month's trading competition inside the X. That definitely would help uh a bit of economy. Well, have to think, maybe we can start with really simple things, such as like, most traded volume. uh, But that kind of may not be. Maybe it's a good thing to start with, just to test the waters. uh, But I think eventually it needs to be something a bit more sophisticated, so there is like uh some action happening there. I don't know, you could try to track to PNLs. Or or or we can do something something else where you need to like like open your position and kind of hold it. uh, I mean, we'll we'll we'll uh figure it out, so. uh, So, yeah, uh, uh, chefs, que-, uh, so, just, you know, to address two, two things here, uh, going to the chat, uh, chefs, uh, chef's message, when someone in the villageuh, the totems, uh. one of the totem will be in proximity of a Samuel, so you will get uh out there. Second of the thing is I'm giving uh both a manca and why are. A week to, you know, uh to uh to take a take a take a breather. uh. And you know, I'm fine uh I'm fine taking taking the punches, but uh. Talking to your fellow shamans like that. uh. uh, So, you know, take a week, uh, see see you in a week, and you know, uh, talk then, you can still uh see everything, interact, but uh you know. uh, I'm uh ha ha ha, okay, I I didn't I didn't thought you gonna pull this, but no, I'm I'm I'm taking all the punches, but uh I w- one thing I advocate a lot for is uhuh. Respectfulness uh amongst Germans and um. uh, Yeah, I'm I'm used to the punches, but do not be drawing to your fellow shamans and fellow people that uh are passionate about uh uh zivers. So cool.uh, That's that's from me. OK. uh, yeah, so where else do we have? uh, uh, see, I told you we need more emoji. There are more emoji coming, uh, and uh you know, uh,We're obviously, we are a space aware, and we are not uh we're gonna add some, you know, spicier emojis, cause you know, uh, hey, uh, some uh some salty emojis as well. But uh yeah, uh, actually, you know, we've talked about this in the past. uh, It's it's obviously hasn't been a high priority. That's why it's coming so slow. But we are working on the social loophole that will come withuh, NFT, emojis, uh, and uh with new amounts, and uh some legendary lots, uh, that will not be, uh, that will not be Equi- equipment. as you know it, but uh something cool might be coming uh in those slots, uh, but uh generally, the idea behind the social loophole is that obviously, uh, we can give it away in like Discord. the Discord giveaways, uh, uh, but you will only be able to acquire it through theuh, A voxel store, and it will be tradable, but uh we won't be selling it, you you'll be only getting it through the voxel. So, essentially, you guys will be, you know, by your activity creating the supply of the social token, but which like literally. uh, I think it it creates like full beautiful uh game slash Discord loop. uh, uh, But uh yeah. That's something on the way. uh, Cherry, uh, me and Cherry have been working on working on it. um, But, um, yeah, cool, uh, something like that. All right, we are slowly approaching the our mark, so uh uh you can uh you can uh uh huh you know throw in a final final final questions in, uh, and. If not, we can look to wrap up soon. And Reef joined us. Hey Reef, we just started, man. Hope you're having a good day. uh, You, we have an uh whole LA in front of us. ha ha. uh, When can I get lost in this? This is classic. uh, haha, I wanna try using my three D printer. I I mean, Chef, uh, I guess you gotta learn how to model up. So, I don't I don't believe you're I don't know, Yuler, would we be willing to share uh uh models of our disease? um, Not so sure though. Yeah, uh, I think we can for some, uh, for, I mean, if if if you wanna like 3D print something, and you have something really specific in mind. Reach out to us, I think we canhmm think of something cool. umYeah, I don't I don't think that's that's a big issue, and you? Yeah, uh, just reach out, uh, and we can figure something out. I w- uh, I wanna. I mean, I I I gotta I gotta ask uh the chef's question, cause uh you know, on this hand, when plushies, uh, what do we gotta do to get uh the Ziva's plushies? Not the ones like we have in the office, but you know. Maybe maybe more like life sized. uh, I guess we would start with like one plushie only. But uh is that something we might consider? I think I I like, the thing is, the research is so cool, uh, we consider everything, right? Like, I would love to have like a dedicated team, which just works on the on the plushies and merch and stuff like this. I mean that would be very very cool. uh, So, yeah, we are we are considering many many things. Obviously, right now, our priority is to get the game in really good shape. So, this is where we are putting all of our effort, uh, that that makes our IP just stronger and cooler, and I think um uh we'll probably find a partner, or just look and build a small team that in the future takes care of the All all the IP stuff. uh, and and yeah, that would be very cool thing for for for people to have it. I mean, uh, I love to wear Ziv's merch, and like constantly wearing this shirt, and on disconnect. uh, We have a bunch of cool stuff. I mean, I also do have like uh the wooden box. uh, I have a, let me find, please take this. uh, I can show you here. This is. He was censored, ha ha ha. It's censored. I have this guy all the time sitting on the table. uh, So, uh, yeah. I I I I don't think this is really cool. um, And and this by the way, guys, uh, I think there are, we sent bedrocks, we sent bedrocks a box. um, uh, With the the wooden box, and every wooden box have one of these, uh, have one of these like dongles. And and some Ziver sock and some other merge, but I guess the main thing is this this figurine and uh and the wooden box. So, um, that's That's one of the coolest merch exclusive sets we have. um. So, uh, who knows? Maybe maybe we'll send another box for for some big competition someday. uh, To one of our players. It's co-, yeah, it's collectible. For for you to know, it's really collectible, because there is only 25 of those. In total, there is only 25. Every every box has its own serial number, and uh and there won't ever be made more. At least like these, uh, so so, yeah, we are. Am I the twenty fifth player? Maybe you are, maybe you are, maybe you are, but we'll, ha, uh, we'll see. But all right, uh, so before closing up, I wanna uh repeat a conversation we had in the beginning. uh, Mainly two reason, two, because of two reasons. First of all, we're doubled the people here, and second of all, I didn't turn Craig on when I first said, when we first talked about. uh, So, uh, next week, we are aiming to release the first part of the tutorial, uh, that will end up with uh introducing you to the main, like main story setting. uh, And onboarding, offboarding you off at the Zama, and you know, free range from there, for now. uh, Second of all, we're doing a full UI recall. Everything changes, like I'm telling you, everything. But uh for example, banks getting longer way to recall. Like uh you know, cause currently the bank is uh uh nothing short of uh a misery. uh, But uh the new bank is uh uh will change the experience by a ton. Yup. uh, And uh you you know uh a couple quick words uhuh, For the updates that come afterwards, after we release this, we are immediately working on uh the first two da-, first two dungeons that will take part uh through the main campaign. And we will be releasing this in like these modules where we also get to test uh the data. uh, From incoming users, and uh yeah, after uh after we are done with main campaign, full uh full steam ahead with uh great three forge, and various other uh uh new content that has been uh um uhWaited for so long. uh, So, that's like a quick recap of uh the first half of the call. uh, Yuler, yep, uh, any, I I mean I can just agree, and I I almost forgot about like how many, um, how much. Whether. It makes the reverse, when it comes to the new us- user interface, because uh when we were working on this, we fix so many things that Was just bad design, and one of them was like banks. andhmm, And your stash, and I mean like everything will feel much much smoother, and more usable, and I mean it just. It just looks cool, uh, and it works much better. So, um, yeah, this is this is pretty big, and I'm I'm a pretty big fan of. of of uh having this out as early as we can, so, anyways, um um just wanted to add a bit on top of that, I'm kind of bit rumble- rumbling on this, uh, already feel So. um. So, yeah, I guess we can maybe wrap up. uh, If you have anything else to say. Yeah, just you know, the closing thought I wanted to offer is, uh, guys, it's obviously, it hasn't been silent months within like the o-office we have, cause we've been likeuh, Working heavily on like getting this new player experience. cause obviously we need the new players, we need them to stay, we want our million players, uh, we want the zeevers to grow. Incre- incredibly, we need the new player. We we know it's been silent for you know, uh uh everybody that's passed new game, uh, and We can't wait to, you know, get the new content in your hands. And, you know, after all this time, we still have all all of you coming to the, coming to these calls. uh, listening, talking to us, and we really appreciate that, and uh yeah, uh, uh. Let's get it. uh,And I just wanted to say uh thank you, and you know, show my appreciation towards you guys. So, yeah, uh, also, one more thing, um, we will be raffling out uh two Premium passes after the call, but uh yes, ha, cool. OK, very cool, thanks guys. uh, Actually, way more people showed up as the, as may went on. uh, I think we'll, uh, usually, like gets into the flow, and then like everybody joins, uh, but yeah, de- definitely diminished people, but uh you know. uh, 30 34 has been like the average we've we had like, you know, I think a year and a half ago. So, um, uh, and still the same community showing up and like. After all this time. Very cool. Yup yup, I I think that's a that's a really, that's a good signal. I mean uh we need to spice things up, so some new stuff starting to drop soon. Um. So, yeah, uh, very very very very cool time ahead. Thank you guys, thanks for showing up. uh, Always love to chat with you guys, and see you next week. Cheers. Thank you. uh, Guys, you can stay here for for a while. I will uh raffle out three, one month premium passes towards uh people that were in the call. uh, I'm just, you know, asking uhAsking uh a fellow large language model to spell out all of your names. uh, And uh yeah, let me quickly share my screen, and uh yeah, I can't. hmm. Oh, I can. we in business? We are in business. All right, so unfortunately, we have to remove Cherry from this list. Unfortunately, we have to remove Craig from this list. Unfortunately, we have to remove Balsam from this list. uh. I guess we are in business. uh. Yes, uh, all right guys, so so 31 people, uh, three, three spins, uh, winner get one month premium passes, to claim the one month premium pass, uh, please open up a discount ticket, claim it that the raffle reward. you will be provided the code, if you do not claim it, you willuh, Not so, not get it. So, trolled and tracks, uh, gain, gets the first one. Congratulation. Uh, Next up. Void E, uh, congratulations. Oh, who's also I know it's strangers that are only for the YouTube. Ha, this one this one we just like do it, ha ha ha. But yeah, um, and the Z and 2020. uh, If you have, if you are a holder of um uh Genesis SoulChard, uh, then you can Give these codes to your friends, uh, family, loved ones, or me. um, Cool, um, once again, um, thank you guys for uh joining today's call. uh, I will see you most likely next Tuesday, uh, on Jackal's Ziver stream, as the world's first Ziver streamer. uh, Otherwise, we will see you next Thursday at the community call. So, thank you guys again. uh, Love you and uh yeah, uh, see you, bye bye.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+And then we've
+
+[00:01]
+
+basically found a way. Oh, you just uh turned on the Craig. uh,Yeah, ha ha ha. Yeah, I mean, I mean, I think it's really cool that we found a way how we can um. uh, use the content and and and the stuff we are building for onboarding, and translate that into also a late game experience uh for existing player base.
+
+[00:26]
+
+Which uh which is which is really cool, because that's uh another boss, another cool thing to do, and it will offer uh boss unique drops.
+
+[00:38]
+
+And I will have uh few very uh interesting mechanics. So, think of him as uh some sort of like a Vulcan style uh encounter.
+
+[00:49]
+
+So, um, yeah, I mean. That's that's the, uh, that's the small alpha. So so, uh, uh, how, from a player's perspective, obviously aside from the UI rework, uh, this tutorial launched what, as you know, and as existing Sievers player, what can I expect from the development pipeline? uh, How, uh, like, how will the updates look for me?
+
+[01:14]
+
+And you know, naturally, uh, when uh when can users like look to expect? Some more endgame content, which uh are the quests we're also working on.
+
+[01:27]
+
+Is, you can you could you sketch out this timeline? You know, oh. I mean, it it's all gonna go like one one thing after another. So, we're rolling out tutorial, then shortly after, we are rolling out uh the first uh. uh, First pieces of main campaign that follow right after tutorial. uh, Which is cool because um this will
+
+[01:52]
+
+change the way how regular dungeons work. And even for all of our uh player base, they will find something new to do. uh. It may be that the the dungeons themselves, you won't find a big challenging them.
+
+[02:06]
+
+But um I mean who who can say no to the good quest? And and this is something that will uh all of the players will uh. Encounter, and also one of the really cool things about main campaign is that uh I I see will be restoring the totems. uh.
+
+[02:26]
+
+Have we mentioned this? Have we mentioned the totem thing? uh, No, uh, no, no. OK, I I get, I guess I can hint that that during uh the campaign, you will also um.
+
+[02:37]
+
+Encounter and get to interact with a new mechanic, and and this will eventually uh turn into a way to traverse the world much faster. uh, By Call of Duty King, and it just generally will give more life of quality improvements for everyday player, because it will just become way more convenient to travel the world.
+
+[03:00]
+
+And um yeah, so all I'm saying is uh even existing players will find the main quest very valuable and quite fun experience to do.
+
+[03:11]
+
+and once, yeah yeah, now, to just just to expand expand a little bit on what you talked about, uh, upon restoring these totems, you'll be able to traverse in between them.
+
+[03:22]
+
+However, uh, obviously, we're looking to balance this, because as you know, a free to play campaign versus the endgame quest. For example, the great tree offering, or like Doom Ber teleport offering traversal options, we're still looking into the balance of these teleports, not to make them, you know. uh, Too overpowered, uh, and this is not, may- may- this might be done, and you know, just throwing things
+
+[03:47]
+
+out here, this might be done through, you know, some. uh, Whether that be coins, time, or you know, uh, your disease, ha ha ha. uh, Yeah, I'm probably not your disease, but uh. Make a good, make a good.
+
+[04:06]
+
+OK, uh, so, and and yeah, and as as we are like rolling out to the parts of the main quest, you'll be able to join them, and on the parallel, there is like these two.
+
+[04:18]
+
+New quests also being worked in, we have uh I think uhMost of in game market for for uh non-geks listable items are also uh related, uh, sorry, uh, in in in in development, and most of the stuff is actually.
+
+[04:40]
+
+Already, uh, what we what we are waiting is the UI re-haul, where um because like the marketplace also needs to do, needs like updated UI, so um.
+
+[04:53]
+
+will be able to roll out the the new marketplace in game, where you can trade uh any any item you may have, uh, which. may not be uh listable on the geeks.
+
+[05:06]
+
+So, for instance, if you have like some some legendary armor or some soul sh- let's say uh shield of souls. uh, You will be able to list it in game marketplace for the B token.
+
+[05:18]
+
+And will act almost similarly as OpenSea. uh, Just off chain. So that makes, and also and also you will be able to list your Zs inside the game marketplace.
+
+[05:30]
+
+Which is very cool. uh, Emoji NFC, I need more, yeah, that's a that's that's that's a really good point. And For our uh maybe way more sophisticated users, there's also one more pretty cool thing which we are working towards. uh.
+
+[05:50]
+
+I'm not sure when we will be able to release this tool publicly, but we will avenge, like we will have um. Of chain gags, the API API, uh, endpoints.
+
+[06:07]
+
+So, that means, uh. will eventually open up um the off chain gags um to be programmatically tradable.
+
+[06:19]
+
+So that means if any of uh like our player base wan- will want to build like a bot that. uh, That uh. as dark trade energy potions, or swing trade energy potions, you will be uh able to build build these tools, build these trading bots yourself, and I I I think that's very very
+
+[06:44]
+
+important for having a Really good price and stable liquidity. uh, So, uh, yeah. You know, some people may have like negative notion towards trading bots, for example.
+
+[07:02]
+
+So, I don't feel that anyone would have any uh negative. Because, I mean, for the Onchain games, uh, anyone is free to go in and do whatever they want, they can run, I mean, it's all public.
+
+[07:18]
+
+So, uh, what we, what we think makes more sense, if we want to enable people to uh manage liquidity, manage prices between uh on chain and off chain gap. uh, Then then we kind of should give uh tools for people to do that.
+
+[07:35]
+
+And and at the end of the day, the more the volume there is, the more utilization for existing liquidity there is. uh, The more uh healthy the marketplace becomes, so I I I think this is gonna be a just um.
+
+[07:53]
+
+This is the umIt's not for every player, for sure. It's maybe not even for for for players, but uh I know there is people inside this year's community who will find this quite Quite valuable and handy.
+
+[08:09]
+
+Some of them are in this voice chat already. uh, Yeah, most of them. We have we have quite quite a bit of very savvy users. uh, So, uh, uh, yeah, uh, so question from the y r uh is what will be your top priority after developing the new player guide, and how much time are you all allocating for it?
+
+[08:29]
+
+And uh after we complete the tutorial, we are full steam ahead onto uh the mid to endgame content, which includes the great tree and the forge boat quests unlocking uhNew items, new areas, new methods to travel.
+
+[08:43]
+
+and one of them unlocks the Vulcan, and the other one unlocks a world boss, which will be a multiplayer experience. So, uh, quite big content coming on there, and uh uh yeah, I I don't see anything, uh, you all correct me if I'm wrong, I don't see anything in the development timeline clashing with it.
+
+[09:04]
+
+so, it's gonna be. uh, Onboarding experience done, and then it's all about the content. I mean, we will be just, we wanna, we we need to make sure the new players and existing players uh have more and more fun things to do. uh, 'cause that's ultimately the goal. um, So, yeah, we are um kind of ex-
+
+[09:30]
+
+expecting to um. Quite, get quite um. OK, probably it's not gonna be very quickly. uh, It's still, it takes, it's still all that takes, and almost a force. uh, But, yeah, I mean, it's uh.
+
+[09:49]
+
+We constantly wanna make game better, more fun. uh, And and and that's what we are allocating your time, for, I mean. Yeah, I don't I don't I don't, like, right now, we have allocated everything on this, so, after this, obviously, we allocate everything on on the next thing, so, uh, pretty straightforward.
+
+[10:14]
+
+Very cool. uh, I guess, uh, you know, uh, so, some part of the development team, I guess, will still continuously uh uh adjust based on, you know, uh. Ada, uh, I just did tutorial, but these are small changes, and uh no reverts. uh, All right, uh, one more, and this, uh, this is a big question that uh sparked quite a big of uh conversation,
+
+[10:39]
+
+and this kind of, like, takes a different to the forest side of the things that just feel like it's important to uh for us to. address. uh, It's part quite a bit of good, uh, conversation regarding the 7 million uh forest token stake.
+
+[10:50]
+
+I believe you offered some insight into the chief council, but Perhaps you can uh uh you know talk about that a little bit, cause you know, uh, if we leave users to the imagination, then uh uh. uh, Just goes to the dark places. hmm, Surely, uh, you meant the the forest taking or?
+
+[11:10]
+
+Yeah, the 7 million uh forest that uh was taken. Oh, yeah, yeah, we we actually uh had a brief look in that. Um. And uh we basically found that this is user or group of users uh traders who apparently bought the token uh uh. A few months ago, uh,And uh yeah, apparently, uh, it was
+
+[11:35]
+
+decided to lock it, which um. I personally find quite good, because if if if if this amount of uh tokens are locked away, that definitely helps um for a price in the future. uh, And and yeah, I I I could I I could see how other players obviously, when you see uh low lower
+
+[12:00]
+
+APY per token staked, nobody is happy when more people are staking. But generally, that's how the the system is designed, and the APYs is there to attract theuh, More people to stake, and and I think for sake of protocol health, uh, I would love to see the.
+
+[12:19]
+
+like, the APY dropping more and more as more and more people will stake, anduh, So, I mean we already had a bunch of uh very um painful lessons uh throughout the zeevers. So Oh, learning from those experiences, I think uh the more conservative it gets, as the time goes.
+
+[12:42]
+
+The m-, the better it's for for for longevity, and and and health of protocol. So, that's basically, I I can I I can see and say.
+
+[12:53]
+
+So, um, yeah. And uh actually, regarding the forest, uh, I also do have bunch of few update, like a bunch of updates. So, maybe later when we shift uh in a in a forest topic.
+
+[13:06]
+
+There is a bunch of cool stuff I could share uh as well, I think it's cool. I I I guess we can bundle it up, and then uh let some of the ziva's questions flow in, and then uh revisit ziva's towards the End of the call, yet again.
+
+[13:19]
+
+Then we have like this nice little uh hamburger. So, uh, let's talk forest. uh, What's on your mind? uh, What's new and what's coming?
+
+[13:33]
+
+So, what's new? uh, There is bunch of new stuff. So, one of the new stuff is we completely reworked all the platform, user experience and user interface.
+
+[13:46]
+
+So, um, I can actually show. Could show something. One second, I'll just find a nice page to give. An example for design, let's say.
+
+[14:12]
+
+I'm just looking for one. I I can, yeah, I can share um. Screen shot from. One of the pages we do have here, so people can get idea.
+
+[14:30]
+
+So, we will be reworking this, and um. It will look much uh smoother, much more streamlined experience. I mean what we wanna do is to build a really um.
+
+[14:44]
+
+Basically, we wanna build the best tool on the market when it comes to this. So, we have a super good foundation, uh, and and now we also will have a really A sleek user experience for this. uh, So, we did a lot of work there, and this should come live next week.
+
+[15:02]
+
+Along with that, there is a bunch of new templates rolling out. uh, So, we'll be uh starting to support. uh, HTML 5 labels, so that means uh anyone will be able to upload their HTML 5 uh game or app uhOn top of the coin, and I think this is a really strong narrative that's uh starting to
+
+[15:27]
+
+build up. where uh as the AI advances, and the AI generation becomes uh more and more streamlined, I think this is going to be like the perfect format. So, uh, and that also means uh we will be adding right after HTML 5, uh, support, uh, inbuilt AI game builder.
+
+[15:48]
+
+So, you will be able to basically describe what kind of app you wanna build, uh, when you're creating the coin, and it will just magically do it, and um.
+
+[15:59]
+
+And obviously, uh. Obviously, I mean like there is a lot of like challenges around that, and I think uh seeds will have, will find a really cool and good utility here, because we'll uh we'll most likely use the seeds as a currency. uh, For for uh a prompt generation, and and a way to to kind of limit uh the usage
+
+[16:24]
+
+of the tool, uh, but yeah. Really, I think that's really cool. So, we'll start to see a lot of interesting creations, and when they will be combined with all the different possibilities, uh for the toy, uh for the coin, uh token design and economics. um, I I I think it's kind of um.
+
+[16:45]
+
+Bring com-, really really interesting new experiences, yeah. So, uh, that's that. That's that that's that's kind of the alpha. uh, I can drop here uh right now. uh.
+
+[17:00]
+
+There will be bunch of other cool things. I think I mentioned um briefly on one of the previous AMAs, we also do have uh seed vaults. So if you uh check the screenshot that I shared You actually see there is a Walt. A-Available, and and Walt will uh.
+
+[17:24]
+
+Be this a hub where you can use your seeds to join the auctions. uh, We'll start with the forest token air drops, so you will be able to use your seeds. Joint auctions get a share of this.
+
+[17:36]
+
+This won't be just like a one time event. This will be hmm ongoing effort where we'll be like running multiple of those campaigns. And in between of that, we'll also be uh starting to include some Some coins and tokens from the partner projects.
+
+[17:52]
+
+So, uh, not only you will be able to get Forest for your seeds, you will be able to also get other uh o- other project tokens uh from this. uh, I I guess I have uh you know, n- not like a speculative uh question, but uh you know, uh, I know it's it's on somebody's mind, and you know, can we like piece together.
+
+[18:14]
+
+and. You know, next era of uh uh. I know, like, this goes together with like Zeevers, uh, uh, Playtour and campaign, the face four, and, you know, obvi- obviously, it's like two things happening at the same time, and What have we, and if that's something like we can reveal.
+
+[18:37]
+
+what have we planned for the face for air drop for the forest? 'Cause obviously, with the air drop, uh,There must, you know you know, we're not just like dropping the forest, it it should come with. I mean that this is exactly how it's gonna be handled, we're gonna use the seed walls, and this this is going to be like ongoing auctions.
+
+[18:57]
+
+Where uh users will be able to get. So, and because right now, it would be suicide to generally just air drop tokens, right? Yeah, for sure. It it it it would be like uh tha- that would be game over, that would probably be game over, that would be uhBig red candle on a chart that uh at this point will probably. uh, OK, that's that's that's uh that's not a good
+
+[19:22]
+
+good good way to do it is. uh, And and that's why uh we have a seed vaults where we will be handing out these air drops for the seeds, as ongoing thing, and I also think it's really cool because it kind of keeps um engagement active across the platform.
+
+[19:42]
+
+Because there is al- constantly something happening, and uh lower the DPY for the next four stadium. I mean hmm.
+
+[19:53]
+
+If you would do the forest air drop uh in this way, for sure, many people would stake, and that would lower the air drop uh A P Y as well, but.
+
+[20:04]
+
+I I I I guess what I was what I was like more inquiring about is uh uh what's the, you know, what's the product we're like uhuh, focusing the air drop around, like, uh, what's the state of the product?
+
+[20:18]
+
+Oh. uh, This will be generally like the, hmm, if you ask like what do we need to start doing this. Yeah, uh, right now, it's just about like building on the functionality, and we'll have like this closed loop, uh, where we will be.
+
+[20:38]
+
+Why are is like a uh is a uh again going? What a, what a, uh uh uh yeah, what happened? uh, He yeah, he's not here anymore.
+
+[20:49]
+
+He was uh, still alive. He's he's still alive. uh, We we basically found uh. For a better candidate for this job, and um.
+
+[21:04]
+
+And and that that's basically what we've been doing. We've been working on uh with some new team members on running uh on building the seed vaults.
+
+[21:15]
+
+And seed vaults will then power this this essential loop where we'll be uh. Running uh trading competitions, uh, together with like new coins and new projects launched, and and then we'll have like theseuh, Constant seed auctions where people will be able to use their
+
+[21:40]
+
+seeds to uh exchange them for the token. And uh and we plan to have them ongoing, uh, very. I I would say with really high frequency.
+
+[21:53]
+
+So, this this is generally the plan, and once we have all these moving pieces in place, we'll start moving there. uh, So, uh, so, yeah, that could be uh. All right, and I think I saw Cherry typing, perhaps she can address the wedding competition final winners been announced. uh, If, yeah, if Cherry could provide more context in regards to
+
+[22:18]
+
+that or Yuler. 'cause I haven't been, uh, I've been, you know, uh, neck deep uh within the new uh new campaign. I haven't been uh tracking uh the trading competitions. uh, Medium, I I think we have to ask uh Cherry for this, if there is something which was not fully covered, uh, then then for sure it should be covered.
+
+[22:42]
+
+So, I I I think Cherry can check uh check on this. uh, Yeah. Uh, Alright, cool. Um. Uh, Yeah, um, so, guys, uh, any questions in regards to this?
+
+[22:59]
+
+I I I think I've uh co- covered, you know, some of the, uh you know, hard hitting and very inquisitive questions. uh,uh, That we get a lot in the chats. um, But, yep. uh, Yeah, I I I I I I think it now all kind of starts to fall into the places. uh, So, um. uh, I mean none of these things are easy, but
+
+[23:24]
+
+seeing uh again, we did like the. uh, We again did everything the hard way. We built like actually good foundation uh for for our AMM, and now we can like just start add uh cool stuff on top of it.
+
+[23:39]
+
+And first will be able to reward community uh with the seed vaults. uh. Way more uh flexibility over designing the coins, and uh and also full flexibility and AI to build your own uh playable experiences.
+
+[23:59]
+
+So, um, I think it starts to look really, really good. So, uh, yeah, I winning from uh uh ten to four seat training. I think we should uh jaguar, I I have idea, uh, maybe we could do like a small test on this. uh, You come up with the the price fund.
+
+[24:22]
+
+Maybe we can do a mask or some NFT, maybe some token. It it's up to you, you figure it out. And we could do a trading competition on with the GEX, on the GEX. On the GEX, yeah, we can do trading on uh let let's go for off chain GEX, so, it's way more accessible.
+
+[24:39]
+
+And and um let's let's let's build like a small test competition. Let's build something for for people to do, uh, something fun. Let's allocate some rewards, and let's give it a go.
+
+[24:50]
+
+I think this could be really really fun, uh, and and. I guess I guess uh uh you know some some uh some comments in in regards to that, uh, currently, the gax uh doesn't show, like, you know, the owners of the transactions, and uh will, this competition would also introduce them.
+
+[25:09]
+
+And how would you like a uh show the leaderboard? Just so, it's not, just so, for the people, it doesn't feel like a closed door uh thing, it was like, oh yeah, no, this guy won, trust us. uh, Like like if we wanna do this rapidly, and not to really uh interleave with the.
+
+[25:30]
+
+With the development plan, which I think we should do. uh, Yeah, I mean, we need to handle these things. Maybe not in real time. It would be fun in real time, but but uh the downside of that, again, we would need to wait like one or two weeks for this thing to be actually building a game.
+
+[25:46]
+
+However, on the other hand, we have like dedicated analytic ops. uh, We can do like uh easily daily report, update daily leaderboards, and and just post them on the Discord.
+
+[25:59]
+
+So, uh, I don't think it's it's that a big deal. uh, And if you see, OK, this is a pretty cool thing happening, fuck, why not? Let's let's build like a leaderboard system inside the exit, uh, itself. uh, But let's just not over engineer it. uh, Let's let's start simple.
+
+[26:18]
+
+I mean, not over cook it. In that sense, we could even start the the the trading competition today, because we don't need anything. From the dev team, we just need the data.
+
+[26:29]
+
+So, um, I'm just throwing a ball. uh, And if community thinks this is something fun to do, and if Jackal says yes as well, and he's willing to Or I mean, I'm like putting you in the situation where you can't say no anyway. uh, Like, if you're willing to create something, you're like, I don't know. uh.
+
+[26:50]
+
+On the record, there has never been hmm anything, I've said no to, even it comes to working on this. ha ha ha, We're just cooking. uh, I'm, I'm, I'm, but yeah, no, yeah, totally, let's do it, let's talk after the, let's talk after the call, call after, after the call, about the details. I'll ask some assistant from Cherry and uh. uh, Hallelujah.
+
+[27:11]
+
+Is it really worth wasting time on this? uh, Dude, it's, it's, uh, ha. I'm, I'm, I'm, I, like, bro, I think we're gonna just ban you from this community. I think you bring so, every time, every single time.
+
+[27:25]
+
+There is something new, you always find the negative angle for this. Like literally, every single time. Anything that comes out of you is just a negative lens.
+
+[27:37]
+
+So, I think the wisest thing would be just literally to ban you from this community. That's my proposal, because like genuinely, we just came up with, like, everybody is constantly saying, oh, we don't have anything to do.
+
+[27:50]
+
+Why why are you focusing your time on like building tutorial, doing these fun things? Now we say, okay, we found it, just literally figure out a way how we canuh, Give something fun to do while we are working on this, and to the others, just like fucking finding uh every single negative angle.
+
+[28:07]
+
+And if we would just scroll and find The history of this, uh,I would, like I mean that gives us an idea, an image. So, bro, fuck off.
+
+[28:19]
+
+Yeah, we can we can continue from there. I mean, like, it's. Yeah, uh, oh, uh, other won't agree, but this is, yeah. Yeah, uh, we've been we've been timing out a couple of people that that uh do come into the ziver's game, and like, why was I muted?
+
+[28:35]
+
+And it's like, if you look at the search history, it's just negative things. But guys, we've been incredibly lenient towards criticism, and uhuh, Yeah, but I don't think I've heard anything new, uh, for like months.
+
+[28:50]
+
+And obviously, we haven't introduced anything new, but uh you know, uh. If you're criticizing, let's keep it original. uh, Let's keep it fun, uh, and let's keep it uh, you know, if not positive, then you know, neutral and objective instead of uhJust uh uh you know spinning the same uh same negative angle.
+
+[29:11]
+
+cause I don't, uh you know, I guess uh I guess from my end, it's it's like uh what is that going to accomplish? Cause you're like uh in mask chat being incredible negative, and then going into the market chat and trying to sell your inventory, and then it's like.
+
+[29:27]
+
+Anyway, uh, uh, I'm like, uh, I want, this is actually not criticism, this is a pattern we see, like, literally happening.
+
+[29:38]
+
+Like I get, like, we can, we could pull up the chat uh with all the messages in the history, and that would illustrate that, uh, this is not about the criticism. I think we've been Incredibly lean, like Jackie said about criticism.
+
+[29:52]
+
+Incredibly lean, uh,And uh and and this is just yeah, uh. I guess this is part of every community. uh, All I'm, all all all all we are doing is just kind of calling it out and saying what it is, uh, as of now.
+
+[30:10]
+
+But that doesn't change the fact that we want to build the cool stuff. uh, There will always be people who are not happy about some some things. um, But then again, there is a lot of people who like, really love what we do, and uh yeah, I would love to focus more on those people.
+
+[30:25]
+
+I I I guess and uh you know, just to just to add the final comment. uh, This is about like what's going on now. uh, Guys, I haven't met personally banned anyone during the, neither the harvester, neither the weikari right, where you know I was the main focal point of you know, our uh our our good friend YR here. uh, As as well, uh, we take it, we are so light
+
+[30:50]
+
+with the criticism, but uh. This is not criticism. uh, As Tyler said, uh, yeah, uh, anyway, I I think we've spent a quite quite enough of time on this.
+
+[31:04]
+
+Back to the uh trading competition. uh, I mean, you are gonna have a quick talk, uh, figure out uh what could be a fun fun angle. uh, Is that all items, is that uh some of the items? 'Cause you know, the liquidity changes and. uh, We're gonna figure out a cool way to approach it.
+
+[31:21]
+
+Yeah, if if it's a hit between you guys, uh, we're down to run it back, uh, run it back on, you know, uh, weekly, by weekly, monthly basis. uh, hmm, Our data team can literally export the data, and we can just, you know, wrap it up nicely, nice and neat for y'all, and.
+
+[31:40]
+
+Yeah, some something to do. uh, Also, uh, guangguang said I I'm winning 10 floor seat from talent competition, and you know what, it came to my mind like farmers market. Like, uh, obviously, we only have four seeds now, but with time, we'll have a lot more seeds.
+
+[31:56]
+
+And I just, it, it, and it's such a s- simple and small thing, but I just found it so cool that there would be like these NPC uh shamans coming for in Example, Sunday, and like trading.
+
+[32:07]
+
+for example, 10 sunflower seeds for one 10 to floor seeds, it just like random rates, and like they're like rapidly changing, and uh you know, cause seeds were a currency in an uhuh, In um.
+
+[32:19]
+
+indigenous times, uh, just, you know, uh, quickly, uh. Quickly putting it out. Yeah, yeah, totally.
+
+[32:30]
+
+I I I I I think we can um uh we'll we'll definitely figure something out uh on this, and um uh but but yeah, this is just like these, some really simple things we can do. uh uhAnd and yeah, let's let's let's try.
+
+[32:45]
+
+Maybe maybe there is a cool thing around this, and uh we can turn it into actual in-game feature. Or like e- every every week's trading competition, or every month's trading competition inside the X.
+
+[32:57]
+
+That definitely would help uh a bit of economy. Well, have to think, maybe we can start with really simple things, such as like, most traded volume. uh, But that kind of may not be.
+
+[33:12]
+
+Maybe it's a good thing to start with, just to test the waters. uh, But I think eventually it needs to be something a bit more sophisticated, so there is like uh some action happening there. I don't know, you could try to track to PNLs.
+
+[33:25]
+
+Or or or we can do something something else where you need to like like open your position and kind of hold it. uh, I mean, we'll we'll we'll uh figure it out, so. uh, So, yeah, uh, uh, chefs, que-, uh, so, just, you know, to address two, two things here, uh, going to the chat, uh, chefs, uh, chef's message, when someone in the villageuh,
+
+[33:50]
+
+the totems, uh. one of the totem will be in proximity of a Samuel, so you will get uh out there. Second of the thing is I'm giving uh both a manca and why are.
+
+[34:03]
+
+A week to, you know, uh to uh to take a take a take a breather. uh. And you know, I'm fine uh I'm fine taking taking the punches, but uh.
+
+[34:18]
+
+Talking to your fellow shamans like that. uh. uh, So, you know, take a week, uh, see see you in a week, and you know, uh, talk then, you can still uh see everything, interact, but uh you know. uh, I'm uh ha ha ha, okay, I I didn't I didn't thought you gonna pull this, but no, I'm I'm I'm taking all the punches, but uh
+
+[34:44]
+
+I w- one thing I advocate a lot for is uhuh. Respectfulness uh amongst Germans and um. uh, Yeah, I'm I'm used to the punches, but do not be drawing to your fellow shamans and fellow people that uh are passionate about uh uh zivers.
+
+[35:03]
+
+So cool.uh, That's that's from me. OK. uh, yeah, so where else do we have? uh, uh, see, I told you we need more emoji.
+
+[35:16]
+
+There are more emoji coming, uh, and uh you know, uh,We're obviously, we are a space aware, and we are not uh we're gonna add some, you know, spicier emojis, cause you know, uh, hey, uh, some uh some salty emojis as well.
+
+[35:33]
+
+But uh yeah, uh, actually, you know, we've talked about this in the past. uh, It's it's obviously hasn't been a high priority. That's why it's coming so slow. But we are working on the social loophole that will come withuh, NFT, emojis, uh, and uh with new amounts, and uh some legendary lots, uh, that will not be, uh, that will not be Equi- equipment.
+
+[35:56]
+
+as you know it, but uh something cool might be coming uh in those slots, uh, but uh generally, the idea behind the social loophole is that obviously, uh, we can give it away in like Discord. the Discord giveaways, uh, uh, but you will only be able to acquire it through theuh, A voxel store, and it will be tradable, but uh we won't be selling it, you you'll be only getting it through the
+
+[36:21]
+
+voxel. So, essentially, you guys will be, you know, by your activity creating the supply of the social token, but which like literally. uh, I think it it creates like full beautiful uh game slash Discord loop. uh, uh, But uh yeah.
+
+[36:40]
+
+That's something on the way. uh, Cherry, uh, me and Cherry have been working on working on it. um, But, um, yeah, cool, uh, something like that. All right, we are slowly approaching the our mark, so uh uh you can uh you can uh uh huh you know throw in a final final final questions in, uh, and.
+
+[37:03]
+
+If not, we can look to wrap up soon. And Reef joined us. Hey Reef, we just started, man. Hope you're having a good day. uh, You, we have an uh whole LA in front of us. ha ha. uh, When can I get lost in this? This is classic. uh, haha, I wanna try using my three D printer.
+
+[37:22]
+
+I I mean, Chef, uh, I guess you gotta learn how to model up. So, I don't I don't believe you're I don't know, Yuler, would we be willing to share uh uh models of our disease? um, Not so sure though.
+
+[37:38]
+
+Yeah, uh, I think we can for some, uh, for, I mean, if if if you wanna like 3D print something, and you have something really specific in mind.
+
+[37:49]
+
+Reach out to us, I think we canhmm think of something cool. umYeah, I don't I don't think that's that's a big issue, and you? Yeah, uh, just reach out, uh, and we can figure something out.
+
+[38:02]
+
+I w- uh, I wanna. I mean, I I I gotta I gotta ask uh the chef's question, cause uh you know, on this hand, when plushies, uh, what do we gotta do to get uh the Ziva's plushies?
+
+[38:15]
+
+Not the ones like we have in the office, but you know. Maybe maybe more like life sized. uh, I guess we would start with like one plushie only. But uh is that something we might consider?
+
+[38:27]
+
+I think I I like, the thing is, the research is so cool, uh, we consider everything, right? Like, I would love to have like a dedicated team, which just works on the on the plushies and merch and stuff like this.
+
+[38:43]
+
+I mean that would be very very cool. uh, So, yeah, we are we are considering many many things. Obviously, right now, our priority is to get the game in really good shape.
+
+[38:57]
+
+So, this is where we are putting all of our effort, uh, that that makes our IP just stronger and cooler, and I think um uh we'll probably find a partner, or just look and build a small team that in the future takes care of the All all the IP stuff. uh, and and yeah, that would be very cool thing for for for people to have it.
+
+[39:20]
+
+I mean, uh, I love to wear Ziv's merch, and like constantly wearing this shirt, and on disconnect. uh, We have a bunch of cool stuff. I mean, I also do have like uh the wooden box. uh, I have a, let me find, please take this. uh, I can show you here.
+
+[39:38]
+
+This is. He was censored, ha ha ha. It's censored. I have this guy all the time sitting on the table. uh, So, uh, yeah.
+
+[39:50]
+
+I I I I don't think this is really cool. um, And and this by the way, guys, uh, I think there are, we sent bedrocks, we sent bedrocks a box. um, uh, With the the wooden box, and every wooden box have one of these, uh, have one of these like dongles.
+
+[40:12]
+
+And and some Ziver sock and some other merge, but I guess the main thing is this this figurine and uh and the wooden box. So, um, that's That's one of the coolest merch exclusive sets we have. um.
+
+[40:30]
+
+So, uh, who knows? Maybe maybe we'll send another box for for some big competition someday. uh, To one of our players. It's co-, yeah, it's collectible. For for you to know, it's really collectible, because there is only 25 of those.
+
+[40:46]
+
+In total, there is only 25. Every every box has its own serial number, and uh and there won't ever be made more.
+
+[40:57]
+
+At least like these, uh, so so, yeah, we are. Am I the twenty fifth player? Maybe you are, maybe you are, maybe you are, but we'll, ha, uh, we'll see.
+
+[41:10]
+
+But all right, uh, so before closing up, I wanna uh repeat a conversation we had in the beginning. uh, Mainly two reason, two, because of two reasons. First of all, we're doubled the people here, and second of all, I didn't turn Craig on when I first said, when we first talked about. uh, So, uh, next week, we are aiming to release the first part of the tutorial, uh, that will end up with uh
+
+[41:35]
+
+introducing you to the main, like main story setting. uh, And onboarding, offboarding you off at the Zama, and you know, free range from there, for now. uh, Second of all, we're doing a full UI recall.
+
+[41:50]
+
+Everything changes, like I'm telling you, everything. But uh for example, banks getting longer way to recall. Like uh you know, cause currently the bank is uh uh nothing short of uh a misery. uh, But uh the new bank is uh uh will change the experience by a ton.
+
+[42:07]
+
+Yup. uh, And uh you you know uh a couple quick words uhuh, For the updates that come afterwards, after we release this, we are immediately working on uh the first two da-, first two dungeons that will take part uh through the main campaign.
+
+[42:23]
+
+And we will be releasing this in like these modules where we also get to test uh the data. uh, From incoming users, and uh yeah, after uh after we are done with main campaign, full uh full steam ahead with uh great three forge, and various other uh uh new content that has been uh um uhWaited for
+
+[42:48]
+
+so long. uh, So, that's like a quick recap of uh the first half of the call. uh, Yuler, yep, uh, any, I I mean I can just agree, and I I almost forgot about like how many, um, how much.
+
+[43:07]
+
+Whether. It makes the reverse, when it comes to the new us- user interface, because uh when we were working on this, we fix so many things that Was just bad design, and one of them was like banks. andhmm, And your stash, and I mean like everything will feel much much smoother, and more
+
+[43:32]
+
+usable, and I mean it just. It just looks cool, uh, and it works much better. So, um, yeah, this is this is pretty big, and I'm I'm a pretty big fan of. of of uh having this out as early as we can, so, anyways, um um just wanted to add a bit on top of that, I'm kind of bit rumble-
+
+[43:57]
+
+rumbling on this, uh, already feel So. um. So, yeah, I guess we can maybe wrap up. uh, If you have anything else to say. Yeah, just you know, the closing thought I wanted to offer is, uh, guys, it's obviously, it hasn't been silent months within like the o-office we have, cause we've been likeuh, Working heavily on like getting this new player experience.
+
+[44:20]
+
+cause obviously we need the new players, we need them to stay, we want our million players, uh, we want the zeevers to grow. Incre- incredibly, we need the new player. We we know it's been silent for you know, uh uh everybody that's passed new game, uh, and We can't wait to, you know, get the new content in your hands.
+
+[44:41]
+
+And, you know, after all this time, we still have all all of you coming to the, coming to these calls. uh, listening, talking to us, and we really appreciate that, and uh yeah, uh, uh.
+
+[44:59]
+
+Let's get it. uh,And I just wanted to say uh thank you, and you know, show my appreciation towards you guys. So, yeah, uh, also, one more thing, um, we will be raffling out uh two Premium passes after the call, but uh yes, ha, cool. OK, very cool, thanks guys. uh, Actually, way more people showed up as the, as may went on. uh,
+
+[45:24]
+
+I think we'll, uh, usually, like gets into the flow, and then like everybody joins, uh, but yeah, de- definitely diminished people, but uh you know. uh, 30 34 has been like the average we've we had like, you know, I think a year and a half ago.
+
+[45:38]
+
+So, um, uh, and still the same community showing up and like. After all this time. Very cool. Yup yup, I I think that's a that's a really, that's a good signal.
+
+[45:49]
+
+I mean uh we need to spice things up, so some new stuff starting to drop soon. Um. So, yeah, uh, very very very very cool time ahead.
+
+[46:00]
+
+Thank you guys, thanks for showing up. uh, Always love to chat with you guys, and see you next week. Cheers. Thank you. uh, Guys, you can stay here for for a while.
+
+[46:12]
+
+I will uh raffle out three, one month premium passes towards uh people that were in the call. uh, I'm just, you know, asking uhAsking uh a fellow large language model to spell out all of your names. uh, And uh yeah, let me quickly share my screen, and uh yeah, I can't. hmm.
+
+[46:36]
+
+Oh, I can. we in business? We are in business. All right, so unfortunately, we have to remove Cherry from this list.
+
+[46:49]
+
+Unfortunately, we have to remove Craig from this list. Unfortunately, we have to remove Balsam from this list. uh.
+
+[47:01]
+
+I guess we are in business. uh. Yes, uh, all right guys, so so 31 people, uh, three, three spins, uh, winner get one month premium passes, to claim the one month premium pass, uh, please open up a discount ticket, claim it that the raffle reward.
+
+[47:19]
+
+you will be provided the code, if you do not claim it, you willuh, Not so, not get it. So, trolled and tracks, uh, gain, gets the first one. Congratulation. Uh, Next up.
+
+[47:42]
+
+Void E, uh, congratulations. Oh, who's also I know it's strangers that are only for the YouTube. Ha, this one this one we just like do it, ha ha ha.
+
+[47:58]
+
+But yeah, um, and the Z and 2020. uh, If you have, if you are a holder of um uh Genesis SoulChard, uh, then you can Give these codes to your friends, uh, family, loved ones, or me. um, Cool, um, once again, um, thank you guys for uh joining today's call. uh, I will see you most likely next Tuesday, uh, on Jackal's
+
+[48:23]
+
+Ziver stream, as the world's first Ziver streamer. uh, Otherwise, we will see you next Thursday at the community call. So, thank you guys again. uh, Love you and uh yeah, uh, see you, bye bye.

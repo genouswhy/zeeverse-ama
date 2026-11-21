@@ -8,11 +8,13 @@ FOREST was preparing to resume trading competitions once the new Harness experie
 
 ## 1. The Philippines test covers stability and onboarding, with three more stages before a global release
 
+[13:05](#t=785)
+
 Euler called the Philippines phase a **Soft Launch / Technical Launch**. The team uses **Facebook ads** to bring in new players every day. The people reached usually arrive without knowing about Zeeverse's on-chain or token features, so the team can see how typical mobile players start and where they leave. The Philippines offers an English-speaking audience, a large Facebook user base, and comparatively inexpensive acquisition. The team can afford more early trial and error there. The range of phones and operating systems can also surface login issues, disconnections, or tutorial blockers that development missed. Euler said onboarding was stabilizing. The call shared no retention, crash-rate, or acquisition cost figures.
 
 While outlining the technical soft launch before global release, Euler explained why the team started advertising in the Philippines.
 
-> **Euler**
+> **Euler** · [13:05](#t=785)
 >
 > “Because especially in the beginning, lots of players encounter lots of issues. And if we have ability to acquire players cheap, it also means, uh, the mistakes are not that expensive. So, this is basically the reasoning why we went with the Philippines first.”
 
@@ -29,6 +31,8 @@ Euler said an experienced designer would be joining to help. They had worked on 
 
 ## 2. Daily Quests are nearly ready and give new players a reason to return
 
+[42:23](#t=2543)
+
 Jackal prepared onboarding cutscenes and older sketches of **Joran and Nomu** for the call. The team was still discussing an A/B test between the current Joran and a new female guide. The sketches were exploratory, and test results had yet to be announced. The official July 27 **1.15.2** notes listed an updated interface for renaming Zees and a fix for energy incorrectly showing as zero. The App Store dates that version to August 1. The hosts said the next small update would mainly clean up issues from the previous one and add **Daily Quests** to show players where to go and what to spend their energy on first. **Post-call verification.** The August 12 version 1.16.0 notes listed four quests per day and introduced Sirel, who took over early onboarding from Joran. [July 27 version 1.15.2 release notes](https://zeeverse.com/news/1-15-2-release-notes) [App Store version history](https://apps.apple.com/lv/app/zeeverse/id6755680403?platform=mac) [August 12 version 1.16.0 release notes](https://zeeverse.com/news/1-16-0-release-notes)
 
 A player questioned why the team spent time letting people name their Zees and initially asked whether other players could see those names. After discussing it, Euler accepted that names were already visible to others. He said that naming a first Zee after hatching an egg gives new players a personal choice before they practice fighting. The call mentioned **about 3,300 Zees named**, without specifying the cutoff date or how duplicates were handled.
@@ -37,17 +41,21 @@ Asked why only **20–30 people** seemed to be moving around the map, Euler reca
 
 A player could see only 20 to 30 people and asked where the player figures came from. Euler estimated one lobby could hold 120, then gave reasons why those players might never cross paths.
 
-> **Euler**
+> **Euler** · [42:23](#t=2543)
 >
 > “And speaking from experience and analytics, majority of the players are not running around. Majority of the players are either going into uh dungeons and spending a lot of time there. And while they're there, you don't really even see them. Uh, or they are probably in a different spot in a map where you probably miss them.”
 
 ## 3. Life skills regulate supply, and the team wants to test trading fees as a source of revenue
+
+[24:15](#t=1455)
 
 A player asked what life skills were for beyond completing quests. Euler said **skill levels determine when players can gather particular resources or craft particular equipment**. When people specialize in different skills, there is a reason to trade and rare resources enter the market at a more controlled pace. The team wanted to keep adding regions, materials, and recipes to this progression. [Official Zeeverse skills documentation](https://whitepaper.zee-verse.com/gameplay/skills)
 
 Euler connected the skills economy to the launch strategy. Zeeverse competes with large mobile games for the same ad placements. The team hopes to earn sustainable revenue by facilitating trades between players and charging platform fees. Players can already see examples in **GEX** item pools and individual **Marketplace** listings. The May patch introduced the off-chain Marketplace. On the call, the question was whether a larger market could generate enough trading for fees to help fund acquisition. Euler cited RuneScape and Counter-Strike to illustrate the potential of persistent player economies. The call did not substantiate the revenue breakdown of either game. [Official explanation of GEX mechanics](https://whitepaper.zee-verse.com/economy/game-exchange-gex) [May 22 version 1.12.0 release notes for the off-chain Marketplace](https://zeeverse.com/news/1-12-0-release-notes)
 
 ## 4. The third main quest is the next-to-last chapter, with new dungeons players can revisit
+
+[43:51](#t=2631)
 
 Asked about the next major update, Jackal reiterated that the third chapter would unlock **two dungeons and their bosses, Treasure Maps, a rare ring, and ring and necklace slots**. The team had a good deal of the visual material, and developers were connecting the steps. Euler added that more equipment slots and new bosses make room for future drops. Players could keep running the dungeons for items after completing the story. The call gave no completion date. When someone joked that the full tutorial might take until 2030, the hosts played along with “2030 or 2031.”
 
@@ -57,11 +65,13 @@ One more chapter would wrap up the main quest after chapter three. Jackal showed
 
 ## 5. The Great Tree leads to a co-op boss, and Heist still needs UI and camera work
 
+[47:40](#t=2860)
+
 Once the third chapter and the finale were out, the team planned to move on to **Forge** and the **Great Tree**. Forge quests would open up new activities, and the Great Tree would lead to a **World Boss** for established players. Jackal said players would enter the multiplayer fight through **a dedicated Great Tree instance lobby**. Euler imagined other bosses on the world map that several players could fight at the same time once the underlying systems were ready.
 
 After the hosts described the first Great Tree fight's instance lobby, Euler outlined what the team could do once the underlying system was ready.
 
-> **Euler**
+> **Euler** · [47:40](#t=2860)
 >
 > “Because once the system is in place, it doesn't really, uh, doesn't really matter, uh, what kind of boss we create, because there is already ground work in place. And that means we'll be able to start add, uh, these world bosses around the map where multiple players can just attack them at any given time, and at the same time.”
 
@@ -71,7 +81,11 @@ The team hoped the advanced challenge would give **potions, consumables, and tea
 
 ## 6. FOREST's trading competitions await Harness, and the Q&A covers September unlocks from two sources
 
+[31:36](#t=1896)
+
 ### The next competition is meant to bring players to apps made with the tools
+
+[35:45](#t=2145)
 
 Euler said the team was continuing to improve **Harness** by bringing game design details and experience into the generation process, and was in discussions with the **BNB** ecosystem. The conversations focused on making it possible to create an on-chain app in fewer steps. Euler compared software creation to how anyone can share photos or videos today. He believed putting more professional knowledge into the generation tools would let more people take part. He gave no list of partners or agreement terms. [June 15 Forest Builder announcement](https://forest.inc/news/forest-builder-imagine-describe-deploy-on-chain) [July 3 Forest Playkit announcement](https://forest.inc/news/forest-playkit-infrastructure-behind-zeeverse-economy)
 
@@ -79,17 +93,19 @@ Asked what happened to the trading volume competitions, Euler said running them 
 
 Asked what happened to the trading volume competition, Euler explained why the team paused it and how the next round could tie into a larger release and Seeds activities.
 
-> **Euler**
+> **Euler** · [35:45](#t=2145)
 >
 > “We also felt that we kind of hit a bit of fatigue where every next competition just generally yielded, uh, less, uh, less engagement. Uh, so, we wanted to just take take back, uh, prepare for a bigger release, and, uh, and then run a competition with, uh, some additional seed campaigns, so we can keep distributing tokens to people who contribute.”
 
 ### Investor vesting and one-year staking are separate sources of unlocks
 
+[38:42](#t=2322)
+
 Someone asked how the team would handle the September $FOREST unlock. Euler first asked whether they meant the investor allocation or another batch. He said he had been in touch with investors and did not expect a major shock after September 1. He announced no change in lockup terms or delay for any batch. The official whitepaper dates the TGE to **September 1, 2025** and lists a **23%** investor allocation, **0%** initial unlock, a **12-month cliff**, and **21 months of vesting**. The schedule explains why players asked about the following September. The actual releases would need to be confirmed in later public records. [Official FOREST whitepaper, section 3](https://cdn.forest.inc/docs/whitepaper.pdf)
 
 A player asked how the team would handle the September $FOREST unlock. Euler began with his conversations with investors and gave his expectation.
 
-> **Euler**
+> **Euler** · [38:42](#t=2322)
 >
 > “We've been really close with all of our investors. So, I don't think I don't think there will be much issue, we have a strong support. So, um, I wouldn't actually expect anything to happen after September first.”
 
@@ -98,6 +114,8 @@ Euler also said an issue with staking lockups when the token first launched caus
 In discussing the market, Euler looked at the dollar value of $FOREST and its relative price in **BNB** separately. He cited BNB falling from around **$1,200** to under **$600** as an example and said $FOREST had roughly halved in dollar terms while holding steadier against BNB. The call gave no dates, trading pair, or calculation window. The figures reflect the host's answer at the time. [FOREST liquidity and routing documentation](https://forest.inc/docs/whitepaper/forest-and-seed-economy)
 
 ## 7. Closing remarks and roadmap
+
+[46:28](#t=2788)
 
 Near the end, the hosts said they had been talking for about an hour. Euler added a few ideas about players fighting bosses together, using potions, and changing lineups. Jackal then raffled off **three one-month Premium Passes**. He would tag the winners afterward, and they could claim their codes through support tickets. [Official Premium Pass page](https://zeeverse.com/app/premium)
 

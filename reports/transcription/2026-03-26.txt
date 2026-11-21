@@ -1,1 +1,659 @@
-On the Philippines right now. I actually address this question as well. I think this is really important because I, uh, uh, I, I, I, I, I think it's it's kind of like a bit of miscommunication and. uh, Some people don't understand why do we even like target uh and why do we ev- even advertise in Philippines? Some are saying uh like the players are coming in and extracting us. And I'll just, I would love to just explain a bit behind, uh, a bit of thinking behind this process. So, uh, first of all. None of these players even know that this game has anything to do with crypto. So, I don't believe like any of them would be even trying to extract anything, if they're not even aware that there is anything to extract of like real world value. But that's actually the beauty of those players. They have no um. uh, No bias, they have no um. Kind of like a specific incentives why they should come in and play the game. So, what they're left with is just playing for sake of enjoying what they play. And that's the benchmark we need right now. We don't need incentivized players who will like complete tutorial in order to get the reward. We need players who are not receiving anything at all. They're not aware of any rewards. And ideally have quite shitty devices. So, uh, the Philippines is usually the go to market, uh, for um uh for the soft launch, and. Early retention and tutorial testing. So that's why uh we are targeting it, and also it's way way more cheaper than most other markets. To give you like some idea. um, If if it would be running these uh same user acquisition campaigns in the United States, will be probably paying like 10~20 times more per player. So, uh, Philippines is relatively good and cost effective uh way to get in uh critical mass of the users, so we can obtain the data. And to give you some context, uh, when we started with the first tutorial version two weeks ago, our completion rate uh was only 32 percent, and which which appear like which is generally a terrible result. And what we did, we managed to improve that result to 68 percent. So that's more than two x improvement, and that essentially places into. Into quite a good bracket. I think there is still a lot of room for for improvements, so we'll probably hit um. Good question. If players don't know about the for-, uh about crypto, how do we answer what's the first on this card? We are not like actively pushing those people into Discord. uh, At least yet, but I mean just guide them uh to the web page, and maybe they'll learn something new. So, I, I, I honestly, I'm not aware that there are many players coming in uh from from from those campaigns and our discord and asking about forest. But I mean, just drag them in in in in the direction of the forest. So, maybe they'll they'll find something cool for themselves. Anyways, uh, getting back uh to the tutorial part, so we managed to crash 68 percent, uh, which is actually a really really good result. And the thing about these completion rates. Is that we essentially live or die by them. So, we either succeed and thrive or we basically get stuck, and are not able to scale. So, seeing this dramatic improvement. By just spending like week and a half on on on actually improving and iterating on the tutorial. uh, Feels uh a really really good and strong signal. That there is a place for theivers in in the gaming market. uh, Which um which we are kind of um. Relieved, and quite excited to see, because I mean we've been working for four years building a game we love. uh, So the last thing we wanna see is uh kind of losing on the first minute. So, that's that's actually a thing to celebrate for a whole community. um, Tutorial looks quite good. A lot of issues fixed, and the results are very very promising. Now, what we are doing is we are switching our focus on from the tutorial, which essentially translates into first 10 minutes of the gameplay. Into the first day of the gameplay, and. I think tomorrow night, uh, we are releasing uh or at least we are submitting an update, maybe releasing them on a saturday. I mean we are like moving now really fast, because every dayuh, We are able to uh wh-, when whenever we are able to launch um update, we are able to getting some new users, and and that basically gives us more data. So we can like iterate faster. And uh tomorrow tomorrow night we are submitting a new update, and this will include uh. The first part, first of seven parts of the main campaign, and and this will be like the main quest, because until now, all you had was uhCollection of really nice uh side quests, something that took you um around these evors. um, but it was not necessarily a very guided experience. It was um. Actually quite a complex thing for people to figure out themselves, and when it comes to the general gamer audience, uh, what they need is way way more direction. And and the current game version uh doesn't really offer that. uh, Actually, uh, the current onboarding is quite brutal. uh, People finish tutorial, choose the name, and like yo, uh, go and figure out something to do. And what's crazy is there is actually so many people who actually figure out what to do. uh, Which again is something that that warms my heart, and uhI'm I'm genuinely uh happy to see that, but definitely it's not uh it's not an okay experience. So for that, we are releasing the first part of main campaign. All of existing players will be actually forced to complete that main campaign. So, before you complete this main Main campaign, um, part one, you will actually be locked into uh the first region. Maybe some people who have teleports will be able to kind of cheat the system and teleport out of the Locked the uh locked region, but. We will give you every single player uh kind of forced, re-teaching, and we will also collect um uh some feedback from that. But don't worry, it it's gonna for for your levels, for your z's, it will be like a super easy, maybe 5 10 minutes, you all you need will need to do is just Clear the first dungeon. which will be completelyReworked. Instead of having sixty levels on the first dungeon, we'll have just seven, and and the seven seventh level will be the boss, and once um. You complete all the seven levels. uh, Meanwhile, you will be collecting the totem pieces, and you will rebuild the first totem, and the first totem will unlock the rest of the zeevers. uh, So, this is maybe um something um fun for people to do, but more importantly, this is going to be uh the first uhFirst part of onboarding experience for new players, and in order to test that. we will be again resuming the campaigns, uh pushing again additional two, three hundred new players. um, The good thing again is that we are able to get in a lot of users, uh, basically on demand. So, I don't think we'll have uh any problem scaling. um, The zeevers once everything is in order, and I mean like we are li- right now living like rookie numbers. uh, We we we just have like a few hundred dau's.uh, I mean, they'll act the users. And uh and once we will start some serious numbers, will be looking probably on a few thousands at the beginning, and and in a global launch, those numbers will be like on a completely completely different scale. And uh yeah, so that's a. uh, That's that. uh, I'll be definitely reporting on our success on um this first part of main campaign. uh, I think it's important that communities also involved and basically are able to cheer behind the numbers because Guys, you are essentially all investors, and uh. And. I'll I'll address the Gex part. fucking Gex is fucking amazing. I I really love what I see now. uh, But I'll I'll address, I'll just finish um. The part about onboarding. So, we are releasing this update uh I think on Saturday, uh, probably latest on Monday, uh, but we're really we're really pushing for Saturday. And once it's out, we pushing new players. We get them in, we get uh the data, we do probably few iterations. uh, I today had a meeting with the old dev team, and. Even due fact we are pushing this very very fast, and there is still some rough edges, even in the first part. When it's going to be released, there will be another update, which will follow up relatively fast. uh, On the next week, uh, that will most likely include a lot of different quick fixes and things that's uh need to be improved on the the first part of this main campaign. And I'm pushing for one really exciting thing, which is um them. 呃，我 What would be the right way to call it Let's called just market off chain market So uh right now you have off chain exchanges where you are able to trade um items that are relatively liquid and in really High quantities, but currently there is no um way for you to trade your zs. There is no way for you to trade your uh like high level equipment. And we'll be opening up the marketplace next to the gex, where you will be able to just list your items off chain. uh, The same way you do on OpenSea, but you will be able to do that directly in a in a game. uh, And you will be able to trade them with the V tokens. Speaking about the V tokens and about the coins, there is a cosmetic um. Yeah, OK, I'll I'll address that in a moment. So, uh, speaking about the token and about the coins, there is going to be a cosmetic update. um. That rolls out with with the upcoming release, and uh again, I'm just pointing out this is purely cosmetic. So, uh, on the gecks, you will see the V token icon changed to the gold coin. So, uh, this is because of the Apple and Google uh Play Store policies. uh, We cannot, like literally display the the crypto, even if it's not like on chain crypto, we can do that. so, uh, we will be just changing um, uh, we will be just changing them. We we token an icon to the gold coin, but in terms of functionality, deposits, withdrawals, nothing changes. uh, You will be able to Deposit and withdraw V token, as you have been doing it last few months. So literally nothing changes. The only thing that changes is inside the game. V token in the gex will be named uh a gold. I I think we will even keep the V token around, uh, on the. Web version uh of the games. But yeah, and another thing that also some players wait, may find a bit confusing is until now, when you kill the Z When you complete the dungeon, what you get was the coins. uh,Law wise, logic wise, it doesn't really make sense that you go and kill a Z, and it drops coins. So, we are also changing that, and that will be changed to spirit. And because Z's are a. Basically a part of the spirit realm. It kind of makes sense that when you kill the Z, you get his spirit. And when you want upgrade your Z, you're using the spirit from kill Zs. So, this is a change that we will be shipping in. um, For existing players, I I have to apologize, it will maybe It will feel a bit. uh, Let me quickly give you. Some some images, so you can see. Yeah, you will, for existing players, some will find it a slightly confusing at the beginning. uh, But Yeah, uh, I mean it has to be done, so here's the umSpirit, and here's the new gold coin that will visually replace the v token. um, But in terms of. Yeah, you will get uh spirits from selling relics. So, think of this as until now you got, you had uh coins which you used upgrade. um, Disease which you which you obtain from selling relics and so on. Mechanic wise, again nothing changes. The only thing that changes is the name and the icon. Everything else stays the same. You will see a, you will see the same balances. um, Clearly, nothing changes, just just. Just the icon. So, and and and the gold coin, gold will essentially become a geek's currency that can be easily uh freely traded. One to one for the v token. So, you will be generally just, when when you will withdraw the gold coins, uh, you will receive the v token. And when you will when you will deposit The token inside the game, you will receive the gold coins. uh, And and and that's pretty much it. So, we'll we'll uh detail this out on announcement when we are doing the release. So, people will have a chance to uh just look again. So, I see there are few questions. um. So, I would like to inquire, the last time I checked the Geks app, it only contained 25 items. Is it possible to provide complete set, or do you intend to limit the offering to just this amount? So. Gigs app, up, it contains all the items. There is no limit. uh, The 25 items which were uhMapped were provided as an example. You can easily uh just, there is a method, so you can easily query um every single item, every single pool. And uh and um yeah, so, if if if you maybe have uh the questions, some technical questions, or some problems around this, you can maybe just drop the exact problem, and I can I can find somebody who can help on that. but again, umThere is. There is API method method that you can call and get uh full list of every single item and every single pool inside the X. uh, Also, um. We have been quite generous with the the rate limits. So right now the rate limit is 20 240 uh transactions per minute, which is More than enough for almost everything you will want to do with this. uh, We may to reduce this as we go. Do something more reasonable. uh, But for now, uh, just be mindful of this, um, build cool stuff, and don't like Rates pommas. uh, So, this can be a friendly environment for everyone who is trying to build something, and right now with a cloud code. It's so easy to build these bots, you can just literally uh give uh. The documentation, the up- up- p documentation we gave you to the cloud code, and ask me yo, build me uh trading bot for the zeevers, and it should most likely one shot at least most of the functionality. So, uh, yeah, and and I really look, I'm looking forward to see what people will be building. Also, uh, when we will release the new item market, it will also come, uh, will ship together with Upie, so you will be able also to uhBuild your bots around that market, and most likely do some arbitrage between um gex and and the regular market. Another thing that's also coming uh this week, and this uh will be an update for the APIs, for the GX APIs. So right now, one of the issues we see is that um. Despite the fact you're able to trade within the GEX, you're not able to withdraw or deposit coins, which ha, which stops people from building uh uh. Flu- fluent, let's call them fluent arbitrage systems between on chain and off chain gigs. So, we'll be shipping an update for the APIs, uh, so you will be able touh, Programmatically deposit and withdraw from the zivers. uh, Any item or any uh I don't know, I'm, any amount of B token. Which opens up a way for you to um. Basically build an arbitration uh system between all chain, on chain and off chain exchanges. So, when whenever there is like a. Price movement or anything, the spreads should be um. Smaller than they are right now, because even right now we see some active pools with with a crazy arbitrage opportunities uh between the pools, but nobody's re- really hmm sitting there 24 seven monitoring them manually. So we will be just opening up a ways for you guys to build out the automatic arbitration system for this. So, uh, yeah, anyways, I think the Gigs is uh. Definitely will be one one one of the things that will um. Makes Zvers uh different from pretty much every other game on the market. And uh and that's because of the fact that. Every player who plays these evors will at some point end up selling or buying something on the market. And when that happens, even if they don't realize that that's like a crypto in the background. uh, They are still participating in crypto economy, and and because every item, every token is liquid, that also means the fees they generate are liquid. And for us as a company, and as a project, and for you guys as a community behind the project, and investors at the same time, it's freaking huge because. That opens up a way for us to monetize majority of our players, where our competitors are able to monetize around 3~4 percent of their user base, while we are able to monetize like 40~50 percent of our user base. um, Like we all know, in crypto there are only few. I mean, in general, in life, there is mostly just uh just just just a few layers of infrastructure that really make money. And when it comes to the crypto, uh, we all know that exchanges are the ones which basically make the biggest bag. And uh and and and that's one of one of the infra pieces where we wanna find ourselves as well. And I think the Zivus is a re- really unique setup. Because uh it starts as a game, but at some point it becomes a trading game for some some of the user, and and and it just. Just looking anyways. So, and. And and and and and as it speeds up, we we are basically expecting to see you like. Hundreds or billions of the token volume daily on on the gas system or marketplaces, and and and this is also something very very sustainable. Because. It doesn't rely on inflating uh the currencies. It also solves um. Huge bo- huge problem with all the p to a systems. Oh, also the play to earn systems. That usually end up killing every project which even dares to try. uh, Like any play to earn system. For us, the gex is this. Magical answer, because. What Gex allows us to do is it allows us to create items that has isolated liquidity. So, I I'll give you an example. Let's say we want to build a huge campaign. uh, On, uh, in order to prepare for the global launch, we wanna we wanna get every single farmer, every single play to earn gamer, uh, on the Zeeverse to build like the maximum hype. And usually the way it's does, uh, the way it's done is by. Just uh kind of making the gameplay to earn, making people to earn the currency and so on. And and it works for a while, and then everybody just farms the shit out of it, and the whole thing dies, and and takes the project And the dreams with it. For us, let's say we wanna replicate the same thing. We will be able to just create like some sort of specific items inside the Zeeverse. We will be able, let's say, allocate 200 million V token to it. uh. And and this will be a single pool which is exposed to play to earn behavior. And the moment these items will be overinflated. The price for every item will just drop and crash to the point where the farmers don't see any any other reason to join in, and and most likely that pool will get destroyed. But this will be just one small isolated piece of whole economy. um. Which means everything else stays intact, and and and and this is a very very powerful thing we have here. So, uh, I think. The gags will open up so many opportunities for us. So, on one hand, we will uh become almost like an exchange in a way, uh, like a centralized. Or decentralized exchange, put it as you want. uh. We'll be able to turn a lot of players into traders, and uh I mean like there is so much. Potential, uh, and I I really believe will be one of the first guys who will crack the way how uh games can really use the crypto rail. uh, For the sake of uh becoming more uh competitive, uh, in the gaming market, and for sake of actually giving some uh benefit to the user besides like ownership bullshit, because who cares about the ownership if there is no like liquidity for that. Right, uh, so, I think the real uh real answer why we even need crypto in the first place is because it gives. Easy access to liquidity, and and and I I think this is the main and most single important reason. uh, What's out there? And and I think I think I think we are kind of like nailing it uh perfectly. So, uh, anyways, um. So will our geeks selling other web three game items in the future? I don't think inside the Z verse you should be buying other game items if you can't really use them. But this is what we have uh the forest for. I think it's very likely that Forest will supply uh future games with the technology. um, So, they can build a similar systems. Like Zyvers did. I mean, it's always uh like right, when when XCY did their the huge run, everybody was suddenly uh trying to adapt it and make their own play during games. I think when Ziva will succeed with uh it's game exchange, we'll see a lot of games will try to kind of tap into the same thing. It's not easy, it's not just about building geeks, it's also about building a game that makes sense to have a geek in the first place, an economy that That's mature enough uh to actually work. But when this way will come, we'll have a forest that will be able to supply this technology. uh, Because this technology, it actually only works, it only works if you have on chain and off chain gigs at the same time. Because. Plenty of uh existing examples with in-game marketplaces, like in World of Warcraft, or in Runescape, or on eBay online. uh, The problem with those marketplaces is that they don't really have, I mean they have like the black market, so there is some liquidity behind it, but it's Very very, um, hmm. E liquid when it comes to, probably it's not e liquid, but it's uh dangerous, scummy. Slow, uh. Not effective, anyways. So, uh, so, when we combine it with mirror on chain exchange. What we get is instant liquidity. You, like you can sell a game item inside a game. For the V token, which can be instantly withdrawn and exchange for USDC. There is no other game in the market which offers anything like this. There's none, and and and this all works without people even realizing. uh, They're they're they're trading in real exchange. They don't need a wallet, they don't need crypto for gas, they don't need anything, they don't even need a V token to participate, they can go in. Just chop down one tree, and go and sell it in the game exchange, and get their first v token, and or then use that v token to go and. And buy some other stuff they need for the game without ever realizing they're actually touching the real real deal. And and and and and that that's why I was like other day writing on X. That I think with introducing API uh for for uhUh, For. Oh, sorry. uh, I was just reading, yeah. So, with introducing API for the gex, I think we are introducing new type of player, uh, player group, which is essentially a trader. And having these groups in will make market insanely effective. And I I I think we'll start to see huge surge in volumes on on the game exchange. And inevitably, what it means, it also brings in uh huge demand for the V token. Because owning a V token first of all is owning a piece of Zeevers. uh, To be more precise, owning a piece of Zeebe's economy. uh, And and the more people there are, and the more people there are who wanna. apart and actually play the game, the more there is demand for the v token, and the more there is demand for the v token, we all know what happens, the price goes up, right? uh, and I I think one of the things will be able to crack is also a way to allow people to purchase v token. uh, Which will be the gold coins, and and web two version of the game, but they can be easily withdrawn to the B token. They will be able to use in a purchase system to just like Easily purchase the token with their credit card, which is again insane on the ramp. So, okay guys, I I feel I'm like going in the circles on this. O- obviously, I'm I'm very very passionate when it comes. uh, To the economies, and and and just seeing it all now kind of getting into the place, piece by piece. uh,Just excites me. So, yeah. um, Let me quickly see if there are um questions. For the time being, I haven't actually reached the trading stage yet. I'm just using it to quickly get a grasp of the market situation while browsing the exchange. OK, guys. uh, Yeah, so, I mean API and web coding works extremely well together. So, for people who wanna be more effective at monitoring stuff. Or even start automating this, just try it. And I already saw uh some guys are building really cool stuff. So, if you're not a builder, uhI'm pretty sure somebody will soon open up like a trading bot that people will be able to use. uh. From their own accounts. um, Yeah, I mean guys, if somebody wants to build it, or are already building it, uh, I wanna wanna open it, just let us know, we'll we'll we'll find a way to support you. And and and actually get get get this out to help you get it out for more players. uh, Speaking about the gecks, last but not least. When Jack Jackal gets back tomorrow, I think with all the new advancements in the GEX, um, we deserve another trading competition. So, I think this time we're gonna do um. A trading competition which doesn't focus on you generating volume, it will focus on actually making a profit. uh, So, this will be. For for for guys who are skilled, so let, we'll have some fun. I'm not like dropping uh coin now, but I believe people already know which coin it could be, uh, or item. uh. So, yeah, and. I'll probably launch and chat this uh tomorrow with Jackie. So so yeah, guys. Too long to wait for the tge. hmm, Now, it's definitely not a good time for TG. But yeah, ha, every time I made a lo- lost money. um. I mean, have you tried uh making a decision in opposite direction every time you wanna make a decision? This is actually a strategy, I find funny, but sometimes working, just do opposite what you think you should do. uh, And he will end up making money. OK, joke aside. uh, I'm dreaming of using the token to buy the groceries with the e- e. uh, I think this is actually quite possible uh in the future, because uh I I we are we like I I know I know the etsy founder. uh, He's. We are definitely still too small to get supported by either by card uh natively, but I mean everything is possible, and um maybe you'll be able to go in and and and and and and buy groceries uh with the token. um, Soon enough, but yeah, anyways. uh, This is the, I I could probably spend uh hours talking about the GEX, and talking about economy. uh, But yeah, I can't stress enough how important this is, and how huge advantage for us it is, and and. And uh yeah. And and and and that's kind of uh the key for Zeevers to be to be be successful and scale. So, um, if the unit ecom- economics are right. We basically can spend infinite amount of money on the scaling. So so at the end of the day, that's what we all want, right? uh, I know you guys you want the new content, uh, but This is what brings us new content, because uh I'll I'm I'll probably repeating myself every single AMA. If we can't get onboarding right, what's the point? If we can't get in people to stick around and play even for a few days. We just can't afford to build endgame stuff that requires like weeks or months for people to get to. We will be doing that, and we are kind of doing that at the same time, it's just slower, but Our focus is there, and and the good news is, uh, we are succeeding at what we're doing. So, we're seeing really really promising results with onboarding. It actually indicates a lot of stuff. It shows people that they like what they see. It also shows that people wanna play not because they are being paid. Or incentivized, but because they genuinely like what they see. uh, And. And also looking on the playtimes, uh, even with the this hardcore brutal, no guidance, uh, onboarding, we see so many people in the lobby like just Trying to figure out what to do. uh, Actually, just chat is becoming quite alive because people are trying to get their way around by asking. uh, So. Yeah, anyways, um, just uh just just dropping this to you guys, because uh it's a huge win for us. It's it's a really good signal for us.Uh, And and. And it's also a huge win for the community, because at the end of the day, uh, we all succeed when we are able to welcome millions of players. And in order to do that, We need to do our homework. Like you you don't bring in uh the guests in in in messed up home, right? You you clean up the home, and and this is what we are doing now. Oh, what are other web three games doing? I'm too busy on my web two work. uh, Honestly, I don't know. I don't I don't I don't think many of them are doing anything at all right now. I know there are few titles, there is. There is there is some games from Ronin ecosystem, which I think have. Genuinely OK games, uh, like actual games, not just like some promises and token. uh. I somehow, I I know there is some development happening on XCMO. uh, I'm not sure if that's uh. Coming out anytime soon. um, I'm not I'm not that that deeply involved there, but uh but I think we are definitely one of the most active and most promising projects on web three right now. And and and like the whole market is completely fucked, so it doesn't surprise me there is uh almost no engagement or activity. But I think the moment people will finally start to pay attention, well, when we will be starting to post, oh today we got like 10 thousand new players, and they're fucking spending money. uh, So what now, people will finally wake up, and we'll start to see a huge interest around the ZEVS as a project, not just as a game. uh, So, uh, I, I guess for everyone who's here, that's uh That'll probably be a big win, and I'm I'm genuinely wishing you that. um, I mean like, that's that's why we are doing these things. So, so yeah, guys. um, um,A lot of work done. We see very promising result uh results uh from our direction. um, Right now, we are still focused on Philippines due to Traffic being way cheaper to acquire, and. Weird as it sounds, Philippines have a lot of like shitty devices, and the network is not very good, which gives us. A really easy way to test these things. uh, Test these things. When it comes uh to the like a real world market, and and if it can make Zivus to work on the shitty internet and shitty phones, it will work flawlessly on every every normal phone. and every somewhat good connection. Oh, uh, yeah, guys, um. Let me quickly check if I had anything else on a plate I wanted to share with you. To be honest, we don't really care about the game. The only reason why we are still here is the TGE. OK, I love I love to hear this from our community. uh, Absolutely, gorgeous. uh, OK, I'll uh I'll I'll I'll make a note of this. So we know who are our most loyal community members are. OK, jokes. But uh I I I mean that's the reality of web three crypto, right? uh, You you like that that that that that's why the games cannot be, that's why the games really cannot just succeed here. Because uh the most of the market actually just looks for uh for money to be made. Which is understandable, and and and I mean it makes sense. Like I I I'm not like joking, uh, I I I'm not like li- living illusions. uh, But I think it's not That is just these two things. I think I think the both things are possible. I think that uh. I think that. You know, about what you just said, you're probably exactly the guy who will just insta dump all your allocation at the DGE. And what we are here to do is actually to prove you made the big mistake by fucking pumping the shit out of the token. I I I I think the moment that happens, suddenly everybody will care about the game. And um uhAnd. And when that happens. It it's it it's it's a combination of both things. Like, I mean I mean you're not wrong, you're not wrong. uh, It's it's it's a reality we have to, and like uh. uh, Optimize for, let's let's put it that way. uh, But I I I I I think it's not just black and white, I think it's uh like two of these things combined, but uh huh. Yeah, you you kind of surprised me a bit. uh, So, thank you for that. Anyways, guys, uh, yeah, to check uh and wrap up, obviously a lot of small details, a lot of small fixes with the next update. Oh, I can't wait to get this out. um, So. So yeah, and also, um. Spell these numbers in the name. um, For us to have a successful TGE for the zivers itself. uh. Having a very successful game will definitely help a lot. Im, just imagine the narrative when we are approaching the TGE, and we have like a global launch rolling out. Which says uh which which basically pumps in hundred thousand users every single day. And we basically ha-, like are hitting every single headline that says uh oh fucking ZeeVee just crossed like one million user. uh, I think that will help a lot uh on the tge, and and those users who will come in mostly will be for the game. So, I think for us in order to have a really successful tge, we also need to have a really successful game. Because because because. As we move. Throughout the years, uh. Market becomes smarter, uh, I mean just pure speculation can't work out, but uh it's just more and more demanding. So, anyways, still I'm going in the circles. uh. hmm, That comment definitely made me think, uh, so thank you for that. If there are any any que-, any other questions, uh, shoot them out. We'd love to answer, uh, if no. We've been already for an hour here, so I'll be wrapping up. uh, Yeah. Wait a minute or two. uh, Cherry, can you make a screenshot, or you al- already did a screenshot, so you can do a ruffle afterwards. Drop me some emoji if you hear me, or say. OK, cheer cheer cheerios cheerios uh typing now. So, um, very cool, thank you. Not really. You guys are typing. um. People technique. Be really reveal. OK, OK, guys, uh, let's wrap up. Thank you, thank you a lot for showing up, uh, as always, um, I'm I'm happy to see so many people showing up every single week. um, It's a really really interesting face for the game. uh, So, let's the. Let's stick to this, let's stick to the plan, and let's crunch the numbers. OK, guys, love you all, see you boys and girls, bye bye.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+On the Philippines right now. I actually address this question as well. I think this is really important because I, uh, uh, I, I, I, I, I think it's it's kind of like a bit of miscommunication and. uh, Some people don't understand why do we even like target uh and why do we ev- even advertise in Philippines?
+
+[00:20]
+
+Some are saying uh like the players are coming in and extracting us. And I'll just, I would love to just explain a bit behind, uh, a bit of thinking behind this process.
+
+[00:32]
+
+So, uh, first of all. None of these players even know that this game has anything to do with crypto. So, I don't believe like any of them would be even trying to extract anything, if they're not even aware that there is anything to extract of like real world value.
+
+[00:50]
+
+But that's actually the beauty of those players. They have no um. uh, No bias, they have no um. Kind of like a specific incentives why they should come in and play the game.
+
+[01:07]
+
+So, what they're left with is just playing for sake of enjoying what they play. And that's the benchmark we need right now. We don't need incentivized players who will like complete tutorial in order to get the reward.
+
+[01:23]
+
+We need players who are not receiving anything at all. They're not aware of any rewards. And ideally have quite shitty devices. So, uh, the Philippines is usually the go to market, uh, for um uh for the soft launch, and.
+
+[01:41]
+
+Early retention and tutorial testing. So that's why uh we are targeting it, and also it's way way more cheaper than most other markets.
+
+[01:52]
+
+To give you like some idea. um, If if it would be running these uh same user acquisition campaigns in the United States, will be probably paying like 10~20 times more per player.
+
+[02:03]
+
+So, uh, Philippines is relatively good and cost effective uh way to get in uh critical mass of the users, so we can obtain the data.
+
+[02:14]
+
+And to give you some context, uh, when we started with the first tutorial version two weeks ago, our completion rate uh was only 32 percent, and which which appear like which is generally a terrible result.
+
+[02:28]
+
+And what we did, we managed to improve that result to 68 percent. So that's more than two x improvement, and that essentially places into. Into quite a good bracket.
+
+[02:42]
+
+I think there is still a lot of room for for improvements, so we'll probably hit um. Good question. If players don't know about the for-, uh about crypto, how do we answer what's the first on this card?
+
+[02:59]
+
+We are not like actively pushing those people into Discord. uh, At least yet, but I mean just guide them uh to the web page, and maybe they'll learn something new.
+
+[03:13]
+
+So, I, I, I honestly, I'm not aware that there are many players coming in uh from from from those campaigns and our discord and asking about forest. But I mean, just drag them in in in in the direction of the forest.
+
+[03:29]
+
+So, maybe they'll they'll find something cool for themselves. Anyways, uh, getting back uh to the tutorial part, so we managed to crash 68 percent, uh, which is actually a really really good result.
+
+[03:44]
+
+And the thing about these completion rates. Is that we essentially live or die by them. So, we either succeed and thrive or we basically get stuck, and are not able to scale.
+
+[03:58]
+
+So, seeing this dramatic improvement. By just spending like week and a half on on on actually improving and iterating on the tutorial. uh, Feels uh a really really good and strong signal.
+
+[04:13]
+
+That there is a place for theivers in in the gaming market. uh, Which um which we are kind of um. Relieved, and quite excited to see, because I mean we've been working for four years building a game we love. uh, So the last thing we wanna see is uh kind of losing on the first minute.
+
+[04:35]
+
+So, that's that's actually a thing to celebrate for a whole community. um, Tutorial looks quite good. A lot of issues fixed, and the results are very very promising.
+
+[04:46]
+
+Now, what we are doing is we are switching our focus on from the tutorial, which essentially translates into first 10 minutes of the gameplay. Into the first day of the gameplay, and.
+
+[05:02]
+
+I think tomorrow night, uh, we are releasing uh or at least we are submitting an update, maybe releasing them on a saturday. I mean we are like moving now really fast, because every dayuh, We are able to uh wh-, when whenever we are able to launch um update, we are able to getting some new users, and and that basically gives us more data.
+
+[05:25]
+
+So we can like iterate faster. And uh tomorrow tomorrow night we are submitting a new update, and this will include uh.
+
+[05:36]
+
+The first part, first of seven parts of the main campaign, and and this will be like the main quest, because until now, all you had was uhCollection of really nice uh side quests, something that took you um around these evors. um, but it was not necessarily a very guided experience.
+
+[05:58]
+
+It was um. Actually quite a complex thing for people to figure out themselves, and when it comes to the general gamer audience, uh, what they need is way way more direction.
+
+[06:11]
+
+And and the current game version uh doesn't really offer that. uh, Actually, uh, the current onboarding is quite brutal. uh, People finish tutorial, choose the name, and like yo, uh, go and figure out something to do.
+
+[06:27]
+
+And what's crazy is there is actually so many people who actually figure out what to do. uh, Which again is something that that warms my heart, and uhI'm I'm genuinely uh happy to see that, but definitely it's not uh it's not an okay experience.
+
+[06:46]
+
+So for that, we are releasing the first part of main campaign. All of existing players will be actually forced to complete that main campaign.
+
+[06:59]
+
+So, before you complete this main Main campaign, um, part one, you will actually be locked into uh the first region.
+
+[07:10]
+
+Maybe some people who have teleports will be able to kind of cheat the system and teleport out of the Locked the uh locked region, but.
+
+[07:21]
+
+We will give you every single player uh kind of forced, re-teaching, and we will also collect um uh some feedback from that. But don't worry, it it's gonna for for your levels, for your z's, it will be like a super easy, maybe 5 10 minutes, you all you need will need to do is just Clear the first dungeon.
+
+[07:41]
+
+which will be completelyReworked. Instead of having sixty levels on the first dungeon, we'll have just seven, and and the seven seventh level will be the boss, and once um.
+
+[07:54]
+
+You complete all the seven levels. uh, Meanwhile, you will be collecting the totem pieces, and you will rebuild the first totem, and the first totem will unlock the rest of the zeevers. uh, So, this is maybe um something um fun for people to do, but more importantly, this is going to be uh the first uhFirst part of onboarding experience for new players,
+
+[08:19]
+
+and in order to test that. we will be again resuming the campaigns, uh pushing again additional two, three hundred new players. um, The good thing again is that we are able to get in a lot of users, uh, basically on demand.
+
+[08:35]
+
+So, I don't think we'll have uh any problem scaling. um, The zeevers once everything is in order, and I mean like we are li- right now living like rookie numbers. uh, We we we just have like a few hundred dau's.uh, I mean, they'll act the users.
+
+[08:54]
+
+And uh and once we will start some serious numbers, will be looking probably on a few thousands at the beginning, and and in a global launch, those numbers will be like on a completely completely different scale.
+
+[09:08]
+
+And uh yeah, so that's a. uh, That's that. uh, I'll be definitely reporting on our success on um this first part of main campaign. uh, I think it's important that communities also involved and basically are able to cheer behind the numbers because Guys, you are essentially all investors, and uh.
+
+[09:32]
+
+And. I'll I'll address the Gex part. fucking Gex is fucking amazing. I I really love what I see now. uh, But I'll I'll address, I'll just finish um.
+
+[09:49]
+
+The part about onboarding. So, we are releasing this update uh I think on Saturday, uh, probably latest on Monday, uh, but we're really we're really pushing for Saturday.
+
+[10:00]
+
+And once it's out, we pushing new players. We get them in, we get uh the data, we do probably few iterations. uh, I today had a meeting with the old dev team, and.
+
+[10:12]
+
+Even due fact we are pushing this very very fast, and there is still some rough edges, even in the first part. When it's going to be released, there will be another update, which will follow up relatively fast. uh, On the next week, uh, that will most likely include a lot of different quick fixes and things that's uh need to be improved
+
+[10:37]
+
+on the the first part of this main campaign. And I'm pushing for one really exciting thing, which is um them. 呃，我 What would be the right way to call it Let's called just market off chain market So uh right now you have off chain exchanges where you are able to trade um items that are relatively liquid and in
+
+[11:02]
+
+really High quantities, but currently there is no um way for you to trade your zs. There is no way for you to trade your uh like high level equipment.
+
+[11:13]
+
+And we'll be opening up the marketplace next to the gex, where you will be able to just list your items off chain. uh, The same way you do on OpenSea, but you will be able to do that directly in a in a game. uh, And you will be able to trade them with the V tokens.
+
+[11:28]
+
+Speaking about the V tokens and about the coins, there is a cosmetic um. Yeah, OK, I'll I'll address that in a moment.
+
+[11:44]
+
+So, uh, speaking about the token and about the coins, there is going to be a cosmetic update. um. That rolls out with with the upcoming release, and uh again, I'm just pointing out this is purely cosmetic.
+
+[12:03]
+
+So, uh, on the gecks, you will see the V token icon changed to the gold coin. So, uh, this is because of the Apple and Google uh Play Store policies. uh, We cannot, like literally display the the crypto, even if it's not like on chain crypto, we can do that.
+
+[12:26]
+
+so, uh, we will be just changing um, uh, we will be just changing them. We we token an icon to the gold coin, but in terms of functionality, deposits, withdrawals, nothing changes. uh, You will be able to Deposit and withdraw V token, as you have been doing it last few months.
+
+[12:49]
+
+So literally nothing changes. The only thing that changes is inside the game. V token in the gex will be named uh a gold. I I think we will even keep the V token around, uh, on the.
+
+[13:04]
+
+Web version uh of the games. But yeah, and another thing that also some players wait, may find a bit confusing is until now, when you kill the Z When you complete the dungeon, what you get was the coins. uh,Law wise, logic wise, it doesn't really make sense that you go and kill a Z, and it drops coins.
+
+[13:29]
+
+So, we are also changing that, and that will be changed to spirit. And because Z's are a. Basically a part of the spirit realm.
+
+[13:42]
+
+It kind of makes sense that when you kill the Z, you get his spirit. And when you want upgrade your Z, you're using the spirit from kill Zs. So, this is a change that we will be shipping in. um, For existing players, I I have to apologize, it will maybe It will feel a bit. uh, Let me quickly give you.
+
+[14:06]
+
+Some some images, so you can see. Yeah, you will, for existing players, some will find it a slightly confusing at the beginning. uh, But Yeah, uh, I mean it has to be done, so here's the umSpirit, and here's the new gold coin that will visually replace the v token. um, But in
+
+[14:31]
+
+terms of. Yeah, you will get uh spirits from selling relics. So, think of this as until now you got, you had uh coins which you used upgrade. um, Disease which you which you obtain from selling relics and so on. Mechanic wise, again nothing changes.
+
+[14:53]
+
+The only thing that changes is the name and the icon. Everything else stays the same. You will see a, you will see the same balances. um, Clearly, nothing changes, just just. Just the icon.
+
+[15:06]
+
+So, and and and the gold coin, gold will essentially become a geek's currency that can be easily uh freely traded. One to one for the v token.
+
+[15:17]
+
+So, you will be generally just, when when you will withdraw the gold coins, uh, you will receive the v token. And when you will when you will deposit The token inside the game, you will receive the gold coins. uh, And and and that's pretty much it.
+
+[15:32]
+
+So, we'll we'll uh detail this out on announcement when we are doing the release. So, people will have a chance to uh just look again. So, I see there are few questions. um.
+
+[15:48]
+
+So, I would like to inquire, the last time I checked the Geks app, it only contained 25 items. Is it possible to provide complete set, or do you intend to limit the offering to just this amount? So.
+
+[15:59]
+
+Gigs app, up, it contains all the items. There is no limit. uh, The 25 items which were uhMapped were provided as an example.
+
+[16:11]
+
+You can easily uh just, there is a method, so you can easily query um every single item, every single pool. And uh and um yeah, so, if if if you maybe have uh the questions, some technical questions, or some problems around this, you can maybe just drop the exact problem,
+
+[16:36]
+
+and I can I can find somebody who can help on that. but again, umThere is. There is API method method that you can call and get uh full list of every single item and every single pool inside the X. uh, Also, um.
+
+[16:54]
+
+We have been quite generous with the the rate limits. So right now the rate limit is 20 240 uh transactions per minute, which is More than enough for almost everything you will want to do with this. uh, We may to reduce this as we go.
+
+[17:14]
+
+Do something more reasonable. uh, But for now, uh, just be mindful of this, um, build cool stuff, and don't like Rates pommas. uh, So, this can be a friendly environment for everyone who is trying to build something, and right now with a cloud code.
+
+[17:36]
+
+It's so easy to build these bots, you can just literally uh give uh. The documentation, the up- up- p documentation we gave you to the cloud code, and ask me yo, build me uh trading bot for the zeevers, and it should most likely one shot at least most of the functionality.
+
+[17:57]
+
+So, uh, yeah, and and I really look, I'm looking forward to see what people will be building. Also, uh, when we will release the new item market, it will also come, uh, will ship together with Upie, so you will be able also to uhBuild your bots around that market, and most likely do some arbitrage between um gex
+
+[18:24]
+
+and and the regular market. Another thing that's also coming uh this week, and this uh will be an update for the APIs, for the GX APIs.
+
+[18:37]
+
+So right now, one of the issues we see is that um. Despite the fact you're able to trade within the GEX, you're not able to withdraw or deposit coins, which ha, which stops people from building uh uh.
+
+[18:53]
+
+Flu- fluent, let's call them fluent arbitrage systems between on chain and off chain gigs. So, we'll be shipping an update for the APIs, uh, so you will be able touh, Programmatically deposit and withdraw from the zivers. uh, Any item or any uh I don't know, I'm, any amount of B token.
+
+[19:15]
+
+Which opens up a way for you to um. Basically build an arbitration uh system between all chain, on chain and off chain exchanges.
+
+[19:27]
+
+So, when whenever there is like a. Price movement or anything, the spreads should be um. Smaller than they are right now, because even right now we see some active pools with with a crazy arbitrage opportunities uh between the pools, but nobody's re- really hmm sitting there 24 seven monitoring them manually.
+
+[19:50]
+
+So we will be just opening up a ways for you guys to build out the automatic arbitration system for this. So, uh, yeah, anyways, I think the Gigs is uh.
+
+[20:03]
+
+Definitely will be one one one of the things that will um. Makes Zvers uh different from pretty much every other game on the market.
+
+[20:17]
+
+And uh and that's because of the fact that. Every player who plays these evors will at some point end up selling or buying something on the market.
+
+[20:30]
+
+And when that happens, even if they don't realize that that's like a crypto in the background. uh, They are still participating in crypto economy, and and because every item, every token is liquid, that also means the fees they generate are liquid.
+
+[20:47]
+
+And for us as a company, and as a project, and for you guys as a community behind the project, and investors at the same time, it's freaking huge because.
+
+[20:59]
+
+That opens up a way for us to monetize majority of our players, where our competitors are able to monetize around 3~4 percent of their user base, while we are able to monetize like 40~50 percent of our user base. um, Like we all know, in crypto there are only few.
+
+[21:20]
+
+I mean, in general, in life, there is mostly just uh just just just a few layers of infrastructure that really make money. And when it comes to the crypto, uh, we all know that exchanges are the ones which basically make the biggest bag.
+
+[21:39]
+
+And uh and and and that's one of one of the infra pieces where we wanna find ourselves as well. And I think the Zivus is a re- really unique setup.
+
+[21:52]
+
+Because uh it starts as a game, but at some point it becomes a trading game for some some of the user, and and and it just.
+
+[22:07]
+
+Just looking anyways. So, and. And and and and and as it speeds up, we we are basically expecting to see you like.
+
+[22:18]
+
+Hundreds or billions of the token volume daily on on the gas system or marketplaces, and and and this is also something very very sustainable. Because.
+
+[22:30]
+
+It doesn't rely on inflating uh the currencies. It also solves um. Huge bo- huge problem with all the p to a systems. Oh, also the play to earn systems.
+
+[22:47]
+
+That usually end up killing every project which even dares to try. uh, Like any play to earn system. For us, the gex is this.
+
+[22:58]
+
+Magical answer, because. What Gex allows us to do is it allows us to create items that has isolated liquidity.
+
+[23:10]
+
+So, I I'll give you an example. Let's say we want to build a huge campaign. uh, On, uh, in order to prepare for the global launch, we wanna we wanna get every single farmer, every single play to earn gamer, uh, on the Zeeverse to build like the maximum hype. And usually the way it's does, uh, the way it's done is by.
+
+[23:32]
+
+Just uh kind of making the gameplay to earn, making people to earn the currency and so on. And and it works for a while, and then everybody just farms the shit out of it, and the whole thing dies, and and takes the project And the dreams with it.
+
+[23:49]
+
+For us, let's say we wanna replicate the same thing. We will be able to just create like some sort of specific items inside the Zeeverse. We will be able, let's say, allocate 200 million V token to it. uh. And and this will be a single pool which is exposed to play to earn behavior.
+
+[24:12]
+
+And the moment these items will be overinflated. The price for every item will just drop and crash to the point where the farmers don't see any any other reason to join in, and and most likely that pool will get destroyed.
+
+[24:28]
+
+But this will be just one small isolated piece of whole economy. um. Which means everything else stays intact, and and and and this is a very very powerful thing we have here.
+
+[24:43]
+
+So, uh, I think. The gags will open up so many opportunities for us. So, on one hand, we will uh become almost like an exchange in a way, uh, like a centralized.
+
+[24:57]
+
+Or decentralized exchange, put it as you want. uh. We'll be able to turn a lot of players into traders, and uh I mean like there is so much.
+
+[25:11]
+
+Potential, uh, and I I really believe will be one of the first guys who will crack the way how uh games can really use the crypto rail. uh, For the sake of uh becoming more uh competitive, uh, in the gaming market, and for sake of actually giving some uh benefit to the
+
+[25:36]
+
+user besides like ownership bullshit, because who cares about the ownership if there is no like liquidity for that. Right, uh, so, I think the real uh real answer why we even need crypto in the first place is because it gives.
+
+[25:54]
+
+Easy access to liquidity, and and and I I think this is the main and most single important reason. uh, What's out there?
+
+[26:05]
+
+And and I think I think I think we are kind of like nailing it uh perfectly. So, uh, anyways, um. So will our geeks selling other web three game items in the future?
+
+[26:19]
+
+I don't think inside the Z verse you should be buying other game items if you can't really use them. But this is what we have uh the forest for.
+
+[26:32]
+
+I think it's very likely that Forest will supply uh future games with the technology. um, So, they can build a similar systems.
+
+[26:44]
+
+Like Zyvers did. I mean, it's always uh like right, when when XCY did their the huge run, everybody was suddenly uh trying to adapt it and make their own play during games.
+
+[26:56]
+
+I think when Ziva will succeed with uh it's game exchange, we'll see a lot of games will try to kind of tap into the same thing. It's not easy, it's not just about building geeks, it's also about building a game that makes sense to have a geek in the first place, an economy that That's mature enough uh to actually work.
+
+[27:17]
+
+But when this way will come, we'll have a forest that will be able to supply this technology. uh, Because this technology, it actually only works, it only works if you have on chain and off chain gigs at the same time.
+
+[27:33]
+
+Because. Plenty of uh existing examples with in-game marketplaces, like in World of Warcraft, or in Runescape, or on eBay online. uh, The problem with those marketplaces is that they don't really have, I mean they have like the black market, so there is some liquidity behind it, but it's Very very, um, hmm. E liquid
+
+[28:02]
+
+when it comes to, probably it's not e liquid, but it's uh dangerous, scummy. Slow, uh. Not effective, anyways.
+
+[28:16]
+
+So, uh, so, when we combine it with mirror on chain exchange. What we get is instant liquidity. You, like you can sell a game item inside a game.
+
+[28:34]
+
+For the V token, which can be instantly withdrawn and exchange for USDC. There is no other game in the market which offers anything like this.
+
+[28:46]
+
+There's none, and and and this all works without people even realizing. uh, They're they're they're trading in real exchange. They don't need a wallet, they don't need crypto for gas, they don't need anything, they don't even need a V token to participate, they can go in.
+
+[29:04]
+
+Just chop down one tree, and go and sell it in the game exchange, and get their first v token, and or then use that v token to go and. And buy some other stuff they need for the game without ever realizing they're actually touching the real real deal.
+
+[29:20]
+
+And and and and and that that's why I was like other day writing on X. That I think with introducing API uh for for uhUh, For.
+
+[29:37]
+
+Oh, sorry. uh, I was just reading, yeah. So, with introducing API for the gex, I think we are introducing new type of player, uh, player group, which is essentially a trader. And having these groups in will make market insanely effective.
+
+[29:52]
+
+And I I I think we'll start to see huge surge in volumes on on the game exchange. And inevitably, what it means, it also brings in uh huge demand for the V token.
+
+[30:06]
+
+Because owning a V token first of all is owning a piece of Zeevers. uh, To be more precise, owning a piece of Zeebe's economy. uh, And and the more people there are, and the more people there are who wanna. apart and actually play the game, the more there is demand for the v token, and the more there is demand for the v token, we all know what happens, the price goes up, right? uh,
+
+[30:31]
+
+and I I think one of the things will be able to crack is also a way to allow people to purchase v token. uh, Which will be the gold coins, and and web two version of the game, but they can be easily withdrawn to the B token.
+
+[30:45]
+
+They will be able to use in a purchase system to just like Easily purchase the token with their credit card, which is again insane on the ramp.
+
+[30:56]
+
+So, okay guys, I I feel I'm like going in the circles on this. O- obviously, I'm I'm very very passionate when it comes. uh, To the economies, and and and just seeing it all now kind of getting into the place, piece by piece. uh,Just excites me.
+
+[31:15]
+
+So, yeah. um, Let me quickly see if there are um questions. For the time being, I haven't actually reached the trading stage yet.
+
+[31:27]
+
+I'm just using it to quickly get a grasp of the market situation while browsing the exchange. OK, guys. uh, Yeah, so, I mean API and web coding works extremely well together.
+
+[31:38]
+
+So, for people who wanna be more effective at monitoring stuff. Or even start automating this, just try it. And I already saw uh some guys are building really cool stuff.
+
+[31:49]
+
+So, if you're not a builder, uhI'm pretty sure somebody will soon open up like a trading bot that people will be able to use. uh.
+
+[32:00]
+
+From their own accounts. um, Yeah, I mean guys, if somebody wants to build it, or are already building it, uh, I wanna wanna open it, just let us know, we'll we'll we'll find a way to support you.
+
+[32:16]
+
+And and and actually get get get this out to help you get it out for more players. uh, Speaking about the gecks, last but not least.
+
+[32:31]
+
+When Jack Jackal gets back tomorrow, I think with all the new advancements in the GEX, um, we deserve another trading competition. So, I think this time we're gonna do um.
+
+[32:44]
+
+A trading competition which doesn't focus on you generating volume, it will focus on actually making a profit. uh, So, this will be. For for for guys who are skilled, so let, we'll have some fun.
+
+[32:58]
+
+I'm not like dropping uh coin now, but I believe people already know which coin it could be, uh, or item. uh. So, yeah, and. I'll probably launch and chat this uh tomorrow with Jackie.
+
+[33:18]
+
+So so yeah, guys. Too long to wait for the tge. hmm, Now, it's definitely not a good time for TG. But yeah, ha, every time I made a lo- lost money. um.
+
+[33:35]
+
+I mean, have you tried uh making a decision in opposite direction every time you wanna make a decision? This is actually a strategy, I find funny, but sometimes working, just do opposite what you think you should do. uh, And he will end up making money.
+
+[33:51]
+
+OK, joke aside. uh, I'm dreaming of using the token to buy the groceries with the e- e. uh, I think this is actually quite possible uh in the future, because uh I I we are we like I I know I know the etsy founder. uh, He's. We are definitely still too small to get supported by either by card uh
+
+[34:16]
+
+natively, but I mean everything is possible, and um maybe you'll be able to go in and and and and and and buy groceries uh with the token. um, Soon enough, but yeah, anyways. uh, This is the, I I could probably spend uh hours talking about the GEX, and talking about economy. uh, But
+
+[34:41]
+
+yeah, I can't stress enough how important this is, and how huge advantage for us it is, and and. And uh yeah.
+
+[34:55]
+
+And and and and that's kind of uh the key for Zeevers to be to be be successful and scale. So, um, if the unit ecom- economics are right.
+
+[35:06]
+
+We basically can spend infinite amount of money on the scaling. So so at the end of the day, that's what we all want, right? uh, I know you guys you want the new content, uh, but This is what brings us new content, because uh I'll I'm I'll probably repeating myself every single AMA.
+
+[35:23]
+
+If we can't get onboarding right, what's the point? If we can't get in people to stick around and play even for a few days. We just can't afford to build endgame stuff that requires like weeks or months for people to get to.
+
+[35:40]
+
+We will be doing that, and we are kind of doing that at the same time, it's just slower, but Our focus is there, and and the good news is, uh, we are succeeding at what we're doing.
+
+[35:51]
+
+So, we're seeing really really promising results with onboarding. It actually indicates a lot of stuff. It shows people that they like what they see.
+
+[36:03]
+
+It also shows that people wanna play not because they are being paid. Or incentivized, but because they genuinely like what they see. uh, And.
+
+[36:17]
+
+And also looking on the playtimes, uh, even with the this hardcore brutal, no guidance, uh, onboarding, we see so many people in the lobby like just Trying to figure out what to do. uh, Actually, just chat is becoming quite alive because people are trying to get their way around by asking. uh, So.
+
+[36:40]
+
+Yeah, anyways, um, just uh just just dropping this to you guys, because uh it's a huge win for us. It's it's a really good signal for us.Uh, And and.
+
+[36:56]
+
+And it's also a huge win for the community, because at the end of the day, uh, we all succeed when we are able to welcome millions of players. And in order to do that, We need to do our homework.
+
+[37:09]
+
+Like you you don't bring in uh the guests in in in messed up home, right? You you clean up the home, and and this is what we are doing now.
+
+[37:22]
+
+Oh, what are other web three games doing? I'm too busy on my web two work. uh, Honestly, I don't know. I don't I don't I don't think many of them are doing anything at all right now.
+
+[37:34]
+
+I know there are few titles, there is. There is there is some games from Ronin ecosystem, which I think have. Genuinely OK games, uh, like actual games, not just like some promises and token. uh.
+
+[37:54]
+
+I somehow, I I know there is some development happening on XCMO. uh, I'm not sure if that's uh. Coming out anytime soon. um, I'm not I'm not that that deeply involved there, but uh but I think we are definitely one of the most active and most promising projects on web three right now.
+
+[38:18]
+
+And and and like the whole market is completely fucked, so it doesn't surprise me there is uh almost no engagement or activity. But I think the moment people will finally start to pay attention, well, when we will be starting to post, oh today we got like 10 thousand new players, and they're fucking spending money. uh, So what now, people will finally wake up, and we'll start to see a huge interest around
+
+[38:43]
+
+the ZEVS as a project, not just as a game. uh, So, uh, I, I guess for everyone who's here, that's uh That'll probably be a big win, and I'm I'm genuinely wishing you that. um, I mean like, that's that's why we are doing these things.
+
+[38:57]
+
+So, so yeah, guys. um, um,A lot of work done. We see very promising result uh results uh from our direction. um, Right now, we are still focused on Philippines due to Traffic being way cheaper to acquire, and.
+
+[39:20]
+
+Weird as it sounds, Philippines have a lot of like shitty devices, and the network is not very good, which gives us. A really easy way to test these things. uh, Test these things.
+
+[39:37]
+
+When it comes uh to the like a real world market, and and if it can make Zivus to work on the shitty internet and shitty phones, it will work flawlessly on every every normal phone.
+
+[39:51]
+
+and every somewhat good connection. Oh, uh, yeah, guys, um. Let me quickly check if I had anything else on a plate I wanted to share with you.
+
+[40:12]
+
+To be honest, we don't really care about the game. The only reason why we are still here is the TGE. OK, I love I love to hear this from our community. uh, Absolutely, gorgeous. uh, OK, I'll uh I'll I'll I'll make a note of this.
+
+[40:39]
+
+So we know who are our most loyal community members are. OK, jokes. But uh I I I mean that's the reality of web three crypto, right? uh, You you like that that that that that's why the games cannot be, that's why the games really cannot just succeed here.
+
+[41:00]
+
+Because uh the most of the market actually just looks for uh for money to be made. Which is understandable, and and and I mean it makes sense.
+
+[41:17]
+
+Like I I I'm not like joking, uh, I I I'm not like li- living illusions. uh, But I think it's not That is just these two things.
+
+[41:28]
+
+I think I think the both things are possible. I think that uh. I think that. You know, about what you just said, you're probably exactly the guy who will just insta dump all your allocation at the DGE.
+
+[41:47]
+
+And what we are here to do is actually to prove you made the big mistake by fucking pumping the shit out of the token. I I I I think the moment that happens, suddenly everybody will care about the game.
+
+[42:00]
+
+And um uhAnd. And when that happens. It it's it it's it's a combination of both things. Like, I mean I mean you're not wrong, you're not wrong. uh, It's it's it's a reality we have to, and like uh. uh, Optimize for, let's let's put it that way. uh, But I I I I I think it's not just black and
+
+[42:25]
+
+white, I think it's uh like two of these things combined, but uh huh. Yeah, you you kind of surprised me a bit. uh, So, thank you for that. Anyways, guys, uh, yeah, to check uh and wrap up, obviously a lot of small details, a lot of small fixes with the next update. Oh, I can't wait to get this out. um,
+
+[42:50]
+
+So. So yeah, and also, um. Spell these numbers in the name. um, For us to have a successful TGE for the zivers itself. uh. Having a very successful game will definitely help a lot.
+
+[43:12]
+
+Im, just imagine the narrative when we are approaching the TGE, and we have like a global launch rolling out. Which says uh which which basically pumps in hundred thousand users every single day. And we basically ha-, like are hitting every single headline that says uh oh fucking ZeeVee just crossed like one million user. uh, I think that will help a lot uh on the tge, and and those users who will come in
+
+[43:37]
+
+mostly will be for the game. So, I think for us in order to have a really successful tge, we also need to have a really successful game. Because because because.
+
+[43:48]
+
+As we move. Throughout the years, uh. Market becomes smarter, uh, I mean just pure speculation can't work out, but uh it's just more and more demanding.
+
+[44:02]
+
+So, anyways, still I'm going in the circles. uh. hmm, That comment definitely made me think, uh, so thank you for that. If there are any any que-, any other questions, uh, shoot them out.
+
+[44:16]
+
+We'd love to answer, uh, if no. We've been already for an hour here, so I'll be wrapping up. uh, Yeah.
+
+[44:29]
+
+Wait a minute or two. uh, Cherry, can you make a screenshot, or you al- already did a screenshot, so you can do a ruffle afterwards. Drop me some emoji if you hear me, or say. OK, cheer cheer cheerios cheerios uh typing now.
+
+[44:47]
+
+So, um, very cool, thank you. Not really. You guys are typing. um. People technique. Be really reveal.
+
+[45:19]
+
+OK, OK, guys, uh, let's wrap up. Thank you, thank you a lot for showing up, uh, as always, um, I'm I'm happy to see so many people showing up every single week. um, It's a really really interesting face for the game. uh, So, let's the.
+
+[45:42]
+
+Let's stick to this, let's stick to the plan, and let's crunch the numbers. OK, guys, love you all, see you boys and girls, bye bye.

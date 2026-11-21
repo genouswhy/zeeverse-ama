@@ -6,13 +6,15 @@
 
 ## 一、菲律宾是用来验证教程的软启动市场，测试重心转向第一天
 
+[00:08](#t=8)
+
 Euler 回答为何继续在菲律宾测试。广告面向普通游戏用户，团队希望观察缺少额外奖励刺激时，玩家是否愿意自己走完教程。常见的低规格设备和较弱网络也能更早暴露加载和性能问题。他估计美国同类活动每获取一人的成本可能是菲律宾的 **10–20 倍**，会上没有实时报价、投放预算或按市场的对照数据。有人问新玩家进 Discord 后询问 FOREST 怎么办，Euler 说当时并未主动把买来的用户导进 Discord，如遇到再引导看项目网页。
 
 按会上口径，约两周前最初版本的教程完成率是 **32%**，迭代一周多后约 **68%**。这是软启动样本的教程完成率，未公布样本量，也未给对应的次日留存。1.8.0 与 1.8.1 可独立确认教程改版、孵化和取物卡死热修。新目标是从约前十分钟转向首日体验，下一轮计划再引入约 **200–300 名新人**。团队口述当时日活还在几百量级，未来几千及全球发行规模都是预期。 [1.8.0 更新日志](https://zeeverse.com/news/1-8-0-release-notes) · [1.8.1 更新日志](https://zeeverse.com/news/1-8-1-release-notes)
 
 Euler 回答为什么继续用菲律宾软启动时，先说需要有足够多人走教程、才能积累数据，然后举了两版的完成率。
 
-> **Euler**
+> **Euler** · [02:16](#t=136)
 >
 > “When we started with the first tutorial version two weeks ago, our completion rate uh was only 32 percent, and which which appear like which is generally a terrible result. And what we did, we managed to improve that result to 68 percent. So that's more than two x improvement.”
 >
@@ -20,11 +22,13 @@ Euler 回答为什么继续用菲律宾软启动时，先说需要有足够多�
 
 ## 二、首段主线预计周末送出，老玩家也要重建第一座图腾
 
+[05:36](#t=336)
+
 旧流程容易在取名后失去方向，原有支线各自有内容但串不成第一天的行动。Euler 在本场把首段说成当时设想的 **七个主线部分中的第一个**。第一座副本由此前口述的约 60 层重做成 **7 层**，最后一层是 Boss。玩家通关途中拾取图腾碎片，在村里复原图腾后再开放后面的地图。
 
 谈到已有角色为什么也要重走首区，Euler 详细说了副本缩短之后，图腾碎片怎么接上开放地图。
 
-> **Euler**
+> **Euler** · [07:44](#t=464)
 >
 > “Instead of having sixty levels on the first dungeon, we'll have just seven, and and the seven seventh level will be the boss, and once um you complete all the seven levels, uh, meanwhile, you will be collecting the totem pieces, and you will rebuild the first totem, and the first totem will unlock the rest of the zeevers.”
 >
@@ -33,6 +37,8 @@ Euler 回答为什么继续用菲律宾软启动时，先说需要有足够多�
 方案对既有玩家也设首区门槛。Euler 提到个别传送手段可能绕过，未把它当作开放的跳关入口。给练度较高玩家的首通用时估计是 **5–10 分钟**。上线时序说法是周五晚送审，争取周六、最迟希望到周一，然后拉新观察并紧跟几轮修正。会后的正式日志日期为 **4 月 2 日**，确认上线全新引导任务、重做 Grass Dungeon 和关卡选择，不足以确认全部门槛细节。 [1.9.0 更新日志](https://zeeverse.com/news/1-9-0-release-notes) · [任务游戏文档](https://whitepaper.zee-verse.com/gameplay/quests)
 
 ## 三、同版本拟换两种图标，升级资源与交易货币各有用途
+
+[13:17](#t=797)
 
 | 玩家看到的改动 | 会上明确的功能口径 |
 |---|---|
@@ -43,7 +49,7 @@ Euler 将 Gold 的界面命名归因于应用商店渠道要求。这是团队�
 
 Euler 先讲升级用的余额怎样改名，再用一进一出两步说明交易用的 Gold 和 VEE 的关系。
 
-> **Euler**
+> **Euler** · [15:16](#t=916)
 >
 > “One to one for the v token. So, you will be generally just, when when you will withdraw the gold coins, uh, you will receive the v token. And when you will when you will deposit the token inside the game, you will receive the gold coins.”
 >
@@ -51,11 +57,13 @@ Euler 先讲升级用的余额怎样改名，再用一进一出两步说明交�
 
 ## 四、GEX 已可查全量交易池，程序化充提和稀有物 Marketplace 仍待上线
 
+[15:48](#t=948)
+
 玩家以为 API 示例的 25 项就是可见上限。团队说明 **25 项只是示例**，已有方法列出完整物品和池子。会中提到限额听译近 **每分钟 240 笔**，原文有数字重复，未公开对应接口、单位配额和后续是否调整。发言者同时请玩家避免请求刷屏。此刻接口可以在 GEX 内交易，玩家还不能由它直接完成链上链下两边的充提。
 
 玩家看到示例只列了 25 项，追问是否打算只开放这些物品。Euler 解释示例的条数意味着什么。
 
-> **Euler**
+> **Euler** · [16:10](#t=970)
 >
 > “The 25 items which were \[…\] provided as an example. You can easily uh just, there is a method, so you can easily query um every single item, every single pool.”
 >
@@ -65,7 +73,7 @@ Euler 当时的目标是本周补上 **物品和 $VEE 的程序化充提**。原
 
 此前在游戏里用交易池交换的多是大量供应的标准物品。Euler 拿高阶装备和 Zee 说明为什么还想加一个挂单市场。
 
-> **Euler**
+> **Euler** · [11:04](#t=664)
 >
 > “Currently there is no um way for you to trade your zs. There is no way for you to trade your uh like high level equipment. And we'll be opening up the marketplace next to the gex, where you will be able to just list your items off chain.”
 >
@@ -73,19 +81,23 @@ Euler 当时的目标是本周补上 **物品和 $VEE 的程序化充提**。原
 
 ## 五、团队希望用分池承担活动风险，FOREST 被提为对外能力
 
+[23:02](#t=1382)
+
 Euler 用玩家砍木、在游戏内卖出、再买需要的材料举例，说明玩家有机会从正常游玩进入同一个交易循环。他希望有更多普通玩家使用这套交换，因此交易费可以成为部分收入。会上拿传统游戏约 **3–4%** 与自己的 **40–50%** 机会做对比，后一个是团队预想可获得收入的参与面，没有披露已实现付费率或收入结果。
 
 关于 Play-to-Earn，他设想为一次活动推出特定物品，把举例中的 **2 亿 $VEE** 放进单独的流动性池。若活动物品过量供应，那一池会先承受价格下降。会上没有宣布这笔预算、具体活动或隔离效果的实测。被问能否在 GEX 买其他游戏道具时，Euler 认为 Zeeverse 内应交易玩家能用的物品。他更愿意通过 **FOREST 为其他游戏提供类似技术**，强调对方还需要能支撑交易的成熟游戏经济。没有宣布跨游戏市场或外部接入时间。
 
 Euler 假设在全球发行之前投放一批活动物品，用同一池子承接奖励和卖压，解释为什么他想把活动资源分池。
 
-> **Euler**
+> **Euler** · [23:59](#t=1439)
 >
 > “We will be able, let's say, allocate 200 million V token to it. Uh, and and this will be a single pool which is exposed to play to earn behavior. And the moment these items will be overinflated, the price for every item will just drop and crash.”
 >
 > “举例说，可以拨 2 亿 VEE 到这里。承受边玩边赚行为的就是这一个池子。等这些物品的供给过量，物品价格就会一路跌下去。”
 
 ## 六、现场问答和片尾
+
+[32:31](#t=1951)
 
 - **再做交易赛。** Euler 倾向下次按利润而非成交量来评，拟等 Jackal 回来讨论。会中没有确定交易品、奖品或规则。对现成交易应用和信用卡购买，他提到可能由社区做开放工具，也讨论过游戏内购显示为 Gold 的路径。这些属于未来设想。
 - **发行与社区预期。** 有听众直说更关心 TGE。Euler 表示当下不是合适时机，全球发行要有能持续留下的玩家才能支撑代币活动。发言中每天十万新增、累计百万用户及线下卡支付的例子都是未来情景。转录未公布 TGE 日期，也未宣布购物支付或合作。

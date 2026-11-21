@@ -1,1 +1,631 @@
-One of the big things happening, uh,This week, and started, I I I think it started Sunday. uh, The seed vault is running for 7 days. So, uh, yeah, the big big new thing what we have, uh, this week is the seed vault, and uh, we already see some drama around it, which. Which actually love to see, because the. uh, That means people are like caring. That means people are thinking. uh, There are uh trying to come up with some optimal strategy. uh. Learning, trying new things anyways. The whole point for seed wall design was that. Serves another purpose of. People having something to do, something meaningful to do. um. Besides just distributing rewards, because uh if it would be like weekly air drop or something like that, I don't think we would see uh a lot of engagement around that. But now seeing people like trying to figure out what's the best strategy. uh, I absolutely love to see that. And uh like obviously I read the whole channel, so uh I've seen like some people being like um. I won't call it the excited, uh, ha, concerned about some whales uh making their moves. uh, It's actually funny because if I would be in their place, I would be really happy to see something like this happening because People are just blowing their seeds uh on the first ever auction. and uh I I was honestly not expecting to see so many people committing so much seeds in the first auction. uh, And we are not even uh there is still still two days to go, and what I usually have learned from the auctions is that the most of the action happens uh in the last in the last moments. So, I will probably see some more people bidding their seats. But what it means for the rest of the community and for rest of the players is that, uh. Supply has just decreased significantly, and uh the next seed auction will generally feature. Somewhat different price pool, like we haven't finished, but I think it's gonna be roughly the same. uh, But the supply for the seeds will be much lower. So the roi for every seat you command will be different in every auction. And um it's like every every every seat spend increases the value of your unspent seats. Generally, it's it is like that, and. I mean, the less seeds there are that can be bid, the less there is uh uhuh, The less competition there is, and therefore the higher value for the seeds. And and that's kind of the game we wanted to design, we want to give you ability to just um. Make these decisions on your own, and and and try to try to play with different strategies. So, uh, to give you some context, uh, last time we checked, I think there is Around 80 million seeds in total in circulation across like all the different accounts. So, we are pretty much seeing almost 10 percent of supply being burned in just first auction. uh, Which which I think is pretty cool. uh, So, yeah. uh, If jail, you can add maybe some comment, I'll read. There is a pretty long message from Exodus. Yeah, uh, I guess, uh, I guess, uh, and then we can also Talk a bit more a- a- about that. What I wanted to say, what I wanted to add to this is, sorry. uh, This is not the second phase of the era. I think there was like a common misconception that This is the, you know, uh, similar how we had the first pa- phase, uh, this was the second. And there was also some miscommunication that you know, maybe at times felt intentional, butUh, The seeds you have uh. Are not all of your air drop. It's uh it's, if you state you got the seeds, and if you state your 6.67 percent of the air drop, you got seeds equivalent to that. And for for the future air drops, you will be air dropped seeds, something we have actually very indestinately uh cover previously. So, hmm, uh, yeah, cause uh I saw I saw the notion of, oh, we have to like spend our seeds for the rest of the air drops and stuff like that, and uh yeah, given given uh that the Actual users uh were raising these this uh uh misinformation. I've thought maybe uh uh I you know clea- clear the air here. Of, and you'll correct me if I'm wrong, but for a future airdrops, users will be uh given seats. uh, uh, Yes, exactly. In re- in respective to their uh ho- uh holdings of various assets and. Various other ecosystem incentives. Yeah, that that's true, and also another thing, another point to add, and and uh I I I I think people kind of tend to forget that Forest AirDrop was essentially a bonus for zkSync holders. There's still going to be. Ziver token, which is the core Ziver asset. And when we were air dropping forest, basically what we said was uhThis was possible only uh because of Ziv's being in a place. uh,And and we felt it's fair to reward community for that. uh. I I'm I'm pretty sure there would many other projects would kind of go with different path instead. But we felt that the. This is how it has to be, and right now kind of seeing people coming in, and saying, yo, I bought land, where the fuck is my airdrop, and and and this and that. It was always about ziver air drop, and and us giving forest token, and and giving forest air drop, uh, should be treated more more as a bonus, not not as something that wasuh, promised since day one. because Forrest was not there on the see, uh, on on on on there since day one. So. I I mean, um, we all know how the market works, we all know how these projects are working, but um it's just something something to keep in mind becauseuh, Sometimes when I I go in the discord and I read. all I see is just we didn't do that, we didn't do that, but at the same time we fucking did like 100 different things. uh,uh, And barely anyone remembers to say thank you. uh,Or or or anything like that. Anyways, uh, that's just kind of me, uh, maybe getting a bit little bit too emotional, uh, going over these chats, seeing people being unhappy, and I mean. I get you guys. uh, uh, we are probably in the lowest point, at least in my experience, the lowest point we've ever been when it comes to the beer markets. Like we had like six months. Straight red candles on a bitcoin, and everything else has been just bleeding for forever, so. Seeing all that, uh, like, I don't blame guys, I don't I don't blame you for being upset at the certain things, but you have to know we are um working every single day. uh, Bear market or bull market doesn't matter, and we are building to deliver, and I think on like on the first side, we've we've delivered ton of updates, ton of updates, and like we're Delivering constantly like some rewards and bonuses. So, Sea Wall is really good example. We, it's it's kind of experiment, we're gonna see how it plays out. On top of that, we constantly do air drops for the for the token holders. On the Ziver's side, however, uh, this is where like 85 percent of our resources are allocated. So, we've been like grinding Ziver's day and night, and like last week we is we. uh, We released pretty big update. uh, We got in like some new users, we tested out experience. I I guess we'll touch on that a bit later. First of all, uh, yeah, before that, I would just wanted to like completely address some of these concerns. So bottom line is the more seeds are being spent in this seed vault, in the first seed vault, the less there will be seeds for the next ones. So, every time there will be a different value, and I would even assume that uh. The seed value uh will be probably the lowest for the first one, because there's so many people who have been sitting six months with their seeds, and haven't had any utility since since. uh, So. So, it's natural that there is people just like yelling, uh, the mount, the sea they have, uh, and and and like not thinking forward. So, anyways, uh, we'll see. um, I haven't personally looked into the accounts who have uh staked or on top 3. um, We will probably look into that, and I saw. Obama was stating that hundred percents these are developers. I can assure you it's zero percent these are developers. Like we haven't stake, and we have no incentive. To go in and like fucking stake to be on like top one or top three. So, go ahead, find addresses, match them, reach out, and and then go out with like hundred percent. uh, Certainty claims. So, um, so yeah, hmm, just. We appreciate ha ha the s- is uh some some honesty here. Yeah, uh, no. Kinnear and the Zuni is not any more, any any more around here. So, uh, as the activity has been lowered, we um. uh, We reduced the need for the moderators. So, we are we are essentially uh three people taking care of, and plus we have spirit guides, and uh for a ticketing, we are implementing um. AI driven pipel pipelines that just generally are uh more uh effective at sorting and delivering issues to the bots, but uh sorry, to the to the devs. And and at the same time, we still have a team members looking into all the all those tickets. So, uh, yeah. By the way, on this on this note, I think I uh covered everybody yesterday in regards to some some people not being able to access Hollow Trials. If you have your ticket open, if you still cannot get into Hollow Trials, uh just ping me. We actually like uh I can I can I can resolve that for you uh pre uh pre quick. So yeah, by the way, uh, that's like a little uhInsert, but uh uh yeah, maybe on this note, we can uh move back to receivers, and you know there's a there's a lengthy generated question we have uh and. Yeah, but let's let let's get to that, the last thing. uh, I I I wanted to add is, if you haven't looked into seed vault. Do it. There's still two days left. uh. Already what I see feels that we did uh a pretty good design here. So, uh, so that's cool. And. On another note, we also did launch trading competition uh with 600,000 seed reward um for a forest spin token. So. Competition will last for 7 days, and all you need to do is just trade a bit. uh, Or Or Or play uh the first spin mini game, and you will be uh joining the leaderboard, and will later receive the seed that drop. Plus We air dropped the the forest spin token or partner token to all the uh. uh, For a stakeholder, this is basically a rule we are setting up for all all of the all of the call ups, all of the partners we are doing, is that uh. Every time there is project joining a competition, or or or uh essentially being in any way uh endorsed by us. uh, The requirement is that they airdrop the token to uh all the forest taker. So this is one of the cool things, um, uh,uh, We see uh as a way to reward generally like the the the holders and the stakeholders. So, if you haven't just check your wallet, you will, you should see some token there. You can use to play or trade bit. So, uh,That's that's. I guess I know where I'm going after this, three. Yeah, that's uh that sounds like a good plan. So, yeah, you know, uh, uh, yeah, sorry, sorry, didn't mean to interrupt. uh, No, no, no, go go on. Yeah, uh, you know, before uh before we get into, cause I have a We prepared like a couple of new bosses, uh, new dungeon layouts, uh, for the upcoming dungeons. I got some uh new off for you guys, but I guess, uh, you know, let's tackle the uh. The generate question by Exodus uh uh in regards to. Oh, uh-huh. Let me just you know, paraphrase it as, when land, and soon doesn't count as an answer. Soon doesn't got us an answer, and I totally get you, ha, but saying. Give deadline, and we will keep you accountable for that. fulfill your obligation, it sounds pretty harsh. uh, we are we are for sure, we are working on that. we've showed a pretty big progress. uh. It won't be sooner than the game. um. It won't be sooner, it won't be before the game is fully released. It will probably be around the same time global launch. uh, We've already done the heavy lifting for the lands. Last, last, last day may, I I basically said you guys go and check out. The land generator, right? You can you can generate your land, uh, and That pretty much covers ninety percent of everything. Yeah, cause what's the, what's left right? It's a resource placement, uh, uh, and then getting getting to there and hosting. We made every single asset that is required to be on land. Obviously, there is going to be some polishing and and stuff like that. But uh releasing lands now. Would technically mean we are releasing all the mid game and end game content now, which we are not going to do while we are in soft launch. So, it's it's it's not about the re-, lands not being ready to be released. Obviously, there is many things That needs to be still built, right? uh. Some systems that needs to be improved, but generally, um, we've done the most of the part. um, But we can't release the lands before we are releasing the game. And and and and that's because they carry uh most of the resources, and if we do, we'll do it now, then hmm yeah, I mean, it just didn't make sense, uh, at at the moment. So, we are really pushing for that, and um. Release them uh around the same time as the global launch. uh, And you know, uh. uh, I know I'm you, generally soft spoken, but uh uh, and we we've kind of been softly like speaking around this, like every community calls, but uh you know, truth is like uhWhat's the point of Fallen release, if there's nobody playing it? uh. And we need the new users. uh, That's why I'm working so hard on the onboarding. And you know, uh, sure, we release la- lands, we'll have some returning users as we do with all of the big updates, but In reality, uh, uh, I hate it sucks to say we will we will release the land gameplay. and then you, and then like a couple of the, a couple months later, it will be like where's new content, where's new content, and if if you leave the onboarding in a you know. uh, Pardon my French in a shit state, uh, you know, not comp-, not completed, then uh we will not have uh proper retention, uh, we will not be able to convert the new users into the people that you know. not only like play the game, but also come into your lands and become part of the ecosystem.Uh, As a whole, and uh. You know, I I know I'm like a broken record here. Guys, the you know, the content drought, it it sucks, and me being one of like uh wha-, me being uh a Users recently sent me the stats. I've done like 34 K total dungeons. In total, I have like uh 3.5 K uh hours in Zvers. Guys, I'm in the forefront of uh this sucks. uh, That there is no new content, like I'm I'm miss I'm miss it as well. uh, You know, it's for a z versus longevity. uh,uh, We can make 200 people happy today, or we can make uh uh 10,000 people happy in the future. So, yeah, uh, sorry for like, you know, getting getting more. Who's gonna play on my land, right? uh, I mean, uh, maybe maybe we could fill like few lands, but it still needs much bigger audience. And I'm I'm like seeing a monk's question. There is no gameplay footage or any coverage of the land gameplay, expect except for the one by the way, we can release land generator guys, if you haven't seen it. Yeah, I mean you can literally generate your land, and it will literally look like that inside a game. It has all the research nodes, and um I mean research nodes are already working in Zevs, it won't work. I mean, the mining or woodcutting or things as such won't work like dramatically different. What do you what do you mean about like gameplay? I mean it has resource nodes, and resource nodes act the same way as The acting in the or world zvers, and the whole game play. That's like, maybe maybe maybe maybe that's like we two lands. OK, PVP tribal interactions parties, uh. um, I mean, yeah, because we don't have tribal wars ready yet. We are not going and saying, oh, we have tribal wars here. um. The, we we we certainly have the designs, but it's all. It's it it just takes time. It just takes time. uh, I'm uh I hate I hate to be in the position where we are constantly saying this, because on the other hand we are delivering so much stuff. And and we are probably getting to that in in in a minute. Because last update what we did, we released the campaign the far uh phase one. And it was very um. It was actually very fundamental update, because that's the first time we were able to measure how people act when they complete the tutorial, how they. uh, Integrate within the main world, how they get around. And uh the day it wasn't um very promising. We saw like some issues, there were some people who ended up actually losing battles. In the dungeon, which was not intended. So, there's some balancing, polishing that needs to be done. uh, There were some some small bugs, but overall, um. We saw really high completion for for all the dungeons. So that means people are um quite engaged, and it generally gives us a green light to um. Get in more users. We will we will be uh releasing next week. um. I want to call it like a c-, like a like a. Full update release, but it will be more like a service update. That will include some some smaller, hmm, really nice to have systems. uh, Meanwhile, we are we are building the face two. Not face too. uh, I'm paying for it too. uh, For for the main quest that is going to be released uh relatively. uh. Shortly after that. So, uh, yeah, uh, I mean. We completely reworked the the way how the dungeon level select is looking like. uh, I I think hmm People who tried will already notice. uh, We'll be updating this design as we go forward for umbra as well. And um. Yeah, so overall, it was actually pretty big update, because it completely changes the way how people enter the world of Veevers, and how the guidance are working, and. Overall, um, it's it's very very important if you're a new player, and um and I I saw like some of existing players actually found found it quite fun. So, was it? And uh yeah, I I guess I could uh I I get tons of uh alpha we can share about uh Couple of mo- more more thing coming up. uh, Obviously, more focus on the onboarding, but uh I got a I got a nice video here with the the uh well dungeon, cause we will have a dungeon that's inside of a well. Which is, uh, I think I I think I said this last last time, but it's a it's a tongue in cheek joke, uh, because Akka, who was a evil brother, uh, Akka means a well in a Latvian. So that's why we created one dungeon to resemble a well. um, And yeah, uh, I hope the file isn't too strong, because I am currently Sending in the chat. uh, uh, uh, working progress to look of the Wild Dungeons, level select, and. And you know I can I can imagine some some people being like ah I don't care about the level select show us the new z's uh Which uh I have prepare for you guys as well We are currently looking for o- on two new bosses 我想。让你帮我生成音乐，音乐风格为流行，主题是关于青春的回忆。 For these dungeons uh I believe this one slots into the second dungeon which is uh whi- which is uh Spiritually based on the shakti, but this one we are actually talking about pretty cool, uh, pretty cool, but you know, not over the edge mechanics, uh, foruh, uh, this this boss, and this is uh aimed for the uh wild dungeon. uh, If you don't know what I'm talking about, you can check the grand podium chat. So, um, additionally, what we will be adding is. um, I want to say more foliage, but that's not it. uh, We'll be adding consumables and more response and reason for exploration to Zevs. uh, This will come in. uh, Four forms. So first of all, this will come in the forms of berry bushes, which you will be able to, that will be scattered all throughout the grasslands, uh, and mushroom pa-, mu-, mushroom patches. And apple trees. uh, You will be able to interact with these objects to acquire uh low level common consumable that you can use uh in battle. And this is per- uh this is uh mainly aim that uh. Wild battles and the easier sustain. Now, these are no fish. uh, I think the best, I think the best consumable kind of rivals the basic globes. We might, we, uh, and you know, uh, this process is iterative, uh, as with everything in early access. So, uh, we might tweak tweak the numbers, you know, mainly going up, cause you know going down doesn't uh make that much sense. We'll also be adding uh loose branches. um. Lose branches that uh you will be able to uh uh make fires. We'd be kind of were discussing the, should we add more campfires at someplace else? And then we kind of arrive to what if we add just you know some branches on the ground that you can pick up and start fire from. uh, Next up, we will be adding, I think the first situation comes with 20 uh common variety chests, and you you you know, here in common should imply that there is gonna be rare, epic and legendary ones. We'll be adding 20 common chests hidden throughout the Ziver's land. And these common chests, they will work pretty simple. You you kick them open. Now, uh, what we'll also, we're also working on is rare, epic and legendary chest, which will come with the form of challenges, whether that be defeating a Z, or solving a s- o- o- or solving a small puzzle. Or uh you know, uh uhNo, that's actually kind of hit. uh, Ha ha. Yeah, maybe. Yeah. uh, I want to kind of add because it's it's not just about like introducing more awards. It it it it's about us like realizing the. Wonderful world we have built, which still feels quite empty, and not rewarding for people who explore that. So, these uh updates uh regarding the chests that you will be able to find in variety, like various different places hidden hidden around the world, and different um. Consumable the spawn uh will definitely give a a way more taste uh to world itself, and will reward exploration. Because. Good worlds are the ones where you end up wandering around. uh, And and and by that, I mean you go, you see, oh, there is some like some some some mushrooms, you go pick them up. Then you see there is some other thing that you can go and pick up. You go pick it up, you'll find the chest there, and then suddenly you are already at complete different spot in a in a map. So, these things will definitely drive exploration, and will make a lot of um. A lot of places feel alive inside the Zevs. Even even like things as simple as you go in like a building, and you see uh I don't know like a fishing rod, or you see uh a hummer. uh, Just uh standing there, like, being left on a table. It's it's something nice to pick up. There is always some some mystery, there is always a bit of like surprise. So, we really uh we felt that we are missing this layer, and this is. Extremely important uh when people are exploring the world, and just kind of. Going around, so this becomes a way to naturally reward uh curiosity and and exploration. So, this is a bit of like uh thinking behind that. It's not about like yo, let's make Some cool rewards or something. It's it's more about reward. We have this. Exploration. Exactly, we have to reward exploration. We have to uh we have to. We bet, yeah, we bet, we basically have to immerse people in the world. uh, And you're only immersed if if you naturally feel that you need to go in and and look for a bit more, because you never know, you might find something. And again. uh, Experience player base, I think you will find really fun to collect all this windy chests. But for new players, this is going to be um. What an addicting experience uh to explore, and and um an another thing is will. Almost certainly will see the world itself to be more alive, and and and this is kind of a direction we've taken like a long time ago, uh, with a wild these, if you go and you try. Wild Z battles, you will also feel them way more rapid, way more faster than they were previously. And this is everything to do with the the recent Updates uh when it uh when it comes to the balance, uh, and and dungeons. And so overall. Overall, um, the world will feel more alive, and uh you will see more people just like chilling around, looking for stuff. um, Therefore, hmm, yeah. That that that that that's pretty much the thought behind it. So, uh, can't wait, I guess. huh. Yeah. So, you know. uh, No, no, no, just you know, could. uh What uh just wanted to add in regards to the chess while common chess will be a bit more uh you know cla- uh classical in terms of the loot We are looking to add something uh哦。How to say more? uh, Whether that be uh some quality of life improvements in forms of items, or uh some um uh outfits that might or might not do. uh. Something, uh, when you are uh engaging in uh skills or uh. Other activities within the verse. uh, But yeah. I guess uh kind of that covers majority of uh. Of uh the alpha for uh this week. uh, Remember we just released the the previous dungeons, and yeah, we are al- almost uh. In terms of uh producing the content in it, uh, in it, done with the uh second and third part of the dungeon. uh, You or do you have an estimate on when could we be looking for the release on them? I I guess that's actually a dry question for you. uh,uh, uh, like, I think I think uh next week we're releasing the service update. So I would be. Hoping to have it after that. Realistically, I think we're looking at the end of April uh for for the next phase of quests. um. May maybe maybe a bit sooner. I mean it's already April 9, so we will um. uh, Please don't delay with the printed version of the AMA session. And Jacob doesn't know. So, um. So yeah, uh, one more thing, uh, the service update besides a lot of different fixes, will also bring uh daily login rewards. uh, We will start relatively easy and small. We wanna see what people enjoy. They will have some wood boxes, they will have some uh energy potions, a bit of spirit. And uh yeah, so we wanna um we wanna see how that develops a habit, uh of like logging in every day, and just checking out some stuff. It's very important for for for new users. It's how the mobile games are usually built, and how they retain users. I don't wanna really kind of double down on this, because I feel the. The game should be doing the heavy lifting, not just like some some checking mechanic. But it's always nice to have, so we want to start small. You will see simple seven day login streak where every day you check in and you and use receive like a small reward. And and uh yeah, so that's that's an art sys- system coming in, uh, to go with the service update. So, uh, what else do we have? uh, I mean we have like the main campaign that's that's being pushed really hard. uh, A funny thing, not funny thing, the cool thing and fun thing uh about. uh, Second part of the main quest is that once you complete that, you will unlock uh ability to teleport between totems. So, the moment we have that, you will Be able to travel uh generally from the village to the sawmill, uh, just by using the totem pulse. So. I I I I guess that brings a bit of uh ease of life for uh our existing player base. So, uh, yeah. uh, Also, one thing we had was. We are starting to uh lean into more and more content. We are generally starting to think about more new these, and one of these will end up introducing will be. As Z, you can only receive if you log in seven days, great enroll. So, it won't be like anything hmm out of this world, but it's gonna be a new Z, it's gonna introduce New abilities and and new strategies in game, and you'll start to see just them. Coming in more often, as we keep introducing content. So, uh, yeah, and. Name proposition daily. Just spell differently. uh.uh, But, yeah. Just best thing. uh. uh, Yeah, I I guess we can uh you you know look to keep it the uh lean guys. uh. We know you care, so keep the questions uh coming. uh, You know, uh, I would say, uh, keep the criticism to a minimum, but I'm not gonna um. uh, As long as you do it respectfully towards uh uh. Mainly your fellow shaman, and then uh our project itself. uh, uh, keep the criticism coming as well. uh, But yeah, if uh yeah, Yolanda, if what do you think, uh, do you have something more to add, or should we look to wrap up? I think I think we can wrap up. uh, I can. hmm, Repeat myself, um, go check out Seed Vault, if you haven't. uh, It will, it's still go- going for two days, if you have staked. uh, Forest token, check your wallet. We are constantly doing air drops from our partners, so having a forest state will give you uh. Some tokens to play around with, some free rewards. So, yeah, make sure you check your wallets. And there's still trading competition going on in the forest. So, uh, that's a great way to uh earn some free seeds. OK, please address the fact that you can't fix land on sticking for two years. uh. uh, Unstaking, oh, OK, OK. uh, I I exactly know what you're talking about, and this issue actually was escalated this week from from our DevOps. Oh, uh, we already passed it. The problem, um, an underlying issue with this is that, uh. The land staking is the last program that is being hosted by third party, which is Walt that ink. And because there were some uh changes of points given based on the land rarity, it fucked up uh the unstaking process. So, we've already kind of collected all the reproduction steps, and and we pass them to the team. So, uh, I I I hope we get um. Some fix relatively soon. uh, Yeah, but yeah, uh, we we we are track of this, and in any way, we will make sure. And it all in good, yeah. Sorry, I'm getting flashback here, but uh uh are we uh migrating away from Walt, think, uh because if it. uh, In the in the future, and the. I mean, we've all already, like, we can't really migrate away from existing contracts. uh, We can't and stake. Assets which we do not own, right? uh, But we we are not like rewarding land staking anymore, uh, through this way, we have a collector's profile, souh, We are for sure not encouraging anyone to stake land uh anymore in the voting. and and we are generally just moving away, but we need to get um. Get apart fixed about the some users who have stock lands in in in those contracts. And and unfortunately this can be only fixed by Waltink. There is no way, there is nothing what we can do. We already like prepare productions, reproduction steps for this issue, and we passed it uh to the Walt team. So we are just hoping for some somewhat rapid uh. Response on that. OK, but yeah, but it's funny that you mentioned this, because like literally, uh, I'm not shooting, this week, our devil brought it up, and basically said OK, we have full way to reproduce the issue. Now we now we need to get those guys on. And and also like communication is not the easiest with with them, cause they just uh mostly speak Mandarin, so. There are a few challenges, but anyways, um, really uh appreciate you pointing this out. uh, It's it's it's it's an issue that we need to deal with, and. uh, Yeah, I'll I'll I'll definitely update um you as soon as we get anything from them. So. It should hopefully will be solved really, really soon. OK, good. uh, I am just sorry, I am preparing the uh list of names in the uh in the background. um. All right, um, guys, uh, it was a lovely to have you here for another week. uh, We really appreciate you coming. uh, After the call we will be doing uh. 3 one month premium basketballs, uh, and yeah, Euler, any closing remarks? I guess guys stay tuned. The game is starting to take shape, and. I I I I think we have something good on our han- our hands, so. Let let let let's close in that note. Let's go on the other one. Thank you, thank you for showing up, and as always, um. See you next week. At uh. Jack out time. uh, Hey, guys. uh, It's me. uh. All right, let's do uh let's do a giveaway for three one month premium passes. Right, uh, here are the little producers, minus the Craig. uh, Unfortunately, I think Cherry is not here, right? Yeah. uh, OK, cool. uh, If you're not in the screen, that you weren't here when I took it. uh, Sucks. uh, All right, let's spin it. And if you win, just open up a ticket. Me or Cherry will provide you with a code. Time player. Congratulations. That's the first one. Uh, Next up. Lemel, congratulations. And the final one. I'll take you guys in a bit. Obanaka, congratulations. 3 11 premium passes goes out to you guys. I will uh take the uh I will uh I will tag you guys in a second. But um yeah, guys, cool that you came. um. Love the TrueCare. uh, I will meet you guys the most likely next week. uh. uh, During the stream, uh, on Tuesdays, where I hostIVER stream where I uh get up to no good, uh, and then next week community call. uh, Thank you guys for being a. Being with me, nice, me, no, unfortunately not you. uh, And yeah, see you guys, bye bye.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+One of the big things happening, uh,This week, and started, I I I think it started Sunday. uh, The seed vault is running for 7 days.
+
+[00:12]
+
+So, uh, yeah, the big big new thing what we have, uh, this week is the seed vault, and uh, we already see some drama around it, which.
+
+[00:23]
+
+Which actually love to see, because the. uh, That means people are like caring. That means people are thinking. uh, There are uh trying to come up with some optimal strategy. uh.
+
+[00:39]
+
+Learning, trying new things anyways. The whole point for seed wall design was that. Serves another purpose of.
+
+[00:51]
+
+People having something to do, something meaningful to do. um. Besides just distributing rewards, because uh if it would be like weekly air drop or something like that, I don't think we would see uh a lot of engagement around that.
+
+[01:11]
+
+But now seeing people like trying to figure out what's the best strategy. uh, I absolutely love to see that. And uh like obviously I read the whole channel, so uh I've seen like some people being like um.
+
+[01:26]
+
+I won't call it the excited, uh, ha, concerned about some whales uh making their moves. uh, It's actually funny because if I would be in their place, I would be really happy to see something like this happening because People are just blowing their seeds uh on the first ever auction.
+
+[01:45]
+
+and uh I I was honestly not expecting to see so many people committing so much seeds in the first auction. uh, And we are not even uh there is still still two days to go, and what I usually have learned from the auctions is that the most of the action happens uh in the last in the last moments.
+
+[02:07]
+
+So, I will probably see some more people bidding their seats. But what it means for the rest of the community and for rest of the players is that, uh.
+
+[02:18]
+
+Supply has just decreased significantly, and uh the next seed auction will generally feature. Somewhat different price pool, like we haven't finished, but I think it's gonna be roughly the same. uh, But the supply for the seeds will be much lower.
+
+[02:40]
+
+So the roi for every seat you command will be different in every auction. And um it's like every every every seat spend increases the value of your unspent seats.
+
+[02:55]
+
+Generally, it's it is like that, and. I mean, the less seeds there are that can be bid, the less there is uh uhuh, The less competition there is, and therefore the higher value for the seeds.
+
+[03:11]
+
+And and that's kind of the game we wanted to design, we want to give you ability to just um. Make these decisions on your own, and and and try to try to play with different strategies.
+
+[03:23]
+
+So, uh, to give you some context, uh, last time we checked, I think there is Around 80 million seeds in total in circulation across like all the different accounts.
+
+[03:35]
+
+So, we are pretty much seeing almost 10 percent of supply being burned in just first auction. uh, Which which I think is pretty cool. uh, So, yeah. uh, If jail, you can add maybe some comment, I'll read.
+
+[03:51]
+
+There is a pretty long message from Exodus. Yeah, uh, I guess, uh, I guess, uh, and then we can also Talk a bit more a- a- about that. What I wanted to say, what I wanted to add to this is, sorry. uh, This is not the second phase of the era.
+
+[04:07]
+
+I think there was like a common misconception that This is the, you know, uh, similar how we had the first pa- phase, uh, this was the second. And there was also some miscommunication that you know, maybe at times felt intentional, butUh, The seeds you have uh.
+
+[04:27]
+
+Are not all of your air drop. It's uh it's, if you state you got the seeds, and if you state your 6.67 percent of the air drop, you got seeds equivalent to that.
+
+[04:40]
+
+And for for the future air drops, you will be air dropped seeds, something we have actually very indestinately uh cover previously. So, hmm, uh, yeah, cause uh I saw I saw the notion of, oh, we have to like spend our seeds for the rest of the air drops and stuff like that, and uh yeah, given given uh that the Actual users uh were raising these this uh uh
+
+[05:06]
+
+misinformation. I've thought maybe uh uh I you know clea- clear the air here. Of, and you'll correct me if I'm wrong, but for a future airdrops, users will be uh given seats. uh, uh, Yes, exactly.
+
+[05:21]
+
+In re- in respective to their uh ho- uh holdings of various assets and. Various other ecosystem incentives. Yeah, that that's true, and also another thing, another point to add, and and uh I I I I think people kind of tend to forget that Forest AirDrop was essentially a bonus for zkSync holders.
+
+[05:41]
+
+There's still going to be. Ziver token, which is the core Ziver asset. And when we were air dropping forest, basically what we said was uhThis was possible only uh because of Ziv's being in a place. uh,And and we felt it's fair to reward community for that. uh. I I'm I'm pretty sure there would
+
+[06:06]
+
+many other projects would kind of go with different path instead. But we felt that the. This is how it has to be, and right now kind of seeing people coming in, and saying, yo, I bought land, where the fuck is my airdrop, and and and this and that.
+
+[06:28]
+
+It was always about ziver air drop, and and us giving forest token, and and giving forest air drop, uh, should be treated more more as a bonus, not not as something that wasuh, promised since day one.
+
+[06:41]
+
+because Forrest was not there on the see, uh, on on on on there since day one. So. I I mean, um, we all know how the market works, we all know how these projects are working, but um it's just something something to keep in mind becauseuh, Sometimes when I I go in the discord and I read.
+
+[07:04]
+
+all I see is just we didn't do that, we didn't do that, but at the same time we fucking did like 100 different things. uh,uh, And barely anyone remembers to say thank you. uh,Or or or anything like that.
+
+[07:16]
+
+Anyways, uh, that's just kind of me, uh, maybe getting a bit little bit too emotional, uh, going over these chats, seeing people being unhappy, and I mean. I get you guys. uh, uh, we are probably in the lowest point, at least in my experience, the lowest point we've ever been when it comes to the beer markets.
+
+[07:37]
+
+Like we had like six months. Straight red candles on a bitcoin, and everything else has been just bleeding for forever, so.
+
+[07:50]
+
+Seeing all that, uh, like, I don't blame guys, I don't I don't blame you for being upset at the certain things, but you have to know we are um working every single day. uh, Bear market or bull market doesn't matter, and we are building to deliver, and I think on like on the first side, we've we've delivered ton of updates, ton of updates, and like we're Delivering constantly like some rewards and
+
+[08:15]
+
+bonuses. So, Sea Wall is really good example. We, it's it's kind of experiment, we're gonna see how it plays out. On top of that, we constantly do air drops for the for the token holders. On the Ziver's side, however, uh, this is where like 85 percent of our resources are allocated.
+
+[08:34]
+
+So, we've been like grinding Ziver's day and night, and like last week we is we. uh, We released pretty big update. uh, We got in like some new users, we tested out experience.
+
+[08:47]
+
+I I guess we'll touch on that a bit later. First of all, uh, yeah, before that, I would just wanted to like completely address some of these concerns.
+
+[08:58]
+
+So bottom line is the more seeds are being spent in this seed vault, in the first seed vault, the less there will be seeds for the next ones.
+
+[09:10]
+
+So, every time there will be a different value, and I would even assume that uh. The seed value uh will be probably the lowest for the first one, because there's so many people who have been sitting six months with their seeds, and haven't had any utility since since. uh, So.
+
+[09:32]
+
+So, it's natural that there is people just like yelling, uh, the mount, the sea they have, uh, and and and like not thinking forward. So, anyways, uh, we'll see. um, I haven't personally looked into the accounts who have uh staked or on top 3. um, We will probably look into that, and I saw. Obama was
+
+[09:57]
+
+stating that hundred percents these are developers. I can assure you it's zero percent these are developers. Like we haven't stake, and we have no incentive. To go in and like fucking stake to be on like top one or top three.
+
+[10:11]
+
+So, go ahead, find addresses, match them, reach out, and and then go out with like hundred percent. uh, Certainty claims.
+
+[10:23]
+
+So, um, so yeah, hmm, just. We appreciate ha ha the s- is uh some some honesty here. Yeah, uh, no. Kinnear and the Zuni is not any more, any any more around here.
+
+[10:42]
+
+So, uh, as the activity has been lowered, we um. uh, We reduced the need for the moderators. So, we are we are essentially uh three people taking care of, and plus we have spirit guides, and uh for a ticketing, we are implementing um.
+
+[11:02]
+
+AI driven pipel pipelines that just generally are uh more uh effective at sorting and delivering issues to the bots, but uh sorry, to the to the devs. And and at the same time, we still have a team members looking into all the all those tickets.
+
+[11:17]
+
+So, uh, yeah. By the way, on this on this note, I think I uh covered everybody yesterday in regards to some some people not being able to access Hollow Trials.
+
+[11:29]
+
+If you have your ticket open, if you still cannot get into Hollow Trials, uh just ping me. We actually like uh I can I can I can resolve that for you uh pre uh pre quick.
+
+[11:41]
+
+So yeah, by the way, uh, that's like a little uhInsert, but uh uh yeah, maybe on this note, we can uh move back to receivers, and you know there's a there's a lengthy generated question we have uh and.
+
+[11:56]
+
+Yeah, but let's let let's get to that, the last thing. uh, I I I wanted to add is, if you haven't looked into seed vault. Do it. There's still two days left. uh.
+
+[12:09]
+
+Already what I see feels that we did uh a pretty good design here. So, uh, so that's cool. And. On another note, we also did launch trading competition uh with 600,000 seed reward um for a forest spin token.
+
+[12:29]
+
+So. Competition will last for 7 days, and all you need to do is just trade a bit. uh, Or Or Or play uh the first spin mini game, and you will be uh joining the leaderboard, and will later receive the seed that drop. Plus We air dropped the the forest spin token or partner token
+
+[12:54]
+
+to all the uh. uh, For a stakeholder, this is basically a rule we are setting up for all all of the all of the call ups, all of the partners we are doing, is that uh.
+
+[13:08]
+
+Every time there is project joining a competition, or or or uh essentially being in any way uh endorsed by us. uh, The requirement is that they airdrop the token to uh all the forest taker.
+
+[13:26]
+
+So this is one of the cool things, um, uh,uh, We see uh as a way to reward generally like the the the holders and the stakeholders. So, if you haven't just check your wallet, you will, you should see some token there.
+
+[13:40]
+
+You can use to play or trade bit. So, uh,That's that's. I guess I know where I'm going after this, three. Yeah, that's uh that sounds like a good plan.
+
+[13:51]
+
+So, yeah, you know, uh, uh, yeah, sorry, sorry, didn't mean to interrupt. uh, No, no, no, go go on. Yeah, uh, you know, before uh before we get into, cause I have a We prepared like a couple of new bosses, uh, new dungeon layouts, uh, for the upcoming dungeons.
+
+[14:07]
+
+I got some uh new off for you guys, but I guess, uh, you know, let's tackle the uh. The generate question by Exodus uh uh in regards to.
+
+[14:18]
+
+Oh, uh-huh. Let me just you know, paraphrase it as, when land, and soon doesn't count as an answer. Soon doesn't got us an answer, and I totally get you, ha, but saying.
+
+[14:31]
+
+Give deadline, and we will keep you accountable for that. fulfill your obligation, it sounds pretty harsh. uh, we are we are for sure, we are working on that.
+
+[14:44]
+
+we've showed a pretty big progress. uh. It won't be sooner than the game. um. It won't be sooner, it won't be before the game is fully released.
+
+[14:57]
+
+It will probably be around the same time global launch. uh, We've already done the heavy lifting for the lands. Last, last, last day may, I I basically said you guys go and check out.
+
+[15:13]
+
+The land generator, right? You can you can generate your land, uh, and That pretty much covers ninety percent of everything. Yeah, cause what's the, what's left right?
+
+[15:24]
+
+It's a resource placement, uh, uh, and then getting getting to there and hosting. We made every single asset that is required to be on land.
+
+[15:40]
+
+Obviously, there is going to be some polishing and and stuff like that. But uh releasing lands now. Would technically mean we are releasing all the mid game and end game content now, which we are not going to do while we are in soft launch.
+
+[15:56]
+
+So, it's it's it's not about the re-, lands not being ready to be released. Obviously, there is many things That needs to be still built, right? uh. Some systems that needs to be improved, but generally, um, we've done the most of the part. um, But we can't release the lands before we are releasing the game.
+
+[16:18]
+
+And and and and that's because they carry uh most of the resources, and if we do, we'll do it now, then hmm yeah, I mean, it just didn't make sense, uh, at at the moment. So, we are really pushing for that, and um.
+
+[16:33]
+
+Release them uh around the same time as the global launch. uh, And you know, uh. uh, I know I'm you, generally soft spoken, but uh uh, and we we've kind of been softly like speaking around this, like every community calls, but uh you know, truth is like uhWhat's the point of Fallen release, if there's nobody playing it? uh.
+
+[16:56]
+
+And we need the new users. uh, That's why I'm working so hard on the onboarding. And you know, uh, sure, we release la- lands, we'll have some returning users as we do with all of the big updates, but In reality, uh, uh, I hate it sucks to say we will we will release the land gameplay.
+
+[17:16]
+
+and then you, and then like a couple of the, a couple months later, it will be like where's new content, where's new content, and if if you leave the onboarding in a you know. uh, Pardon my French in a shit state, uh, you know, not comp-, not completed, then uh we will not have uh proper retention, uh, we will not be able to convert the new users into the people that you know.
+
+[17:38]
+
+not only like play the game, but also come into your lands and become part of the ecosystem.Uh, As a whole, and uh. You know, I I know I'm like a broken record here.
+
+[17:50]
+
+Guys, the you know, the content drought, it it sucks, and me being one of like uh wha-, me being uh a Users recently sent me the stats. I've done like 34 K total dungeons.
+
+[18:04]
+
+In total, I have like uh 3.5 K uh hours in Zvers. Guys, I'm in the forefront of uh this sucks. uh, That there is no new content, like I'm I'm miss I'm miss it as well. uh, You know, it's for a z versus longevity. uh,uh, We can make 200 people happy today, or we can make uh uh 10,000 people happy in the future.
+
+[18:29]
+
+So, yeah, uh, sorry for like, you know, getting getting more. Who's gonna play on my land, right? uh, I mean, uh, maybe maybe we could fill like few lands, but it still needs much bigger audience.
+
+[18:50]
+
+And I'm I'm like seeing a monk's question. There is no gameplay footage or any coverage of the land gameplay, expect except for the one by the way, we can release land generator guys, if you haven't seen it.
+
+[19:03]
+
+Yeah, I mean you can literally generate your land, and it will literally look like that inside a game. It has all the research nodes, and um I mean research nodes are already working in Zevs, it won't work.
+
+[19:16]
+
+I mean, the mining or woodcutting or things as such won't work like dramatically different. What do you what do you mean about like gameplay? I mean it has resource nodes, and resource nodes act the same way as The acting in the or world zvers, and the whole game play. That's like, maybe maybe maybe maybe that's like we two lands. OK, PVP tribal interactions parties, uh. um,
+
+[19:42]
+
+I mean, yeah, because we don't have tribal wars ready yet. We are not going and saying, oh, we have tribal wars here. um. The, we we we certainly have the designs, but it's all.
+
+[19:57]
+
+It's it it just takes time. It just takes time. uh, I'm uh I hate I hate to be in the position where we are constantly saying this, because on the other hand we are delivering so much stuff.
+
+[20:08]
+
+And and we are probably getting to that in in in a minute. Because last update what we did, we released the campaign the far uh phase one.
+
+[20:20]
+
+And it was very um. It was actually very fundamental update, because that's the first time we were able to measure how people act when they complete the tutorial, how they. uh, Integrate within the main world, how they get around.
+
+[20:38]
+
+And uh the day it wasn't um very promising. We saw like some issues, there were some people who ended up actually losing battles. In the dungeon, which was not intended. So, there's some balancing, polishing that needs to be done. uh, There were some some small bugs, but overall, um.
+
+[20:57]
+
+We saw really high completion for for all the dungeons. So that means people are um quite engaged, and it generally gives us a green light to um. Get in more users.
+
+[21:12]
+
+We will we will be uh releasing next week. um. I want to call it like a c-, like a like a. Full update release, but it will be more like a service update.
+
+[21:26]
+
+That will include some some smaller, hmm, really nice to have systems. uh, Meanwhile, we are we are building the face two.
+
+[21:38]
+
+Not face too. uh, I'm paying for it too. uh, For for the main quest that is going to be released uh relatively. uh. Shortly after that.
+
+[21:50]
+
+So, uh, yeah, uh, I mean. We completely reworked the the way how the dungeon level select is looking like. uh, I I think hmm People who tried will already notice. uh, We'll be updating this design as we go forward for umbra as well.
+
+[22:13]
+
+And um. Yeah, so overall, it was actually pretty big update, because it completely changes the way how people enter the world of Veevers, and how the guidance are working, and.
+
+[22:26]
+
+Overall, um, it's it's very very important if you're a new player, and um and I I saw like some of existing players actually found found it quite fun.
+
+[22:37]
+
+So, was it? And uh yeah, I I guess I could uh I I get tons of uh alpha we can share about uh Couple of mo- more more thing coming up. uh, Obviously, more focus on the onboarding, but uh I got a I got a nice video here with the the uh well dungeon, cause we will have a dungeon that's inside of a well.
+
+[22:58]
+
+Which is, uh, I think I I think I said this last last time, but it's a it's a tongue in cheek joke, uh, because Akka, who was a evil brother, uh, Akka means a well in a Latvian.
+
+[23:11]
+
+So that's why we created one dungeon to resemble a well. um, And yeah, uh, I hope the file isn't too strong, because I am currently Sending in the chat. uh, uh, uh, working progress to look of the Wild Dungeons, level select, and.
+
+[23:32]
+
+And you know I can I can imagine some some people being like ah I don't care about the level select show us the new z's uh Which uh I have prepare for you guys as well We are currently looking for o- on two new bosses 我想。让你帮我生成音乐，音乐风格为流行，主题是关于青春的回忆。 For these dungeons uh I believe this one slots into the second dungeon which is uh whi- which is uh
+
+[23:59]
+
+Spiritually based on the shakti, but this one we are actually talking about pretty cool, uh, pretty cool, but you know, not over the edge mechanics, uh, foruh, uh, this this boss, and this is uh aimed for the uh wild dungeon. uh, If you don't know what I'm talking about, you can check the grand podium chat.
+
+[24:23]
+
+So, um, additionally, what we will be adding is. um, I want to say more foliage, but that's not it. uh, We'll be adding consumables and more response and reason for exploration to Zevs. uh, This will come in. uh, Four forms.
+
+[24:41]
+
+So first of all, this will come in the forms of berry bushes, which you will be able to, that will be scattered all throughout the grasslands, uh, and mushroom pa-, mu-, mushroom patches.
+
+[24:54]
+
+And apple trees. uh, You will be able to interact with these objects to acquire uh low level common consumable that you can use uh in battle. And this is per- uh this is uh mainly aim that uh. Wild battles and the easier sustain.
+
+[25:10]
+
+Now, these are no fish. uh, I think the best, I think the best consumable kind of rivals the basic globes. We might, we, uh, and you know, uh, this process is iterative, uh, as with everything in early access.
+
+[25:24]
+
+So, uh, we might tweak tweak the numbers, you know, mainly going up, cause you know going down doesn't uh make that much sense. We'll also be adding uh loose branches. um.
+
+[25:36]
+
+Lose branches that uh you will be able to uh uh make fires. We'd be kind of were discussing the, should we add more campfires at someplace else? And then we kind of arrive to what if we add just you know some branches on the ground that you can pick up and start fire from. uh, Next up, we will be adding, I think the first situation comes with 20 uh common variety chests, and
+
+[26:01]
+
+you you you know, here in common should imply that there is gonna be rare, epic and legendary ones. We'll be adding 20 common chests hidden throughout the Ziver's land.
+
+[26:12]
+
+And these common chests, they will work pretty simple. You you kick them open. Now, uh, what we'll also, we're also working on is rare, epic and legendary chest, which will come with the form of challenges, whether that be defeating a Z, or solving a s- o- o- or solving a small puzzle.
+
+[26:30]
+
+Or uh you know, uh uhNo, that's actually kind of hit. uh, Ha ha. Yeah, maybe. Yeah. uh, I want to kind of add because it's it's not just about like introducing more awards.
+
+[26:44]
+
+It it it it's about us like realizing the. Wonderful world we have built, which still feels quite empty, and not rewarding for people who explore that.
+
+[26:57]
+
+So, these uh updates uh regarding the chests that you will be able to find in variety, like various different places hidden hidden around the world, and different um.
+
+[27:11]
+
+Consumable the spawn uh will definitely give a a way more taste uh to world itself, and will reward exploration. Because.
+
+[27:24]
+
+Good worlds are the ones where you end up wandering around. uh, And and and by that, I mean you go, you see, oh, there is some like some some some mushrooms, you go pick them up.
+
+[27:35]
+
+Then you see there is some other thing that you can go and pick up. You go pick it up, you'll find the chest there, and then suddenly you are already at complete different spot in a in a map.
+
+[27:46]
+
+So, these things will definitely drive exploration, and will make a lot of um. A lot of places feel alive inside the Zevs.
+
+[27:59]
+
+Even even like things as simple as you go in like a building, and you see uh I don't know like a fishing rod, or you see uh a hummer. uh, Just uh standing there, like, being left on a table.
+
+[28:13]
+
+It's it's something nice to pick up. There is always some some mystery, there is always a bit of like surprise. So, we really uh we felt that we are missing this layer, and this is.
+
+[28:26]
+
+Extremely important uh when people are exploring the world, and just kind of. Going around, so this becomes a way to naturally reward uh curiosity and and exploration.
+
+[28:38]
+
+So, this is a bit of like uh thinking behind that. It's not about like yo, let's make Some cool rewards or something. It's it's more about reward. We have this. Exploration.
+
+[28:49]
+
+Exactly, we have to reward exploration. We have to uh we have to. We bet, yeah, we bet, we basically have to immerse people in the world. uh, And you're only immersed if if you naturally feel that you need to go in and and look for a bit more, because you never know, you might find something.
+
+[29:10]
+
+And again. uh, Experience player base, I think you will find really fun to collect all this windy chests. But for new players, this is going to be um.
+
+[29:22]
+
+What an addicting experience uh to explore, and and um an another thing is will. Almost certainly will see the world itself to be more alive, and and and this is kind of a direction we've taken like a long time ago, uh, with a wild these, if you go and you try. Wild Z battles, you will also feel them way more rapid,
+
+[29:47]
+
+way more faster than they were previously. And this is everything to do with the the recent Updates uh when it uh when it comes to the balance, uh, and and dungeons.
+
+[29:58]
+
+And so overall. Overall, um, the world will feel more alive, and uh you will see more people just like chilling around, looking for stuff. um, Therefore, hmm, yeah.
+
+[30:16]
+
+That that that that that's pretty much the thought behind it. So, uh, can't wait, I guess. huh. Yeah. So, you know. uh, No, no, no, just you know, could. uh What uh just wanted to add in regards to the chess while common chess will be a bit more uh you know cla- uh classical in terms of the loot We are looking to add something uh哦。How
+
+[30:43]
+
+to say more? uh, Whether that be uh some quality of life improvements in forms of items, or uh some um uh outfits that might or might not do. uh.
+
+[30:56]
+
+Something, uh, when you are uh engaging in uh skills or uh. Other activities within the verse. uh, But yeah. I guess uh kind of that covers majority of uh.
+
+[31:13]
+
+Of uh the alpha for uh this week. uh, Remember we just released the the previous dungeons, and yeah, we are al- almost uh.
+
+[31:25]
+
+In terms of uh producing the content in it, uh, in it, done with the uh second and third part of the dungeon. uh, You or do you have an estimate on when could we be looking for the release on them?
+
+[31:38]
+
+I I guess that's actually a dry question for you. uh,uh, uh, like, I think I think uh next week we're releasing the service update. So I would be.
+
+[31:52]
+
+Hoping to have it after that. Realistically, I think we're looking at the end of April uh for for the next phase of quests. um. May maybe maybe a bit sooner.
+
+[32:04]
+
+I mean it's already April 9, so we will um. uh, Please don't delay with the printed version of the AMA session. And Jacob doesn't know.
+
+[32:16]
+
+So, um. So yeah, uh, one more thing, uh, the service update besides a lot of different fixes, will also bring uh daily login rewards. uh, We will start relatively easy and small.
+
+[32:34]
+
+We wanna see what people enjoy. They will have some wood boxes, they will have some uh energy potions, a bit of spirit. And uh yeah, so we wanna um we wanna see how that develops a habit, uh of like logging in every day, and just checking out some stuff.
+
+[32:55]
+
+It's very important for for for new users. It's how the mobile games are usually built, and how they retain users. I don't wanna really kind of double down on this, because I feel the.
+
+[33:09]
+
+The game should be doing the heavy lifting, not just like some some checking mechanic. But it's always nice to have, so we want to start small. You will see simple seven day login streak where every day you check in and you and use receive like a small reward.
+
+[33:31]
+
+And and uh yeah, so that's that's an art sys- system coming in, uh, to go with the service update. So, uh, what else do we have? uh, I mean we have like the main campaign that's that's being pushed really hard. uh, A funny thing, not funny thing, the cool thing and fun thing uh about. uh, Second part of the main quest
+
+[33:56]
+
+is that once you complete that, you will unlock uh ability to teleport between totems. So, the moment we have that, you will Be able to travel uh generally from the village to the sawmill, uh, just by using the totem pulse.
+
+[34:15]
+
+So. I I I I guess that brings a bit of uh ease of life for uh our existing player base. So, uh, yeah. uh, Also, one thing we had was.
+
+[34:30]
+
+We are starting to uh lean into more and more content. We are generally starting to think about more new these, and one of these will end up introducing will be.
+
+[34:48]
+
+As Z, you can only receive if you log in seven days, great enroll. So, it won't be like anything hmm out of this world, but it's gonna be a new Z, it's gonna introduce New abilities and and new strategies in game, and you'll start to see just them.
+
+[35:09]
+
+Coming in more often, as we keep introducing content. So, uh, yeah, and. Name proposition daily. Just spell differently. uh.uh, But, yeah.
+
+[35:25]
+
+Just best thing. uh. uh, Yeah, I I guess we can uh you you know look to keep it the uh lean guys. uh. We know you care, so keep the questions uh coming. uh, You know, uh, I would say, uh, keep the criticism to a minimum, but I'm not gonna um. uh, As long as you do it respectfully towards uh uh.
+
+[35:50]
+
+Mainly your fellow shaman, and then uh our project itself. uh, uh, keep the criticism coming as well. uh, But yeah, if uh yeah, Yolanda, if what do you think, uh, do you have something more to add, or should we look to wrap up?
+
+[36:08]
+
+I think I think we can wrap up. uh, I can. hmm, Repeat myself, um, go check out Seed Vault, if you haven't. uh, It will, it's still go- going for two days, if you have staked. uh, Forest token, check your wallet.
+
+[36:25]
+
+We are constantly doing air drops from our partners, so having a forest state will give you uh. Some tokens to play around with, some free rewards.
+
+[36:37]
+
+So, yeah, make sure you check your wallets. And there's still trading competition going on in the forest. So, uh, that's a great way to uh earn some free seeds.
+
+[36:51]
+
+OK, please address the fact that you can't fix land on sticking for two years. uh. uh, Unstaking, oh, OK, OK. uh, I I exactly know what you're talking about, and this issue actually was escalated this week from from our DevOps.
+
+[37:11]
+
+Oh, uh, we already passed it. The problem, um, an underlying issue with this is that, uh. The land staking is the last program that is being hosted by third party, which is Walt that ink.
+
+[37:27]
+
+And because there were some uh changes of points given based on the land rarity, it fucked up uh the unstaking process.
+
+[37:40]
+
+So, we've already kind of collected all the reproduction steps, and and we pass them to the team. So, uh, I I I hope we get um. Some fix relatively soon. uh, Yeah, but yeah, uh, we we we are track of this, and in any way, we will make sure. And it all in good, yeah.
+
+[38:02]
+
+Sorry, I'm getting flashback here, but uh uh are we uh migrating away from Walt, think, uh because if it. uh, In the in the future, and the.
+
+[38:13]
+
+I mean, we've all already, like, we can't really migrate away from existing contracts. uh, We can't and stake.
+
+[38:24]
+
+Assets which we do not own, right? uh, But we we are not like rewarding land staking anymore, uh, through this way, we have a collector's profile, souh, We are for sure not encouraging anyone to stake land uh anymore in the voting.
+
+[38:42]
+
+and and we are generally just moving away, but we need to get um. Get apart fixed about the some users who have stock lands in in in those contracts.
+
+[38:54]
+
+And and unfortunately this can be only fixed by Waltink. There is no way, there is nothing what we can do. We already like prepare productions, reproduction steps for this issue, and we passed it uh to the Walt team.
+
+[39:08]
+
+So we are just hoping for some somewhat rapid uh. Response on that. OK, but yeah, but it's funny that you mentioned this, because like literally, uh, I'm not shooting, this week, our devil brought it up, and basically said OK, we have full way to reproduce the issue.
+
+[39:25]
+
+Now we now we need to get those guys on. And and also like communication is not the easiest with with them, cause they just uh mostly speak Mandarin, so. There are a few challenges, but anyways, um, really uh appreciate you pointing this out. uh, It's it's it's it's an issue that we need to deal with, and. uh, Yeah,
+
+[39:50]
+
+I'll I'll I'll definitely update um you as soon as we get anything from them. So. It should hopefully will be solved really, really soon. OK, good. uh, I am just sorry, I am preparing the uh list of names in the uh in the background. um.
+
+[40:19]
+
+All right, um, guys, uh, it was a lovely to have you here for another week. uh, We really appreciate you coming. uh, After the call we will be doing uh.
+
+[40:30]
+
+3 one month premium basketballs, uh, and yeah, Euler, any closing remarks? I guess guys stay tuned.
+
+[40:42]
+
+The game is starting to take shape, and. I I I I think we have something good on our han- our hands, so. Let let let let's close in that note.
+
+[40:55]
+
+Let's go on the other one. Thank you, thank you for showing up, and as always, um. See you next week. At uh. Jack out time. uh, Hey, guys. uh, It's me. uh.
+
+[41:11]
+
+All right, let's do uh let's do a giveaway for three one month premium passes. Right, uh, here are the little producers, minus the Craig. uh, Unfortunately, I think Cherry is not here, right?
+
+[41:34]
+
+Yeah. uh, OK, cool. uh, If you're not in the screen, that you weren't here when I took it. uh, Sucks. uh, All right, let's spin it. And if you win, just open up a ticket.
+
+[41:46]
+
+Me or Cherry will provide you with a code. Time player. Congratulations. That's the first one. Uh, Next up. Lemel,
+
+[42:16]
+
+congratulations. And the final one. I'll take you guys in a bit. Obanaka, congratulations. 3 11 premium passes goes out to you guys.
+
+[42:39]
+
+I will uh take the uh I will uh I will tag you guys in a second. But um yeah, guys, cool that you came. um. Love the TrueCare. uh, I will meet you guys the most likely next week. uh. uh, During the stream, uh, on Tuesdays, where I hostIVER stream where I uh get up to no good, uh, and
+
+[43:04]
+
+then next week community call. uh, Thank you guys for being a. Being with me, nice, me, no, unfortunately not you. uh, And yeah, see you guys, bye bye.

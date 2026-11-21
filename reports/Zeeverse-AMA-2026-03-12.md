@@ -6,11 +6,13 @@
 
 ## 一、新界面先于大规模获客交付，团队开始逐项处理反馈
 
+[01:11](#t=71)
+
 Jackal 回顾旧界面随数年功能叠加变得拥挤。1.8.0 在 3 月 9 日已经上线教程、迷你地图、字体、Stash 和村庄布局改版。3 月 11 日 1.8.1 紧跟修复了教程取物卡死、第二只 Zee 孵化后没有加入队伍、孵蛋冻结和应用失焦等问题。它也补了 GEX 多件买卖的总额显示，同时公告仍有部分交易池加载问题。Jackal 会上另提到 Stash 已做修理，按材料筛选 Crafting 且保留上次选择是后续的小改进。 [1.8.0 更新日志](https://zeeverse.com/news/1-8-0-release-notes) · [1.8.1 更新日志](https://zeeverse.com/news/1-8-1-release-notes)
 
 Jackal 开场问大家是否亲自走过新版教程，再解释为什么团队选在扩大拉新之前改界面。
 
-> **Jackal**
+> **Jackal** · [01:11](#t=71)
 >
 > “The UI has never changed, and obviously with time, uh, with new and varied additions to the game, uh, you know, had become more chaotic. So, that's why we did this large overhaul. Obviously, we miss some marks. So, uh, but we go back and improve, we listen to you guys, improve based on your feedback as well.”
 >
@@ -21,6 +23,8 @@ Jackal 开场问大家是否亲自走过新版教程，再解释为什么团队�
 改版后起始区、植被和地图清晰度也做了调整。Jackal 还转述 Cherry 的消息，称野生 Zee 已重置，话里未交代重置原因或范围。孵化场则先有少量变化，未来演出设想让孵蛋时进入 Spirit Realm，看到一些尚未发布的 Zee 模型。会上随口估数不足以确认这些模型会加入可收集名单。
 
 ## 二、从 Joran 到图腾，第二、第三座副本开始用不同规则解锁
+
+[07:27](#t=447)
 
 当时新教程在孵化后由 Joran 道别。规划中的第一段主线由他接着派任务，让玩家从副本带回图腾碎片、复原村庄的第一座图腾，随后可与村民互动并开启更多任务。Aka 的幻象将在复原后出现，警告玩家不要继续。Jackal 后面谈到第二、第三座副本的具体安排：
 
@@ -34,7 +38,7 @@ Jackal 开场问大家是否亲自走过新版教程，再解释为什么团队�
 
 讲完第二座副本的钥匙和第三座副本的面具，Jackal 把这两种门槛放进整个新手主线的难度安排里。
 
-> **Jackal**
+> **Jackal** · [07:27](#t=447)
 >
 > “Generally, uh, the earlier you are in the game, uh, the less like friction we wanna create, and then we like keep on adding that up uh gradually. So, uh, yes, uh, and you can uh figure out from that that in dungeons 4 and 5, you will have to uh start doing a bit more complex things to get access to them.”
 >
@@ -42,11 +46,13 @@ Jackal 开场问大家是否亲自走过新版教程，再解释为什么团队�
 
 ## 三、主线收官战计划可重打，Umbra 的暗物质 Zee 可能更早到来
 
+[08:50](#t=530)
+
 Jackal 设想玩家在后段与 **Aka 的 Avatar** 交战，并有一只 Radiant Zee 并肩作战，战后能获得它的蛋。可反复挑战意味着能再拿蛋、凑齐进化素材，完整掉落规则未定。另一只 Dark Matter Zee 计划由 Umbra 引入，有可能先于 Radiant 发布。两只都偏辅助，也讨论过兼顾输出。暗物质的特殊方向是吸血、牺牲血量发动技能的血魔法，尚未公布技能取值和正式名称。 [Zee 属性与进化文档](https://whitepaper.zee-verse.com/gameplay/zee)
 
 Jackal 的设想是让一只光耀 Zee 在最终战与玩家并肩，再通过第一次和重复通关拿到的蛋培养自己的 Zee。
 
-> **Jackal**
+> **Jackal** · [08:50](#t=530)
 >
 > “After the battle, you will be able to get this radian Z egg, and um, start training it up, and replaying the final battle, you will be able to get more eggs, and that's how you'll be able to evolve your upcoming Radiant Z.”
 >
@@ -56,13 +62,15 @@ Jackal 的设想是让一只光耀 Zee 在最终战与玩家并肩，再通过�
 
 有玩家点名追问 Land、Forge 和新 Boss。Jackal 在回答中把 Great Tree、世界 Boss 和 Forge 放在主线之后，Land 仍无明确排期。
 
-> **Jackal**
+> **Jackal** · [18:35](#t=1115)
 >
 > “I'm not saying soon, I'm saying after uh the main campaign ends. \[…\] The onboarding is the m-, the main focus currently.”
 >
 > “我说的时间点是主线战役结束之后，「快了」并不是我的意思。\[…\] 目前最主要的工作还是新手引导。”
 
 ## 四、问答里的优先级，公共区临时 Buff 暂缓，同速行动还是随机
+
+[10:32](#t=632)
 
 - **公共 Land 入口。** 玩家问转录称作「Binance」的地图什么时候进得去。Jackal 认为入口按理能用，会检查若打不开的情形。区内拟提供限时 Buff 的池子由于人手优先放引导，暂缓。入口状态和 Buff 投放不能用同一个日期推断。游戏文档的 Land 概览只作机制背景。 [Land 游戏文档](https://whitepaper.zee-verse.com/lands/overview)
 - **同速出手。** 当战斗速度相等时，现行出手顺序随机。玩家提议同队按位置决胜，Jackal 认可这个用意，举了自己的 Matoka 与 Niska 同速时影响刷图节奏的例子。会上没有确定采用。 [Zeedex](https://whitepaper.zee-verse.com/gameplay/zee/zeedex)

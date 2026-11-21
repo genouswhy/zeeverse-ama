@@ -1,1 +1,499 @@
-Really break, I was uh. uh, I was traveling, and and and and apparently it happened that every time uh we had scheduled the the community AMA, I was either on a plane or or moving somewhere, so. Oh, yeah. I hope you had a fun with Jacko, and uh uh yeah, so, I'm I'm I'm here today. So, let's let's get to it. uh, yeah, we we had tons of fun, but yeah, I I guess let's kick things off with you telling us uh how did it go? Did it mean anything for receivers? And yeah, oh yeah, totally. I mean like all of these trips are about like frequency, building relationship with partners and exchanges, so. uh, it always like adds a bit, and it's something um uh it's something we have to do, like no matter what the market conditions are, is just kind of help, keep keeping the circle healthy. Yeah, so, uh, yeah, was was pretty good, was pretty good. uh, I I think a lot of good ideas, uh, managed to meet other project founders, got their perspective on certain stuff, so. Generally, uh, generally good. So, but um that doesn't mean we haven't moved forward a lot with the Zeevers, and actually, there is a lot of stuff happening on the forest. Actually, there is a lot of stuff happening all around. uh, So, I would love to just give you uhSome glimpse into it as well, and and uh yeah, as always, all the all the questions are more than welcome, so so for you guys. uh, uh, yeah, no, go ahead. I guess let's let's start maybe with the zebras. uh, uh, yeah, I think this is uh something what uh people are usually mostly interested. Uh, So, one thing uh we've been doing for last the. This and last week, like last week and this week, uh, we have uh kickstart the the campaigns in the Philippines. And every every day, we basically acquire roughly 200~300 users. uh, where we are testing all the different aspects of onboarding, and even I I think only this week alone, we managed to ship three updates, like silent updates. uh, On the Google Play to uh test different versions of tutorial onboarding. uh, We are basically getting there, we start to see the funnel improving. uh, Quite dramatically, uh, and and and this is like actually pretty nice because um it manage uh like having this data, having Ability to see this funnel, uh, have given us. I've pointed out us to so many errors and performance issues, uh, which we managed to fix. uh, So, a lot of a lot of people are starting to get more and more smoother onboarding experience. And um generally, the data is looking quite fine. uh,What actually surprises me is that some of the new players, the moment, they kind of get through the all the confusing part, which we are still figuring out, and and and looking for a waste improve. And I I think we'll touch some of that later. uh, Like, I mean we're working on the main campaign, so this is, next week we're shipping the first chapter of uh the main campaign. But overall, even without good direction and and campaign, we see people spending enormous time in the zeevers. It's crazy. uh, Like the new player. On his second day, on average, he spends around 80~90 minutes, which is very very good and very very promising. uh, The good, the bad part still is uh a lot of people get lost and confused uh early on, so this is what we are like. Find tuning right now, but um this data driven approach uh has been proven to work, and we constantly see gradual improvement. So, I'm uh I'm really hoping we will get um get done with tutorial fine tuning. At least majority of majority of it, uh, by end of this week, uh, we even now shift the A/B test where uh players simultaneously get two different kinds of tutorials. uh, So we can basically see if uh which version works the best. So anyways, this is um this is kind of very data driven process. And uh and and and and it's like the hard side. Yeah, I mean like it it we're like starting to pump in blood in inside the zeevers, and the blood is new players. And uh that's actually pretty cool to see, because this uh this is pretty much the only way, only healthy way forward we see for the zippers, is our ability to acquire new users and scale the ecosystem. And and I think no time will start to see so many active players, just sticking around and playing zeevers. uh, Because we've been like acquiring real players, get collecting real user user feedback. And and improving on the fly, and um yeah. Very cool, yeah, about the uh, I don't I don't know if like we should go into into details, uh, regarding for example the AB test, but I I I personally found it very, like, very interesting. uh, So basically what we did is we actually removed the first battle within a tutorial to see whether like that improves it, and yeah, you'll. I I'm not like uh up to date with the data, but I believe uh it actually improves. uh, It's actually filling up today, so we'll be able to see by probably end of today, uh, what improvements do we have, but it's actually quite obvious that there will be A significant improvement in that, so, yeah, that's pretty cool. uh, Like anyways, guys, I I think we, this, like a data driven subject will be uhAround us for for a good time from now on, because um. I mean, you're basically being part of uh. Game building and game scaling uh process, so we wanna give you insights around that, and uh like, as I see, there is so many uh holders and community members uh. uh, So, I I think it's uh in every holder's best interest that we uh find a way how we can uh. Get in stable stream of new users and players, because eventually this this though, this is the demand for every single uh Ziva's asset. uh,Tokens, masks and collections, and and I believe like many of them will find their way in this community. uh, uh, I I don't think we are like actively pushing uh anyone on Discord from the Zyvers game right now, but uh I mean you will start to see some new faces popping up here as well. Before we jump further, uh, the question from little fast. I kind of agree, like, I mean we didn't, like, really um. Wanted to remove uh the indicator. uh, We'll probably find a better way how we can how we can kind of show it. But we wanted to make UI cleaner. And uh part of the things we are considering, and this was just kind of the first step, is that um. In a future, different dungeons may have different uh energy requirements, and different energy timers. So, we wanted to basically put it out there and test it, so uh. So, uh. we can start kind of working that direction, yeah, anyways. um, Cause we were basically thinking, uh, at at some point that. uh, We wanna make these different activities. uh,Stand alone, so you shouldn't be uh like later, when the Forge, let's say, arrive, or or or other things arrive, you shouldn't be, you shouldn't have to like choose, do I wanna do Forge, do I wanna do um. do Umbral, or do I wanna do like regular dungeons today? um. But, anyways, it's still in a progress. Maybe just maybe we may uh like return that, or may have like a setting that allows you to turn on these things, but uhYeah, at first we wanted just to have it uh much much cleaner. uh, Yeah, we are, we actually did end up uh add uh adding coins uh in the backpack space and. uh, You know, we we can have a word with our design team. Maybe we can, you know, put put near the coins also, you know, keep. I mean the coins are changing very very soon, so. uh, That that's a that's when I get the floor. uh, Ha, I guess. uh, Yeah, and And honestly, they shouldn't be in a backpack. They actually should be on the Z Tap, because that's where you use them. um, So, maybe that's the thing we should change. Yeah, yeah, yeah, but I guess we can uh just add the um the energy indicators onto the op- open of uh interfaces. But uh yeah, I guess one of the new things that that will be coming, I I'm quite certain that it's coming next update, is we are changing coins to spirit. Because uh uh as we are starting to expand and actually like set the ground for Z versus World, and the law, uh. We kind of like took a step back, took a look at it, and you're literally like, who are you paying the coins to? uh, Mm, generally, coins are u- used for the upgrades, like uhwe can't took a look at it, doesn't make that much sense. And yeah, uh, really, change is pretty much nothing for everybody, except that the coins will now be called Spirit, and we'll have a new icon as well. As you obtain these coins by from the hoarders selling the relics, and uh from the fitting diseases. So, that felt fitting for us. uh, Yeah. Small change, but um uh yeah, just. I mean it's all about like ge- giving like uh a bit more consistency, and and and especially for the new player. uh, It has to make sense, so you kill these, you get to their spirit, and then you use the spirit to upgrade. So, uh, nothing changes besides the name, and uh I'm like a small icon. Yeah, so that's uh uh that's a bit on the zero side. uh, Jack out what what what else are we sharing?Uh, I guess uh um. Alright, I've, I'll kinda uh I've I've been talking about it in the previous ones. uh, Let me like kinda prepare you what's coming next week for uh for you guys and what's coming uhCouple of weeks after that, uh, so next week, we are getting uh the uh first, uh. the first part of the main co- quest, which covers the first dungeon and restoring the first totem. uh, Which, uh, and so that means actually, uh,um, It's small inconvenience, but we will be forcing at least everybody to complete the f- first part of the campaign, because uh uhIf uh the both bridges uh leading out from the village and teleports leading out from the village will be initially blocked to everybody. uh, until you complete the uhuh, First, first quest, first part of the quest. But uh guys, do not worry. For for you, it will take uh maximum of like 3 minutes. uh, M- maybe a bit long, but ge- generally this for new users, to like uh finish the first dungeon, first dungeons getting your re-roll, it will be 7 7 floors long, uh, recovering the totem pieces, building the totem, and clearing the town. uh, There's quite a bit of uh.  special effects. uh, I do strongly believe it's it it will be much cooler for you to see. Instead of us like showing the uh uh working progress, uh video. But uh yeah, after afterwards, uh you know, uh I've I've kind of sketched the doubt for you. We're getting like second and third dungeon. uh, And that will cover the second totem piece, and the second totem uh sorry, second totem will stand by the close to sawmill, and these totems will be uh teleport system in between each other. So, now everybody will have a better um. Better way to get to the uh uh Samuel faster, and yeah, uh, I guess uh let's go into the details what's coming in regards to the dungeon second and uh dungeon two and dungeon three. when uhuh, We are, that's the update, uh, that's coming next, uh, and you know. Yeah, s- something like that. uh, Yeah, so, lot of lot of cool stuff, uh, uh, like, I mean. Many of the players, I I think you will still value uh the smoothness of uh the whole thing, right? um, I think everybody will find the ability to use the new totems as teleports to move around. uh, the map very very convenient thing, uh, very cool, and um and and we are actually working on bunch of new stuff, on news these, uh, some new bosses. Uh, I I think um. Not that I think, I know that uh once we finish the main campaign, it will actually bring in uh. very serious endgame challenge as well, because uh we'll basically build a new gaming like a battle mod, dungeon mod, ou- out of main campaign. And when you complete the main campaign, you will be able to like challenge the boss on significantly higher difficulty levels. And that will be matched with the rewards, and and and some unique stuff. Just obtainable from that boss, so, uh,uh, We're we're basically finding a way how we can actually give give a new content uh for for existing community uh within this uh onboarding fixes and improvements. So, that's that's pretty cool. uh,Yeah, uh, a lot of smaller stuff, lot of lot of details, um. I guess uh I can say thank you for your patience. It's been a while, uh, but like like you see, we are finally. Finally getting there, I feel I'm like repeating myself, uh, and saying quite uh for quite a good while there, we are finally getting there, but I mean that's just the harsh reality, this is howuh. Game development looks like. But we we we have a really solid foundation, and we're moving in a very solid piece, uh pace, uh, forward. Oh, uh, and by the way, one thing I think many of. People, the players will um uh really uh enjoy, as we made a significant rebalancing for the liquidity pools on the GEX. So, most of the items that are being tradable on the eggs have uh way deeper liquidity available now, and you will see that uh yeah, it's just. Way more convenient for for people actually willing to use and and trade some significant amounts in any of any of directions. So that's that's pretty cool. Draco, do you have anything else on the ziver side that we wanna share? Maybe we wanna share some, actually, let's let's let's give people hmmSomething to look forward, right? When they come to these uh community AMAs, uh, maybe we can share some sneak peek from the development, from uh like, I remember yesterday we saw this super cool Yeah, no, I, when I was talking about it. that was like, yeah, I guess uh we could uh leave that for uh the um uh you know next week's experience. But uhuh, Yeah, so I I I'll I'll look for some some nice sneak peaks we can uh we can do before I wou- I just wanted to say like all of these uh we are not like building out the tutorial and You know. just some abstract point in the future, like, oh, only then we start like getting new users. Or what we're doing is like every adaptation within these uh releases. We are keeping on like getting the new users in. You already see a lot of them also interacting with you in the chat, and I see a lot of you guys helping them out, which is amazing. And yeah, just wanted to remind you that This is like an active process, and uh new people are like actively coming in, and the better we get, uh the more fun they have, uh, they stick out, stick, uh, stick around longer, and you know.uh, Start of uh the Bang for.  us, uh, but yeah, uh, I guess I'll uh return the floor to you, Yuler, and look for some nice sneak picks we can offer users. Yeah, uh, so, have a have a look meanwhile, find find some some big. I could touch a bit on the forest side. uh, We have had uh a tremendous development there. uh, We ship the V two, way way improved the design. um. Everything feels so, now, way smoother. Oh, so many issues fixed. I I mean like right now, uh, we are probably the most versatile launch pad on the market. uh, No, no launch, but off- offers so many different uh customization levels for the token you are launching. So, we'll be seeing um. We'll be seeing uh probably very interesting tokens launched. uh, We are supporting some teams launching some small projects here. uh, One of the new templates we did the coin flip, we actually see really good uh uh volume happening there, and it's kind of magical because anyone can come in They can build uh they can build their own Coin Flip APP. and uh and and they can share it with their friends. They can just AirDrop the token to their friends. uh, And we can see like real players starting to play. So, this shows uh some good signals here. uh, We are also about to release a new template uh this week, uh, I think tomorrow, which will uh die a bit deeper into uh RNG games. uh, So, players will be able to, like, play, builders will be able to build. uh, Some new templates. uh, We also did add uh HTML 5 support, so uh people can build uh. And publish their custom games already. And one really cool thing uh coming out, I think early next week. uh, We we already managed tested, but it's coming next week. As the AI Builder, so uh instead of just sticking to the templates or or like building the app yourself, uh, like like you would in regular. uh, Fashion, right? uh, You will be able to build uh AI code, like uh wipe code, essentially these apps directly in the forest platform. And uh I think that's like that's that's pretty amazing, and as we as we are keeping, keep going forward in developing the forest protocol, we'll be adding like a lot of connectors. uh, Today, I build it. So, you basically will be able to ju- just describe, OK, I wanna build like a game which has this thing, I want I wanted to have like a staking, uh, I wanted to automatically air drop. uh. Tokens to the to the community who plays uh plays the game, maybe even invite friends with some referral stuff. I mean guys, there is going to be. So many uh possibilities, and having all these connectors, at some point, you will start to feel this builder feels almost like a magic. And uh and and on top of that, uh, we already see like some TVL growing in a protocol. So, more tokens being locked in, and every single launch actually locks in some forest token. Which is basically a flywheel waiting to explode. So, I think we are a pretty good spot now. uh, We will, we are actively looking for teams of builders to support. So, you will see a lot of projects starting to pop up and being uh to some level endorsed by us. uh, I I welcome everyone to come and submit their projects. but show some seriousness, and we will find a way to support it. uh, Because I think it's, I mean it just works, and and we see, we already see with a coin flip. uh, Just small air drop, really small project, starting to attract some really s- uh some serious traffic behind it. uh, Which is very very interesting to see. um. Yeah, so. Oh, do, do, do, do, do, do, do, do, do, do. So, there's a there's a follow, so, there's a forest related question, when it comes to the seeds, uh, uh, that highlights the recent uhuh, There are like there not. uh, But the main question, uh, and that just just for the recording. uh, The question is uh uh whether, uh how will the uh Zvers uh tokens distribution? uh, Go, and uh will that happen in uh with, together with the release of the global version sometime after, and you know? uh, We'll most likely will be targeting uh the global release, because this is a uh big marketing event. uh, And also like organizing TG is also no small job, so, uh, I don't think it's gonna happen in 3 months, uh, uh,I don't think there is the. will need a bit more time for that, but that doesn't mean we won't be like ramping up the user base, and the game will feel. I mean, guys, when when we will be. About to do global launch, Zevs will be already so fucking hot. There will be so many players playing every day, and I I I'm like, I'm talking like like 20 50X of the player base what we have right now. uh, This will be the state where we when we will be in a global launch. But as for the tokens, uh, the seeds will be able to to, there will be basically a specific special auctions, our where users will be able to use seeds to participate in airdrop. But uh that being said, uh, Zeros community will be heavily rewarded on this, and we'll obviously respect all the lands, masks, uh, and a lot of like uh stuff. done previously, and even even the PDA campaign, which is by the way still alive, so, if there are some people um huh willing to hop on, I I I I I I I think like a lot many people will find thisuh. quite interesting uh when um when uh ha, global launch a DG will come come closer, and they will suddenly realize, oh shit, there are so many, much quest they have to do. uh, So, it's um yeah, it's it's probably handy to go in and then just do some of them right now. But anyways, um, that being said, uh. Forest Protocol, uh, forest holders will get exposure, because this is uh basically an ecosystem token, and Zyvers is one of the flagship titles for the for the forest protocol. But obviously, um, hmm, even even if you're not forest holder, but you're just, you receive response, uh, you will you will have a Like s- separate air drop, uh, which will be just focused on the Zeevers player, which actually will be majority of it. So, anyways, uh, best best way, uh, is to have uh exposure in both of those ecosystems. And and that way you have basically maximize um whatever you receive. So, uh, yeah, but um Jack already shared uhSome cool animation, like, we'll have many of these. uh, Yeah, you can see how how some some some working progress cut scenes are looking like in the ZeeVerse. uh, But getting back to the forest, uh,You will start to see so many new apps popping up, and we'll be heavily heavily starting to push the marketing side of this. uh, I think we're gonna do multiple air drops uh for the forest token holders. uh, every single week, uh, from these partner projects. I think that's a great way to give users and community a way to participate and test these games. There's these apps. um. At the same time, at the same time, I think um. I think we'll start to see some some new stuff popping up here, and I think, not I think, by end of next week, uh, basically by end of the month, we are also introducing the seed vault. uh, For a porous protocol, and and seed what will have the first. Auctions where people will be able to finally spend their seeds, and and receive their drops. So, what we wanna do right now is we wanna build like a really really heavily heavyuh, Roadmap of air drops for the forest holders, for the forest stakeholders. And and yeah, we we we will be starting to push uh the ecosystem uh quite a lot. So, uh, I would love to see you guys hopping in, giving some feedback. uh, Or you just enjoying and and and and and sharing sharing this to your friends, or your uh uh. Communities, so I'm Sure, sure, sure, right? Ha. uh. Yeah, I, I feel I'm going um no, yeah, solo for too long. uh, You should do You should do one of your streams where you are actually uh playing some of these games, so you can uh show Yeah, severs community a bit of forest. Yeah, I was uh I, yeah, was uh a little bit under the weather. uh. In the uh first half of the week, uh, I guess uh next uh next week, next stream, uh, we can uh you know mess around, uh, and uh yeah. Let's do that. uh, Sorry, maybe I missed it, and it was answered to my question. But I have asked many, is for the collector profile, and for owning masks and lands, will we receive seeds for further distribution of forest? uh, Yeah, yeah, uh, that's how the collector profile work, right? Dealer, or, yep, am I? Like, that's exactly why we build it in the first place. So, all your like uh progress, your masks, your lands, your other assets. uh, Add up to your score, and this will be what we are looking on when it comes to the Ziverciclib, and for the next phases, uh, for a forest, uh, as well. So, yeah. uh,uh, This is number one place you should pay attention to. uh, There is like a really real, a lot of depth actually into it, where if you pay attention, you can see just by having some certain combos of masks. Or different assets can yield you way more points. And um uh I I I think that's pretty extensive uh system with quite adapt in it. um,So, if if. So, have a look, have again, uh, have a look again there, and it's really good time uh right now to position it yourself, for anything what's coming. Alright, uh, yeah, so, uh, I guess that kinda uh covers majority of what's in the development. uh, Our focus has uh heavily been on the uhOnboarding experience, and you know we're working on like uh many many like many fronts, as as we are not only hotfix for hot fixing and adapting on the fly. uh, the existing tutorial, we're actively working on What's coming next, and uh. Yeah, uh, we at at the reverse team, we are like uh heavily crunching this, uh, we're very excited for what's to come. uh, We do understand, you know? uh, Lack of content, uh, sucks for the endgame players, but, you know, I know I'm going like a broken record here, but. uh, This is uh for all of us, guys. So, yeah, I mean, there is no, re- really, there is no other way. There is no other way, if if we don't do this, if we don't succeed at at onboarding. How can we scale? Right, it's like uh we cannot we cannot, I I think a good way to imagine this is if we have like a. Like a broken bucket, and we are just like pouring in water, and because it has cracks, it has cracks, yeah, so all getting out, and and it's pointless, so so we make sure our bucket is fucking good. And I once it's good, and we are pouring in liquidity, ha, liquidity. uh, In the form of players. uh, We we make sure they stick around, and and and that's the key to success. I think we gonna do what uh most of other games have failed. um, Just because the, we actually know how to build them and how to scale them. um, yeah, uh, I I guess it's gonna be really, really interesting to see uh how this plays out, so. Yeah, uh, cool time to be around, ha ha, cool time to be alive. Ha, uh, ha ha ha, yeah, um, um,uh, Yeah, no, I I just had this joke about, that's how I feel when I get turtle from hotel. uh, But uh ha, but yeah, I guess uh. uh, For uh for now, as we are working on the onboarding, I guess we uh we will be keeping these community calls much much leaner, uh, as uh you know, there're just the. Not that um you know, when there're like features coming, we can like talk about these features for hours and end, right? But uh uh this is more like uh you know, that driven development. uh, And uh not as uh not as uh lo- long to, you know, explain without like going into like incredible detail, that uh would uh you know just. I'll drive you guys sleep. But uh yeah, I guess on this Euler, if there is like any final things, if not, I guess we can close this up, and do the giveaway for 3 one month premium passes. Let's let's do that. Sounds sounds good. I mean, guys, um, uh,My finishing remark is, we'll keep you updating on the Zeevers uh data. I think it's really important that we take you also on this journey. I will probably share you some some numbers uh as we go. And meanwhile, uh, I urge you to actually pay attention to what's happening in Forest, cause there will be so many ways to get free stuff. Free air drops every single week from now on, and uh and and and this is great opportunity. This is like zero risk, only reward type of stuff, uh, at least uhuh, At least if you are a forest holder or holder alrea- already, uh,And uh yeah, uh, make sure to be around. Cheers, thank you guys. Cheers. uh, All right, guys, time for uh the giveaway. uh, Let's, I've asked uh my favorite large language model to uh type out all of your names. Let me share my screen, and uh yeah, let's do 3 1 1 premium pass uh passes. All right, so. First one. You are sick. Congratulations. Let me quickly. My disco froze. No. Second. Harmonica a little fast. Barmaley, congratulations. Alright, and whoops, file can't be empty, file isn't empty. All right, and for the final one, good luck everybody. I knew this was gonna happen, and I don't know how to pronounce this unfortunately. um. But uh yeah. Is it? A tracks. Like this. All right guys, if you want uh open up a ticket, and we will provide you with the uh premium vask code. So, yeah, thank you guys for coming. See you on Tuesday. Let's mess around in the forest and play a little zivers. uh, If not, then see you guys next week, or uh for another community call. All right, uh, see you guys, bye bye.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+Really break, I was uh. uh, I was traveling, and and and and apparently it happened that every time uh we had scheduled the the community AMA, I was either on a plane or or moving somewhere, so. Oh, yeah.
+
+[00:17]
+
+I hope you had a fun with Jacko, and uh uh yeah, so, I'm I'm I'm here today. So, let's let's get to it. uh, yeah, we we had tons of fun, but yeah, I I guess let's kick things off with you telling us uh how did it go?
+
+[00:37]
+
+Did it mean anything for receivers? And yeah, oh yeah, totally. I mean like all of these trips are about like frequency, building relationship with partners and exchanges, so. uh, it always like adds a bit, and it's something um uh it's something we have to do, like no matter what the market conditions are, is just kind of help, keep keeping the circle healthy.
+
+[01:01]
+
+Yeah, so, uh, yeah, was was pretty good, was pretty good. uh, I I think a lot of good ideas, uh, managed to meet other project founders, got their perspective on certain stuff, so.
+
+[01:18]
+
+Generally, uh, generally good. So, but um that doesn't mean we haven't moved forward a lot with the Zeevers, and actually, there is a lot of stuff happening on the forest.
+
+[01:33]
+
+Actually, there is a lot of stuff happening all around. uh, So, I would love to just give you uhSome glimpse into it as well, and and uh yeah, as always, all the all the questions are more than welcome, so so for you guys. uh, uh, yeah, no, go ahead.
+
+[01:55]
+
+I guess let's let's start maybe with the zebras. uh, uh, yeah, I think this is uh something what uh people are usually mostly interested. Uh, So, one thing uh we've been doing for last the.
+
+[02:11]
+
+This and last week, like last week and this week, uh, we have uh kickstart the the campaigns in the Philippines. And every every day, we basically acquire roughly 200~300 users. uh, where we are testing all the different aspects of onboarding, and even I I think only this week alone, we managed to ship three
+
+[02:36]
+
+updates, like silent updates. uh, On the Google Play to uh test different versions of tutorial onboarding. uh, We are basically getting there, we start to see the funnel improving. uh, Quite dramatically, uh, and and and this is like actually pretty nice because um it manage uh like having this data, having Ability to see this funnel, uh,
+
+[03:01]
+
+have given us. I've pointed out us to so many errors and performance issues, uh, which we managed to fix. uh, So, a lot of a lot of people are starting to get more and more smoother onboarding experience.
+
+[03:18]
+
+And um generally, the data is looking quite fine. uh,What actually surprises me is that some of the new players, the moment, they kind of get through the all the confusing part, which we are still figuring out, and and and looking for a waste improve.
+
+[03:34]
+
+And I I think we'll touch some of that later. uh, Like, I mean we're working on the main campaign, so this is, next week we're shipping the first chapter of uh the main campaign.
+
+[03:46]
+
+But overall, even without good direction and and campaign, we see people spending enormous time in the zeevers. It's crazy. uh, Like the new player.
+
+[03:58]
+
+On his second day, on average, he spends around 80~90 minutes, which is very very good and very very promising. uh, The good, the bad part still is uh a lot of people get lost and confused uh early on, so this is what we are like. Find tuning right now, but um this data driven approach uh has been proven to work, and
+
+[04:23]
+
+we constantly see gradual improvement. So, I'm uh I'm really hoping we will get um get done with tutorial fine tuning.
+
+[04:34]
+
+At least majority of majority of it, uh, by end of this week, uh, we even now shift the A/B test where uh players simultaneously get two different kinds of tutorials. uh, So we can basically see if uh which version works the best.
+
+[04:51]
+
+So anyways, this is um this is kind of very data driven process. And uh and and and and it's like the hard side.
+
+[05:03]
+
+Yeah, I mean like it it we're like starting to pump in blood in inside the zeevers, and the blood is new players. And uh that's actually pretty cool to see, because this uh this is pretty much the only way, only healthy way forward we see for the zippers, is our ability to acquire new users and scale the ecosystem.
+
+[05:25]
+
+And and I think no time will start to see so many active players, just sticking around and playing zeevers. uh, Because we've been like acquiring real players, get collecting real user user feedback.
+
+[05:39]
+
+And and improving on the fly, and um yeah. Very cool, yeah, about the uh, I don't I don't know if like we should go into into details, uh, regarding for example the AB test, but I I I personally found it very, like, very interesting. uh, So basically what we did is we actually removed the
+
+[06:04]
+
+first battle within a tutorial to see whether like that improves it, and yeah, you'll. I I'm not like uh up to date with the data, but I believe uh it actually improves. uh, It's actually filling up today, so we'll be able to see by probably end of today, uh, what improvements do we have, but it's actually quite obvious that there will be A significant
+
+[06:29]
+
+improvement in that, so, yeah, that's pretty cool. uh, Like anyways, guys, I I think we, this, like a data driven subject will be uhAround us for for a good time from now on, because um.
+
+[06:43]
+
+I mean, you're basically being part of uh. Game building and game scaling uh process, so we wanna give you insights around that, and uh like, as I see, there is so many uh holders and community members uh. uh, So, I I think it's uh in every holder's best interest that we uh find a way
+
+[07:08]
+
+how we can uh. Get in stable stream of new users and players, because eventually this this though, this is the demand for every single uh Ziva's asset. uh,Tokens, masks and collections, and and I believe like many of them will find their way in this community. uh, uh, I I don't think we are like actively pushing uh anyone on
+
+[07:33]
+
+Discord from the Zyvers game right now, but uh I mean you will start to see some new faces popping up here as well. Before we jump further, uh, the question from little fast.
+
+[07:47]
+
+I kind of agree, like, I mean we didn't, like, really um. Wanted to remove uh the indicator. uh, We'll probably find a better way how we can how we can kind of show it.
+
+[08:02]
+
+But we wanted to make UI cleaner. And uh part of the things we are considering, and this was just kind of the first step, is that um.
+
+[08:18]
+
+In a future, different dungeons may have different uh energy requirements, and different energy timers. So, we wanted to basically put it out there and test it, so uh.
+
+[08:32]
+
+So, uh. we can start kind of working that direction, yeah, anyways. um, Cause we were basically thinking, uh, at at some point that. uh, We wanna make these different activities. uh,Stand alone, so you shouldn't be uh like later, when the Forge, let's say, arrive, or or or other things arrive, you shouldn't be, you shouldn't have to like choose,
+
+[08:57]
+
+do I wanna do Forge, do I wanna do um. do Umbral, or do I wanna do like regular dungeons today? um. But, anyways, it's still in a progress. Maybe just maybe we may uh like return that, or may have like a setting that allows you to turn on these things, but uhYeah, at first we wanted just to have it uh much much cleaner. uh, Yeah, we are, we actually did end up uh
+
+[09:22]
+
+add uh adding coins uh in the backpack space and. uh, You know, we we can have a word with our design team. Maybe we can, you know, put put near the coins also, you know, keep.
+
+[09:35]
+
+I mean the coins are changing very very soon, so. uh, That that's a that's when I get the floor. uh, Ha, I guess. uh, Yeah, and And honestly, they shouldn't be in a backpack.
+
+[09:46]
+
+They actually should be on the Z Tap, because that's where you use them. um, So, maybe that's the thing we should change. Yeah, yeah, yeah, but I guess we can uh just add the um the energy indicators onto the op- open of uh interfaces.
+
+[10:04]
+
+But uh yeah, I guess one of the new things that that will be coming, I I'm quite certain that it's coming next update, is we are changing coins to spirit.
+
+[10:16]
+
+Because uh uh as we are starting to expand and actually like set the ground for Z versus World, and the law, uh.
+
+[10:27]
+
+We kind of like took a step back, took a look at it, and you're literally like, who are you paying the coins to? uh, Mm, generally, coins are u- used for the upgrades, like uhwe can't took a look at it, doesn't make that much sense.
+
+[10:43]
+
+And yeah, uh, really, change is pretty much nothing for everybody, except that the coins will now be called Spirit, and we'll have a new icon as well.
+
+[10:56]
+
+As you obtain these coins by from the hoarders selling the relics, and uh from the fitting diseases. So, that felt fitting for us. uh, Yeah.
+
+[11:07]
+
+Small change, but um uh yeah, just. I mean it's all about like ge- giving like uh a bit more consistency, and and and especially for the new player. uh, It has to make sense, so you kill these, you get to their spirit, and then you use the spirit to upgrade.
+
+[11:26]
+
+So, uh, nothing changes besides the name, and uh I'm like a small icon. Yeah, so that's uh uh that's a bit on the zero side. uh, Jack out what what what else are we sharing?Uh, I guess uh um. Alright, I've, I'll kinda uh I've I've been talking about it in the previous ones. uh, Let me like kinda
+
+[11:51]
+
+prepare you what's coming next week for uh for you guys and what's coming uhCouple of weeks after that, uh, so next week, we are getting uh the uh first, uh. the first part of the main co- quest, which covers the first dungeon and restoring the first totem. uh, Which, uh, and so that means actually, uh,um, It's small inconvenience, but we will be forcing at least everybody to complete the f-
+
+[12:16]
+
+first part of the campaign, because uh uhIf uh the both bridges uh leading out from the village and teleports leading out from the village will be initially blocked to everybody. uh, until you complete the uhuh, First, first quest, first part of the quest.
+
+[12:34]
+
+But uh guys, do not worry. For for you, it will take uh maximum of like 3 minutes. uh, M- maybe a bit long, but ge- generally this for new users, to like uh finish the first dungeon, first dungeons getting your re-roll, it will be 7 7 floors long, uh, recovering the totem pieces, building the totem, and clearing the town. uh, There's
+
+[12:59]
+
+quite a bit of uh.  special effects. uh, I do strongly believe it's it it will be much cooler for you to see. Instead of us like showing the uh uh working progress, uh video.
+
+[13:11]
+
+But uh yeah, after afterwards, uh you know, uh I've I've kind of sketched the doubt for you. We're getting like second and third dungeon. uh, And that will cover the second totem piece, and the second totem uh sorry, second totem will stand by the close to sawmill, and these totems will be uh teleport system in between each other.
+
+[13:34]
+
+So, now everybody will have a better um. Better way to get to the uh uh Samuel faster, and yeah, uh, I guess uh let's go into the details what's coming in regards to the dungeon second and uh dungeon two and dungeon three.
+
+[13:51]
+
+when uhuh, We are, that's the update, uh, that's coming next, uh, and you know. Yeah, s- something like that. uh, Yeah, so, lot of lot of cool stuff, uh, uh, like, I mean.
+
+[14:08]
+
+Many of the players, I I think you will still value uh the smoothness of uh the whole thing, right? um, I think everybody will find the ability to use the new totems as teleports to move around. uh, the map very very convenient thing, uh, very cool, and um and and we are actually working on bunch
+
+[14:33]
+
+of new stuff, on news these, uh, some new bosses. Uh, I I think um. Not that I think, I know that uh once we finish the main campaign, it will actually bring in uh.
+
+[14:50]
+
+very serious endgame challenge as well, because uh we'll basically build a new gaming like a battle mod, dungeon mod, ou- out of main campaign.
+
+[15:01]
+
+And when you complete the main campaign, you will be able to like challenge the boss on significantly higher difficulty levels. And that will be matched with the rewards, and and and some unique stuff.
+
+[15:12]
+
+Just obtainable from that boss, so, uh,uh, We're we're basically finding a way how we can actually give give a new content uh for for existing community uh within this uh onboarding fixes and improvements.
+
+[15:26]
+
+So, that's that's pretty cool. uh,Yeah, uh, a lot of smaller stuff, lot of lot of details, um. I guess uh I can say thank you for your patience.
+
+[15:39]
+
+It's been a while, uh, but like like you see, we are finally. Finally getting there, I feel I'm like repeating myself, uh, and saying quite uh for quite a good while there, we are finally getting there, but I mean that's just the harsh reality, this is howuh.
+
+[15:56]
+
+Game development looks like. But we we we have a really solid foundation, and we're moving in a very solid piece, uh pace, uh, forward.
+
+[16:08]
+
+Oh, uh, and by the way, one thing I think many of. People, the players will um uh really uh enjoy, as we made a significant rebalancing for the liquidity pools on the GEX.
+
+[16:25]
+
+So, most of the items that are being tradable on the eggs have uh way deeper liquidity available now, and you will see that uh yeah, it's just.
+
+[16:40]
+
+Way more convenient for for people actually willing to use and and trade some significant amounts in any of any of directions. So that's that's pretty cool.
+
+[16:52]
+
+Draco, do you have anything else on the ziver side that we wanna share? Maybe we wanna share some, actually, let's let's let's give people hmmSomething to look forward, right?
+
+[17:03]
+
+When they come to these uh community AMAs, uh, maybe we can share some sneak peek from the development, from uh like, I remember yesterday we saw this super cool Yeah, no, I, when I was talking about it.
+
+[17:15]
+
+that was like, yeah, I guess uh we could uh leave that for uh the um uh you know next week's experience. But uhuh, Yeah, so I I I'll I'll look for some some nice sneak peaks we can uh we can do before I wou- I just wanted to say like all of these uh we are not like building out the tutorial and You know.
+
+[17:35]
+
+just some abstract point in the future, like, oh, only then we start like getting new users. Or what we're doing is like every adaptation within these uh releases.
+
+[17:46]
+
+We are keeping on like getting the new users in. You already see a lot of them also interacting with you in the chat, and I see a lot of you guys helping them out, which is amazing. And yeah, just wanted to remind you that This is like an active process, and uh new people are like actively coming in, and the better we get, uh the more fun they have, uh, they stick out, stick, uh, stick around longer, and
+
+[18:11]
+
+you know.uh, Start of uh the Bang for.  us, uh, but yeah, uh, I guess I'll uh return the floor to you, Yuler, and look for some nice sneak picks we can offer users. Yeah, uh, so, have a have a look meanwhile, find find some some big.
+
+[18:30]
+
+I could touch a bit on the forest side. uh, We have had uh a tremendous development there. uh, We ship the V two, way way improved the design. um.
+
+[18:46]
+
+Everything feels so, now, way smoother. Oh, so many issues fixed. I I mean like right now, uh, we are probably the most versatile launch pad on the market. uh, No, no launch, but off- offers so many different uh customization levels for the token you are launching.
+
+[19:06]
+
+So, we'll be seeing um. We'll be seeing uh probably very interesting tokens launched. uh, We are supporting some teams launching some small projects here. uh, One of the new templates we did the coin flip, we actually see really good uh uh volume happening there, and it's kind of magical because anyone can come in They can build uh
+
+[19:31]
+
+they can build their own Coin Flip APP. and uh and and they can share it with their friends. They can just AirDrop the token to their friends. uh, And we can see like real players starting to play.
+
+[19:42]
+
+So, this shows uh some good signals here. uh, We are also about to release a new template uh this week, uh, I think tomorrow, which will uh die a bit deeper into uh RNG games. uh, So, players will be able to, like, play, builders will be able to build. uh, Some new templates. uh, We also did add uh
+
+[20:07]
+
+HTML 5 support, so uh people can build uh. And publish their custom games already. And one really cool thing uh coming out, I think early next week. uh, We we already managed tested, but it's coming next week.
+
+[20:25]
+
+As the AI Builder, so uh instead of just sticking to the templates or or like building the app yourself, uh, like like you would in regular. uh, Fashion, right? uh, You will be able to build uh AI code, like uh wipe code, essentially these apps directly in the forest platform.
+
+[20:45]
+
+And uh I think that's like that's that's pretty amazing, and as we as we are keeping, keep going forward in developing the forest protocol, we'll be adding like a lot of connectors. uh, Today, I build it.
+
+[20:57]
+
+So, you basically will be able to ju- just describe, OK, I wanna build like a game which has this thing, I want I wanted to have like a staking, uh, I wanted to automatically air drop. uh.
+
+[21:10]
+
+Tokens to the to the community who plays uh plays the game, maybe even invite friends with some referral stuff. I mean guys, there is going to be.
+
+[21:23]
+
+So many uh possibilities, and having all these connectors, at some point, you will start to feel this builder feels almost like a magic.
+
+[21:34]
+
+And uh and and on top of that, uh, we already see like some TVL growing in a protocol. So, more tokens being locked in, and every single launch actually locks in some forest token.
+
+[21:46]
+
+Which is basically a flywheel waiting to explode. So, I think we are a pretty good spot now. uh, We will, we are actively looking for teams of builders to support.
+
+[21:57]
+
+So, you will see a lot of projects starting to pop up and being uh to some level endorsed by us. uh, I I welcome everyone to come and submit their projects.
+
+[22:09]
+
+but show some seriousness, and we will find a way to support it. uh, Because I think it's, I mean it just works, and and we see, we already see with a coin flip. uh, Just small air drop, really small project, starting to attract some really s- uh some serious traffic behind it. uh, Which is very very interesting to see. um. Yeah,
+
+[22:35]
+
+so. Oh, do, do, do, do, do, do, do, do, do, do. So, there's a there's a follow, so, there's a forest related question, when it comes to the seeds, uh, uh, that highlights the recent uhuh, There are like there not. uh, But the main question, uh, and that just just for the recording. uh, The question is uh uh whether, uh
+
+[23:00]
+
+how will the uh Zvers uh tokens distribution? uh, Go, and uh will that happen in uh with, together with the release of the global version sometime after, and you know? uh, We'll most likely will be targeting uh the global release, because this is a uh big marketing event. uh, And also like organizing TG is also no
+
+[23:25]
+
+small job, so, uh, I don't think it's gonna happen in 3 months, uh, uh,I don't think there is the. will need a bit more time for that, but that doesn't mean we won't be like ramping up the user base, and the game will feel.
+
+[23:41]
+
+I mean, guys, when when we will be. About to do global launch, Zevs will be already so fucking hot. There will be so many players playing every day, and I I I'm like, I'm talking like like 20 50X of the player base what we have right now. uh, This will be the state where we when we will be in a global launch.
+
+[24:01]
+
+But as for the tokens, uh, the seeds will be able to to, there will be basically a specific special auctions, our where users will be able to use seeds to participate in airdrop.
+
+[24:13]
+
+But uh that being said, uh, Zeros community will be heavily rewarded on this, and we'll obviously respect all the lands, masks, uh, and a lot of like uh stuff.
+
+[24:25]
+
+done previously, and even even the PDA campaign, which is by the way still alive, so, if there are some people um huh willing to hop on, I I I I I I I think like a lot many people will find thisuh.
+
+[24:37]
+
+quite interesting uh when um when uh ha, global launch a DG will come come closer, and they will suddenly realize, oh shit, there are so many, much quest they have to do. uh, So, it's um yeah, it's it's probably handy to go in and then just do some of them right now.
+
+[24:57]
+
+But anyways, um, that being said, uh. Forest Protocol, uh, forest holders will get exposure, because this is uh basically an ecosystem token, and Zyvers is one of the flagship titles for the for the forest protocol.
+
+[25:14]
+
+But obviously, um, hmm, even even if you're not forest holder, but you're just, you receive response, uh, you will you will have a Like s- separate air drop, uh, which will be just focused on the Zeevers player, which actually will be majority of it.
+
+[25:31]
+
+So, anyways, uh, best best way, uh, is to have uh exposure in both of those ecosystems. And and that way you have basically maximize um whatever you receive.
+
+[25:46]
+
+So, uh, yeah, but um Jack already shared uhSome cool animation, like, we'll have many of these. uh, Yeah, you can see how how some some some working progress cut scenes are looking like in the ZeeVerse. uh, But getting back to the forest, uh,You will start to see so many new apps popping
+
+[26:11]
+
+up, and we'll be heavily heavily starting to push the marketing side of this. uh, I think we're gonna do multiple air drops uh for the forest token holders. uh, every single week, uh, from these partner projects.
+
+[26:26]
+
+I think that's a great way to give users and community a way to participate and test these games. There's these apps. um. At the same time, at the same time, I think um.
+
+[26:40]
+
+I think we'll start to see some some new stuff popping up here, and I think, not I think, by end of next week, uh, basically by end of the month, we are also introducing the seed vault. uh, For a porous protocol, and and seed what will have the first.
+
+[27:00]
+
+Auctions where people will be able to finally spend their seeds, and and receive their drops. So, what we wanna do right now is we wanna build like a really really heavily heavyuh, Roadmap of air drops for the forest holders, for the forest stakeholders.
+
+[27:19]
+
+And and yeah, we we we will be starting to push uh the ecosystem uh quite a lot. So, uh, I would love to see you guys hopping in, giving some feedback. uh, Or you just enjoying and and and and and sharing sharing this to your friends, or your uh uh. Communities, so I'm Sure, sure, sure, right?
+
+[27:43]
+
+Ha. uh. Yeah, I, I feel I'm going um no, yeah, solo for too long. uh, You should do You should do one of your streams where you are actually uh playing some of these games, so you can uh show Yeah, severs community a bit of forest.
+
+[28:01]
+
+Yeah, I was uh I, yeah, was uh a little bit under the weather. uh. In the uh first half of the week, uh, I guess uh next uh next week, next stream, uh, we can uh you know mess around, uh, and uh yeah.
+
+[28:18]
+
+Let's do that. uh, Sorry, maybe I missed it, and it was answered to my question. But I have asked many, is for the collector profile, and for owning masks and lands, will we receive seeds for further distribution of forest? uh, Yeah, yeah, uh, that's how the collector profile work, right? Dealer, or, yep, am I?
+
+[28:40]
+
+Like, that's exactly why we build it in the first place. So, all your like uh progress, your masks, your lands, your other assets. uh, Add up to your score, and this will be what we are looking on when it comes to the Ziverciclib, and for the next phases, uh, for a forest, uh, as well.
+
+[29:01]
+
+So, yeah. uh,uh, This is number one place you should pay attention to. uh, There is like a really real, a lot of depth actually into it, where if you pay attention, you can see just by having some certain combos of masks.
+
+[29:17]
+
+Or different assets can yield you way more points. And um uh I I I think that's pretty extensive uh system with quite adapt in it. um,So, if if.
+
+[29:32]
+
+So, have a look, have again, uh, have a look again there, and it's really good time uh right now to position it yourself, for anything what's coming.
+
+[29:43]
+
+Alright, uh, yeah, so, uh, I guess that kinda uh covers majority of what's in the development. uh, Our focus has uh heavily been on the uhOnboarding experience, and you know we're working on like uh many many like many fronts, as as we are not only hotfix for hot fixing and adapting on the fly. uh,
+
+[30:08]
+
+the existing tutorial, we're actively working on What's coming next, and uh. Yeah, uh, we at at the reverse team, we are like uh heavily crunching this, uh, we're very excited for what's to come. uh, We do understand, you know? uh, Lack of content, uh, sucks for the endgame players, but,
+
+[30:33]
+
+you know, I know I'm going like a broken record here, but. uh, This is uh for all of us, guys. So, yeah, I mean, there is no, re- really, there is no other way.
+
+[30:46]
+
+There is no other way, if if we don't do this, if we don't succeed at at onboarding. How can we scale? Right, it's like uh we cannot we cannot, I I think a good way to imagine this is if we have like a.
+
+[31:04]
+
+Like a broken bucket, and we are just like pouring in water, and because it has cracks, it has cracks, yeah, so all getting out, and and it's pointless, so so we make sure our bucket is fucking good.
+
+[31:17]
+
+And I once it's good, and we are pouring in liquidity, ha, liquidity. uh, In the form of players. uh, We we make sure they stick around, and and and that's the key to success.
+
+[31:32]
+
+I think we gonna do what uh most of other games have failed. um, Just because the, we actually know how to build them and how to scale them. um, yeah, uh, I I guess it's gonna be really, really interesting to see uh how this plays out, so.
+
+[31:52]
+
+Yeah, uh, cool time to be around, ha ha, cool time to be alive. Ha, uh, ha ha ha, yeah, um, um,uh, Yeah, no, I I just had this joke about, that's how I feel when I get turtle from hotel. uh, But uh ha, but yeah, I guess uh. uh, For uh for now, as we are working on the onboarding, I guess we uh we will be
+
+[32:17]
+
+keeping these community calls much much leaner, uh, as uh you know, there're just the. Not that um you know, when there're like features coming, we can like talk about these features for hours and end, right?
+
+[32:28]
+
+But uh uh this is more like uh you know, that driven development. uh, And uh not as uh not as uh lo- long to, you know, explain without like going into like incredible detail, that uh would uh you know just. I'll drive you guys sleep.
+
+[32:47]
+
+But uh yeah, I guess on this Euler, if there is like any final things, if not, I guess we can close this up, and do the giveaway for 3 one month premium passes.
+
+[33:00]
+
+Let's let's do that. Sounds sounds good. I mean, guys, um, uh,My finishing remark is, we'll keep you updating on the Zeevers uh data.
+
+[33:11]
+
+I think it's really important that we take you also on this journey. I will probably share you some some numbers uh as we go. And meanwhile, uh, I urge you to actually pay attention to what's happening in Forest, cause there will be so many ways to get free stuff.
+
+[33:28]
+
+Free air drops every single week from now on, and uh and and and this is great opportunity. This is like zero risk, only reward type of stuff, uh, at least uhuh, At least if you are a forest holder or holder alrea- already, uh,And uh yeah, uh, make sure to be around.
+
+[33:51]
+
+Cheers, thank you guys. Cheers. uh, All right, guys, time for uh the giveaway. uh, Let's, I've asked uh my favorite large language model to uh type out all of your names.
+
+[34:06]
+
+Let me share my screen, and uh yeah, let's do 3 1 1 premium pass uh passes. All right, so. First one.
+
+[34:23]
+
+You are sick. Congratulations. Let me quickly. My disco froze. No. Second. Harmonica a little fast.
+
+[34:55]
+
+Barmaley, congratulations. Alright, and whoops, file can't be empty, file isn't empty. All right, and for the final one, good luck everybody.
+
+[35:19]
+
+I knew this was gonna happen, and I don't know how to pronounce this unfortunately. um. But uh yeah. Is it? A tracks.
+
+[35:40]
+
+Like this. All right guys, if you want uh open up a ticket, and we will provide you with the uh premium vask code. So, yeah, thank you guys for coming. See you on Tuesday.
+
+[35:51]
+
+Let's mess around in the forest and play a little zivers. uh, If not, then see you guys next week, or uh for another community call. All right, uh, see you guys, bye bye.

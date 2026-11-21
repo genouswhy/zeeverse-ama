@@ -6,11 +6,13 @@
 
 ## 一、新教程与 UI 合并发布，老玩家也被邀请走一遍首小时
 
+[18:25](#t=1105)
+
 会上展示了内部构建的截图。Jackal 提到新版文字和对话、重排村庄广场和植被、小地图、Stash，以及地图上保留的战争迷雾。旧 Stash 是日常高频痛点，界面重做即使对打完首轮副本的老玩家也有收益。Jackal 解释希望避开周五上线，给稳定性检查和修复留出时间。后半场消息明确两项合并，拟周五送审，周一是顺利通过后的目标。3 月 9 日 1.8.0 公告后来确认了**全新教程、UI、小地图和重做 Stash**一并上线。 [1.8.0 更新日志](https://zeeverse.com/news/1-8-0-release-notes)
 
 开场时 Jackal 还说 UI 可能要晚一些，收到项目消息后，他更新了教程和 UI 一起送审的安排。
 
-> **Jackal**
+> **Jackal** · [18:25](#t=1105)
 >
 > “I actually got a message. \[…\] We will not be splitting the UI update, uh, with the uh tutorial, and uh, looks to, looks that we're submitting it tomorrow, uh, so, if everything goes smoothly, then release Monday.”
 >
@@ -20,11 +22,13 @@ Jackal 邀请老玩家在更新后开新账号，反馈哪段故事过长、哪�
 
 ## 二、第一段主线用副本道具修复村中设施，之后再加解谜与 Boss
 
+[06:26](#t=386)
+
 Jackal 说教程之后的第一段任务已开工。玩家将打第一座副本，把**两件道具**带回村里，用来修复一处重要设施，进而让更多角色和对话出现。第二、第三座副本的解锁会增加谜题和世界互动，玩家也会认识主线反派。第四、第五座继续推动草原的剧情，第六、第七座之后接收官 Boss。教程会提前露出少量与这场战斗有关的内容。走到这里完成的是草原首段故事，Great Tree 和 Forge 仍是独立的后续目标，本场未更新它们的细节。 [任务游戏文档](https://whitepaper.zee-verse.com/gameplay/quests)
 
 展示教程后，Jackal 接着预告首段主线，说明玩家打完第一座副本回村后会发生什么。
 
-> **Jackal**
+> **Jackal** · [06:26](#t=386)
 >
 > “The first quest uh will have you complete the first dungeon. \[…\] Return to the village two two items from the dungeons, and restore uh important thing into the village that will also unlock characters \[…\] and they will want to talk to you.”
 >
@@ -34,11 +38,13 @@ Jackal 说教程之后的第一段任务已开工。玩家将打第一座副本�
 
 ## 三、首岛 Boss 计划通关后可重打，Radiant 与 Dark Matter 都考虑做辅助
 
+[09:03](#t=543)
+
 主线 Boss 计划在通关后开放回刷并随练度提升难度。Jackal 用大约 30 至 40 级打完主线举例，说明回刷需要让高等级玩家也有得打。这是讨论中的基准，未定首通推荐等级和重刷分档。两只新 Zee 的初步获取方向是：
 
 讲到草原故事的收官 Boss 时，Jackal 说明通关后为什么还有理由回去挑战。
 
-> **Jackal**
+> **Jackal** · [09:03](#t=543)
 >
 > “One of them coming from um uh the boss fight, because we will be making the boss fight replayable uh post the campaign, and I believe it will be, it will also like scale. \[…\] We're gonna like scale it up, and you're gonna be able to get the eggs.”
 >
@@ -53,11 +59,13 @@ Jackal 说教程之后的第一段任务已开工。玩家将打第一座副本�
 
 ## 四、背包问答把便利性放在分类收纳和制作成长里
 
+[19:09](#t=1149)
+
 玩家描述了带斧头、鱼竿、镐和种地材料时，20 格背包很快占满。Jackal 回答**没有开独立工具背包或普遍加格子的计划**。他偏向让特定种类的物品有一袋可集中存放，例如放若干类灵魂或传送用品的 Soul Pouch、收纳种子的袋子。用制作等级 50 做袋子、由随行 Zee 帮忙背几个物品，都属于举例。钓竿和鱼饵需要的空间还没想到合适的压缩办法。
 
 有玩家说斧头、鱼竿、镐和种田用品容易占满 20 格背包，问能否单独给工具开一个包。
 
-> **Jackal**
+> **Jackal** · [19:09](#t=1149)
 >
 > “No, uh, there's nothing to be a separate backpack. \[…\] Let's say um a soul pouch, but it can hold like three types of souls. Or uh I'm I'm not say, like, this, these are not confirmed feature.”
 >
@@ -67,13 +75,15 @@ Jackal 说教程之后的第一段任务已开工。玩家将打第一座副本�
 
 有玩家问游戏道具会不会和 $VEE 质押进一步联动，Jackal 只谈了他和 Euler 讨论过的设计边界。
 
-> **Jackal**
+> **Jackal** · [22:20](#t=1340)
 >
 > “I think it was in in relation to the ambassador program. \[…\] The base design theme was like, not pay to win. So call it like uh convenience, uh, rather than you know buffs, uh, or you know another inventory, n, no nothing like that.”
 >
 > “我记得当时谈的是和大使计划有关的东西。\[…\] 基本设计思路是避免付费取胜，可以给一点便利。增益效果、额外背包这类东西不考虑。”
 
 ## 五、片尾抽奖和下一周安排
+
+[27:48](#t=1668)
 
 直播末尾 Jackal 抽出三张一个月的 Premium Pass，请获奖者开工单，由版主提供兑换码。周二直播与下次 Community Call 继续按当时的例会预期安排，他用新 UI 作为下周直播的看点。名单部分昵称识别含糊，这里保留抽取数量和领取方式。
 

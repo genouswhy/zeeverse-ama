@@ -91,6 +91,8 @@ Euler described faster creative turnover as acquisition expands, then proposed m
 
 ## 8. Events, the giveaway, and the roadmap
 
+[46:54](#t=2814)
+
 Euler said team members would be absent in person, but Zeeverse would exhibit through its Arbitrum collaboration at **Devcon 8** in India. Attendees might have a chance to get codes and new collectible badges. The organizer listed November 3–6 in Mumbai. The Malaysian community suggested holding an event, and Euler asked them to send the details to him or Cherry. The team might be able to provide merchandise and prizes. At the close, Jackal said there had been **about 38,000 Zee defeats** an hour earlier in the Halloween event and estimated around 39,000 by then. The first figure was an in-game event kill count, and the second was his estimate. He had also seen one purple loot orb turn out empty. In the closing chat he said the team had fixed a dog-related bug that day after a player had reported it. The wheel drew three one-month Premium Passes, and winners could open a ticket with Cherry for a code. Transcript [46:54–48:57](#t=2814), [59:52–63:44](#t=3592). [Official Devcon 8 announcement](https://blog.ethereum.org/2025/12/23/devcon-mumbai) · [Call transcript on the closing remarks and giveaway](../transcription/2026-10-22.txt)
 
 | Status | What the October 22 call established |

@@ -8,11 +8,13 @@
 
 ## 一、FOREST 首轮交易赛测试了 RAMEN，也暴露了图表问题
 
+[01:02](#t=62)
+
 开场有人用参与人数追问 Launchpad 到底有多少兴趣。Euler 报出约 **36 名参与者、合计约 5 万美元成交额**，称发起代币的创作者获得约 **700 美元手续费**。团队认为以奖励池的规模看，试验取得的交易量高于预期。图表更新延迟已处理过一批问题，曲线显示仍有异常待查。他还称 RAMEN 带来的交易活动传导到了 FOREST 相关的交易与费用，想把下一场做得稍大。成交额、参与人数和创作者费用是会上口径，未提供结算明细或去重方法。 [本期转录，开场交易赛复盘与中段 FOREST 空投问答](transcription/2026-01-29.txt)
 
 有玩家用首场交易赛人数追问，团队怎样评价外界对 FOREST 平台的兴趣。
 
-> **Euler**
+> **Euler** · [01:02](#t=62)
 >
 > “The guy who uh launched the token generated roughly seven hundred seven hundred dollars in fees. \[…\] In total, it resulted in roughly 50,000 dollar of uh combined volume, uh, which, considering the relatively small reward pool, is uh way more than we expected.”
 >
@@ -24,13 +26,15 @@
 
 ## 二、大使计划本金已解锁，旧合约未解锁用户暂无补偿
 
+[36:35](#t=2195)
+
 上麦玩家问的是**大使计划质押本金**会不会被留在系统里。Euler 起初说团队正在释放，随后称查看到刚已解锁，让玩家检查钱包，按其说法本金 **100% 退回**。会上没有展示实际到账记录，奖励也另待处理。他指出曾出现把现有玩家当新人邀请、或创建新帐号够奖励条件的情况，真实传播不足，团队拟先结束当时的机制，重新设计大使身份、激励和规则。把「不用质押也能做大使」作为替代是玩家的建议，新版仍待设计。 [本期转录，Ambassador Program 与玩家上麦确认钱包段](transcription/2026-01-29.txt)
 
 另一个问题关乎 **Legacy Staking**。1 月 22 日已提到 45 天领奖窗口，这次有人问到停发时还不能取本金的人。Euler 表明暂无补偿安排。他说旧方案一开始打算奖励一年，后来延长了近一年。按现场估算，约八成已可解除质押，剩余未解部分少于两成，最晚一批到夏季。原稿既有按质押用户说法也有按质押量说法，统计分母未完全澄清。这些是旧质押口径，与大使计划新近退本金的说法各自成立。 [官方质押页，供旧质押入口对照](https://zeeverse.com/app/stake) · [1 月 22 日转录，45 天窗口](transcription/2026-01-22.txt) · [本期转录，Legacy Staking 及补偿问答](transcription/2026-01-29.txt)
 
 有玩家问，旧质押奖励停发后，如果本金仍不能提取，那些用户能否获得补偿。
 
-> **Euler**
+> **Euler** · [36:35](#t=2195)
 >
 > “We are not planning any compensation or anything \[…\] we basically said that this is a program that's going to reward users who stake for the next year. Uh, after that year, we \[…\] ended up essentially just extending that period by almost another year.”
 >
@@ -40,11 +44,13 @@
 
 ## 三、Heist 拟改成部族周赛，报名与增益都可能抬高奖池
 
+[17:11](#t=1031)
+
 Euler 说现有 Heist 缺少一轮比赛的开始和结束，Elo 排位容易被人为操弄，低等级玩家体验尤其受影响。团队起草了一套 **Tribe 对 Tribe** 的风险收益玩法，想保留已有战斗、积分的基础方式，同时把竞争对象改成部族。
 
 在介绍用部族周赛改善 Heist 排名容易被操纵的问题时，Euler 解释了部族买增益如何抬高奖池。
 
-> **Euler**
+> **Euler** · [17:11](#t=1031)
 >
 > “As you purchase these modifiers, your Z's, your shaman, uh, you get like many different advantages, but whatever you have paid for those modifiers, uh, that is added to the total uh risk pool. So naturally, it would mean as the tribe gets more buffs, it contributes more to the pool.”
 >
@@ -61,11 +67,13 @@ Euler 说现有 Heist 缺少一轮比赛的开始和结束，Elo 排位容易被
 
 ## 四、公开版本承担软启动测试，现有玩家也可帮验新教程
 
+[10:58](#t=658)
+
 玩家问为什么一边说内容还在开发，一边从加拿大、菲律宾拉人，又不给现有玩家开放未完成功能。Euler 说这些是受控渠道的小规模验证。团队希望**每轮重要更新引入几千名首次接触的玩家**，用停止游玩的环节判断教程哪里难懂，再和社区的具体使用反馈一起分析。现有的公开版本已是可接触的测试环境，另开改动频繁的内部 stage 会增加维护成本。待新教程推出，两位主持人邀请已有玩家新开账号走一遍并反馈。 [本期转录，软启动、内部环境及邀请测试新手流程](transcription/2026-01-29.txt)
 
 有玩家问，为什么游戏还在开发，团队却从加拿大和菲律宾拉新，也没有把据说已经做完的内容开放给老玩家测试。
 
-> **Euler**
+> **Euler** · [10:58](#t=658)
 >
 > “That means we need at least few thousand players in every update, so we can see, OK, uh, this is where like people stop playing. This is where people uh seem to run in issue or don't understand what to do next.”
 >
@@ -75,17 +83,21 @@ Euler 给出的规模感是，当时通常为每天几百活跃用户，有时�
 
 ## 五、仓库设计约显示 45 格，Forge 展示了 Chayara 萨满
 
+[51:38](#t=3098)
+
 团队展示了 UI 整理过程中的效果图。新 **Stash** 预计能同时看到约 **45 个物品**，带可收起的筛选区域，并连同全局字体、字号和移动端可读性一起改。图里部分细节仍是美术稿；会后 3 月 9 日的 1.8.0 更新记录了 Stash、字体、小地图与教程重做，但未以 45 格作为公告参数。 [会后 1.8.0 更新日志（2026-03-09）](https://zeeverse.com/news/1-8-0-release-notes) · [本期转录，Stash 设计图与字号](transcription/2026-01-29.txt)
 
 Jackal 分享火部族 **Chayara** 萨满和铁匠的概念图。他说 **完成 Great Tree 后才会走 Forge 任务**，玩家会前往 Forge 所在的腐化区域，遇到从火部族来的萨满，进而了解他们为什么在那里。世界观文档将 Chayara、Sinoru 和 Takanuwa 列作三族，会上借造型差异说明玩家在村里看到的形象只是其中一部分。两项任务都未报开放日。 [Zeeverse 三族世界观](https://whitepaper.zee-verse.com/lore/three-nations) · [本期转录，Forge 场景与 Chayara 概念图](transcription/2026-01-29.txt)
 
 ## 六、Mr. Block 新箱计划带来戒指和项链，Genesis 装备保留稀缺性
 
+[46:30](#t=2790)
+
 团队准备给**符合资格的 2024 年 Mr. Block 线下峰会参加者**空投宝箱，会上称 **Mr. Block’s Chest of Enchanted Delights**。也考虑从核心社区或 Mask 持有人中抽少量名额。箱子将带来戒指、项链及对应装备槽，Rare 与 Epic 两档均被提及，还有一件 Legendary 内容留作悬念。Jackal 用速度暗示戒指用途，具体属性、掉率和领取日未透露。团队希望将来还能从制作、掉落等活动拿到其他同部位装备。 [本期转录，Chest of Enchanted Delights 与 Jewelry 预告](transcription/2026-01-29.txt)
 
 介绍 Mr. Block 2024 年线下活动参与者的宝箱时，Euler 说明其中的戒指和项链怎样扩展装备系统。
 
-> **Euler**
+> **Euler** · [46:30](#t=2790)
 >
 > “As we introduce ring and we introduce necklace, we are also introducing ring and necklace slots, which generally hints that there is going to be more craftables and and drops from different activities.”
 >
@@ -95,9 +107,13 @@ Jackal 分享火部族 **Chayara** 萨满和铁匠的概念图。他说 **完成
 
 ## 七、传奇 Land 可能纳入场外交易，两张独一无二的地也可能自留
 
+[06:00](#t=360)
+
 Euler 表示，如果与投资人谈妥剩余 Land 的批量场外交易，Legendary Land 也可能被纳入，并可能锁定约 **一年或两年**，避免近期转手。这只是正在谈的方向。Jackal 进一步问玩家如何接触此前没有铸出的两张 1-of-1 土地 **Corrupted 与 Celestial**。Euler 给出另一种可能，即团队留在金库，将它们用于特别任务或游戏体验。会上未定两张地的最终归属、访问条件、供给和锁期。 [Land 生态文档](https://whitepaper.zee-verse.com/lands/biomes) · [本期转录，Legendary Land、Celestial 与 Corrupted 问答](transcription/2026-01-29.txt)
 
 ## 八、其余问答与片尾
+
+[02:19](#t=139)
 
 - **地图补给与背包。** 有人提议治疗喷泉。主持人提到可用钓鱼和火堆解决一些补给，地图北侧设小营地是即兴建议，拿 Game of Zobi 的 Coins 消费换火堆是玩笑。矿石袋、木材篮或 Soul Pouch 探索的是只收纳某项材料的容器，举例可多带 10～20 个矿石。具体收纳量与解锁方式未定。 [会后 1.15.0 更新日志，供 Game of Zobi 拼写对照（2026-07-14）](https://zeeverse.com/news/1-15-0-release-notes) · [本期转录，开场 healing fountain 与 toolbag 建议](transcription/2026-01-29.txt)
 - **稀有 Zee 与 Trait。** Legendary Inaji 做成坐骑的提议被婉拒，团队称已有其他用途构想。关于新增 Legendary Zee，讨论仍围绕现有藏品的稀有性，未宣布追加发行。Jackal 想争取首个 20 级 Trait，提到届时可争取做独特图标。末尾的 Coins 花费是测试环境里的估算，受随机重掷影响。有人提出 Zee 消耗机制，Euler 认为或许可缓解供给，持续需求仍取决于玩家规模。 [本期转录，最后问答、Legendary Zee 与 20 级 Trait](transcription/2026-01-29.txt)

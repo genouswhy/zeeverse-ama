@@ -6,11 +6,13 @@ The new tutorial and UI are live. Where does a player go after hatching their fi
 
 ## I. The new UI shipped before broad user acquisition, and the team began addressing feedback
 
+[01:11](#t=71)
+
 Jackal recalled how years of features had crowded the old interface. Version 1.8.0 on March 9 shipped changes to the tutorial, minimap, fonts, Stash, and village layout. The March 11 update to 1.8.1 followed quickly, addressing a tutorial item-pickup softlock, the second Zee failing to join the team after hatching, hatching freezes, and the application failing to respond when out of focus. It added buy and sell totals for multiple items in GEX, while noting that some pools still failed to load. Jackal also said the team had made repairs to Stash. Filtering Crafting by material and remembering the last selected filter were planned refinements. [1.8.0 release notes](https://zeeverse.com/news/1-8-0-release-notes) · [1.8.1 release notes](https://zeeverse.com/news/1-8-1-release-notes)
 
 Jackal opened by asking whether players had tried the new tutorial, then explained why the UI overhaul came before broad acquisition.
 
-> **Jackal**
+> **Jackal** · [01:11](#t=71)
 >
 > “The UI has never changed, and obviously with time, uh, with new and varied additions to the game, uh, you know, had become more chaotic. So, that's why we did this large overhaul. Obviously, we miss some marks. So, uh, but we go back and improve, we listen to you guys, improve based on your feedback as well.”
 
@@ -19,6 +21,8 @@ A player reported an issue near a village bridge. Jackal said the team was looki
 The starting area, foliage, and map legibility also received adjustments after the redesign. Jackal relayed Cherry's message that wild Zee had been reset. He gave no details about the reason or scope. The Hatchery had seen smaller changes so far. In a future presentation, players might enter the Spirit Realm during hatching and see models of unreleased Zee. The rough count mentioned on the call did not establish which models would become collectible.
 
 ## II. Joran leads players to the totems, with different unlocks for the second and third dungeons
+
+[07:27](#t=447)
 
 At the time, Joran said goodbye when players finished the hatching portion of the tutorial. In the planned first part of the campaign, he would assign a follow-up quest. Players would retrieve totem fragments from a dungeon and restore the village's first totem, opening up conversations with villagers and more quests. A vision of Aka would appear after the restoration to warn players against continuing. Jackal described the second and third dungeons in more detail:
 
@@ -32,17 +36,19 @@ The idea was to keep early obstacles light and add puzzles once players understa
 
 After describing the key for dungeon two and the mask for dungeon three, Jackal put those requirements in the context of the campaign's difficulty curve.
 
-> **Jackal**
+> **Jackal** · [07:27](#t=447)
 >
 > “Generally, uh, the earlier you are in the game, uh, the less like friction we wanna create, and then we like keep on adding that up uh gradually. So, uh, yes, uh, and you can uh figure out from that that in dungeons 4 and 5, you will have to uh start doing a bit more complex things to get access to them.”
 
 ## III. The campaign finale is planned as a replayable fight, and Umbra's Dark Matter Zee may arrive first
 
+[08:50](#t=530)
+
 Jackal envisioned a late fight against **Aka's Avatar**, with a Radiant Zee fighting alongside the player. Its egg would become available after the battle. Replays would let players obtain more eggs and collect evolution materials, with the full drop rules still to be set. A separate Dark Matter Zee was planned for Umbra and could arrive before the Radiant Zee. Both were conceived primarily as support units, with some damage capability also discussed. The Dark Matter concept centered on lifesteal and blood magic that costs health to cast. Skill values and official names were still unannounced. [Zee elements and evolution](https://whitepaper.zee-verse.com/gameplay/zee)
 
 In Jackal’s preview, a Radiant Zee fights beside the player in the finale, and beating the encounter gives the player a way to start raising one.
 
-> **Jackal**
+> **Jackal** · [08:50](#t=530)
 >
 > “After the battle, you will be able to get this radian Z egg, and um, start training it up, and replaying the final battle, you will be able to get more eggs, and that's how you'll be able to evolve your upcoming Radiant Z.”
 
@@ -50,11 +56,13 @@ Veterans asked for a more specific answer than “soon” on the late game. The 
 
 A player asked about Land, the Forge and new bosses. Jackal put the Great Tree, a world boss and the Forge after the main campaign. The timing for Land remained open.
 
-> **Jackal**
+> **Jackal** · [18:35](#t=1115)
 >
 > “I'm not saying soon, I'm saying after uh the main campaign ends. \[…\] The onboarding is the m-, the main focus currently.”
 
 ## IV. Q&A priorities include delayed public Land buffs and random turn order at equal speed
+
+[10:32](#t=632)
 
 - **Entering the public Land.** A player asked when they could enter the map transcribed as “Binance.” Jackal thought the entrance should work and said he would look into cases where it did not open. Pools intended to grant temporary buffs were deferred while staff focused on onboarding. Access to the area and the rollout of buffs have separate timelines. The Land documentation provides general context. [Land documentation](https://whitepaper.zee-verse.com/lands/overview)
 - **Actions at equal speed.** Ties in battle speed currently result in random turn order. A player suggested breaking ties among teammates by team position. Jackal saw the point and used his equally fast Matoka and Niska as an example of how shuffling the order affects farming. The call did not settle the proposal. [Zeedex](https://whitepaper.zee-verse.com/gameplay/zee/zeedex)

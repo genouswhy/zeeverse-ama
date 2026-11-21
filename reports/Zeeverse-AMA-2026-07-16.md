@@ -8,13 +8,15 @@
 
 ## 一、新战斗 UI 已经上线，先修 Umbra 和 Hollow Trials 的问题
 
+[00:10](#t=10)
+
 7 月 14 日发布的 **1.15.0** 已重做 Battle UI、把 **Zee Inspect** 改为 3D 场景与精简属性面板，并调整了副本战斗的速度倍率。角色与物品的颜色、图标和任务目标追踪也做了调整。Euler 关注新用户第一次选 Zee、升级与指挥战斗的感觉。团队初步观察到新手流程有积极变化，会上没有给出版本前后的量化对比。 [7 月 14 日 1.15.0 更新日志](https://zeeverse.com/news/1-15-0-release-notes)
 
 Euler 承认新版在后期内容里暴露出问题，计划将热修构建在当天提交。玩家刷到重复内容时，团队希望自动战斗简洁稳定，保留手动选技、看过程的乐趣。他提过「点一下花 10,000 能量直接打完 10,000 次副本」，用来说明老玩家希望减少等待的程度。会上没有宣布扫荡功能。**会后核对**，7 月 23 日的 1.15.1 确认恢复 Hollow Trials 波次计数，并修了 Cragoth 的目标选取和部分战斗问题。 [7 月 23 日 1.15.1 更新日志](https://zeeverse.com/news/1-15-1-release-notes)
 
 谈到战斗改版后的反馈，Euler 解释为什么自动战斗要让反复打同一副本的老玩家省一些操作。
 
-> **Euler**
+> **Euler** · [04:01](#t=241)
 >
 > “Obviously at the point where you are in, in your journey of repeating the same dungeon, uh, for the hundred time, and you use auto play, we basically understood that, and we offered a way more like kind of easier, uh, and more simplified experience.”
 >
@@ -22,11 +24,13 @@ Euler 承认新版在后期内容里暴露出问题，计划将热修构建在�
 
 ## 二、首个 15–16 分钟要同时教规则和让玩家动起来
 
+[27:25](#t=1645)
+
 Euler 引用手游首场会话中位数约 **8 分钟**的行业参考，说玩家很快就会决定要不要继续。当时 **Finding Your Feet** 平均约 **16 分钟**，完成之后才更自由地探索。团队想更早给玩家行动的空间，同时用短步骤带他们认识技能、装备、角色和任务。Jackal 说这两三个月一直在磨首小时。会中仍有老玩家担心 UI 更新拖延新 Raid Boss，团队答复当前优先解决新人觉得困惑的流程，以支撑之后扩大投放。 [6 月 11 日 1.13.0 更新日志（Finding Your Feet 首次加入）](https://zeeverse.com/news/1-13-0-release-notes)
 
 Euler 说新人很快会决定是否继续。他接着解释为什么不能一直把探索限制在教程路线里。
 
-> **Euler**
+> **Euler** · [28:30](#t=1710)
 >
 > “We give them this freedom, they realize they need guidance, and and what we really try to do right now is to find a good balance between giving them this freedom early enough, but then providing them guidance, uh, which comes not in a form of being hard-locked into quest sequence or something.”
 >
@@ -36,11 +40,13 @@ Jackal 还提到玩家仍会在聊天里问 **Nomu** 在哪里，他可能改过
 
 ## 三、每日任务先给所有人同一套，游戏内 Zeedex 要记录实际相遇
 
+[12:24](#t=744)
+
 **Daily Quests** 拟在热修之后的版本增加，和已有每日登录奖励一起提供回访目标。首版先用全体玩家都能做的简单任务，借此测试玩家是否愿意跟着指引去探索。若效果好，再按账号可做的事情安排任务，比如已会采煤的人接到采煤任务，资深玩家获得更难的挑战。Euler 也提到，长期可把这些经历接到 **Achievement** 系统记录并奖励。会上用制造十万只水桶开玩笑，未公布成就条件。**会后核对**，8 月 12 日 1.16.0 加入每天四个新任务，个性化方案在当期仍属设想。 [8 月 12 日 1.16.0 更新日志](https://zeeverse.com/news/1-16-0-release-notes)
 
 Euler 提到先试每日任务。Jackal 补充什么时候才会从全员同题改成按进度发任务。
 
-> **Jackal**
+> **Jackal** · [14:09](#t=849)
 >
 > “Initially we're, uh, rolling out the daily quest is like one size fits all. And they will like, uh, start with like very simple simple tasks, but the ultimate goal here obviously, if if it proves to be a success and we can invest more resource into it, would be that these \[…\] quests are tailored to the, uh, user state, right?”
 >
@@ -50,9 +56,13 @@ Euler 提到先试每日任务。Jackal 补充什么时候才会从全员同题�
 
 ## 四、生活技能要让等级、工具和随行 Zee 都发挥作用
 
+[19:05](#t=1145)
+
 当有人问被动是否已生效，两位主持指出 **Taka** 已经可以协助伐木。其他 Zee 的生活技能效果还依赖新的判定公式。Euler 用采矿举例，希望采多少级的矿、拿什么镐、带哪只 Zee 都能影响成功率，让升级和更换工具感受得到。会上未给公式或各项权重。 [6 月 11 日 1.13.0 更新日志（Taka 协助伐木）](https://zeeverse.com/news/1-13-0-release-notes)
 
 ## 五、主线还有两章，藏宝戒指目标约 1/5,000，20% 是重掷概率
+
+[22:27](#t=1347)
 
 Jackal 说主线尚有两章，团队在新手工作之外继续把场景和机制接起来。下一章计划开放**戒指和项链栏**、副本掉落的藏宝图与挖掘。玩家解读线索、找到埋点再开宝箱。如果已知道地点，Jackal 估计一次挖宝约 **3 到 5 分钟**。
 
@@ -67,7 +77,7 @@ Jackal 说主线尚有两章，团队在新手工作之外继续把场景和机�
 
 说明藏宝戒指的拟定效果时，Jackal 区分了适用场景的重掷和仍需单独核对的 Hollow Trials。
 
-> **Jackal**
+> **Jackal** · [24:23](#t=1463)
 >
 > “Like dungeon drops, wild drops, you will have 20 percent chance to roll the whole table again. Uh, so, you know, uh, basically you are getting extra slot, extra drop. In, yeah, in 20 percent, uh, of times. Yeah. Uh, so, uh, not sure, not, I mean we gotta check, uh, the expected values for Hollow Trials.”
 >
@@ -77,13 +87,19 @@ Jackal 说主线尚有两章，团队在新手工作之外继续把场景和机�
 
 ## 六、Heist 要接上新版战斗，开放世界战斗已支持脱离
 
+[21:12](#t=1272)
+
 **Heist** 的待办仍有 UI、镜头装配和新版战斗接入。Jackal 准备恢复当时的玩法框架，再发规则提案，玩家通过投票后逐项改动。Heist 很难在新手工作之前拿到更多开发时间，会上未给新日期。
 
 **野生 Zee 战斗**已可以由 Shaman 跑远来脱离，误点或发现打不过时有机会撤退。部分玩家在一边打野怪、一边采集时也会触发，Euler 说当时的距离较短，可根据手感再调。这个机制未来也能给 World Boss 战斗提供退出方式。多人同时打 World Boss、指定 PvP 区域在地图上实时交战，都是主持提出的潜在扩展，可能先拿实验版本试玩。 [6 月 27 日 1.14.0 更新日志（修复野战离得太远仍持续）](https://zeeverse.com/news/1-14-0-release-notes)
 
 ## 七、FOREST：Builder 开始接 Cloud，团队想将能力用于 Zeeverse 获客
 
+[40:00](#t=2400)
+
 ### 简单游戏可以尝试一次生成，复杂功能仍需要迭代
+
+[41:21](#t=2481)
 
 Euler 说 **Forest Builder** 已能从提示词生成简单的链上游戏或应用。**Forest Cloud** 已按其口述上线，可托管后端逻辑、多人服务、数据库与持久数据，团队跑过排行榜等用法。部分复杂体验需要多几轮修改。他估计团队每周约推两到三次公开更新，许多是用户不易察觉的修整。另有更可定制的路径，通过 **Forest Playkit** 与 Agent Skill 来接代币和结算。Euler 举了一位在台湾见到的现有投资人用 Agent Skill 做出代币游戏的例子，会上没有公布生成成功率或负载数据。 [6 月 15 日 Forest Builder 公告](https://forest.inc/news/forest-builder-imagine-describe-deploy-on-chain) [7 月 3 日 Forest Playkit 公告](https://forest.inc/news/forest-playkit-infrastructure-behind-zeeverse-economy)
 
@@ -91,19 +107,23 @@ Euler 说 **Forest Builder** 已能从提示词生成简单的链上游戏或应
 
 ### Harness 想积累不同游戏类型的设计经验
 
+[48:43](#t=2923)
+
 Euler 认为，生成画面只是第一步。团队接下来想把三消的关卡设计、策略游戏看重的决策、玩家为何愿意回访等知识沉淀进 **Harness**。他用 Perplexity 主动补充上下文的方式类比这套思路，提到未来可以找不同类型的专家协作，让工具理解游戏需求里没明说的部分。选使用哪种模型时还会考虑成本和生成质量。他估计 FOREST 当时约占内部 **10%–15%** 的资源，公布的是口述范围。
 
 Zeeverse 也想用 Builder 批量制作 **Playable Ads**，把能代表正式游戏特色的玩法压缩成试玩广告，让潜在用户先动手体验。会上谈的是生产方式和获客设想，尚未给出广告产量、安装率、获客成本或回访数据。
 
 介绍 Builder 和 Cloud 进展后，Euler 用可试玩广告举例，说明这些工具可能怎样帮助 Zeeverse 拉新。
 
-> **Euler**
+> **Euler** · [45:04](#t=2704)
 >
 > “User acquisition needs a lot of creatives to work with. Uh, and some of these creatives, some of the best performing creatives in the market are playable ads, which are just generally dumbed down mini game versions that hopefully attract the same crowd that would be in, interested into, uh, full experience.”
 >
 > “拉新需要很多广告素材。市场上表现最好的素材里，有一类是可试玩广告。做法通常是把玩法简化成小游戏，希望吸引的还是会对完整版感兴趣的那群人。”
 
 ## 八、片尾与路线图
+
+[55:28](#t=3328)
 
 Euler 感谢玩家在他因病缺席后再次来参加，并说当天还会直播。Jackal 按现场截图抽了 **三份 Premium Pass**，得主应开抽奖工单领取。他还约大家约一小时后到 YouTube 看直播，可以一起看战斗变化、升级 Zee 的 Traits。现有转录能确认奖品数量，期限和完整得主用户名仍不清楚。 [Premium Pass 官方页面](https://zeeverse.com/app/premium)
 

@@ -6,11 +6,13 @@ The new onboarding produced a surprise. The team meant to cut the mandatory tuto
 
 ## 1. An unexpected onboarding result and more work to shorten the mandatory tutorial
 
+[05:37](#t=337)
+
 Euler said one older flow took about thirty minutes and the next about sixteen. The team had observed that a typical mobile player gives a game about ten minutes to decide whether to stay. The idea was to let people explore on their own after **Arrival** and pick up short quests as they went. A string of smaller quests ended up being mandatory, bringing the measured time to about forty minutes against the eight-minute target. Euler reported an **approximately 30% improvement in D1 retention**. The team gave no absolute retention rate, measurement window, or comparison groups, and the call did not establish which changes drove the improvement. Euler said the team had several hundred new players to observe each day and gave no exact sample size for the experiment. The official 1.17.0 notes from August 31 show how Finding Your Feet was split into exploration, combat, gathering, and crafting quests. [Zeeverse 1.17.0 release notes](https://zeeverse.com/news/1-17-0-release-notes) · [Call transcript on tutorial length and retention](../transcription/2026-09-10.txt)
 
 Euler said the original goal was to let players explore freely after Arrival. The quest sequence ran longer than intended, and he still reported a roughly 30% improvement in D1 retention.
 
-> **Euler**
+> **Euler** · [05:37](#t=337)
 >
 > “We ended up kind of forcing people into these, um, uh, sub quests. So essentially instead of like cutting down tutorial to like 8 8 minutes, we ended up ac- actually increasing it like 40 minutes.”
 
@@ -18,11 +20,13 @@ Euler said the original goal was to let players explore freely after Arrival. Th
 
 ## 2. One-tap basic attacks return, and some wild battle rewards will require less picking up
 
+[18:29](#t=1109)
+
 After a wild Zee battle, the team wanted **Spirit to go straight to the player**. That separates the basic reward from other drops players need to notice. **Corrupted Zees** on the map were designed as roadside encounters similar to Guarded Treasure Chests. They could grant Souls, relics, and other rewards. A combat animation overhaul had turned basic attacks from a tap on an enemy into a two-step process requiring players to select the attack first. Euler wanted basic attacks to go back to a tap on any visible enemy while keeping the selection step for special abilities. The call gave no near-term plan to change the fixed camera. If the team revisited it, Euler said it might try a camera players could turn freely. Movement and animation speeds were also possible adjustments to how the game feels.
 
 Euler said the animation overhaul left players pressing the attack button and then tapping an opponent. He explained when the extra tap could be removed.
 
-> **Euler**
+> **Euler** · [18:29](#t=1109)
 >
 > “If you want to direct attack, you can just click on a, ju- just click on opponent, and if the opponent is in your visible range, you won't be required to do essentially two actions too do an attack.”
 
@@ -30,11 +34,13 @@ Euler said the animation overhaul left players pressing the attack button and th
 
 ## 3. Chapter 3 previews The Ship and The Wicker, and old Mr. Block chests await equipment slots
 
+[28:27](#t=1707)
+
 Jackal showed the stage selection screens for two dungeons. He said **The Ship** would have one boss near the end. For **The Wicker**, he outlined two bosses fighting at once as part of a dual-target mechanic. The boss art was still being rigged and otherwise prepared, so the call did not show it. High-level Zee might clear the base difficulty quickly, which led to a discussion of **Prestige**. The idea was for a short quest or interaction after completing the main Campaign to unlock tougher versions of old dungeons with the same bosses and better rewards. The team was also considering a second tier called **Prestige+**, similar to Nightmare. The Forge had given the team a chance to try a related idea, with bigger and stronger bosses each wave. Higher-difficulty dungeons remained a design discussion. [Call transcript on the dungeon preview](../transcription/2026-09-10.txt)
 
 After previewing the two new dungeons, the speakers considered how high-level Zee might breeze through the base difficulty. They envisioned unlocking Prestige after completing the main campaign.
 
-> **Host**
+> **Host** · [28:27](#t=1707)
 >
 > “And prestige mode will give you a chance to go back into the dungeons, uh, into the old dungeons, and they won’t play out exactly the same, uh, but the bosses will be the same. But everything will be at much much higher difficulty level.”
 
@@ -42,17 +48,21 @@ A player asked about the Mr. Block chests. Euler took this to mean chests left o
 
 ## 4. Questions on Heist, tournaments, old event items, and AI-powered Masks
 
+[12:51](#t=771)
+
 - **Heist and multiplayer.** Restoring Heist was still on the agenda. The team's daily development time went first to onboarding. Euler listed social and multiplayer play, a new Campaign, and later progression as the content that would need to keep players engaged after day one. Asked about tournaments, Jackal said the game had changed enough that the team would need to check their state and possibly retest them. There was no near-term return date.
 - **Shells and Belt.** Both types of item remained part of the history of their original events. The team had discussed uses for them and had other priorities. Euler described changing his profile picture and buying a Mask as personal choices that showed how he felt about collecting. The associated jokes and nicknames offer no basis for inferring future mechanics or prices.
 - **Masks paired with AI agents.** Euler said building agents in FOREST had made clear that keeping an agent running in a game incurs API costs. The team would also have to explain what it adds to the game. Activities that need fewer interactions might be worth exploring. The call described no confirmed mode that players could turn on. [Call transcript on tournaments, old items, and Masks](../transcription/2026-09-10.txt)
 
 ## 5. FOREST announces Forest Studio, starting with creators’ own AI subscriptions on Mac
 
+[38:56](#t=2336)
+
 Euler had introduced Forest Studio at the Mr. Block Summit in Taipei the previous week. He outlined the first version for the community on this call. The original web Builder calls the model API through the platform, and users spend credits to generate content. Euler used about $20 in API costs as an example of why a simple experiment might feel too expensive for a creator. The team was testing the new **Forest Studio (Forest Harness)** as a local app. Its goal for the following week was to connect OpenAI accounts on Mac so existing subscribers could use their own allowance. “Free” referred to the idea of avoiding the original web Builder’s platform credits or separate API charges. The subscription would still have its own limits and fees, and on-chain publication would still involve steps and network fees.
 
 Euler used an API cost of about $20 for a simple experiment to explain the old web Builder’s pricing problem. The Mac version was his proposed answer, with “free” referring to use of an existing subscription.
 
-> **Euler**
+> **Euler** · [38:56](#t=2336)
 >
 > “We will be releasing next week this harness that you will be able to use on your Mac, and connect, you will be able to just connect with your, uh, OpenAI account. And use your existing charge of the subscription. So in practice, you will be able to use the currently best available models essentially for free.”
 
@@ -60,11 +70,13 @@ Studio was planned to include project management, editing for modules and Tokeno
 
 ## 6. Remix could share fees with original creators, and new chains depend on ecosystem support
 
+[47:18](#t=2838)
+
 Euler described **Remix** as a way to start with an existing game, change the rules or branding, and give the original author a chance to share in the proceeds. He cited player discussions about Gold Miner and Diamond Miner to show that people sometimes care most about changing a few rules. As an example, the original creator might receive **around 5% of the derivative work’s fees**. Euler was talking about a small share of the remix's fees. The call established no formal fee schedule. A player asked why someone would not build from scratch to avoid sharing fees. Euler acknowledged that independent development was possible and thought saving repeat work and supporting the original creator could make Remix attractive. He imagined growth through many derivative works with liquidity pools paired with $FOREST. There was no data from that mechanism in operation. [Call transcript on the Remix Q&A](../transcription/2026-09-10.txt) · [Official $FOREST and Seed Economy documentation for economic background](https://forest.inc/docs/whitepaper/forest-and-seed-economy)
 
 Euler cited community discussion about how Diamond Miner and Gold Miner could play differently. He then used fees from a remix to illustrate how the original creator might benefit.
 
-> **Euler**
+> **Euler** · [47:18](#t=2838)
 >
 > “If you succeed, then then small, more small percentage around 5 percent of the fees will go towards the original creator, which then inspires people actually build cool stuff, even if they don’t have a big strong social following.”
 

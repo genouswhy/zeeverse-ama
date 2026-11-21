@@ -1,1 +1,699 @@
-Alright, yeah, uh sorry for guys for the current setup, uh, I'm uh I'm relocating, and haven't set up my uh game, hmm, game, my PC rig, uh, and yeah. All right, uh, well, um, hey guys, uh, it it's been uh it's been two weeks, uh, and uh yeah, let let us uh um pull you in on what what has happened, and what are we working on. and. What will we be working on going for- forward? All right, you will, you wanna kick things off or. Yeah, totally. So. As always, um, cool to see so many of you showing up. um, Meanwhile, while we are yapping around about what we're working on, feel free to drop any questions or Anything in a chat, uh, I always love when people actually have a questions. So, yeah, um, today we basically have a two, uh, two topics as always. uh, There is actually pretty big thing coming uh coming out this week for first. I made a brief announcement. Early this week, uh,And this is something we've been working on for for quite considerable time. I would say for last 3 months probably. And And uh I will be releasing uh this update for Forest either today or tomorrow. But uh yeah, I'll I'll touch that uh in a bit. I see some some people are already writing cool. Jack, I'll do have like a. Your Z. Do you have your uh do you have agenda? uh, On on the certain things we should walk through. uh, uh, Or. Yeah, I I wanted I wanted toUh, Walk through what, like this update, and that does mean going forward, and. And uh yeah, uh, I see Archy mentioned why can't we make energy portions from fish anymore, the value of fish now zero. uh, This is done in a preparation. Bill, you wanna you wanna give your toss? Cause I I I think we also removed HRT from crafting. Yeah, uh, so, this is actually one of very old uh legacy legacy designs, uh, that I believe was originally. um, Brought in two years, maybe three years ago. And the, yeah, so, and and this actually was done at the time when uh. Fish didn't even had any utility at all. You was a you was uh only able to like fish them and cook them, and afterwards the utility was very very limited. And at that time we didn't really had the. If I recall correctly, I think we didn't even had any other skills at that time. So, one of the things we did back then, we um um we decided that let's let's allow people to convert them into energy potions. And um yeah, and and this is basically just how it stayed for very very long time. But looking from today's Zeevers, um. Having one skill for some weird reason that produces essentially energy potions, uh, felt very hmm. Very weird, and uh and we just essentially just fixed it. So, yeah, um, this was one of the legacy things we had lying around. uh, Obviously, we saw people um um utilizing that, and. But uh yeah, at the same time, there are many better uh many other uses how we could uh utilize fishing, and and and after all, there are many other ways how we could introduceuh, Additional supply of energy potions, if we find that must. um, It's interesting because the people are like, uh, I mean, you're Pointing out the fact that the fish uh value is going down in the market. First of all, I don't believe it's going to zero, but uh at the same time. uh, The fact that you was able to convert fishing to energy potions was actually responsible for the reason why energy potions are so relatively cheap. So, it's it's it's double edge sword, and there is. There isn't the way to kind of magically create value out of thin air. So, what we did, we just made it uh simpler. We basically fixed one of the legacy design problems, and um. And yeah, I will be monitoring what happens with energy potion supply, and um. And at the same time with the uh what's up with the fishing and cooking skills? So. And. uh, Yeah, and then there's a uh. There's another question in regards to uh when is the promise events and items, and I I recommend it in uhIn relation to the great tree, the forge quest, the tournament, and the highest, uh, and we've been talking about this for you know. uh huh, for quite a quite a while, but uh I mean, yeah. Nothing really has changed uh since Stansby's taken. um, I mean. I've been going over this pretty much every single community call. um. In order to build a game, uh. Takes a bit of time. And and at the same time, when we are looking uh on how we prioritize the development, and. Decide which things will be giving us a way to move forward and tackle like next challenges. uh, We have to start with the early game. uh, As far as I would love to see, uh, Ziver's full with different world bosses, uh, dungeons, challenges, what what whatever. and whatnot, uh, and and and we will be uh working towards this, at the, at some point, but. Reality is we are still in beta. We are, we've been in um soft launch for a significant time, and this is where we are collecting a lot of data, and and this is basically where We have been shipping uh updates for last months. every single week or every single two weeks, and um. And uh yeah, so this is something we have to prioritize, because otherwise uh we can't scale, cause it. People are not sticking around, uh, within the first hour. uh, What's the point of adding uh new stuff? uh, And just kind of umIncreasing the the crack between uh new players and existing players. So, yeah, uh, as far as I would love to add more uh cool mid and game content. uh, Or mo- most of our resources are currently um. Focused on onboarding experience, and this is something we've been like actively uh improving, uh, and um yeah. I hope uh we are soon done with that, so we can get to the more fun things, but um. the day, this is this is how games are made. uh, Yeah, uh, I guess I'm kind of, yep, yep, uh, yapping already on on this a bit, uh, as As we are in pretty much every single uh oh. we managed to attract some scammers. that's nice. no, man, let her, ok. yeah, 67 online, nice. All right, um. That's kind. Mr Exodus has a very long question. The channel for. Only they can leave a reaction. That's practically how the players that have like uh. With an online counter, I don't think we've ever had an in-game lobby online counter. I might be, oh, weird, remove the in-game translator. Trans translator was, I think, if you're you're you're correct me wrong, if I'm wrong, but the translator was some of. In regards to the hacker, like sec- security, sec- security issue that we, uh, the translator came down and. As we changed like some uh supporting back end infrastructure and uh. Yeah, I mean like uh uh. That question doesn't even surprise me. I, like, I mean, what the question? Do you consider this successful work? Ha? uh, Or are you waiting for all uh all to leave. I mean, Exodus, you are free to leave at any time. You're bringing up these kind of toxic questions every single AMA. This is, I guess where you spend. Your time, um, I think we've been very transparent with the development process and the reasoning behind pretty much every single decision we made. But umYeah, I mean. Go go, I I can later type uh re- uh reply with the ChatGPT to your uh ha. Your question, so um oh. We have one more, uh, of Manka wants to speak. Cool, um. Bring him on the stage. Hello, Yule. How are you doing? I just got a few questions towards you personally. uh, Recently, you mentioned that some of the new game developers joined your Zyverse team, and that he has like a big. Experience in gave the game development, et cetera, et cetera. So I was just wondering whether we could have a chance to invite him on one of the AMAs, because it's great to see you and Jackie, I like every single week. But don't you think that like another perspective or may maybe some sort of commentary Would be great as well. I'm not sure about that, uh, so I think when the time will come, we will bring him on. But uh it's not kind of what we do by bringing up our team member just randomly on Like, I mean the guy has been around for one month. So, we just don't bring them randomly on the Discord calls, uh for um for interviews from the community. So, if you have any. No, no, no, ma- ma- that's make make sense, maybe you have some other game devs that like been there like in the team for a while. And perhaps they can just share their like sort of uhopinions, excitement, any like news or something like that. Because I don't think that would hurt anyone to be honest. I mean, I just want your take on this matter. Yeah, I mean. I think if it will make sense, we will bring someone on. But uh when it comes to game design decision, this is basically what do you have to deal with, whi- which is me and Jackie. uh, So, uh, yeah, I don't really see much of value of bringing in like developers or artists on a community calls when uh. So, that's kind of the way. No, that's that that's fine, I I agree with you. That's interesting. uh, Another question was just concerning the forest kind of thing, because we had the discussion of the jackal. uh,originally, you've promised like some sort of like quarterly or monthly drops. and i understand that you also confirmed that like given the fact that the economy is not really great right now, and that you don't really wanna put some pressure on the talking, et cetera, et cetera. and that like the game the game is in development. do you have any sort of like new update on your stance regarding forest? so like as you previously mentioned like because of the inflation, you just wanna avoid. More pressure, so that's why you're not really giving the promise kind of portion right now. I don't really see any value, uh, and and more importantly, any way how we could do it right now without pretty much fucking up. um. uh, The token itself, cause the uhI've seen like argument of like many people like voicing in community that, oh, we are staking there though, but I mean probably people know know how this actually works in real life. And for now, it would be just giving out token for people to sell. And uh yeah, uh, this uh this market, I mean we've been doing everything uh other than um. Leaking inflation into into the current market, cause there is no market to support it, there is no real liquidity to support it. So instead, we've been experimenting with systems like seeds, where we canum, Reward um. Activity uh that brings some direct value to the protocol, into into the token rewards. And another thing we've been working on, which I just briefly mentioned is the. is um the new AI builder. So, this is something, uh. We tried um to release like three months ago, and in a really simple format, which was a very very simple uh app builder, and And we saw a pretty good potential in that, so for last three months. we have been, we had a team that's been working on. To turn this concept into uh fully capable cloud infra, and uh and builder that would essentially allow you to build blockchain apps and games with a single prompt. And this is actually something that's coming uh either today or tomorrow. So, uh, we'll be, we will essentially be. uh, Inviting people to try the builder, uh, by giving them some pre-credits. But yeah, getting back to uh ultimately to that question, uh, in order for us uh to do an airdrop. um, It has to come along alongside some other activities where this all kind of creates momentum. um,uh, Otherwise, it's um it's yeah. uh, I, I, I don't, I don't see how this uh oh ends up working. Thank you, thank you for your answer. uh, I was just wondering, can we expect the air drop in the future when the market conditions are getting better? I like I mean, or we can, or like the. uh, Yeah, uh, so, we we can definitely expect to air drop in the future, but it's it's it's it's kind of combination of all the things. So, uh, once we see uh things going in another direction, and we see how we can build that campaign, uh, and and in in return reward users who are participating that campaign, we will be doing that, so. So only the only the part, only the participants will get the thing, like so, as you previously mentioned like 7 percent that's been already given, so it's like the remaining like 93 or whatever. It's not coming right back, right? It just only for the active like participants, better, and see the see the users. I mean I mean we we are experimenting with different ways how we can uh allocate tokens to the community. uh, We did the, I think we did pretty pretty big air drop at the beginning, uh, versus like all the all the total supply that was in circulation. The community air drop actually represented a significant portion of that, and uh yeah, so uh we will be looking for ways, I mean we've been experimenting with with the seed economy. We did, uh, we have a collector's profile. So, there is a bunch of stuff what we can use to figure out who are the people who are bringing value to the project. And at the same time, um, hmm, we'll most likely come up with additional ways uh or mechanics. So, yeah, it's Right now, our core focus is to build attraction uh for for a protocol itself. And once we see there is attraction, and there is actually people using it. And and having more token in circulation would uh bring more benefits to Holico. uh, For sure, this is something we gonna do. But um yeah, but uh as for now, we are pretty much in uh in deep uh beer market, where token is umHolding actually pretty well, uh, in terms of dollar value, it's holding pretty okayish. In terms of uh BNB value, it's actually doing pretty good. If you compare it um to what we had when we launched, and over the last few months, I think we are pretty much up 50 percent. Inbnb terms, so yeah. Oh, thank you so much now. um, Forest is really great project, it's it's really interesting to observe and take a look at that. I'm just asking you just because the thing As you said, nothing is set in stone. So, I just asking for some like transparency to be honest. Like, it's not like I'm saying like, oh, you're not giving me the remainings like 90 percent or whatever. I don't really care, I just want you to confirm it, that's that's the thing. Because when people get like transparency, I think it's it's much easier for everyone. And I guess we're we we're not also getting any Ziff talking until like the game release, right? We don't have, uh, we are planning to do the token, uh. for for the reverse, but um I mean this is definitely not where our mind is uh currently. First of all, there is pretty much no market for that. uh, At the moment, so we better focus our effort towards um uh preparing game for for um for global launch. And um and most likely the token around the global launch will be um a part of strategy. So, uh, so, yeah. uh, This is still on the table. Yeah, without. Thank you for your watching. And just la- last last question. So, as you se- as you see like there is no liquidity in the market, nothing really going on. What's your thoughts on like on like what what the future holds like, is there any hope for web free gaming or you're leaning towards like more like to web two? of gamers, et cetera, et cetera. And perhaps maybe you can mention some re-, like great projects, like for example, I think Beacon, it was also a treasure project that's still like alive and still developing. You can like comment on like some similar projects to the others that are actually doing OK in the current market. um, Yeah, so fir- first of all, I think uh. There is, I mean we can speculate on the markets obviously, but um what I've learned o- over the years is that markets, uh, market is essentially a cycles. And um what I um tend to believe is that we are rela- at a relative bottom at this cycle. So, we've been well positioned. We was actually fortunate enough to be able to build during the last 14 months uh of down only environment. uh, So, we are essentially preparing umFor for market turn, and and when that happens, um, we will be in a pretty good position uh with the forest, because we've spent all of this time actually building. Product that works, and um with this week's release, I believe we will be uh most capable um AI app, blog and app builder in the market. So, I I feel there is definitely uh product market fit for that. But getting back to the games, um. uh, Yeah, I mean I've been the following beacon as well. um, As far as I'm aware, they don't have released token yet. um. I think they originally plan to do it, was planning to do it last year, but um uh instead they chose to focus on um just building a game. um. I I know the founders, I know Diego, so I know they're building a pretty good product. I played the game myself. uh, I hope it will have a good traction in in in web two market. hmm, It's hard for me to say if I really see like um. Sense to have um blockchain economy for for for for these kind of games. But that's definitely umOn one way, um. One one game where uh you can at least invest some of your time in, cause that they genuinely have a good product. As for the other games, so what we see uhMostly in the blockchain space, blockchain gaming space, uh, the companies are closing down left and right, some some big games, uh, and now, I think Pirate Nation also announced the closure. um. uh, Last week or two weeks ago, so there there there has been a pretty uh dire situation when it comes to web three games, because I feel. Most of them didn't. Even made sense in the first place to have like a token or anything to do with blockchain rather than the speculative layer. uh, What we are essentially betting on with the zivers is that we found umWay where this technology can actually give us a real competitive edge, uh, uh, when it comes to player acquisition, when it comes to monetization. and actually when it comes to. uh, Building uh building a game that's not really possible uh without having this um blockchain for beneath it. So, I I I I feel all it takes uh for market to turn on games is just one hit. Maybe it's gonna be Zivors, maybe it's gonna be something else. um, But when that happens, uh, again, um, people who have been building usually get rewarded. So, uh, this is where we are placing our bet. um, But at the same time We are not just relying on web three to basically save the game or anything. uh, We have a pretty strong uh go to market plan for for for Rivals uh as a web two game. um, With, let's put it our way, hidden blockchain components. Cause even right now, you know, like people can um download it on um Google Play or App Store, and they can um. Just go in and trade within the game exchange without even realizing there is anything to do with creator and blockchain behind it. So so yeah, I I I see uh pretty hmm. See a pretty big. Potential in the future for uh for for for gamefi. um, I I feel it's kind of matter of time, and uh and yeah. In the worst case scenario, do you reckon like for example, if Vefiry will not work out like completely, would you consider creating your own some sort of market where people can exchange their like goods and items for like dollars or whatever? So just removing the whole uh crypto layer com- completely from the game. Kind of like a steam. I mean, in a way, this is kind of already how it works. um, Just the only difference is we also offer offer ramp. uh, I feel this is very important, because uh without real liquidity beneath the market. um, There is. Not much uh point of collecting fees or anything like that. uh. Maybe it can turn into something like a steam. um, But yeah, hmm, I don't I don't see. Crypto recovering or not recovering, having a direct impact on if the marketplace is working or not. So, uh, so, are we we we generally have a bunch of options uh around around these questions, and we made everything. um, So, we can. OK, thank you, thank you so much. That was re- that was really interesting. Thank you. Thank you. OK, there is question from Global Hope. Can you compare Zever to some successful web2 games that are fun and keep players engaged for reasons other than play to earn? Some examples. I feel like um. ob obviously we've been bringing up a Runescape as one game, um, where Zevas uh. have been uh inspired from. uh, so, this obviously is a really interesting uh example of how player driven economy can work, uh, in uh in mmorpg's. And how like games that doesn't just solely focus on combat are able to actually thrive and become more and more relevant as uh. uh, Time goes. uh, But if you are looking uh specifically on cross platform slash mobile games. uh, I I feel one really good example is Genshin Impact. uh, As this is one of the rare games that actually uh presents a real game uh within the mobile format. um, Because what we've seen in industry is that Most of uh most of successful web two games has been pretty much uh replicas of uh. City builders or some some some farmings farming games or match three game. I mean like uh the mobile gaming uh. I feel has has changed a lot since then, and having examples like Genshin Impact or I think there is actually a new title rolling out relatively soon, Anemo. You may check it out. uh, You will be you will be surprised how much scale, and how much revenue, and how much um. uh, How large player base is these web two titles can uh build around them, and an and this is kind of essentially the direction we are looking into. uh, But at the same time, games like Genshin Impact, if I'm not mistaken, may. 6 years to make. uh,uh, With the the team roughly 5 or 7 times the size of ours. So, uh, I think compared with them, we've been doing pretty good and pretty good um Speed, and those games they spent. Last year or two last years of their development before global launch, literally just polishing the onboarding and uh getting the cohorts in order. So, yeah, uh, this is the. My take uh when it comes to uh web two games, uh, we have a lots of experience um in these markets. This is actually where we originally come from. So so yeah, uh, and and then just having um this uh blockchain component, um, becomes as an edge for us, and a way for us to stand out. And and then pretty pretty crowded market. Jack, can you take over? Yeah, I I I I I I I I let you I let you deal with them. uh, uh, I love talk about. You know, current said, uh, so one thing you uh Uler did mention is that, you know, perhaps you're, isn't the the best, the best thing that, you know, presentsievers to begin with. You have this uh mud mudman like uh being in like this very bland colors, picking up you as your journey guide, and we were thinking internally, and We've always had this uh scenario, which is water, water nation, shaman being in our posters and everywhere. uh, And we decided, hey, what if we had what if we had her uh as the female guide? Now obviously, uh,For you know, just give you guys context. We already had it model. So, uh, for the team itself, it was a rather uh swap in, swap out, and. And work wise, it kind of all fell on me to like rewrite all the stories and the dialogues, so which you know, uh, have fun looking at it, uh, and yeah, however, uh,You know, uh. I know I I I I'm I'm pretty sure majority of you guys don't come here to hear the law, but I think Cereals edition to the uhTuto- uh tutorial actually allows allows us to tell a bit better story. and uh yeah, with some bit higher stakes, um, given that. uh, Cereal kind of shows that not all the shamans have died. in like this event, ha, uh, but um yeah, they're still around, and that you're not stumbling blind, because there's only that Like a simple modern man can help you. uh, They're talking bit about the current tutorial, finding your feed exactly. uh, One thing we have been discussing is Yeah, looking at like the drop of points. And. And thinking about uh not thinking, a- actually executing upon uh in uh introducing modularity to to the early end quests, and basically make one quest for the early game, make one quest be. Many shorter quests, reward in the middle, and do not have uh um the uh player be committed, because currently, for example, you start finding your feet, you're committed to complete the quest. So, you're kind of like, on Unrail right, and you don't have any free agency, and by introducing these little small quests, you get more agency, and but then, uh, so, uh, he will be auh. Breaking up, finding your feet into. uh, Like three additional mini quests. uh, But and we will be introducing six mini quests available to all the users um around These um uh three requests. um, It will be quite simple, the breakdown. The player starts, Cereal fishes you out of the water. uh,And uh monster ensure guides you to uh three hubs, three skill hubs, Coyote, Bookup, and we will be introducing one artisan NPC, Toolak. And each of them will have a small quest for you, teaching their respective activity. And they will have these small little NPCs. For example, Oculum will have internally called the berry guy. A hungry guy, and you will need to feed him some berries, and quest done. But uh yeah, it's uh something, hmm something, uh me and you are have been talking about, is like reward, and like the hope in loops, and for you to be able to, you know? Do a task, get a reward, and uh slowly build upon it, because uh uh the early game especially, it it it needs to hook the players, it can be it can be tedious. This has been been tedious, and yeah, we're looking to improve that. One one one thing that I'm kind of excited about for the new players, honestly, this will also be for the uh. uh, For the existing players, uh, we will be introducing this uh mod, mod man uh mini quest where uh mod man will be kicked out of the village because his mask broke. You will help him create a new mask for him by mining out clay for little mining XP, making it into wet clay. And then f- f- shaving it into a. A mask, you can give it uh to this mud man and complete the quest, so he can get back into the village. Now, oh, going further, you will be able to, you know, uh, mine a full inventory of clay. uh, Create 20 masks and go around the village uh selling the mudman the masks for uh some spirit. uh, So, essentially creating the first, I think. Real sustainable early game, skilling, money maker, spirit maker, instead of having it be only dungeons. Because uh, and I think me, you know? Dungeons take quite a bit of time, and we are seeing also the attention drop within the dungeons, and obviously we like go from ground up. And after this uh find a few change, we are looking in the direction of dungeons to make it more streamline, especially in the beginning. So, uh. uh, So yeah, uh, I see my my favorite charmon. uh, It's about the fact that we acknowledge the interface problem and promise to add a warning for high value items. prevent situation five months, when he isn't there, and then I assume there's like two paragraphs of rhetoric. uh, What's a high value item? Tell me. uh, What is the internal uh item value? There is, I feel, you know, and uh hey, uh, that that was that was a seem me. As the same person, I go to them and I'm like, why not? Why? I, it's simple, but um rarely things are. And um we create tickets, and um we um see priorities for them. We se-, we see what aligns with our goals and what we want to accomplish withIVER, and. Hey, uh, I'll I'll be blunt. Yeah, this would be a really good addition. Also, you could be, you know, a little bit more careful, and you know, don't don't don't drop two K energy potion. We've found found your potions, but Re-, in reality, this could have been avoided by you know, you know, umuh, Paying attention. Paying attention, and yeah, would be a good change. That change, uh, even even if it's small, and it's never, and by the way, something I learned through Development, it's never it's never just a window. It's uh uh quite a bit more always, and uh yeah. Yeah, we could have done that, that would have taken a bit more time away from uh something we want to accomplish. And uh yeah, and honestly, 5 months is really not enough time to implement a simple warning window. That's rhetoric, because apparently it's none, but uh uh. I think you're misunderstanding the reasons why. So, yeah. So, um. Actually, uh, look. Probably have like another 8 10 10 minutes. I just wanted to bring some attention uh to the forest update. And um yeah, like I'll previously stated, we're gonna be releasing either today or tomorrow the new Builder with a cloudy infra, and this is where we invite all our community uh members and builders to to come in come forward and try it out. um, um, best way would be you just dropping a message on forest channel, and we'll umReach out to you and basically give you some credits to play around with the builder. uh, In return, we expect some feedback. And one of the really really cool things that's gonna be coming right after this is the remix functionality. And I feel this is them, uh, uh, this could be um one of. Required components for war forest to go much much bigger, because. Having a remix functionality will essentially allow anyone to recreate uhAny of existing games or tokens or apps, just with a few clicks. And And we are planning to add them. a ref share for the original creator. so in the practice it would work like you you are let's say building um small or big whatever. Blockchain app or game, you launch it. uh, It finds some people who uh enjoys it, but think they can make it better, or think they can make it slightly different. Now, they will have an easy way to do that by just pressing remix button, and and in return, whatever the fees, the token will generate uh from these remix versions, that fees will be shared with original creator by essentially incentivizing people to design. um, Good original games and tokens, and uh and essentially incentivize people to then turn these in the ideas into their own by remixing and launching these tokens and apps. So I I feel like uh we may soon see kind of explosion and new tokens and apps launched uh in the forest, because this update makes it. significantly easier and less complex for anyone to launch it open. and with remix functionality in place, it will probably make it so that simple as just pressing uh. a rethink bottom in x or or not so, so yeah, um, this is something I'm pretty excited about, and we've been working for for a bit of time. in this reality, uh, this is, um, it kind of feels a bit like magic. uh, I guess all AI feels a bit like that nowadays. But uh yeah, we have a pretty good stuff on our hands. And and we can't wait to share it with uh with the people. So, uh, I could actually wrap up on that, Jackie, if there's anything more. uh. I'll I'll do the I'll do the giveaway, uh, pick up the final punches and wrap up as well. Very cool. Hey guys, thanks for for coming up. uh, I'll be waiting for your interest on on a forest. So Oh, uh, be be sure to drop a message on the forest channel. uh, Yeah, so, pretty big week this week, and. Can't wait to see how it works in in real life. OK, guys, cheers, thank you. I see. Alright, uh, so, uh, let me quickly uh grab a screenshot of the participants. Include a mamba by hand, and get you guys all typed out. And then we'll do our giveaway of three premium passes. 突突突突突突。Sorry, um. I finally got an epic land. What's next? Oh brother. 啊。Yeah, you'll have to wait for a second. um. 啊。Right, uh, to the. Alright, uh, unfortunately, uh, Craig and Cherry does not get included yet again. I no longer by hand. I think we could share my screen. Just because you have it, though, it's unlikely you'll find a use for it. uh. Uh, Cool, uh, he, yeah, so, let's wrap it, baby. Bob Hope gets the uh first premium pass. Jade and gets the second one. And the third one goes to. Go on, Vmax. Ha ha. All right, uh, all right, uh, I'll I'll before signing off, I uhYou know, I will keep it real, and uh you know I I do understand. uh. It's really hard to like, and it it's really hard to like wrap your head around this. Like obvi- obviously, uh, uh,There's no there's no blame, uh, but you know, taking the TLC's comment, uh, no, what is it, little fast comment about uh you know, just be glad you have it. If you don't work on the onboarding guys, then you know, if there's nobody coming into the game, lands lands not gonna exist, the game's not gonna exist, guys, we're not, we can't keep The lights on with hundred player. And and and this is not like, oh, are you like doing bad and stuff? No, we're like doing good. We're like locked in. grinding, and we want theivers to grow, and that's all that is, like. It it, I it fucking sucks that there's no like uh there where the where's land right? Yeah, but. What are we making land for 50 people or you know 100 1000 people? We can make it for 50 people, blow all the all the development resources, and you know, give you guys give you guys access to land for a month before like We turn off the lights as every other web three project does. uh, We're not. We. We want Ziver to be here for five years, and this is not like a uh you know delusional web three undertaking. We've been working on, we've been working for these of these years at a loss, building at a loss. To uh develop you guys, uh, and it sucks uh when they're not coming here. As early doesn't mean they're they're not coming, and uh yeah, I uh. Yeah, it just it perplexes me, like, first of all, these are asset holders themselves, and they're like. uh, The these are ask holders themselves, and they're like, uh, isn't fudding your own bag like the most stupid thing you can do in crypto? But uh uh but. Yeah, uh, uh, I don't know, personally, I've uh I've like, I I I had, so, me, and I I I'm pretty geared in Zeeverse, I have ten masks. An- and such, and. But like I've invested like a lot in Zyverse. I'm not a founder guys, I'm an employee. I love this game, and I love this game to that, and uh we're all working, we, I wanted to succeed, and you know? We'll we'll making a plan. We'll be taking all these punches as long as they come, but at the end of the day, we will be here. We will be working on the boarding, and we will be working to deliver. guys the game. uh. Hopefully you'll still be here, uh huh, when we do that. But if not, I'm sure you will come back and. I'm sorry. uh, Yeah, I'm sure you will come back. I'll check it out then. Anyway. um, Just, you know, I wanted to add a little bit of my thoughts on the, on this rest restory we have going on, cause you know. I'm I'm very very aware that you know, we come we come uh in like, me and you are uh arising general chat to be like. To be like uh. Is that already debated? But uh yeah, uh. Bear. As is like up, up, upside down, it might seem we are doing this with you guys uh interests at the heart. uh, Though, yeah, anyway. Just wanted to add this, uh, unfortunately the uh. Uh, The uh the the uh. The the loudest people left the fastest and didn't hear that. So, uh, let's speak of this next ha community again. Anyway, guys, love you, thank you. Thank you for coming, and yeah, see you soon. Bye bye.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+Alright, yeah, uh sorry for guys for the current setup, uh, I'm uh I'm relocating, and haven't set up my uh game, hmm, game, my PC rig, uh, and yeah. All right, uh, well, um, hey guys, uh, it it's been uh it's been two weeks, uh, and uh yeah, let let us uh um pull you in
+
+[00:25]
+
+on what what has happened, and what are we working on. and. What will we be working on going for- forward? All right, you will, you wanna kick things off or.
+
+[00:37]
+
+Yeah, totally. So. As always, um, cool to see so many of you showing up. um, Meanwhile, while we are yapping around about what we're working on, feel free to drop any questions or Anything in a chat, uh, I always love when people actually have a questions.
+
+[00:58]
+
+So, yeah, um, today we basically have a two, uh, two topics as always. uh, There is actually pretty big thing coming uh coming out this week for first. I made a brief announcement.
+
+[01:12]
+
+Early this week, uh,And this is something we've been working on for for quite considerable time. I would say for last 3 months probably.
+
+[01:23]
+
+And And uh I will be releasing uh this update for Forest either today or tomorrow. But uh yeah, I'll I'll touch that uh in a bit.
+
+[01:37]
+
+I see some some people are already writing cool. Jack, I'll do have like a. Your Z. Do you have your uh do you have agenda? uh, On on the certain things we should walk through. uh, uh, Or.
+
+[01:50]
+
+Yeah, I I wanted I wanted toUh, Walk through what, like this update, and that does mean going forward, and. And uh yeah, uh, I see Archy mentioned why can't we make energy portions from fish anymore, the value of fish now zero. uh, This is done in a preparation. Bill, you wanna you wanna give your toss?
+
+[02:15]
+
+Cause I I I think we also removed HRT from crafting. Yeah, uh, so, this is actually one of very old uh legacy legacy designs, uh, that I believe was originally. um, Brought in two years, maybe three years ago. And the, yeah, so, and and
+
+[02:40]
+
+this actually was done at the time when uh. Fish didn't even had any utility at all. You was a you was uh only able to like fish them and cook them, and afterwards the utility was very very limited.
+
+[02:54]
+
+And at that time we didn't really had the. If I recall correctly, I think we didn't even had any other skills at that time. So, one of the things we did back then, we um um we decided that let's let's allow people to convert them into energy potions.
+
+[03:13]
+
+And um yeah, and and this is basically just how it stayed for very very long time. But looking from today's Zeevers, um.
+
+[03:24]
+
+Having one skill for some weird reason that produces essentially energy potions, uh, felt very hmm.
+
+[03:37]
+
+Very weird, and uh and we just essentially just fixed it. So, yeah, um, this was one of the legacy things we had lying around. uh, Obviously, we saw people um um utilizing that, and.
+
+[03:54]
+
+But uh yeah, at the same time, there are many better uh many other uses how we could uh utilize fishing, and and and after all, there are many other ways how we could introduceuh, Additional supply of energy potions, if we find that must. um, It's interesting because the people are like, uh, I mean, you're Pointing out the fact that the
+
+[04:19]
+
+fish uh value is going down in the market. First of all, I don't believe it's going to zero, but uh at the same time. uh, The fact that you was able to convert fishing to energy potions was actually responsible for the reason why energy potions are so relatively cheap.
+
+[04:37]
+
+So, it's it's it's double edge sword, and there is. There isn't the way to kind of magically create value out of thin air. So, what we did, we just made it uh simpler.
+
+[04:49]
+
+We basically fixed one of the legacy design problems, and um. And yeah, I will be monitoring what happens with energy potion supply, and um.
+
+[05:00]
+
+And at the same time with the uh what's up with the fishing and cooking skills? So. And. uh, Yeah, and then there's a uh.
+
+[05:14]
+
+There's another question in regards to uh when is the promise events and items, and I I recommend it in uhIn relation to the great tree, the forge quest, the tournament, and the highest, uh, and we've been talking about this for you know. uh huh, for quite a quite a while, but uh I mean, yeah.
+
+[05:36]
+
+Nothing really has changed uh since Stansby's taken. um, I mean. I've been going over this pretty much every single community call. um. In order to build a game, uh.
+
+[05:55]
+
+Takes a bit of time. And and at the same time, when we are looking uh on how we prioritize the development, and.
+
+[06:07]
+
+Decide which things will be giving us a way to move forward and tackle like next challenges. uh, We have to start with the early game. uh, As far as I would love to see, uh, Ziver's full with different world bosses, uh, dungeons, challenges, what what whatever.
+
+[06:30]
+
+and whatnot, uh, and and and we will be uh working towards this, at the, at some point, but. Reality is we are still in beta.
+
+[06:42]
+
+We are, we've been in um soft launch for a significant time, and this is where we are collecting a lot of data, and and this is basically where We have been shipping uh updates for last months.
+
+[06:57]
+
+every single week or every single two weeks, and um. And uh yeah, so this is something we have to prioritize, because otherwise uh we can't scale, cause it.
+
+[07:12]
+
+People are not sticking around, uh, within the first hour. uh, What's the point of adding uh new stuff? uh, And just kind of umIncreasing the the crack between uh new players and existing players.
+
+[07:28]
+
+So, yeah, uh, as far as I would love to add more uh cool mid and game content. uh, Or mo- most of our resources are currently um.
+
+[07:40]
+
+Focused on onboarding experience, and this is something we've been like actively uh improving, uh, and um yeah. I hope uh we are soon done with that, so we can get to the more fun things, but um.
+
+[07:57]
+
+the day, this is this is how games are made. uh, Yeah, uh, I guess I'm kind of, yep, yep, uh, yapping already on on this a bit, uh, as As we are in pretty much every single uh oh.
+
+[08:12]
+
+we managed to attract some scammers. that's nice. no, man, let her, ok. yeah, 67 online, nice. All right, um.
+
+[08:24]
+
+That's kind. Mr Exodus has a very long question. The channel for. Only they can leave a reaction. That's practically how the players that have like uh.
+
+[08:50]
+
+With an online counter, I don't think we've ever had an in-game lobby online counter. I might be, oh, weird, remove the in-game translator.
+
+[09:01]
+
+Trans translator was, I think, if you're you're you're correct me wrong, if I'm wrong, but the translator was some of. In regards to the hacker, like sec- security, sec- security issue that we, uh, the translator came down and.
+
+[09:20]
+
+As we changed like some uh supporting back end infrastructure and uh. Yeah, I mean like uh uh. That question doesn't even surprise me.
+
+[09:31]
+
+I, like, I mean, what the question? Do you consider this successful work? Ha? uh, Or are you waiting for all uh all to leave. I mean, Exodus, you are free to leave at any time.
+
+[09:43]
+
+You're bringing up these kind of toxic questions every single AMA. This is, I guess where you spend. Your time, um, I think we've been very transparent with the development process and the reasoning behind pretty much every single decision we made.
+
+[10:01]
+
+But umYeah, I mean. Go go, I I can later type uh re- uh reply with the ChatGPT to your uh ha. Your question, so um oh.
+
+[10:15]
+
+We have one more, uh, of Manka wants to speak. Cool, um. Bring him on the stage. Hello, Yule. How are you doing?
+
+[10:31]
+
+I just got a few questions towards you personally. uh, Recently, you mentioned that some of the new game developers joined your Zyverse team, and that he has like a big.
+
+[10:42]
+
+Experience in gave the game development, et cetera, et cetera. So I was just wondering whether we could have a chance to invite him on one of the AMAs, because it's great to see you and Jackie, I like every single week.
+
+[10:53]
+
+But don't you think that like another perspective or may maybe some sort of commentary Would be great as well. I'm not sure about that, uh, so I think when the time will come, we will bring him on.
+
+[11:07]
+
+But uh it's not kind of what we do by bringing up our team member just randomly on Like, I mean the guy has been around for one month. So, we just don't bring them randomly on the Discord calls, uh for um for interviews from the community.
+
+[11:24]
+
+So, if you have any. No, no, no, ma- ma- that's make make sense, maybe you have some other game devs that like been there like in the team for a while. And perhaps they can just share their like sort of uhopinions, excitement, any like news or something like that.
+
+[11:38]
+
+Because I don't think that would hurt anyone to be honest. I mean, I just want your take on this matter. Yeah, I mean. I think if it will make sense, we will bring someone on.
+
+[11:49]
+
+But uh when it comes to game design decision, this is basically what do you have to deal with, whi- which is me and Jackie. uh, So, uh, yeah, I don't really see much of value of bringing in like developers or artists on a community calls when uh.
+
+[12:08]
+
+So, that's kind of the way. No, that's that that's fine, I I agree with you. That's interesting. uh, Another question was just concerning the forest kind of thing, because we had the discussion of the jackal. uh,originally, you've promised like some sort of like quarterly or monthly drops.
+
+[12:22]
+
+and i understand that you also confirmed that like given the fact that the economy is not really great right now, and that you don't really wanna put some pressure on the talking, et cetera, et cetera. and that like the game the game is in development.
+
+[12:33]
+
+do you have any sort of like new update on your stance regarding forest? so like as you previously mentioned like because of the inflation, you just wanna avoid. More pressure, so that's why you're not really giving the promise kind of portion right now.
+
+[12:53]
+
+I don't really see any value, uh, and and more importantly, any way how we could do it right now without pretty much fucking up. um. uh, The token itself, cause the uhI've seen like argument of like many people like voicing in community that, oh, we are staking there though, but I mean
+
+[13:18]
+
+probably people know know how this actually works in real life. And for now, it would be just giving out token for people to sell. And uh yeah, uh, this uh this market, I mean we've been doing everything uh other than um.
+
+[13:41]
+
+Leaking inflation into into the current market, cause there is no market to support it, there is no real liquidity to support it. So instead, we've been experimenting with systems like seeds, where we canum, Reward um.
+
+[13:58]
+
+Activity uh that brings some direct value to the protocol, into into the token rewards. And another thing we've been working on, which I just briefly mentioned is the.
+
+[14:13]
+
+is um the new AI builder. So, this is something, uh. We tried um to release like three months ago, and in a really simple format, which was a very very simple uh app builder, and And we saw a pretty good potential in that, so for last three months.
+
+[14:33]
+
+we have been, we had a team that's been working on. To turn this concept into uh fully capable cloud infra, and uh and builder that would essentially allow you to build blockchain apps and games with a single prompt.
+
+[14:50]
+
+And this is actually something that's coming uh either today or tomorrow. So, uh, we'll be, we will essentially be. uh, Inviting people to try the builder, uh, by giving them some pre-credits.
+
+[15:04]
+
+But yeah, getting back to uh ultimately to that question, uh, in order for us uh to do an airdrop. um, It has to come along alongside some other activities where this all kind of creates momentum. um,uh, Otherwise, it's um it's yeah. uh, I, I, I don't, I don't see how this uh oh
+
+[15:29]
+
+ends up working. Thank you, thank you for your answer. uh, I was just wondering, can we expect the air drop in the future when the market conditions are getting better? I like I mean, or we can, or like the. uh, Yeah, uh, so, we we can definitely expect to air drop in the future, but it's it's it's it's kind of combination of all the things.
+
+[15:51]
+
+So, uh, once we see uh things going in another direction, and we see how we can build that campaign, uh, and and in in return reward users who are participating that campaign, we will be doing that, so.
+
+[16:06]
+
+So only the only the part, only the participants will get the thing, like so, as you previously mentioned like 7 percent that's been already given, so it's like the remaining like 93 or whatever.
+
+[16:17]
+
+It's not coming right back, right? It just only for the active like participants, better, and see the see the users. I mean I mean we we are experimenting with different ways how we can uh allocate tokens to the community. uh, We did the, I think we did pretty pretty big air drop at the beginning, uh, versus like all the all the total supply that was in circulation.
+
+[16:42]
+
+The community air drop actually represented a significant portion of that, and uh yeah, so uh we will be looking for ways, I mean we've been experimenting with with the seed economy.
+
+[16:55]
+
+We did, uh, we have a collector's profile. So, there is a bunch of stuff what we can use to figure out who are the people who are bringing value to the project.
+
+[17:06]
+
+And at the same time, um, hmm, we'll most likely come up with additional ways uh or mechanics. So, yeah, it's Right now, our core focus is to build attraction uh for for a protocol itself.
+
+[17:23]
+
+And once we see there is attraction, and there is actually people using it. And and having more token in circulation would uh bring more benefits to Holico. uh, For sure, this is something we gonna do.
+
+[17:39]
+
+But um yeah, but uh as for now, we are pretty much in uh in deep uh beer market, where token is umHolding actually pretty well, uh, in terms of dollar value, it's holding pretty okayish.
+
+[17:56]
+
+In terms of uh BNB value, it's actually doing pretty good. If you compare it um to what we had when we launched, and over the last few months, I think we are pretty much up 50 percent.
+
+[18:11]
+
+Inbnb terms, so yeah. Oh, thank you so much now. um, Forest is really great project, it's it's really interesting to observe and take a look at that. I'm just asking you just because the thing As you said, nothing is set in stone.
+
+[18:22]
+
+So, I just asking for some like transparency to be honest. Like, it's not like I'm saying like, oh, you're not giving me the remainings like 90 percent or whatever. I don't really care, I just want you to confirm it, that's that's the thing. Because when people get like transparency, I think it's it's much easier for everyone. And I guess we're we we're not also getting any Ziff talking until like the game release, right?
+
+[18:44]
+
+We don't have, uh, we are planning to do the token, uh. for for the reverse, but um I mean this is definitely not where our mind is uh currently.
+
+[18:56]
+
+First of all, there is pretty much no market for that. uh, At the moment, so we better focus our effort towards um uh preparing game for for um for global launch.
+
+[19:10]
+
+And um and most likely the token around the global launch will be um a part of strategy. So, uh, so, yeah. uh, This is still on the table.
+
+[19:25]
+
+Yeah, without. Thank you for your watching. And just la- last last question. So, as you se- as you see like there is no liquidity in the market, nothing really going on. What's your thoughts on like on like what what the future holds like, is there any hope for web free gaming or you're leaning towards like more like to web two?
+
+[19:42]
+
+of gamers, et cetera, et cetera. And perhaps maybe you can mention some re-, like great projects, like for example, I think Beacon, it was also a treasure project that's still like alive and still developing. You can like comment on like some similar projects to the others that are actually doing OK in the current market. um, Yeah, so fir- first of all, I think uh.
+
+[20:05]
+
+There is, I mean we can speculate on the markets obviously, but um what I've learned o- over the years is that markets, uh, market is essentially a cycles.
+
+[20:16]
+
+And um what I um tend to believe is that we are rela- at a relative bottom at this cycle. So, we've been well positioned.
+
+[20:29]
+
+We was actually fortunate enough to be able to build during the last 14 months uh of down only environment. uh, So, we are essentially preparing umFor for market turn, and and when that happens, um, we will be in a pretty good position uh with the forest, because we've spent all of this time actually building.
+
+[20:52]
+
+Product that works, and um with this week's release, I believe we will be uh most capable um AI app, blog and app builder in the market.
+
+[21:04]
+
+So, I I feel there is definitely uh product market fit for that. But getting back to the games, um. uh, Yeah, I mean I've been the following beacon as well. um, As far as I'm aware, they don't have released token yet. um.
+
+[21:21]
+
+I think they originally plan to do it, was planning to do it last year, but um uh instead they chose to focus on um just building a game. um.
+
+[21:32]
+
+I I know the founders, I know Diego, so I know they're building a pretty good product. I played the game myself. uh, I hope it will have a good traction in in in web two market. hmm, It's hard for me to say if I really see like um.
+
+[21:51]
+
+Sense to have um blockchain economy for for for for these kind of games. But that's definitely umOn one way, um.
+
+[22:05]
+
+One one game where uh you can at least invest some of your time in, cause that they genuinely have a good product. As for the other games, so what we see uhMostly in the blockchain space, blockchain gaming space, uh, the companies are closing down left and right, some some big games, uh, and now, I think Pirate Nation also announced the closure. um. uh, Last week or two
+
+[22:30]
+
+weeks ago, so there there there has been a pretty uh dire situation when it comes to web three games, because I feel.
+
+[22:41]
+
+Most of them didn't. Even made sense in the first place to have like a token or anything to do with blockchain rather than the speculative layer. uh, What we are essentially betting on with the zivers is that we found umWay where this technology can actually give us a real competitive edge, uh, uh, when it comes to player acquisition, when it comes to
+
+[23:06]
+
+monetization. and actually when it comes to. uh, Building uh building a game that's not really possible uh without having this um blockchain for beneath it.
+
+[23:19]
+
+So, I I I I feel all it takes uh for market to turn on games is just one hit. Maybe it's gonna be Zivors, maybe it's gonna be something else. um, But when that happens, uh, again, um, people who have been building usually get rewarded.
+
+[23:35]
+
+So, uh, this is where we are placing our bet. um, But at the same time We are not just relying on web three to basically save the game or anything. uh, We have a pretty strong uh go to market plan for for for Rivals uh as a web two game. um, With, let's put it our way, hidden blockchain components.
+
+[23:59]
+
+Cause even right now, you know, like people can um download it on um Google Play or App Store, and they can um.
+
+[24:10]
+
+Just go in and trade within the game exchange without even realizing there is anything to do with creator and blockchain behind it. So so yeah, I I I see uh pretty hmm.
+
+[24:23]
+
+See a pretty big. Potential in the future for uh for for for gamefi. um, I I feel it's kind of matter of time, and uh and yeah.
+
+[24:36]
+
+In the worst case scenario, do you reckon like for example, if Vefiry will not work out like completely, would you consider creating your own some sort of market where people can exchange their like goods and items for like dollars or whatever?
+
+[24:48]
+
+So just removing the whole uh crypto layer com- completely from the game. Kind of like a steam. I mean, in a way, this is kind of already how it works. um, Just the only difference is we also offer offer ramp. uh, I feel this is very important, because uh without real liquidity
+
+[25:13]
+
+beneath the market. um, There is. Not much uh point of collecting fees or anything like that. uh. Maybe it can turn into something like a steam. um, But yeah, hmm, I don't I don't see.
+
+[25:34]
+
+Crypto recovering or not recovering, having a direct impact on if the marketplace is working or not. So, uh, so, are we we we generally have a bunch of options uh around around these questions, and we made everything. um, So, we can.
+
+[25:50]
+
+OK, thank you, thank you so much. That was re- that was really interesting. Thank you. Thank you. OK, there is question from Global Hope.
+
+[26:01]
+
+Can you compare Zever to some successful web2 games that are fun and keep players engaged for reasons other than play to earn? Some examples. I feel like um. ob obviously we've been bringing up a Runescape as one game, um, where Zevas uh.
+
+[26:20]
+
+have been uh inspired from. uh, so, this obviously is a really interesting uh example of how player driven economy can work, uh, in uh in mmorpg's.
+
+[26:35]
+
+And how like games that doesn't just solely focus on combat are able to actually thrive and become more and more relevant as uh. uh, Time goes. uh, But if you are looking uh specifically on cross platform slash mobile games. uh, I I feel one really good example is Genshin Impact. uh,
+
+[27:00]
+
+As this is one of the rare games that actually uh presents a real game uh within the mobile format. um, Because what we've seen in industry is that Most of uh most of successful web two games has been pretty much uh replicas of uh.
+
+[27:19]
+
+City builders or some some some farmings farming games or match three game. I mean like uh the mobile gaming uh.
+
+[27:30]
+
+I feel has has changed a lot since then, and having examples like Genshin Impact or I think there is actually a new title rolling out relatively soon, Anemo.
+
+[27:44]
+
+You may check it out. uh, You will be you will be surprised how much scale, and how much revenue, and how much um. uh, How large player base is these web two titles can uh build around them, and an and this is kind of essentially the direction we are looking into. uh, But at the same time,
+
+[28:09]
+
+games like Genshin Impact, if I'm not mistaken, may. 6 years to make. uh,uh, With the the team roughly 5 or 7 times the size of ours.
+
+[28:23]
+
+So, uh, I think compared with them, we've been doing pretty good and pretty good um Speed, and those games they spent.
+
+[28:34]
+
+Last year or two last years of their development before global launch, literally just polishing the onboarding and uh getting the cohorts in order. So, yeah, uh, this is the.
+
+[28:48]
+
+My take uh when it comes to uh web two games, uh, we have a lots of experience um in these markets. This is actually where we originally come from.
+
+[29:00]
+
+So so yeah, uh, and and then just having um this uh blockchain component, um, becomes as an edge for us, and a way for us to stand out.
+
+[29:11]
+
+And and then pretty pretty crowded market. Jack, can you take over? Yeah, I I I I I I I I let you I let you deal with them. uh, uh, I love talk about.
+
+[29:31]
+
+You know, current said, uh, so one thing you uh Uler did mention is that, you know, perhaps you're, isn't the the best, the best thing that, you know, presentsievers to begin with.
+
+[29:44]
+
+You have this uh mud mudman like uh being in like this very bland colors, picking up you as your journey guide, and we were thinking internally, and We've always had this uh scenario, which is water, water nation, shaman being in our posters and everywhere. uh, And we decided, hey, what if we had what if we had her uh as the female guide?
+
+[30:08]
+
+Now obviously, uh,For you know, just give you guys context. We already had it model. So, uh, for the team itself, it was a rather uh swap in, swap out, and.
+
+[30:22]
+
+And work wise, it kind of all fell on me to like rewrite all the stories and the dialogues, so which you know, uh, have fun looking at it, uh, and yeah, however, uh,You know, uh.
+
+[30:36]
+
+I know I I I I'm I'm pretty sure majority of you guys don't come here to hear the law, but I think Cereals edition to the uhTuto- uh tutorial actually allows allows us to tell a bit better story.
+
+[30:51]
+
+and uh yeah, with some bit higher stakes, um, given that. uh, Cereal kind of shows that not all the shamans have died. in like this event, ha, uh, but um yeah, they're still around, and that you're not stumbling blind, because there's only that Like a simple modern man can help you. uh, They're
+
+[31:16]
+
+talking bit about the current tutorial, finding your feed exactly. uh, One thing we have been discussing is Yeah, looking at like the drop of points. And. And thinking about uh not thinking, a- actually executing upon uh in uh introducing modularity to to the early end quests, and basically make one quest for the
+
+[31:41]
+
+early game, make one quest be. Many shorter quests, reward in the middle, and do not have uh um the uh player be committed, because currently, for example, you start finding your feet, you're committed to complete the quest.
+
+[31:55]
+
+So, you're kind of like, on Unrail right, and you don't have any free agency, and by introducing these little small quests, you get more agency, and but then, uh, so, uh, he will be auh.
+
+[32:08]
+
+Breaking up, finding your feet into. uh, Like three additional mini quests. uh, But and we will be introducing six mini quests available to all the users um around These um uh three requests. um, It will be quite simple, the breakdown.
+
+[32:26]
+
+The player starts, Cereal fishes you out of the water. uh,And uh monster ensure guides you to uh three hubs, three skill hubs, Coyote, Bookup, and we will be introducing one artisan NPC, Toolak.
+
+[32:42]
+
+And each of them will have a small quest for you, teaching their respective activity. And they will have these small little NPCs. For example, Oculum will have internally called the berry guy.
+
+[32:54]
+
+A hungry guy, and you will need to feed him some berries, and quest done. But uh yeah, it's uh something, hmm something, uh me and you are have been talking about, is like reward, and like the hope in loops, and for you to be able to, you know?
+
+[33:10]
+
+Do a task, get a reward, and uh slowly build upon it, because uh uh the early game especially, it it it needs to hook the players, it can be it can be tedious. This has been been tedious, and yeah, we're looking to improve that.
+
+[33:29]
+
+One one one thing that I'm kind of excited about for the new players, honestly, this will also be for the uh. uh, For the existing players, uh, we will be introducing this uh mod, mod man uh mini quest where uh mod man will be kicked out of the village because his mask broke.
+
+[33:48]
+
+You will help him create a new mask for him by mining out clay for little mining XP, making it into wet clay. And then f- f- shaving it into a. A mask, you can give it uh to this mud man and complete the quest, so he can get back into the village.
+
+[34:06]
+
+Now, oh, going further, you will be able to, you know, uh, mine a full inventory of clay. uh, Create 20 masks and go around the village uh selling the mudman the masks for uh some spirit. uh, So, essentially creating the first, I think.
+
+[34:24]
+
+Real sustainable early game, skilling, money maker, spirit maker, instead of having it be only dungeons. Because uh, and I think me, you know?
+
+[34:39]
+
+Dungeons take quite a bit of time, and we are seeing also the attention drop within the dungeons, and obviously we like go from ground up.
+
+[34:53]
+
+And after this uh find a few change, we are looking in the direction of dungeons to make it more streamline, especially in the beginning. So, uh. uh, So yeah, uh, I see my my favorite charmon. uh, It's about the fact that we acknowledge the interface problem and promise to add a warning for high value items.
+
+[35:16]
+
+prevent situation five months, when he isn't there, and then I assume there's like two paragraphs of rhetoric. uh, What's a high value item? Tell me. uh, What is the internal uh item value?
+
+[35:29]
+
+There is, I feel, you know, and uh hey, uh, that that was that was a seem me. As the same person, I go to them and I'm like, why not?
+
+[35:40]
+
+Why? I, it's simple, but um rarely things are. And um we create tickets, and um we um see priorities for them. We se-, we see what aligns with our goals and what we want to accomplish withIVER, and.
+
+[35:58]
+
+Hey, uh, I'll I'll be blunt. Yeah, this would be a really good addition. Also, you could be, you know, a little bit more careful, and you know, don't don't don't drop two K energy potion.
+
+[36:11]
+
+We've found found your potions, but Re-, in reality, this could have been avoided by you know, you know, umuh, Paying attention. Paying attention, and yeah, would be a good change.
+
+[36:24]
+
+That change, uh, even even if it's small, and it's never, and by the way, something I learned through Development, it's never it's never just a window. It's uh uh quite a bit more always, and uh yeah. Yeah, we could have done that, that would have taken a bit more time away from uh something we want to accomplish.
+
+[36:45]
+
+And uh yeah, and honestly, 5 months is really not enough time to implement a simple warning window. That's rhetoric, because apparently it's none, but uh uh. I think you're misunderstanding the reasons why.
+
+[37:00]
+
+So, yeah. So, um. Actually, uh, look. Probably have like another 8 10 10 minutes. I just wanted to bring some attention uh to the forest update.
+
+[37:15]
+
+And um yeah, like I'll previously stated, we're gonna be releasing either today or tomorrow the new Builder with a cloudy infra, and this is where we invite all our community uh members and builders to to come in come forward and try it out. um, um, best way would be you just dropping a message on forest channel, and we'll umReach out to you and basically
+
+[37:40]
+
+give you some credits to play around with the builder. uh, In return, we expect some feedback. And one of the really really cool things that's gonna be coming right after this is the remix functionality.
+
+[37:55]
+
+And I feel this is them, uh, uh, this could be um one of. Required components for war forest to go much much bigger, because.
+
+[38:10]
+
+Having a remix functionality will essentially allow anyone to recreate uhAny of existing games or tokens or apps, just with a few clicks.
+
+[38:22]
+
+And And we are planning to add them. a ref share for the original creator. so in the practice it would work like you you are let's say building um small or big whatever.
+
+[38:38]
+
+Blockchain app or game, you launch it. uh, It finds some people who uh enjoys it, but think they can make it better, or think they can make it slightly different.
+
+[38:51]
+
+Now, they will have an easy way to do that by just pressing remix button, and and in return, whatever the fees, the token will generate uh from these remix versions, that fees will be shared with original creator by essentially incentivizing people to design. um, Good original games and tokens, and uh
+
+[39:16]
+
+and essentially incentivize people to then turn these in the ideas into their own by remixing and launching these tokens and apps. So I I feel like uh we may soon see kind of explosion and new tokens and apps launched uh in the forest, because this update makes it.
+
+[39:38]
+
+significantly easier and less complex for anyone to launch it open. and with remix functionality in place, it will probably make it so that simple as just pressing uh. a rethink bottom in x or or not so, so yeah, um, this is something I'm pretty excited about, and we've been working for for a bit of time. in
+
+[40:03]
+
+this reality, uh, this is, um, it kind of feels a bit like magic. uh, I guess all AI feels a bit like that nowadays. But uh yeah, we have a pretty good stuff on our hands.
+
+[40:17]
+
+And and we can't wait to share it with uh with the people. So, uh, I could actually wrap up on that, Jackie, if there's anything more. uh.
+
+[40:33]
+
+I'll I'll do the I'll do the giveaway, uh, pick up the final punches and wrap up as well. Very cool. Hey guys, thanks for for coming up. uh, I'll be waiting for your interest on on a forest.
+
+[40:50]
+
+So Oh, uh, be be sure to drop a message on the forest channel. uh, Yeah, so, pretty big week this week, and. Can't wait to see how it works in in real life.
+
+[41:03]
+
+OK, guys, cheers, thank you. I see. Alright, uh, so, uh, let me quickly uh grab a screenshot of the participants.
+
+[41:16]
+
+Include a mamba by hand, and get you guys all typed out. And then we'll do our giveaway of three premium passes. 突突突突突突。Sorry, um.
+
+[41:34]
+
+I finally got an epic land. What's next? Oh brother. 啊。Yeah, you'll have to wait for a second. um. 啊。Right, uh, to the. Alright, uh,
+
+[42:12]
+
+unfortunately, uh, Craig and Cherry does not get included yet again. I no longer by hand. I think we could share my screen.
+
+[42:36]
+
+Just because you have it, though, it's unlikely you'll find a use for it. uh. Uh, Cool, uh, he, yeah, so, let's wrap it, baby.
+
+[43:09]
+
+Bob Hope gets the uh first premium pass. Jade and gets the second one. And the third one goes to. Go
+
+[43:51]
+
+on, Vmax. Ha ha. All right, uh, all right, uh, I'll I'll before signing off, I uhYou know, I will keep it real, and uh you know I I do understand. uh.
+
+[44:07]
+
+It's really hard to like, and it it's really hard to like wrap your head around this. Like obvi- obviously, uh, uh,There's no there's no blame, uh, but you know, taking the TLC's comment, uh, no, what is it, little fast comment about uh you know, just be glad you have it.
+
+[44:28]
+
+If you don't work on the onboarding guys, then you know, if there's nobody coming into the game, lands lands not gonna exist, the game's not gonna exist, guys, we're not, we can't keep The lights on with hundred player.
+
+[44:41]
+
+And and and this is not like, oh, are you like doing bad and stuff? No, we're like doing good. We're like locked in. grinding, and we want theivers to grow, and that's all that is, like.
+
+[44:56]
+
+It it, I it fucking sucks that there's no like uh there where the where's land right? Yeah, but. What are we making land for 50 people or you know 100 1000 people?
+
+[45:08]
+
+We can make it for 50 people, blow all the all the development resources, and you know, give you guys give you guys access to land for a month before like We turn off the lights as every other web three project does. uh, We're not.
+
+[45:23]
+
+We. We want Ziver to be here for five years, and this is not like a uh you know delusional web three undertaking. We've been working on, we've been working for these of these years at a loss, building at a loss.
+
+[45:39]
+
+To uh develop you guys, uh, and it sucks uh when they're not coming here. As early doesn't mean they're they're not coming, and uh yeah, I uh.
+
+[45:52]
+
+Yeah, it just it perplexes me, like, first of all, these are asset holders themselves, and they're like. uh, The these are ask holders themselves, and they're like, uh, isn't fudding your own bag like the most stupid thing you can do in crypto?
+
+[46:05]
+
+But uh uh but. Yeah, uh, uh, I don't know, personally, I've uh I've like, I I I had, so, me, and I I I'm pretty geared in Zeeverse, I have ten masks.
+
+[46:20]
+
+An- and such, and. But like I've invested like a lot in Zyverse. I'm not a founder guys, I'm an employee. I love this game, and I love this game to that, and uh we're all working, we, I wanted to succeed, and you know?
+
+[46:38]
+
+We'll we'll making a plan. We'll be taking all these punches as long as they come, but at the end of the day, we will be here. We will be working on the boarding, and we will be working to deliver.
+
+[46:53]
+
+guys the game. uh. Hopefully you'll still be here, uh huh, when we do that. But if not, I'm sure you will come back and.
+
+[47:06]
+
+I'm sorry. uh, Yeah, I'm sure you will come back. I'll check it out then. Anyway. um, Just, you know, I wanted to add a little bit of my thoughts on the, on this rest restory we have going on, cause you know.
+
+[47:20]
+
+I'm I'm very very aware that you know, we come we come uh in like, me and you are uh arising general chat to be like.
+
+[47:31]
+
+To be like uh. Is that already debated? But uh yeah, uh. Bear. As is like up, up, upside down, it might seem we are doing this with you guys uh interests at the heart. uh, Though, yeah, anyway.
+
+[47:52]
+
+Just wanted to add this, uh, unfortunately the uh. Uh, The uh the the uh. The the loudest people left the fastest and didn't hear that.
+
+[48:04]
+
+So, uh, let's speak of this next ha community again. Anyway, guys, love you, thank you. Thank you for coming, and yeah, see you soon. Bye bye.

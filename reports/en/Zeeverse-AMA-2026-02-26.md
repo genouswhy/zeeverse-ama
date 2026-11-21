@@ -6,29 +6,35 @@ The team had spent some time on onboarding. What would veteran players get to pl
 
 ## 1. The new tutorial leads into the main quest, and restoring totems will change veterans' daily routes
 
+[03:18](#t=198)
+
 At the end of the call, the team recapped plans from the part of the opening missing from the recording. The aim was to ship the first part of the tutorial **the following week**, introducing the story and bringing players into Zeme. Two dungeons would follow in separate modules. Each module would let the team see whether new players made it through and adjust later quests accordingly. The UI was also being reworked, with direct improvements to the minimap and the previously awkward bank or Stash. Before the call, 1.7.8 had already removed mandatory registration, reduced the initial download, and improved dungeon loading. The next round would change what players learned once they got in and how the story continued. The March 9 release notes for 1.8.0 confirmed that the new tutorial, UI, minimap, and Stash arrived together, after the call's target of “next week.” [1.7.8 release notes](https://zeeverse.com/news/1-7-8-release-notes) · [1.8.0 release notes](https://zeeverse.com/news/1-8-0-release-notes)
 
 The main quest would bring regular dungeons into the story and have players **restore totems, then travel between the totems they had repaired**. A player asked about convenient access near a village. The team confirmed there would be one near a place players regularly visit, though the place name is unclear in the transcript. The free main quest totems would need to coexist with later travel options such as Great Tree and Umbra. Gold costs and travel time came up as possible ways to balance them, with a decision still open. Veteran players with strong teams may find the first few dungeons easy, while the totems could cut down on backtracking on their regular gathering routes. [Quest documentation](https://whitepaper.zee-verse.com/gameplay/quests)
 
 After the discussion turned to restoring totems in the main quest, the host explained their new use for travel and the need to balance it against late-game travel.
 
-> **Host**
+> **Host** · [03:18](#t=198)
 >
 > “Upon restoring these totems, you'll be able to traverse in between them. However, uh, obviously, we're looking to balance this, because as you know, a free to play campaign versus the endgame quest. \[…\] We're still looking into the balance of these teleports, not to make them, you know, uh, too overpowered.”
 
 ## 2. Late-game goals include repeatable bosses, exclusive drops, and new areas
 
+[00:10](#t=10)
+
 The recording starts in the middle of a discussion about reusing content built for onboarding in an encounter with something to offer veterans, including boss-specific drops and new mechanics. The opening exchange used a Vulcan-style fight as an example. When a player later asked where the team would focus after the tutorial, the team said quests such as Great Tree and Forge would unlock items, areas, and ways to travel. Vulcan came up again, along with a world boss envisioned as a multiplayer experience. Both discussions described work in development, and the transcript does not give enough information to tie each fight to a specific quest.
 
 The recording starts mid-conversation, as the host is explaining how work done for onboarding could also support a late-game boss fight for veterans.
 
-> **Host**
+> **Host** · [00:10](#t=10)
 >
 > “I think it's really cool that we found a way how we can um, uh, use the content and and and the stuff we are building for onboarding, and translate that into also a late game experience uh for existing player base. \[…\] It will offer uh boss unique drops.”
 
 The team closed by giving the order of priorities. It would finish the main quest and then shift fully to Great Tree, Forge, and other mid- and late-game content. Work on both quests was already under way alongside the phased work on the main quest. The team would keep making small adjustments to onboarding based on data from new players. Players asked how much development time the team would devote and when they could play. The call gave the priority order, with release dates, drop tables, and group rules still open.
 
 ## 3. The Marketplace would list rare individual items, and the off-chain GEX API would handle pool trades
+
+[07:22](#t=442)
 
 | What players want to do | Route and status discussed on the call |
 |---|---|
@@ -40,11 +46,13 @@ Euler expected the API to help traders manage pricing discrepancies and liquidit
 
 After using energy potions as an example of programmatic trading, Euler addressed possible concerns about trading tools and explained why the team still wanted to open the API.
 
-> **Euler**
+> **Euler** · [07:22](#t=442)
 >
 > “If we want to enable people to uh manage liquidity, manage prices between uh on chain and off chain gap, uh, then then we kind of should give uh tools for people to do that. And and at the end of the day, the more the volume there is, the more utilization for existing liquidity there is.”
 
 ## 4. FOREST discussed a stake of about 7 million tokens and made Seed Vault central to the next phase
+
+[15:16](#t=916)
 
 A player asked about a lockup of **about 7 million $FOREST tokens** that had drawn community attention. The speaker said the team's preliminary check suggested one trader or a group of traders might have bought the tokens a few months earlier and then locked them. The call did not provide an address, transaction hash, or verifiable account attribution. The speaker also said the design was meant to yield a lower APY per token staked as more tokens were staked. The answer gave the team's understanding of the lockup. It did not announce a new yield, a reward distribution formula, or any price outcome.
 
@@ -52,7 +60,7 @@ The platform team showed a sample of the new interface and aimed to release the 
 
 After showing a sample of the new FOREST interface, Euler explained which part of the playable-content support would come first.
 
-> **Euler**
+> **Euler** · [15:16](#t=916)
 >
 > “Anyone will be able to upload their HTML 5 uh game or app, uh, on top of the coin. \[…\] We will be adding right after HTML 5, uh, support, uh, inbuilt AI game builder.”
 
@@ -60,11 +68,13 @@ When asked how phase four of Zeeverse P2A would connect to the FOREST airdrop, t
 
 Asked how phase four of Zeeverse P2A would connect to the FOREST airdrop, Euler explained why the team wanted distribution to take the form of recurring auctions.
 
-> **Euler**
+> **Euler** · [19:25](#t=1165)
 >
 > “That's why uh we have a seed vaults where we will be handing out these air drops for the seeds, as ongoing thing, and I also think it's really cool because it kind of keeps um engagement active across the platform. Because there is al- constantly something happening.”
 
 ## 5. Events for veterans would start with a small test, and social items and merchandise remained under discussion
+
+[24:28](#t=1468)
 
 - **Off-chain GEX competition.** The team suggested a small trial using the more accessible off-chain GEX. When a player asked how to verify the standings without seeing participants on the trading page, the answer was to have the data team export results daily and post a leaderboard in Discord. If the event proved popular, they would consider a live in-game leaderboard and repeat events. Trading volume, profit and loss, and holding periods were all options for scoring. Eligible items, prizes, and a start date were left for discussion after the call.
 - **Community moderation.** The competition conversation led to a discussion of repeated arguments in chat. The hosts asked members to treat one another with respect and said two members would have a one-week cooldown while still being able to read posts. The recording does not establish the exact permissions or confirm what happened afterward.

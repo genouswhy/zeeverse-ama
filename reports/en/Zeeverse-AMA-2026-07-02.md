@@ -8,13 +8,15 @@ There were two immediate updates for players with established characters and gea
 
 ## 1. Woodcutting rolls on every swing, and mining is next
 
+[01:59](#t=119)
+
 Jackal said the ad campaign was still running and that the team tracked new-player drop-off daily. The team had recently adjusted the balance of **The Well**. He also mentioned removing a step involving a rare chest so players would be less likely to get stuck or take a detour. The official June 27 patch also improved **Finding Your Feet**, Joran's village tour, quest progression, and fights with wild Zees. The call gave no retention rate for this round. [June 27 version 1.14.0 release notes](https://zeeverse.com/news/1-14-0-release-notes)
 
 Jackal said the old woodcutting animation played three swings before checking whether the player obtained wood. The new approach **checks immediately on every swing**. He roughly estimated that experience gains could be nearly three times as fast on higher-tier trees that take repeated attempts. That estimate comes from the frequency of checks. Actual gains still depend on tree type, success rate, and animation time. Mining still rolled once every three swings at the time of the call, with a plan to check every swing next. [Transcript, gathering Q&A](../transcription/2026-07-02.txt)
 
 Jackal explained the recent woodcutting change and compared how long players had to wait for a single roll.
 
-> **Jackal**
+> **Jackal** · [01:59](#t=119)
 >
 > “So, previously there was a woodcutting animation that, uh, essentially was you chop three times, and then you roll for success. \[…\] The animation now is a one chop long, and the success chance is calculated, uh, immediately. So with every chop you have a chance to acquire a log.”
 
@@ -24,6 +26,8 @@ Players said tapping to water a seed right after planting it can trigger a messa
 
 ## 2. Taka's passive ability is already working, and evolution could make it stronger
 
+[21:23](#t=1283)
+
 Set **Taka as the Active Follower** and it visibly helps when you chop trees. Jackal said Taka also provides a small increase to **Woodcutting Power** behind the scenes, affecting the success rate. A later update is expected to put passive ability details on the Zee information screen, and other Zees will receive passive abilities of their own. The call gave no exact increase to Taka's success rate or full list of other effects. [June 11 version 1.13.0 release notes](https://zeeverse.com/news/1-13-0-release-notes)
 
 Someone asked whether Taka would keep helping with woodcutting after evolving. Jackal's starting design was for evolution to preserve and strengthen the ability so players could keep using a feature they liked. The player gave Chaka as an example, and **Taka** was the example of woodcutting assistance already available in the game. [Official Zeedex entries for Taka and Chaka](https://whitepaper.zee-verse.com/gameplay/zee/zeedex)
@@ -32,11 +36,13 @@ The team also planned an **overall skills leaderboard** that combines an account
 
 ## 3. The new combat interface is on the test server, with the auto-battle camera behind the Shaman
 
+[12:25](#t=745)
+
 Jackal showed concepts for two screens, **Zee Inspect** and **Shaman Inspect**. The redesign gives characters and collections more room to stand out and addresses large masks overflowing the current frame. Jackal also showed a **3v3 / 5v5 combat preview** and stressed that the footage came from a working implementation on the test server. The Shaman appears on the battlefield because they can cast spells and feed Zees. Attacks are still handled by the Zees. In auto-battle, the camera is meant to stay behind the player's Shaman so it does not jump every time a different ability fires.
 
 After previewing the 3v3 / 5v5 combat interface, Jackal explained both the auto-battle camera and why the Shaman appears on the battlefield.
 
-> **Jackal**
+> **Jackal** · [14:55](#t=895)
 >
 > “Autoplay will lock the camera behind your Shaman. So you, so it'll just play out normally like that. It's quite kind kind of similar, but yeah, as Shaman is also being able to cast spells and feed, we also dis- uh, felt the Shaman should appear in the battle.”
 
@@ -46,11 +52,13 @@ The team was also planning to give interaction buttons corresponding icons and a
 
 ## 4. The Battle Simulator is starting to flag overpowered gear and lineups
 
+[05:50](#t=350)
+
 Jackal said he was building a **Battle Simulator** to test 5v5 lineups and gear and give balance discussions comparable results. The simulator was still being adjusted, with the goal of having it find effective moves. The team said the public would see patches and adjustments. Full simulation inputs, tactics, samples, and result tables remained unpublished.
 
 While introducing his Battle Simulator, Jackal explained how the results would inform gear and Zee balance and what the community would see.
 
-> **Jackal**
+> **Jackal** · [06:07](#t=367)
 >
 > “And this will allow us to exactly pinpoint, uh, uh, what's overpowered, what's underpowered, and, uh, uh, will allow us to do quite a bit more balancing. \[…\] I actually think I will never, hmm, we will never share like exact findings, we will just share these findings in in the sense of the balancing.”
 
@@ -66,11 +74,13 @@ These were observations and possible changes under test conditions. The practica
 
 ## 5. Heist is set to reopen with three Zees, and two energy potion recipes are slated for removal
 
+[10:04](#t=604)
+
 Jackal said the Heist UI had gone to the art team and the mode would be close to release once the interface was ready. Asked explicitly near the end whether it would use three or five Zees, he said it would **reopen with three Zees per team**, then let the community vote on whether to move to five. Someone asked about fielding a Zee for each of the six types. Jackal said even five would add time and complexity to battles and was inclined to keep the current scale for the time being. A larger rework would have to wait for developers to free up from the new-player campaign. [October 22, 2025 version 1.7.3 release notes on the Heist suspension](https://zeeverse.com/news/1-7-3-release-notes)
 
 Just before the raffle, a player asked whether Heist would return with three or five Zees. Jackal gave the launch format and the plan for a later vote.
 
-> **Jackal**
+> **Jackal** · [40:51](#t=2451)
 >
 > “It will come back as a team of 3. Uh, exactly as it was, except for the UI rework, and, uh, you, uh, we will be putting out a voting, essentially whether you guys want it to be team of five.”
 
@@ -80,23 +90,29 @@ He reiterated the team's approach to macros and automation. The team had recentl
 
 ## 6. Daily Quests, Zee Sacrifice, and new PvP areas are still being designed
 
+[19:53](#t=1193)
+
 - **Daily Quests.** The first set would consist mainly of small tasks that newcomers can do. Longtime players would also be able to do them and earn a little Spirit each day. Jackal raised the possibility of shifting to more complex tasks after roughly **28 days**, with eligibility and timing still unspecified. **Post-call verification.** Version 1.16.0 on August 12 added four quests per day. The announcement did not include the roughly 28-day design. [August 12 version 1.16.0 release notes](https://zeeverse.com/news/1-16-0-release-notes)
 - **Zee Sacrifice.** The community suggested converting the experience of Zees below level 50 into some form of currency. Jackal supported further discussion and stressed that repeated sacrifices should have clearly diminishing returns so stockpiling Zees would be an inefficient way to do it. The call gave no currency name or conversion curve. The game already had rules for sacrificing Zees to the Souls of Ruin. This discussion was about the idea of converting experience. [Version 1.7.7 release notes on existing sacrifice rewards](https://zeeverse.com/news/1-7-7-release-notes)
 - **Open-world PvP.** The team had discussed putting better resources in some areas while allowing other players to attack gatherers there. The idea was left for future exploration. The roadblock north of the map marks a reserved entrance to another biome. Another area might connect to the Umbra side. Jackal gave no firm answer on whether a new area would be wetland or desert.
 
 ## 7. From onboarding to endgame in three stages, with Spirit Guides helping players learn the game
 
+[27:28](#t=1648)
+
 A player asked what Zeeverse still needed to work as both a conventional game and a Web3 game. Jackal broke the answer into three stages. The first is an onboarding experience that can handle acquisition at scale, teach people to play, and give them reasons to stay. The second comes after the main quest, with the **Great Tree** leading to a World Boss and **Forge** quests leading to related dungeons and crafting. Land can also add activities for the middle stage. The third stage is hard PvE, co-op bosses, PvP, and tournaments, giving established players a reason to raise strong Zees and pursue high-tier gear. The co-op boss's proper name is unclear in the transcript. Jackal said a small player base could not cover the cost of later content and acknowledged that longtime players were bearing the cost of having to wait for it.
 
 Asked what Zeeverse needed to work as both a conventional and a Web3 game, Jackal followed onboarding and the midgame with what endgame challenges could offer.
 
-> **Jackal**
+> **Jackal** · [28:36](#t=1716)
 >
 > “There's no endgame content, uh, which you know usually comes out in two ways, which is like insanely hard, uh, PVE content or PVP content. Uh, and the insanely hard PVE content would probably come with like, uh, great best in slot, uh, weaponry.”
 
 Asked why the old Discord moderation team had changed to **Spirit Guides**, Jackal said the old team mostly dealt with tickets, while newcomers often needed guidance from people who knew how to play. Active veterans had already been answering many of those questions, so the team moved knowledgeable members into the Guide role. Some ticket handling could also be automated. Jackal thanked the regular players who were still showing newcomers around.
 
 ## 8. FOREST, the BNB Chain question, and closing remarks
+
+[26:57](#t=1617)
 
 - At Euler's prompting, Jackal shared **a new FOREST farming mini-game**. He had yet to play it, said he might try it on a future livestream, and mentioned having played Plinko before. Near the end he referred to “garden tokens.” The transcript does not include the link shared in chat, leaving the game name, token symbol, and rules unverified.
 - Someone asked whether Zeeverse would move to **BNB Chain** or simply work with FOREST. Jackal deferred to Euler, so the question stayed open. The call announced no migration decision.

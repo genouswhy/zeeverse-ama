@@ -1,1 +1,645 @@
-Hey guys, let me adjust it a little bit. All right. G, M, uh, how's everybody doing? uh, We are back for yet another community come, and yeah, you're uh hmm, anything you wanna begin, start off with, or Yeah, I guess uh there is a bunch of pretty big news around the forest. So, I would actually start, love to start with that part. Yeah, so yesterday we released the forest studio. It's uh. I'm still actually surprised to see this thing in the wild and how it works, and the speed at and the speed at which we are now capable of shipping updates for Forest. uh. Today, we already released pretty major upgrade, which has been previously a huge issue for the builders on Forest. Which is, they were not able to update their games after they were published. Oh, this morning we shipped an update that uh changes that, and and that kind of um it's actually kind of a big deal, because now you can um. Keep working on your games, even after they're live, even after some bugs show up. So, that's uh that's that's, I I I guess that should be on by default from the one, but. Here we are, and uh we have just released that part of update. uh, We are also preparing to ship probably today another update that will uh include support for cla cla um claude engine. uh,And that in practice means that uh you will be also able to use your um anthropic subscription. So you can use any of your claude subscriptions, uh, and umUse force harness uh by by using your cloud agents like uh OPS or or uh Sonet. You can also go with Fabo, that's a bit more an expensive side. But generally we have support for all of that, and uh I would strongly recommend you guys to go ahead and try Oppo 55. uh, Because that's Certainly best best buck you can get uh for, yeah, best value you can get for your buck. So, uh, yeah, that's that's pretty pretty um. Interesting thing that's coming out very shortly, and we are also shipping bunch of skill updates, and and updates to harness itself. So, you can expect that uh there is gonna be quite uh rapid stream of improvements coming in, and this is also where we announced uh the builders program. So, we wanted to start, um, and generally, the idea behind the builder's program was to um give ear- an early incentive for people who are keen to explore and keen to try for the studio to build something cool. We don't care about the market cap, we don't care if the coin will graduate, just make something nice, make something cool and complete. And we will be sending out USTD rewards, and ideally, uh, you can just create few nice looking games, and um the rewards will pretty much cover all your subscription. So, this is kind of a pretty uh easy way to get the free max subscriptions for GPT and for Claude. So, this is where I hmm. This is where I seriously welcome people to uh come in and uh try to build something something nice. And this also will Become um. I'm sort of like a base for the apps that were initially created for studio, and we are right now working, and that's probably an update that's going to be shipped next week. Which will introduce app remixing. So that means uh the users will be pretty much every user um who use the Forest. will now start to see a remix button available on um on supported games, respectively the games that were created using Fortis Harness. And that will. Make it super easy. To take existing game, make a few twe tweeks, and launch it uh as as your own, uh, with uh with With your own token. And And why it's very cool for the early builders is because that every time somebody will remix your game, uh, you will be eligible to collect um. Essentially like a remix fee. So let's say I make a cool base game. It's technically very sound, it may be even fun, but for some reason nobody really wants to play it. uh, And then comes in Jackal, and Jackal sees, oh, this is actually quite looking game. Let's turn this into different theme. Let's let's say, let's include some memes, or let's change this one functionality. I'm, I I I hate about the game, you know? Every time there is uhEvery, whenever there is a product, everybody has their own own opinions what should be done better, uh, for that respective product, and and this is pretty much your chance to actually make it better. uh, remixing it, yeah. hmm, And and and then let's say, uh, Jackie's version of uh the game explodes. And it starts to generate some fees, some significant uh volume. uh, And just because I was the original creator of the game, I'm eligible to collect up to 25 percent of those fees. So, and and then, even if somebody comes in and sees, oh, Jackal's game is very popular, I wanna remix it. uh, He can do that. He will be actually remixing the Jackal's version of the game. But uh because I was the original au- author of the of the game. uh, I'm still eligible to call to to essentially collect these.uh, Like second level, third level, et cetera. Oh, that kind of um means builders are essentially incentivized to build really really cool and good stuff. And even if these apps don't really blow up, or they don't find market traction. That doesn't mean uh there won't be somebody who sees a potential in that, knows how to market it, or wanna do a small change, and and yeah, so this is kind of uh. One big important part of forest flywheel because it directly compensates and pays for um that for you put in into creating those experiences or those games or those apps. And um. Then then you're essentially able to get paid for that pretty much forever. So, uh, this is very very interesting concept, and uh I feel that uhOnce we release remix, we will start to see a huge surge of apps being created, because in terms of uh token cost for running the models. in terms of investing uh time and If for to essentially make sure the game is working properly, you are now able to just spend few minutes of your time, and and and just Literally make up your own. So, uh, this is that I feel um. Going to be a very very uh interesting moment for the forest, and uh yeah, we are pre- pretty much prepared to ship that, uh, out, probably early next week. uh. Maybe even this week, who knows? uh, But I think I I think what this introduces is a like uh you know, for example, like uh people create like staple games. And thi- this might in in the end be that people only like build, you know, like a stickman version of a game where it it's built for remixes, right? For example, you build like the bare bare blocks version of a good game. And then people like do this in like, you know, Flappy Bird, but you know, with with kitty's in a French cafe, and stuff like that. Exactly, exactly, builders can actually go and and try to focus on building uh just like a very very strong and complete templates. That makes it easy for anyone to uh come up and use that to uh yeah. Remix, yeah. So, speaking of coming up, there is a person that's uh wanting to speak, so it seems. Yeah, let's let's go, let's see what happens. All right, um, yeah, I've been uh ever ever since uh you announced the uh harness, I've been uh also cooking up um. hmm, hmm, hmm, my game, uh, on on this side, and yeah, I'm very excited to, uh. uh, Finalize and start applying the harness to uh add the uh web three aspects of uh for for it as well. Yeah, you should definitely launch that game. uh. be a forest, and and then maybe somebody can even remix it, you know, is right? Definitely, definitely. I mean, it's called Haunted Forest. Yeah, ha ha. Wow, OK, OK, ha ha. But uh honestly, it's uh it's. 哦。I would say even scary to see how this uh AI space moves at what speed, and it's it's been just like uh few days, and we already have like umSo good new generation of models. uh, And and then like two months ago, we were like pretty much again surprised by generation of Oppo 5 and and and and Astra. So, it's uh crazy to see at um yeah, at what pace uh the eye is developing. But the beautiful part is that by default, every time there is a new model released, it automatically means that The harness also becomes better, cheaper, faster, uh, and and on top of that, we are uh working now really closely, um, on on the harness itself. So every time there is an app that's being built. And every time there is some problems with that app, uh, the harness will learn, and will make sure that in the future these things that may may require you. uh, Two or three turns to get them right, actually come out as a one shot. So, um, it's it's it it's gonna be interesting to see like what state a harness will be in even just one month, becauseuh, These things combine, they uh they are pretty much exponential. So, when you get like every, ever better models, and the harness itself learns. And for a team for adapts as well, we get like a very very uh fast, rapid uh progress. And um yeah, so, uh, it's it's it's it's it's kind of pretty exciting to see that happening in real time, and and we invite you guys to be part of this. So, like I said, uh, now it's very very good time to build and try something, and just by building a few games, it will probably cover your subscription fee. So, you can look on this as a way to get your hands on frontier models. uh, Pretty much for free of charge, and and at the same time also uh give you uh good position in forest protocol. And good chance that either the game becomes very good and very interesting for people, so they naturally come in and trade it, or uh somebody else will remix it and. Who knows? Ha! Maybe maybe one small game you create today makes you few million in fees in the future. So, um, that's that's that's like possible, and and that's uh. quite possible that is gonna happen. So, um, yeah, it's it's very very interesting to see this. Let me take a breath and prepare for the end question. um, Do you have any marketing plans for the forest? uh, We do, and we already started a bunch of stuff. So, uh, we will be now. Pushing very very hard, uh, on on our internal uh campaign systems. So, if you go, you can check the, today we started the seed vault. So, the seed vault auction is live, and after that, we gonna keep going on with the new seed vaults every few days, and new trading competitions every few days. So, this is this is just like the basic of basic systems we build into ecosystem, and and now we are basically turning them on again, and at the same time. We're going to Singapore uh early next month. There is token 2049 happening. We have lined up bunch of uh meetings with umWith exchanges with uh with some KOLs, with some potential partners, and uh yeah, so um we spend some time working in in in the shadows on the forest, let's put it that way.uh, Now we are now we are out. in the light, and we we we start to become quite aggressive in terms of uh getting forest protocol uh in in in good shape. So, um, yeah, let's put it that way. uh,Meanwhile, uh, probably Jack, I would love to hear what you have to add, but meanwhile, I really. think this is a very cool project, and invite you guys to just have a look. It was, it's one of the first project which was built using Forest uh harness. And it's utilizing bunch of our systems. It's utilizing Forest Cloud, so people are able to uh essentially build for free using their subscription. And we take care of all the servers, hosting, everything, it's free of charge. And also this uh this this game slash mini app includes uh bunch of stuff that comes from the forest kit library. Such as leaderboards, uh, for its wallet integration. So people are now able to just like deposit the tokens they bought and use them directly. Plus, I think the concept itself is fun because it's it's kind of like a can of board where everybody can just By the pixels using the tokens, there is a small leaderboard. uh, I think we could come up with some uh some some activations around that leaderboard as well. But generally, I invite everybody just come in. Give it to go, give it to try to see just what's possible, and right after we release the uh. New harness that uh is capable of remixing the games. um, This is also gonna be one of the games that you can remix. So, you can pretty much with one press of button. Launch your own live game with a back end, all the SDK integrations, et cetera. And uh yeah, so, uh. It kind of starts to finally make sense to see all these pieces together, and and with the forest harness we essentially uh. Full down line of of uh. Every layer of the infra on product we should have to make this work. So, we have like a decentralized exchange. We have basic, this is where where all the liquidities captured, and where the forest secure the value. We have a forest cloud that make sure you don't have to deal with any of the server side stuff and back end. And now we do have a forest harness that just makes those games good. uh,And and yeah, so, it just works. It's um, and yeah. Gaggle, uh, I I I have to take a sip of water, and. Yeah, now I'm I'm I'm uh uh looking at the um. At the the pixel, uh, pretty neat, uh, good idea, uh, obviously could do a li- little bit of UIUX, really hard to navigate it, but. Nice, nice. um, OK, guys, I I guess uh oh, I was like zoomed in, I was like locked in on the pixels. um, All right, uh, I guess we can uh talk a little bit more about the Zeevers, uh, in the meanwhile, we can uh circle back to the forest. uh, As you know, um, if you guys have more questions, and um uh, yeah, so, um, talking zippers, um, currently we um. I think we did briefly touch upon this uh last community call. I did share some um uh teasers. I think I might have one one or two. For you guys this week as well. uh, Main campaign part three, uh, it's currently uh being actively developed. So, uh, uh. The uh I'm I'm thinking about like uh when could we expect it? I I reckon like two to three weeks. uh, I rather, I would I would go maybe saver saver out three at least. um. Given that, you know, QA tends to uh uh find some more issues we need to address. So, the release for you uh get uh is smoother. uh, Been saying this for a while. Quick recap, uh, main quest part three comes with two new dungeons, uh, theoretically three new bosses. A whole big quest where you restored uh metal totem. uh, It will unlock uh teleport close to the uh furnace area. And it will also unlock treasure maps, which uh uh will be these maps that will start to drop from, for example, Stronghold of of Hombra, and perhaps like Rare Disease as well. uh, Which you will be able, uh, which you will be able to open, and I believe it will be 20 locations within the map, and you will have to find them. But um so you get one one map drop. You see a drawing there, and then you need to find where where where it's at. Then you will go, dig, and find a treasure chest. And the treasure chest will include a mega rare ring. At a rate of one to 5000, uh, that will be the uh first legendary ring. uh, And it will increase your, it will give you a 20 percent chance to roll the drop table again, so respectively. For example, you complete a strong called the home level, and then you get 20 percent chance to like double completed basically, to get two rewards at the same time. uh. Crazy, but we really don't expect people to get it uh uh for at least 3 days, according to data. uh huh, But um. Yeah, uh, oh oh, and yeah, and throughout the main campaign part three, you will also unlock a ring and jewelry slots. uh, And during the quest, you will be able To get some basic level rings and necklaces. uh, However, this probably should make you think that there's more. to come, and there definitely is, uh, given that, for example, gems and resources like that are planned for uh land, and you know there was like this mister block's chest, and I wonder what could be in there as well. uh, I know what's in there. uh, And yeah, it might or might not be rings. uh. So, yeah, another thing, and I I will I will bounce this back to you all. uh, What we are also working on is uhLet's call it collectors profile V two. You learn, would that be apt uh way to put it? I think it would be. Very, that would be underplay of what it is. Ha ha. uh, I I think that that's kind of way you look at. So, hmm, uh, give a bit of context, um. We've been living with quite a long time with our existing uh web page for the for the ZeeVerse, uh, with the the players' profile and everything in it. And when we initially launched it, it was a a pretty kind of a rough uh rough stage. We ended up polishing quite quite a lot of stuff there. But at the same time, we ended up adding like a ton of new features. I mean, just kept like stacking up, uh, stacking on uhon each other, to the point where the whole web page was a pretty big mess. Now, uh, we wanna change that. And uh I really wanted to rethink. The way the web page and profile uh should work. So, what we are now doing, we are essentially removing almost everything from the main page, and the main page will be replaced with um. uh, Let's call it like uh. ical, something that uh will look more like interactive three d uh animation slash experience rather than the website itself. The whole idea is essentially touh, Focus on a game as as the main driver for the DeFivers. So whenever there is a player, either their Web 2 or Web 3, they come in. They open up the Ziver's web page, and they see basically the the best, most amazing parts of the Ziver's presented and in a really really cool looking way. uh, But then, if you press login, uh, enter the player's profile, it takes you to completely different place. It essentially is almost like a like a like a web app. There than uh website itself. So, there you will be able to uh. Essentially see and interact with the new collectors profile. uh, We have completely reworked the way that the quests are working, so you will find bunch of quests there. uh, All the staking mess has been cleaned up, so you will be able to uh essentially uh manage all your Stakes, and and all your all your claims in one place, very very easy. uh, On top of that, we added um your essentially like a shaman's profile. And until now, if you held like ten masks, you were essentially receiving bonus for ten masks. If you held like five mask, you were receiving bonus for five masks. People were asking, okay, what if I hold lands, do I also get bonuses? uh, The question until now was like, no, it's like a different stuff, and so on and so on. So, with this update, we are also changing that. Don't worry, you're still getting your bonuses. But now, the masks you have are uh contributing to the points that you earn from the collector's profile. Also, if you want, there is a way to earn some extra points by completing the quests. For most of you guys, those quests have already been completed. So you will see this, you will be happy to see some extra Shimon points. And then, based on those points, you were assigned a certain rank. And at the certain rank you receive certain benefits, and this becomes like a platform that means uh that allows us to uh expand this perk system even more, and we will be adding like a more different kinds of cool stuff you get uh by being a high ranking shaman. So, um, so. yeah, uh, this is this is kind of uh one one pretty cool thing, and one very cool thing I'm uh specifically excited about isuh, The GEX is coming to the players profile. So, you will be able to just freely trade there from the website, and and also we've introduced uh basic uh very basic training bots that you are also able to set up. uh, Which means you are able essentially to place a limi- place a limit orders uh on every item that's being traded in the GEX, that makes Trading uh much more uh. Much more real. Let's put that way. So, um, yeah, uh, this this new uh. Sharing, should we share the new look of the website? Do you have it at your hand or uh I do, but uh I do, but uh there's placeholder copy, so uh I rather. Yeah, let's let's leave it then then for people to see when we release it. um, hmm, I I I guess it would be in in case of that, it would be much smarter to just show it while we while I was talking, so. uh, Let's uh let let's hope you got a bit of idea uh what's coming to the new Ziv's web. uh, But yeah, generally we did a lot of rework, a lot of cleanup. Now everything smoother, faster, you will get more perks inside the game. There will be uh. Better uh value for your lands, because now lands also contribute towards your um your your your shaman status, and essentially your perks. And also there is a bunch of small tasks you can do to increase that score even further. um, So yeah, plus everything is redesigned, so you will find a really nice, cool looking design behind um. Behind this profile, so. Ver- very cool. uh, Question question, uh, immediate question would be, uh, if for example, will this change for example the ranks of existing users respectively? If I had ten masks, does anything change? Probably something will change. We have to like check the calculation scores. Yeah, but the way we want to build the system is essentially to. give new players ability to earn at least rank one without holding any assets, which naturally becomes onboarding um to the mass collection and to land collection. And for our biggest whales, uh, this will even more expand the perks. So, you will be able to essentially get uh. Much much better stuff. uh, If you hold multiple assets, and now suddenly that these badges from collector's profile also start to make more sense, because. Just by holding, let's say, three specific masks and earning few specific badges means that you will also be able to get more points, and and then it could happen that three right masks are actually more valuable than five masks that Don't essentially give you those to items. So, um, yeah, it it becomes a little bit of collection game for real now. And I think it's a. Will be very welcomed update. uh, At least that's my hope. hmm, neat. um. So, um. um, Yeah, no, sorry. Los- lost my train lost my train of thought here. um, I did mention um that And uh. Hello, teaser for you, uh for uh uh for you guys. uh, Last week we shared the levels select for both dungeons, and uh this week I wanted to share. Only the ships uh uh combat, uh, within the ship. I find it pretty cool. uh, The weaker looks uh even more insane, so I rather keep it off. For a bit lat- for a bit later, and uh yeah, quite a bit of art resources coming in in regards to the main campaign part three. And a lot of them are story cinematics. So, uh, unfortunately, we won't be able to share those, as we want you guys to uh uh leave them um. As as you're gonna play through the quest. But yeah, uh, if you check the chat. Yeah, uh, if you check the chat, um, you can see the ship's dungeon level, and you will have like these ghosts, these also running around there, which is a pretty nice touch. But, yeah, uh, want to uh squeeze this uh in for you guys. Right, um, I guess there's one more thing I want to talk about, but um. I don't know if I should, uh, you or um how we feeling about Halloween? mean why Halloween is coming so. yeah yeah ok. i mean i mean, haha, i mean uh to be fair, uh uh people, those that read the patents, but that's all that the watchers fine currently can uh Harvest the plants. uh, I think we're also messing around with the possibility of it allowing you to replant the seeds, respectively you harvest, and if you have the seed in inventory, it immediately goes back in. Saving you just a couple of those clicks. uh, So, we did end up adding utility to this uh uh legendary uh uh. Halloween event from last, uh, Halloween event item from last year, and we've been uh cooking up a Halloween event for this year, and. It uh basically will build up on the back of uh last year. um, um. Though we are uh thinking about up Adding a bit more. So, currently, what we have uh sketched out is an uh main hand, another legendary main hand item. No crazy stats, don't worry, but it will have utility. And an armor set um with a little bit of stats, basically. um, So, the angle we're taking here is, for for example, if you're Like a mid game player, it's gonna be better than steel. But you know, it's not it's not gonna be like a bird, that um that good. So, it it'll it'll It'll be incrementally better than currently the best craftable gear you can ha- get aside from the uh Simulacrum Bramble. uh. And it will have a side effect, that will unlock a teleport. uh, We'll let you guys think where where will you be able to teleport. And what will the utility of the main hand be? But uh yeah, say um and for those that perhaps weren't here last last year, you were able to uh defeat wild g's. For rare drops, and every hour there was a chariot that's spawned in the map, uh, that if you found first, uh, that awarded you with a guaranteed drop of either the epic varieties, uh, Watcher's Light, or the legendary Watcher's Fang. So yeah, uh, that's something that's cooking up on the side as well. um, Mainly our resources here, uh, given that we kinda have built out the uh uh the how last year already. About, yeah, uh. Any thoughts you have? Yeah, I mean, the these events are, like, I mean, Zivous uh honestly is about events. I remember like in the early days. One of the coolest experiences were actually Zevs events, and uh and and we are kind of like a bit uh with with the tied hands right now, because like. Goes, and these immense come, and we really want to make something cool, but at the same time, we understand that uh we have to like be very mindful about the resources we do have. So so yeah, uh, we just wanted to make something cool, something uh cool to collect. uh, That's gonna be dropping on a Halloween. uh, Something fun for all players, and And uh yeah, uh. I guess we should we should uh we should a lock to get uh some of those legendary items. uh, Yeah, I'm a pretty sure uh all the people here uh would um really uh benefit from the main hand legend that we have planned for this year. uh, You know, looking at killing leaderboards. uh. But uh, you know, I wanna leave as much as much as possible to interpretation. But uh, you know, just to guide you guys in some directions. But uh, yeah, uh All in all, that's currently what uh where our main focus within Zeevers goes to. At that, and you know, we are obviously sparing you guys from uh the uhOnboarding details, but we're still keeping, still hammering that, and as you guys guys can see, through the dev notes we're constantly reiterating, readjusting these small things. uh, I guess your, uh, a question to you would be a. Any improvements? How we doing? Yeah, actually quite a lot of improvements. We this morning we received the update from analytics, and they were surprised improvements were quite considerable. So, what we are doing right now is, uh, we want to make uh the early game as as engaging as possible. uh, And And we did a lot of stuff regarding that part, so there is uh. Lots of things feel more natural. Fights feel faster. Did we include, they ended up including the movement speed for the character in the update or no?uh, No, we're still uh uh testing. Yeah, so so essentially what we are now doing is we are making game more uh let's say more rapid, more faster, and and uhAnd it's it looks like it's paying off. So, so yeah, uh, there could be obviously a bunch of small improvements that will keep carrying over. But it's very cool that now we can start focusing actually on things that uh. People enjoy more. uh, I mean, existing community, and and this is new content. So, the new quests are incoming. uh, I think we're gonna work on a bunch of mini quests along the way. So. um, This is also something to expect. um, We're also looking into starting to add new resources, new stuff to do around the skills. uh, Yeah, so, uh. I'm I'm kind of like speaking like hoping out loud. Let's put it that way, hoping out loud. That now we are in a stage where we can uh really start focusing, and I think A cool stuff, uh, to the later game, and and and at least that's what we are doing right now. So. Yeah, so um I guess it would be first, uh, uh, first say that we do feel confident in the current layout of the of the uh first hour of the uh uh finding your feet. And we're gonna keep on reiterating, but uh you know, the large chunks of time that took took us, you know, for the uh bigger reworks, uh, in there are kind of resolved now, and We can now refocus the depth. right? uh, Yeah, pretty much. OK, cool. uh, Well, uh, that's me. um, OK, if you have a. Let me know, uh, you all, and anything else you wanna talk about. I I I I guess that's kind of uh I mean like for the zivers, these things. We're going according to the plan. There is, like, it's it's a good news that we see good results with onboarding. um, But essentially, we are in the same uh same path and same trajectory. um, And and and yeah, uh, actually, I can't wait for you to see those new quest experiences we built. um. They are very very cool, very very cool. And uh and also, after this, I'm, I, I think like once we release these dungeons, we're gonna start thinking really into uh prestige mode for for existing dungeons. So, more experienced players will get a good chance to Actually, uh, visit the dungeon one, uh. And and and actually sweat a bit, because those enemies won't be level 5 anymore. uh, There is gonna be something else that waits for you in there. So Oh, uh, yeah, I I feel this is also gonna be a pretty pretty big update, um, that will give uh a lot of value to existing content. And and and and this new kind of prestige mode will also be bringing in uh new rewards exclusive only that mode. So that brings um a good reason um to come back. And uh yeah, so, I mean, the verses just. Taking a better shape day by day, and. And yeah, so. Oh yeah. uh, Let's uh let let's focus on that. Alright, uh, I guess on this note we can conclude, and I can start uh roughly out the three Momo Premium Passes. Sounds sounds good, and I'll I'll probably repeat myself before I go, uh, about the about the forest builder program. So right now, uh, we are looking and paying. um, Use D T rewards to the builders who build and submit complete uh good looking games using the harness. uh, It don't have to be necessarily a game, it can also be an app. Just build something fun, just build something nice. uh, We won't be like looking into like graduations or volumes or anything. um. We just need uh people to test, come in and test the harness. uh, So we can collect some feedback, and and later those creations can be used by people. uh, Who wanna remix them, which opens up a really nice opportunity to also earn some extra fees from those tokens that will be launched using your uhYour engine, essentially your your your game. Oh, uh, yeah, uh, we we currently have allocated a thousand dollar UDD pool, so this essentially goes as first come, first serve. And we will be uh actively paying out rewards on a daily basis whenever we see something uh cool being built, and uh and this is. Very easy way for you to essentially get your hands on Max subscriptions. Because if you use uh ChatGPT or Claude, and have auh, Being looking into going for a pro subscriptions or max subscriptions. This is pretty much your tickets to get these uh. for free, and then I mean that's your account, you do whatever you want with that subscription. But this is us just essentially uh coming forward, and and And um looking to support uh the builder school. um, Want to build on forest. Very cool. All right, um, on this note, uh. Let's wrap up, and. What do I mean? Yeah, no, I, I, uh, I will, either you cut out or. I was I was saying yeah, uh, thanks guys for coming and uh see see you soon. um, Stay tuned, uh, follow what's happening with the forest, uh, and um. Yeah, see you in Discord. Bye bye. Cheers. Yeah. Alright, uh, it just mean guys, um. I would I would. hmm, uh, I don't know, I I was thinking maybe do I show you what I've been doing for us? But I guess I will just allow you to s- experience it. Directly. um, All right, let me let me share my screen. As usual, everybody's in, except for Craig and Cherry. uh,I'm sorry. uh, All right, uh, by now, you know know the rules. We spin it, and we win it. I opened this from the Chrome, and it has like all these funky new colors. I like it. And the first pass goes to Eurasic. Congrats, man. The second one goes to. Black cat. Congress man. Nearly for real. Alright, and the final one. Bala mo pa. Congrat, all right? uh, To claim your um one more premium passes, uh, just open up a ticket, and Cherry will you will provide you with one. Not my name next. uh, Oh, guys, uh, thank you for for coming. uh, And I guess uh in in two weeks when we talk again, uh, it's gonna be pretty exciting, as. uh, I'm pretty sure the uh uh the campaign quest will be al- already finalizing. So, um, yeah, excited for that. uh, Don't sleep on the forest builder. uh, You know the best day to get into it was uh yesterday, and the next one is today. So, all right guys, see you, bye bye, Chow.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+Hey guys,
+
+[00:01]
+
+let me adjust it a little bit. All right. G, M, uh, how's everybody doing? uh, We are back for yet another community come, and yeah, you're uh hmm, anything you wanna begin, start off with, or Yeah, I guess uh there is a bunch of pretty big news around the forest.
+
+[00:24]
+
+So, I would actually start, love to start with that part. Yeah, so yesterday we released the forest studio. It's uh.
+
+[00:37]
+
+I'm still actually surprised to see this thing in the wild and how it works, and the speed at and the speed at which we are now capable of shipping updates for Forest. uh. Today, we already released pretty major upgrade, which has been previously a huge issue for the builders on Forest.
+
+[00:54]
+
+Which is, they were not able to update their games after they were published. Oh, this morning we shipped an update that uh changes that, and and that kind of um it's actually kind of a big deal, because now you can um.
+
+[01:09]
+
+Keep working on your games, even after they're live, even after some bugs show up. So, that's uh that's that's, I I I guess that should be on by default from the one, but.
+
+[01:21]
+
+Here we are, and uh we have just released that part of update. uh, We are also preparing to ship probably today another update that will uh include support for cla cla um claude engine. uh,And that in practice means that uh you will be also able to use your um anthropic subscription.
+
+[01:44]
+
+So you can use any of your claude subscriptions, uh, and umUse force harness uh by by using your cloud agents like uh OPS or or uh Sonet.
+
+[01:58]
+
+You can also go with Fabo, that's a bit more an expensive side. But generally we have support for all of that, and uh I would strongly recommend you guys to go ahead and try Oppo 55. uh, Because that's Certainly best best buck you can get uh for, yeah, best value you can get for your buck.
+
+[02:19]
+
+So, uh, yeah, that's that's pretty pretty um. Interesting thing that's coming out very shortly, and we are also shipping bunch of skill updates, and and updates to harness itself.
+
+[02:34]
+
+So, you can expect that uh there is gonna be quite uh rapid stream of improvements coming in, and this is also where we announced uh the builders program.
+
+[02:47]
+
+So, we wanted to start, um, and generally, the idea behind the builder's program was to um give ear- an early incentive for people who are keen to explore and keen to try for the studio to build something cool.
+
+[03:03]
+
+We don't care about the market cap, we don't care if the coin will graduate, just make something nice, make something cool and complete. And we will be sending out USTD rewards, and ideally, uh, you can just create few nice looking games, and um the rewards will pretty much cover all your subscription.
+
+[03:23]
+
+So, this is kind of a pretty uh easy way to get the free max subscriptions for GPT and for Claude. So, this is where I hmm.
+
+[03:35]
+
+This is where I seriously welcome people to uh come in and uh try to build something something nice. And this also will Become um.
+
+[03:48]
+
+I'm sort of like a base for the apps that were initially created for studio, and we are right now working, and that's probably an update that's going to be shipped next week.
+
+[04:02]
+
+Which will introduce app remixing. So that means uh the users will be pretty much every user um who use the Forest.
+
+[04:13]
+
+will now start to see a remix button available on um on supported games, respectively the games that were created using Fortis Harness.
+
+[04:25]
+
+And that will. Make it super easy. To take existing game, make a few twe tweeks, and launch it uh as as your own, uh, with uh with With your own token.
+
+[04:42]
+
+And And why it's very cool for the early builders is because that every time somebody will remix your game, uh, you will be eligible to collect um.
+
+[04:55]
+
+Essentially like a remix fee. So let's say I make a cool base game. It's technically very sound, it may be even fun, but for some reason nobody really wants to play it. uh, And then comes in Jackal, and Jackal sees, oh, this is actually quite looking game.
+
+[05:12]
+
+Let's turn this into different theme. Let's let's say, let's include some memes, or let's change this one functionality. I'm, I I I hate about the game, you know?
+
+[05:24]
+
+Every time there is uhEvery, whenever there is a product, everybody has their own own opinions what should be done better, uh, for that respective product, and and this is pretty much your chance to actually make it better. uh, remixing it, yeah. hmm, And and and then let's say, uh, Jackie's version of uh the game explodes.
+
+[05:49]
+
+And it starts to generate some fees, some significant uh volume. uh, And just because I was the original creator of the game, I'm eligible to collect up to 25 percent of those fees.
+
+[06:01]
+
+So, and and then, even if somebody comes in and sees, oh, Jackal's game is very popular, I wanna remix it. uh, He can do that. He will be actually remixing the Jackal's version of the game.
+
+[06:14]
+
+But uh because I was the original au- author of the of the game. uh, I'm still eligible to call to to essentially collect these.uh, Like second level, third level, et cetera. Oh, that kind of um means builders are essentially incentivized to build really really cool
+
+[06:39]
+
+and good stuff. And even if these apps don't really blow up, or they don't find market traction. That doesn't mean uh there won't be somebody who sees a potential in that, knows how to market it, or wanna do a small change, and and yeah, so this is kind of uh.
+
+[06:59]
+
+One big important part of forest flywheel because it directly compensates and pays for um that for you put in into creating those experiences or those games or those apps.
+
+[07:13]
+
+And um. Then then you're essentially able to get paid for that pretty much forever. So, uh, this is very very interesting concept, and uh I feel that uhOnce we release remix, we will start to see a huge surge of apps being created, because in terms of uh token cost for running the models.
+
+[07:38]
+
+in terms of investing uh time and If for to essentially make sure the game is working properly, you are now able to just spend few minutes of your time, and and and just Literally make up your own.
+
+[07:54]
+
+So, uh, this is that I feel um. Going to be a very very uh interesting moment for the forest, and uh yeah, we are pre- pretty much prepared to ship that, uh, out, probably early next week. uh.
+
+[08:08]
+
+Maybe even this week, who knows? uh, But I think I I think what this introduces is a like uh you know, for example, like uh people create like staple games.
+
+[08:21]
+
+And thi- this might in in the end be that people only like build, you know, like a stickman version of a game where it it's built for remixes, right? For example, you build like the bare bare blocks version of a good game.
+
+[08:34]
+
+And then people like do this in like, you know, Flappy Bird, but you know, with with kitty's in a French cafe, and stuff like that. Exactly, exactly, builders can actually go and and try to focus on building uh just like a very very strong and complete templates.
+
+[08:52]
+
+That makes it easy for anyone to uh come up and use that to uh yeah. Remix, yeah. So, speaking of coming up, there is a person that's uh wanting to speak, so it seems.
+
+[09:07]
+
+Yeah, let's let's go, let's see what happens. All right, um, yeah, I've been uh ever ever since uh you announced the uh harness, I've been uh also cooking up um. hmm, hmm, hmm, my game, uh, on on this side, and yeah, I'm very excited to, uh. uh, Finalize and start applying the harness to uh
+
+[09:32]
+
+add the uh web three aspects of uh for for it as well. Yeah, you should definitely launch that game. uh. be a forest, and and then maybe somebody can even remix it, you know, is right?
+
+[09:46]
+
+Definitely, definitely. I mean, it's called Haunted Forest. Yeah, ha ha. Wow, OK, OK, ha ha. But uh honestly, it's uh it's. 哦。I would say even scary to see how this uh AI space moves at what speed, and it's it's been just like uh few days, and we already
+
+[10:11]
+
+have like umSo good new generation of models. uh, And and then like two months ago, we were like pretty much again surprised by generation of Oppo 5 and and and and Astra.
+
+[10:29]
+
+So, it's uh crazy to see at um yeah, at what pace uh the eye is developing. But the beautiful part is that by default, every time there is a new model released, it automatically means that The harness also becomes better, cheaper, faster, uh, and and on top of that, we are uh working now really closely, um,
+
+[10:54]
+
+on on the harness itself. So every time there is an app that's being built. And every time there is some problems with that app, uh, the harness will learn, and will make sure that in the future these things that may may require you. uh, Two or three turns to get them right, actually come out as a one shot.
+
+[11:16]
+
+So, um, it's it's it it's gonna be interesting to see like what state a harness will be in even just one month, becauseuh, These things combine, they uh they are pretty much exponential.
+
+[11:27]
+
+So, when you get like every, ever better models, and the harness itself learns. And for a team for adapts as well, we get like a very very uh fast, rapid uh progress.
+
+[11:42]
+
+And um yeah, so, uh, it's it's it's it's it's kind of pretty exciting to see that happening in real time, and and we invite you guys to be part of this.
+
+[11:55]
+
+So, like I said, uh, now it's very very good time to build and try something, and just by building a few games, it will probably cover your subscription fee. So, you can look on this as a way to get your hands on frontier models. uh, Pretty much for free of charge, and and at the same time also uh give you uh good position
+
+[12:20]
+
+in forest protocol. And good chance that either the game becomes very good and very interesting for people, so they naturally come in and trade it, or uh somebody else will remix it and.
+
+[12:34]
+
+Who knows? Ha! Maybe maybe one small game you create today makes you few million in fees in the future. So, um, that's that's that's like possible, and and that's uh.
+
+[12:47]
+
+quite possible that is gonna happen. So, um, yeah, it's it's very very interesting to see this. Let me take a breath and prepare for the end question. um, Do you have any marketing plans for the forest? uh, We do, and we already started a bunch of stuff.
+
+[13:07]
+
+So, uh, we will be now. Pushing very very hard, uh, on on our internal uh campaign systems. So, if you go, you can check the, today we started the seed vault.
+
+[13:20]
+
+So, the seed vault auction is live, and after that, we gonna keep going on with the new seed vaults every few days, and new trading competitions every few days. So, this is this is just like the basic of basic systems we build into ecosystem, and and now we are basically turning them on again, and at the same time.
+
+[13:42]
+
+We're going to Singapore uh early next month. There is token 2049 happening. We have lined up bunch of uh meetings with umWith exchanges with uh with some KOLs, with some potential partners, and uh yeah, so um we spend some time working in in in the shadows on the forest, let's put it that way.uh,
+
+[14:07]
+
+Now we are now we are out. in the light, and we we we start to become quite aggressive in terms of uh getting forest protocol uh in in in good shape.
+
+[14:20]
+
+So, um, yeah, let's put it that way. uh,Meanwhile, uh, probably Jack, I would love to hear what you have to add, but meanwhile, I really.
+
+[14:32]
+
+think this is a very cool project, and invite you guys to just have a look. It was, it's one of the first project which was built using Forest uh harness.
+
+[14:44]
+
+And it's utilizing bunch of our systems. It's utilizing Forest Cloud, so people are able to uh essentially build for free using their subscription.
+
+[14:55]
+
+And we take care of all the servers, hosting, everything, it's free of charge. And also this uh this this game slash mini app includes uh bunch of stuff that comes from the forest kit library.
+
+[15:11]
+
+Such as leaderboards, uh, for its wallet integration. So people are now able to just like deposit the tokens they bought and use them directly. Plus, I think the concept itself is fun because it's it's kind of like a can of board where everybody can just By the pixels using the tokens, there is a small leaderboard. uh, I think we could come up with some uh some some activations around that leaderboard as well.
+
+[15:35]
+
+But generally, I invite everybody just come in. Give it to go, give it to try to see just what's possible, and right after we release the uh.
+
+[15:47]
+
+New harness that uh is capable of remixing the games. um, This is also gonna be one of the games that you can remix. So, you can pretty much with one press of button. Launch your own live game with a back end, all the SDK integrations, et cetera.
+
+[16:03]
+
+And uh yeah, so, uh. It kind of starts to finally make sense to see all these pieces together, and and with the forest harness we essentially uh. Full down line of of uh.
+
+[16:22]
+
+Every layer of the infra on product we should have to make this work. So, we have like a decentralized exchange. We have basic, this is where where all the liquidities captured, and where the forest secure the value.
+
+[16:36]
+
+We have a forest cloud that make sure you don't have to deal with any of the server side stuff and back end. And now we do have a forest harness that just makes those games good. uh,And and yeah, so, it just works.
+
+[16:50]
+
+It's um, and yeah. Gaggle, uh, I I I have to take a sip of water, and. Yeah, now I'm I'm I'm uh uh looking at the um.
+
+[17:06]
+
+At the the pixel, uh, pretty neat, uh, good idea, uh, obviously could do a li- little bit of UIUX, really hard to navigate it, but.
+
+[17:17]
+
+Nice, nice. um, OK, guys, I I guess uh oh, I was like zoomed in, I was like locked in on the pixels. um, All right, uh, I guess we can uh talk a little bit more about the Zeevers, uh, in the meanwhile, we can uh circle back to the forest. uh, As you know, um, if you guys have more questions, and um uh, yeah, so, um, talking zippers, um, currently we um.
+
+[17:43]
+
+I think we did briefly touch upon this uh last community call. I did share some um uh teasers. I think I might have one one or two.
+
+[17:55]
+
+For you guys this week as well. uh, Main campaign part three, uh, it's currently uh being actively developed. So, uh, uh.
+
+[18:07]
+
+The uh I'm I'm thinking about like uh when could we expect it? I I reckon like two to three weeks. uh, I rather, I would I would go maybe saver saver out three at least. um.
+
+[18:21]
+
+Given that, you know, QA tends to uh uh find some more issues we need to address. So, the release for you uh get uh is smoother. uh, Been saying this for a while.
+
+[18:33]
+
+Quick recap, uh, main quest part three comes with two new dungeons, uh, theoretically three new bosses. A whole big quest where you restored uh metal totem. uh, It will unlock uh teleport close to the uh furnace area.
+
+[18:52]
+
+And it will also unlock treasure maps, which uh uh will be these maps that will start to drop from, for example, Stronghold of of Hombra, and perhaps like Rare Disease as well. uh, Which you will be able, uh, which you will be able to open, and I believe it will be 20 locations within the map, and you will have to find them.
+
+[19:12]
+
+But um so you get one one map drop. You see a drawing there, and then you need to find where where where it's at. Then you will go, dig, and find a treasure chest.
+
+[19:23]
+
+And the treasure chest will include a mega rare ring. At a rate of one to 5000, uh, that will be the uh first legendary ring. uh, And it will increase your, it will give you a 20 percent chance to roll the drop table again, so respectively.
+
+[19:43]
+
+For example, you complete a strong called the home level, and then you get 20 percent chance to like double completed basically, to get two rewards at the same time. uh.
+
+[19:54]
+
+Crazy, but we really don't expect people to get it uh uh for at least 3 days, according to data. uh huh, But um. Yeah, uh, oh oh, and yeah, and throughout the main campaign part three, you will also unlock a ring and jewelry slots. uh, And during the quest, you will be able To get some basic level rings and
+
+[20:19]
+
+necklaces. uh, However, this probably should make you think that there's more. to come, and there definitely is, uh, given that, for example, gems and resources like that are planned for uh land, and you know there was like this mister block's chest, and I wonder what could be in there as well. uh, I know what's in there. uh, And yeah, it might or
+
+[20:44]
+
+might not be rings. uh. So, yeah, another thing, and I I will I will bounce this back to you all. uh, What we are also working on is uhLet's call it collectors profile V two.
+
+[20:59]
+
+You learn, would that be apt uh way to put it? I think it would be. Very, that would be underplay of what it is.
+
+[21:11]
+
+Ha ha. uh, I I think that that's kind of way you look at. So, hmm, uh, give a bit of context, um. We've been living with quite a long time with our existing uh web page for the for the ZeeVerse, uh, with the the players' profile and everything in it.
+
+[21:33]
+
+And when we initially launched it, it was a a pretty kind of a rough uh rough stage. We ended up polishing quite quite a lot of stuff there. But at the same time, we ended up adding like a ton of new features.
+
+[21:48]
+
+I mean, just kept like stacking up, uh, stacking on uhon each other, to the point where the whole web page was a pretty big mess.
+
+[22:00]
+
+Now, uh, we wanna change that. And uh I really wanted to rethink. The way the web page and profile uh should work.
+
+[22:16]
+
+So, what we are now doing, we are essentially removing almost everything from the main page, and the main page will be replaced with um. uh, Let's call it like uh.
+
+[22:32]
+
+ical, something that uh will look more like interactive three d uh animation slash experience rather than the website itself. The whole idea is essentially touh, Focus on a game as as the main driver for the DeFivers.
+
+[22:51]
+
+So whenever there is a player, either their Web 2 or Web 3, they come in. They open up the Ziver's web page, and they see basically the the best, most amazing parts of the Ziver's presented and in a really really cool looking way. uh, But then, if you press login, uh, enter the player's profile, it takes you
+
+[23:16]
+
+to completely different place. It essentially is almost like a like a like a web app. There than uh website itself. So, there you will be able to uh.
+
+[23:30]
+
+Essentially see and interact with the new collectors profile. uh, We have completely reworked the way that the quests are working, so you will find bunch of quests there. uh, All the staking mess has been cleaned up, so you will be able to uh essentially uh manage all your Stakes,
+
+[23:55]
+
+and and all your all your claims in one place, very very easy. uh, On top of that, we added um your essentially like a shaman's profile.
+
+[24:07]
+
+And until now, if you held like ten masks, you were essentially receiving bonus for ten masks. If you held like five mask, you were receiving bonus for five masks. People were asking, okay, what if I hold lands, do I also get bonuses? uh, The question until now was like, no, it's like a different stuff, and so on and so on.
+
+[24:27]
+
+So, with this update, we are also changing that. Don't worry, you're still getting your bonuses. But now, the masks you have are uh contributing to the points that you earn from the collector's profile.
+
+[24:39]
+
+Also, if you want, there is a way to earn some extra points by completing the quests. For most of you guys, those quests have already been completed. So you will see this, you will be happy to see some extra Shimon points.
+
+[24:53]
+
+And then, based on those points, you were assigned a certain rank. And at the certain rank you receive certain benefits, and this becomes like a platform that means uh that allows us to uh expand this perk system even more, and we will be adding like a more different kinds of cool stuff you get uh by being a high ranking shaman.
+
+[25:14]
+
+So, um, so. yeah, uh, this is this is kind of uh one one pretty cool thing, and one very cool thing I'm uh specifically excited about isuh, The GEX is coming to the players profile.
+
+[25:28]
+
+So, you will be able to just freely trade there from the website, and and also we've introduced uh basic uh very basic training bots that you are also able to set up. uh, Which means you are able essentially to place a limi- place a limit orders uh on every item that's being traded in the GEX, that makes Trading uh much
+
+[25:53]
+
+more uh. Much more real. Let's put that way. So, um, yeah, uh, this this new uh. Sharing, should we share the new look of the website?
+
+[26:06]
+
+Do you have it at your hand or uh I do, but uh I do, but uh there's placeholder copy, so uh I rather. Yeah, let's let's leave it then then for people to see when we release it. um, hmm, I I I guess it would be in in case of that, it would be much smarter to just show it while we while I was talking, so. uh, Let's uh let let's hope you got a bit
+
+[26:31]
+
+of idea uh what's coming to the new Ziv's web. uh, But yeah, generally we did a lot of rework, a lot of cleanup. Now everything smoother, faster, you will get more perks inside the game.
+
+[26:44]
+
+There will be uh. Better uh value for your lands, because now lands also contribute towards your um your your your shaman status, and essentially your perks.
+
+[26:58]
+
+And also there is a bunch of small tasks you can do to increase that score even further. um, So yeah, plus everything is redesigned, so you will find a really nice, cool looking design behind um.
+
+[27:10]
+
+Behind this profile, so. Ver- very cool. uh, Question question, uh, immediate question would be, uh, if for example, will this change for example the ranks of existing users respectively?
+
+[27:29]
+
+If I had ten masks, does anything change? Probably something will change. We have to like check the calculation scores.
+
+[27:41]
+
+Yeah, but the way we want to build the system is essentially to. give new players ability to earn at least rank one without holding any assets, which naturally becomes onboarding um to the mass collection and to land collection.
+
+[27:59]
+
+And for our biggest whales, uh, this will even more expand the perks. So, you will be able to essentially get uh. Much much better stuff. uh, If you hold multiple assets, and now suddenly that these badges from collector's profile also start to make more sense, because.
+
+[28:21]
+
+Just by holding, let's say, three specific masks and earning few specific badges means that you will also be able to get more points, and and then it could happen that three right masks are actually more valuable than five masks that Don't essentially give you those to items.
+
+[28:43]
+
+So, um, yeah, it it becomes a little bit of collection game for real now. And I think it's a. Will be very welcomed update. uh, At least that's my hope. hmm, neat. um.
+
+[29:01]
+
+So, um. um, Yeah, no, sorry. Los- lost my train lost my train of thought here. um, I did mention um that And uh. Hello, teaser for you, uh for uh uh for you guys. uh, Last week we shared the levels select for both dungeons, and uh this week I wanted to share.
+
+[29:23]
+
+Only the ships uh uh combat, uh, within the ship. I find it pretty cool. uh, The weaker looks uh even more insane, so I rather keep it off.
+
+[29:36]
+
+For a bit lat- for a bit later, and uh yeah, quite a bit of art resources coming in in regards to the main campaign part three. And a lot of them are story cinematics.
+
+[29:47]
+
+So, uh, unfortunately, we won't be able to share those, as we want you guys to uh uh leave them um. As as you're gonna play through the quest. But yeah, uh, if you check the chat.
+
+[30:00]
+
+Yeah, uh, if you check the chat, um, you can see the ship's dungeon level, and you will have like these ghosts, these also running around there, which is a pretty nice touch.
+
+[30:13]
+
+But, yeah, uh, want to uh squeeze this uh in for you guys. Right, um, I guess there's one more thing I want to talk about, but um.
+
+[30:34]
+
+I don't know if I should, uh, you or um how we feeling about Halloween? mean why Halloween is coming so. yeah yeah ok.
+
+[30:45]
+
+i mean i mean, haha, i mean uh to be fair, uh uh people, those that read the patents, but that's all that the watchers fine currently can uh Harvest the plants. uh, I think we're also messing around with the possibility of it allowing you to replant the seeds, respectively you harvest, and if you have the seed in inventory, it immediately goes back in.
+
+[31:09]
+
+Saving you just a couple of those clicks. uh, So, we did end up adding utility to this uh uh legendary uh uh. Halloween event from last, uh, Halloween event item from last year, and we've been uh cooking up a Halloween event for this year, and.
+
+[31:30]
+
+It uh basically will build up on the back of uh last year. um, um. Though we are uh thinking about up Adding a bit more.
+
+[31:41]
+
+So, currently, what we have uh sketched out is an uh main hand, another legendary main hand item. No crazy stats, don't worry, but it will have utility.
+
+[31:52]
+
+And an armor set um with a little bit of stats, basically. um, So, the angle we're taking here is, for for example, if you're Like a mid game player, it's gonna be better than steel.
+
+[32:08]
+
+But you know, it's not it's not gonna be like a bird, that um that good. So, it it'll it'll It'll be incrementally better than currently the best craftable gear you can ha- get aside from the uh Simulacrum Bramble. uh.
+
+[32:25]
+
+And it will have a side effect, that will unlock a teleport. uh, We'll let you guys think where where will you be able to teleport. And what will the utility of the main hand be?
+
+[32:38]
+
+But uh yeah, say um and for those that perhaps weren't here last last year, you were able to uh defeat wild g's. For rare drops, and every hour there was a chariot that's spawned in the map, uh, that if you found first, uh, that awarded you with a guaranteed drop of either the epic varieties, uh,
+
+[33:03]
+
+Watcher's Light, or the legendary Watcher's Fang. So yeah, uh, that's something that's cooking up on the side as well. um, Mainly our resources here, uh, given that we kinda have built out the uh uh the how last year already. About, yeah, uh.
+
+[33:26]
+
+Any thoughts you have? Yeah, I mean, the these events are, like, I mean, Zivous uh honestly is about events.
+
+[33:37]
+
+I remember like in the early days. One of the coolest experiences were actually Zevs events, and uh and and we are kind of like a bit uh with with the tied hands right now, because like.
+
+[33:50]
+
+Goes, and these immense come, and we really want to make something cool, but at the same time, we understand that uh we have to like be very mindful about the resources we do have. So so yeah, uh, we just wanted to make something cool, something uh cool to collect. uh, That's gonna be dropping on a Halloween. uh, Something fun for all players, and And uh
+
+[34:15]
+
+yeah, uh. I guess we should we should uh we should a lock to get uh some of those legendary items. uh, Yeah, I'm a pretty sure uh all the people here uh would um really uh benefit from the main hand legend that we have planned for this year. uh, You know, looking at killing leaderboards. uh.
+
+[34:37]
+
+But uh, you know, I wanna leave as much as much as possible to interpretation. But uh, you know, just to guide you guys in some directions. But uh, yeah, uh All in all, that's currently what uh where our main focus within Zeevers goes to.
+
+[34:53]
+
+At that, and you know, we are obviously sparing you guys from uh the uhOnboarding details, but we're still keeping, still hammering that, and as you guys guys can see, through the dev notes we're constantly reiterating, readjusting these small things. uh, I guess your, uh, a question to you would be a.
+
+[35:15]
+
+Any improvements? How we doing? Yeah, actually quite a lot of improvements. We this morning we received the update from analytics, and they were surprised improvements were quite considerable.
+
+[35:30]
+
+So, what we are doing right now is, uh, we want to make uh the early game as as engaging as possible. uh, And And we did a lot of stuff regarding that part, so there is uh.
+
+[35:46]
+
+Lots of things feel more natural. Fights feel faster. Did we include, they ended up including the movement speed for the character in the update or no?uh, No, we're still uh uh testing.
+
+[35:59]
+
+Yeah, so so essentially what we are now doing is we are making game more uh let's say more rapid, more faster, and and uhAnd it's it looks like it's paying off.
+
+[36:13]
+
+So, so yeah, uh, there could be obviously a bunch of small improvements that will keep carrying over. But it's very cool that now we can start focusing actually on things that uh.
+
+[36:27]
+
+People enjoy more. uh, I mean, existing community, and and this is new content. So, the new quests are incoming. uh, I think we're gonna work on a bunch of mini quests along the way.
+
+[36:38]
+
+So. um, This is also something to expect. um, We're also looking into starting to add new resources, new stuff to do around the skills. uh, Yeah, so, uh.
+
+[36:54]
+
+I'm I'm kind of like speaking like hoping out loud. Let's put it that way, hoping out loud. That now we are in a stage where we can uh really start focusing, and I think A cool stuff, uh, to the later game, and and and at least that's what we are doing right now.
+
+[37:10]
+
+So. Yeah, so um I guess it would be first, uh, uh, first say that we do feel confident in the current layout of the of the uh first hour of the uh uh finding your feet.
+
+[37:26]
+
+And we're gonna keep on reiterating, but uh you know, the large chunks of time that took took us, you know, for the uh bigger reworks, uh, in there are kind of resolved now, and We can now refocus the depth.
+
+[37:44]
+
+right? uh, Yeah, pretty much. OK, cool. uh, Well, uh, that's me. um, OK, if you have a. Let me know, uh, you all, and anything else you wanna talk about.
+
+[38:01]
+
+I I I I guess that's kind of uh I mean like for the zivers, these things. We're going according to the plan. There is, like, it's it's a good news that we see good results with onboarding. um, But essentially, we are in the same uh same path and same trajectory. um, And and and yeah, uh, actually, I can't wait for you to see those new
+
+[38:26]
+
+quest experiences we built. um. They are very very cool, very very cool. And uh and also, after this, I'm, I, I think like once we release these dungeons, we're gonna start thinking really into uh prestige mode for for existing dungeons.
+
+[38:44]
+
+So, more experienced players will get a good chance to Actually, uh, visit the dungeon one, uh. And and and actually sweat a bit, because those enemies won't be level 5 anymore. uh, There is gonna be something else that waits for you in there.
+
+[39:03]
+
+So Oh, uh, yeah, I I feel this is also gonna be a pretty pretty big update, um, that will give uh a lot of value to existing content.
+
+[39:15]
+
+And and and and this new kind of prestige mode will also be bringing in uh new rewards exclusive only that mode. So that brings um a good reason um to come back.
+
+[39:27]
+
+And uh yeah, so, I mean, the verses just. Taking a better shape day by day, and. And yeah, so. Oh yeah. uh, Let's uh let let's focus on that.
+
+[39:45]
+
+Alright, uh, I guess on this note we can conclude, and I can start uh roughly out the three Momo Premium Passes. Sounds sounds good, and I'll I'll probably repeat myself before I go, uh, about the about the forest builder program.
+
+[40:03]
+
+So right now, uh, we are looking and paying. um, Use D T rewards to the builders who build and submit complete uh good looking games using the harness. uh, It don't have to be necessarily a game, it can also be an app.
+
+[40:19]
+
+Just build something fun, just build something nice. uh, We won't be like looking into like graduations or volumes or anything. um. We just need uh people to test, come in and test the harness. uh, So we can collect some feedback, and and later those creations can be used by people. uh, Who wanna remix them, which opens up a really nice
+
+[40:44]
+
+opportunity to also earn some extra fees from those tokens that will be launched using your uhYour engine, essentially your your your game. Oh, uh, yeah, uh, we we currently have allocated a thousand dollar UDD pool, so this essentially goes as first come, first serve.
+
+[41:06]
+
+And we will be uh actively paying out rewards on a daily basis whenever we see something uh cool being built, and uh and this is.
+
+[41:17]
+
+Very easy way for you to essentially get your hands on Max subscriptions. Because if you use uh ChatGPT or Claude, and have auh, Being looking into going for a pro subscriptions or max subscriptions.
+
+[41:35]
+
+This is pretty much your tickets to get these uh. for free, and then I mean that's your account, you do whatever you want with that subscription. But this is us just essentially uh coming forward, and and And um looking to support uh the builder school. um, Want to build on forest.
+
+[41:56]
+
+Very cool. All right, um, on this note, uh. Let's wrap up, and. What do I mean? Yeah, no, I, I, uh, I will, either you cut out or.
+
+[42:15]
+
+I was I was saying yeah, uh, thanks guys for coming and uh see see you soon. um, Stay tuned, uh, follow what's happening with the forest, uh, and um.
+
+[42:28]
+
+Yeah, see you in Discord. Bye bye. Cheers. Yeah. Alright, uh, it just mean guys, um. I would I would. hmm, uh, I don't know, I I was thinking maybe do I show you what I've been doing for us?
+
+[42:47]
+
+But I guess I will just allow you to s- experience it. Directly. um, All right, let me let me share my screen.
+
+[42:59]
+
+As usual, everybody's in, except for Craig and Cherry. uh,I'm sorry. uh, All right, uh, by now, you know know the rules. We spin it, and we win it. I opened this from the Chrome, and it has like all these funky new colors.
+
+[43:13]
+
+I like it. And the first pass goes to Eurasic. Congrats, man. The second one goes to. Black cat. Congress man.
+
+[43:44]
+
+Nearly for real. Alright, and the final one. Bala mo pa. Congrat, all right? uh, To claim your um one more premium passes, uh, just open up a ticket, and Cherry will you will provide you
+
+[44:09]
+
+with one. Not my name next. uh, Oh, guys, uh, thank you for for coming. uh, And I guess uh in in two weeks when we talk again, uh, it's gonna be pretty exciting, as. uh, I'm pretty sure the uh uh the campaign quest will be al- already finalizing.
+
+[44:28]
+
+So, um, yeah, excited for that. uh, Don't sleep on the forest builder. uh, You know the best day to get into it was uh yesterday, and the next one is today.
+
+[44:39]
+
+So, all right guys, see you, bye bye, Chow.

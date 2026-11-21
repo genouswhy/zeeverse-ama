@@ -8,13 +8,15 @@ Jackal 一个人回答了这场最尖锐的问题。团队仍把新手留存摆�
 
 ## 一、砍树每斧判定一次，采矿随后做同样调整
 
+[01:59](#t=119)
+
 Jackal 说投放一直在跑，团队按天观察新手在哪里流失。近期调整了 **The Well** 的平衡，也提到撤掉过一个稀有宝箱相关步骤，以减少卡住或绕路。6 月 27 日的正式补丁同时优化了 **Finding Your Feet**、Joran 带领的村庄游览、任务进度和野生 Zee 战斗。会上没有披露本轮留存率。 [6 月 27 日 1.14.0 更新日志](https://zeeverse.com/news/1-14-0-release-notes)
 
 Jackal 说旧的伐木动画要连续砍三下，再判定一次是否得到木材。新做法是**每次挥斧立即判定**。他粗略估计，到了需要反复尝试的较高级树木，经验获取速度可能接近原来的三倍。这来自判定频率变化，实际体验仍取决于树种、成功率和动作耗时。矿镐在会上仍按三下判定一次，计划下一步转为每下判定。 [本期转录（采集问答）](transcription/2026-07-02.txt)
 
 Jackal 说明近期伐木改动，并对照了单次判定之前玩家必须等多久。
 
-> **Jackal**
+> **Jackal** · [01:59](#t=119)
 >
 > “So, previously there was a woodcutting animation that, uh, essentially was you chop three times, and then you roll for success. \[…\] The animation now is a one chop long, and the success chance is calculated, uh, immediately. So with every chop you have a chance to acquire a log.”
 >
@@ -26,6 +28,8 @@ Jackal 说明近期伐木改动，并对照了单次判定之前玩家必须等�
 
 ## 二、Taka 被动已经有实际效果，进化后希望继续强化
 
+[21:23](#t=1283)
+
 把 **Taka 设为 Active Follower**，去砍树时能看见它参与。Jackal 说它在后台小幅提高 **Woodcutting Power**，这个属性关系到伐木成功率。拟在后续版本把被动详情显示在 Zee 详情页，其他 Zee 也会获得相应的被动。会上未公布 Taka 具体加多少成功率，也没有逐种列出其他 Zee 的效果。 [6 月 11 日 1.13.0 更新日志](https://zeeverse.com/news/1-13-0-release-notes)
 
 有人问进化后是否还会协助伐木。Jackal 的起始设计是让进化后保留功能并增强它，以免进化后失去玩家喜欢的用途。玩家口述用 Chaka 举例，当前已上线的伐木案例是 **Taka**。 [官方 Zeedex（Taka 与 Chaka）](https://whitepaper.zee-verse.com/gameplay/zee/zeedex)
@@ -34,11 +38,13 @@ Jackal 说明近期伐木改动，并对照了单次判定之前玩家必须等�
 
 ## 三、新战斗界面已在测试服，自动战斗视角锁在 Shaman 身后
 
+[12:25](#t=745)
+
 Jackal 给社区看了两个概念界面，一是 **Zee Inspect**，二是 **Shaman Inspect**。新设计要让角色与收藏更有存在感，也处理大型面具超出现有框的问题。另有一段 **3v3 / 5v5 战斗**视频，Jackal 强调它来自测试服的实际实现。Shaman 会在战斗场景里出现，因为能施法、喂食，出击仍由 Zee 负责。开启自动战斗时，镜头计划固定在玩家的 Shaman 身后，避免一直跟随各个技能切换。
 
 展示新版 3v3 / 5v5 战斗后，Jackal 先回答自动战斗镜头会如何处理，再说明 Shaman 为什么会进场。
 
-> **Jackal**
+> **Jackal** · [14:55](#t=895)
 >
 > “Autoplay will lock the camera behind your Shaman. So you, so it'll just play out normally like that. It's quite kind kind of similar, but yeah, as Shaman is also being able to cast spells and feed, we also dis- uh, felt the Shaman should appear in the battle.”
 >
@@ -50,11 +56,13 @@ Jackal 给社区看了两个概念界面，一是 **Zee Inspect**，二是 **Sha
 
 ## 四、战斗模拟器开始找出过强装备和阵容
 
+[05:50](#t=350)
+
 Jackal 说自己在做 **Battle Simulator**，测试 5v5 阵容及装备，希望让平衡讨论有可比较的结果。模拟仍在调整，目标是让它寻找有效走法。会上也说明，公布的会是补丁与调整，尚未公开完整模拟输入、打法、样本和结果表。
 
 介绍自制 Battle Simulator 时，Jackal 说明模拟怎样用于调整装备和 Zee，以及玩家会看到哪部分结果。
 
-> **Jackal**
+> **Jackal** · [06:07](#t=367)
 >
 > “And this will allow us to exactly pinpoint, uh, uh, what's overpowered, what's underpowered, and, uh, uh, will allow us to do quite a bit more balancing. \[…\] I actually think I will never, hmm, we will never share like exact findings, we will just share these findings in in the sense of the balancing.”
 >
@@ -72,11 +80,13 @@ Jackal 说自己在做 **Battle Simulator**，测试 5v5 阵容及装备，希�
 
 ## 五、Heist 先按三只 Zee 恢复，能量药水制作拟取消两条途径
 
+[10:04](#t=604)
+
 Jackal 说 Heist UI 已交给美术，UI 好了之后就接近能发。片尾被明确问到采用三只还是五只，他答复**先按三只 Zee 恢复**，再开放社区投票，看要不要改成五只。有人提六种属性能否各上一只，他认为五只本身已增加战斗时长和负担，暂时维持现有规模。大幅重做仍需等待新手主线占用的开发资源释放。 [2025 年 10 月 22 日 1.7.3 更新日志（Heist 暂停）](https://zeeverse.com/news/1-7-3-release-notes)
 
 抽奖前有人再问 Heist 究竟以三只还是五只 Zee 回归，Jackal 把回归规格和后续投票分开回答。
 
-> **Jackal**
+> **Jackal** · [40:51](#t=2451)
 >
 > “It will come back as a team of 3. Uh, exactly as it was, except for the UI rework, and, uh, you, uh, we will be putting out a voting, essentially whether you guys want it to be team of five.”
 >
@@ -88,17 +98,21 @@ Jackal 说 Heist UI 已交给美术，UI 好了之后就接近能发。片尾被
 
 ## 六、每日任务、Zee 献祭和新的 PvP 区域还在设计中
 
+[19:53](#t=1193)
+
 - **Daily Quests。** 首批会以新手容易做的小任务为主，老玩家也能做，并可每天拿少量 Spirit。Jackal 提到大约 **28 天**后可考虑切入更复杂的任务集合，详细适用与计时目前未给。**会后核对**，8 月 12 日 1.16.0 加了每日四个任务，公告未给出这项约 28 天的设计。 [8 月 12 日 1.16.0 更新日志](https://zeeverse.com/news/1-16-0-release-notes)
 - **Zee Sacrifice。** 社区提议把未到 50 级的 Zee 经验转成某种货币。Jackal 支持继续讨论，并强调反复献祭应有明显递减回报，免得囤一批 Zee 就能高效转化。会上未给货币名或兑换曲线。游戏之前已有献祭给 Souls of Ruin 的规则，本次谈的是经验转化构想。 [1.7.7 更新日志（既有献祭奖励）](https://zeeverse.com/news/1-7-7-release-notes)
 - **开放世界 PvP。** 团队讨论过在某些区域放更好的资源，同时允许其他玩家攻击采集者。这个方向留待以后探索。地图北边的封路是通往另一个生物群系的预留入口，Umbra 一侧也可能接另一片区域。Jackal 对新区域主题是湿地还是沙漠没有给定论。
 
 ## 七、从新手到终局需要三段内容，Spirit Guides 负责更懂游戏的社区引导
 
+[27:28](#t=1648)
+
 有玩家请 Jackal 判断，要同时做好普通游戏和 Web3 游戏还缺什么。他分成三段。第一段是可规模化获客的新手体验，玩家能顺利学会并留下。第二段是主线收尾后由 **Great Tree** 通向 World Boss、由 **Forge** 的任务通向相应的副本和制作内容，Land 也可在中期提供活动。第三段是高难 PvE、合作 Boss、PvP 和锦标赛，让老玩家有理由培养强力 Zee，并争取高阶装备。合作 Boss 的专名在转录里不够清楚。他认为少数玩家无法支撑后续内容成本，也承认老玩家正在承受等待新内容的代价。
 
 玩家问 Zeeverse 要同时做好普通游戏和 Web3 游戏还缺什么。Jackal 讲完新手和中期后，用高难内容和奖励说明终局。
 
-> **Jackal**
+> **Jackal** · [28:36](#t=1716)
 >
 > “There's no endgame content, uh, which you know usually comes out in two ways, which is like insanely hard, uh, PVE content or PVP content. Uh, and the insanely hard PVE content would probably come with like, uh, great best in slot, uh, weaponry.”
 >
@@ -107,6 +121,8 @@ Jackal 说 Heist UI 已交给美术，UI 好了之后就接近能发。片尾被
 问到旧版 Discord 管理队伍为何换成 **Spirit Guides**，Jackal 说旧队伍主要处理工单，新玩家经常更需要熟知游戏的引导。活跃老玩家原本已在做很多答疑，于是团队让熟悉玩法的成员集中过渡为 Guides，工单也有自动化空间。他感谢当时持续给新人带路的普通玩家。
 
 ## 八、FOREST、BNB Chain 问答与片尾
+
+[26:57](#t=1617)
 
 - Jackal 依 Euler 的提醒分享 **FOREST 上的一款新农场小游戏**。他说自己还没玩过，提到可能在下一次直播试试，并带到以往试玩的 Plinko。片尾把相关代币口述为 “garden tokens”，转录看不到发在聊天里的网址，无法据此确认游戏名称、代币代码或规则。
 - 有人问 Zeeverse 会不会迁往 **BNB Chain**，还是只与 FOREST 合作。Jackal 表示这部分应由 Euler 回答，当天留下问题。会议没有宣布迁移决定。

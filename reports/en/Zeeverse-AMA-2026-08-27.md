@@ -6,13 +6,15 @@ Zeeverse wants newcomers to do a few things on their own in the village before t
 
 ## 1. Eight Finding Your Feet quests put dungeons later in the journey
 
+[11:09](#t=669)
+
 Jackal said the new **Finding Your Feet** consisted of eight quests at the time. Several teaching areas cover combat, gathering, crafting, and other activities. Each short quest gives players a result they can see. Coyote, the combat mentor, would get voice lines. Three optional side quests would sit near the teaching areas. The names spoken on the call were Hungry, Collector, and Mudman, some of them shorthand. [Zeeverse 1.5.0 release notes for Coyote’s name](https://zeeverse.com/news/1-5-0-release-notes)
 
 Why move dungeons later? Euler recalled sending players into a dungeon about 15 minutes in. Newcomers had just learned how to interact with the world when a dungeon introduced a whole new set of rules. Mobile players were especially liable to drop out there. The new route has players fight wild Zee and get familiar with resources and items before entering the Mountainside dungeon. The team would use data from a fresh group of players to judge the pacing. The 1.17.0 notes published on August 31 confirmed the multi-quest structure, optional side quests, and revised path to unlocking Mountainside. The update also consolidated skills into a single screen, adjusted wild Zee in the starting area, began tracking the most recently accepted quest, and improved fonts and composting. Jackal illustrated the kind of simplification he meant with the Compost Bin, where a whole batch of berries or seeds could go in with one click. [Zeeverse 1.17.0 release notes, published August 31 after the call](https://zeeverse.com/news/1-17-0-release-notes) · [Call transcript on composting](../transcription/2026-08-27.txt)
 
 Jackal asked why the early game had been stretched out. Euler said dungeons felt almost like a separate game, so players needed time to get comfortable with the existing mechanics first.
 
-> **Euler**
+> **Euler** · [11:09](#t=669)
 >
 > “And if within the first 15 minutes, when the player is entering the world, like completing all the tutorial, we say, ‘Yo, uh, doesn’t matter what you just learned in this world, let’s going to the dungeon.’ It’s, uh, it’s sometimes, uh, too much.”
 
@@ -20,23 +22,27 @@ Jackal asked why the early game had been stretched out. Euler said dungeons felt
 
 ## 2. Land upgrades could burn $VEE and grant perks to the Tribe
 
+[17:46](#t=1066)
+
 Euler said a Tribe mostly amounted to a name and a private chat channel at the time, with few things to do together. He proposed having **Land owners spend and burn $VEE to upgrade their plots**. Higher levels would give owners and fellow Tribe members better perks, such as bonus experience or faster stamina recovery. Land type and rarity could also affect the kind or strength of a perk. He used level 50 to illustrate bonuses increasing with each level. The call provided no final level or cost table. The game docs also describe placing a Genesis Mask in a Land Altar to receive Blessings. The team had yet to explain how upgrade perks and existing Blessings would work together. [Land overview](https://whitepaper.zee-verse.com/lands/overview) · [Land Blessings](https://whitepaper.zee-verse.com/lands/blessings)
 
 A player asked whether the system would have to wait until after Chapter 3. Euler said the Zeeverse website's Dashboard could handle most of the upgrade process. The game client would only need to implement the perks, so the web team might be able to move ahead independently. He leaned toward releasing the upgrades sooner and left the order open. Another player asked how many Seeds they could get. The speakers directed players to the actual calculation in **Collector’s Profile** and said Mask and Land combinations might matter. The call discussed this Seeds lookup separately from the Land upgrade idea. [Call transcript on Land, perks, and Collector’s Profile](../transcription/2026-08-27.txt)
 
 Asked whether Land perks would come before or after Chapter 3, Euler explained why the web team could work in parallel and gave his best guess about the order.
 
-> **Euler**
+> **Euler** · [17:46](#t=1066)
 >
 > “The good good thing about this is that, uh, because it’s on the web, we can allocate resource, uh, from, um, uh, from different depts that are not as booked, so they are not like really combined together. Uh, so, honestly, I don’t know. I, I think it’s gonna come sooner than than that.”
 
 ## 3. Chapter 3 had a backend, while onboarding and client fixes led the release work
 
+[36:46](#t=2206)
+
 The community asked when to expect the third major quest, the Forge, world bosses, rings, and treasure maps. Jackal said **rings and treasure maps would come with Chapter 3**. He said the chapter's backend was complete, art was still in production, and frontend work and the dialogue he was writing still needed attention. If the whole team moved over immediately, he estimated they might reach testing or final work in about two weeks. The team was still iterating on onboarding based on the data, so that estimate never became a schedule. The Forge and world bosses also had no release date.
 
 Asked when Chapter 3, rings, and treasure maps would be ready, Jackal estimated how long it might take if the whole team switched over. Onboarding still had priority.
 
-> **Jackal**
+> **Jackal** · [36:46](#t=2206)
 >
 > “If we like drop everything, it would take us around two weeks to get our testing, to like finishing, but um time is literally money, and uh onboarding efforts is uh where we are uh want want to spend our time and money into.”
 
@@ -44,11 +50,15 @@ What about players unable to enter a dungeon? After checking with Cherry on the 
 
 ## 4. Daily Quests could scale to skills, and level 99 should have a visible reward
 
+[39:45](#t=2385)
+
 The August 12 release of 1.16.0 introduced four Daily Quests per day. Jackal said everyone received the same tasks at the time. He wanted them to follow a player's skill levels, for example by asking players to mine coal once their Mining level is high enough and awarding XP on completion. The team was still discussing whether to unlock a fourth daily as a prize draw after completing three. Possible rewards included higher-tier ore and evolution shards. The call used **100 shards for one evolution stone and one free evolution** to show how free players might trade time for progress. No final exchange rate or earn rate was set. [Zeeverse 1.16.0 release notes from August 12](https://zeeverse.com/news/1-16-0-release-notes) · [Call transcript on Daily Quests](../transcription/2026-08-27.txt)
 
 A player asked whether level 99 Taming came with a badge or marker. Jackal wanted a visible cosmetic reward when players maxed out a skill. He mentioned Skillcapes and gave examples like a purple aura or flames around a character. The look was undecided, while the Daily Quests redesign was further along. He also brought up total skill levels and an overall level leaderboard. One idea was to show total level near player names, though that might crowd the Tribe tag. The call congratulated Boyman on his Karu. The official notes published afterward listed two commemorative statues, one for the first player to max every Karu Trait and one for the first to get four Traits to level 20. The transcript mentions more than one first, each for a different achievement. [Skills documentation on the level 99 cap](https://whitepaper.zee-verse.com/gameplay/skills) · [Zeeverse 1.17.0 release notes, published August 31 after the call](https://zeeverse.com/news/1-17-0-release-notes)
 
 ## 5. Gathering and crafting should feel better, with inventory planning still part of play
+
+[52:15](#t=3135)
 
 Jackal described accidental taps while gathering, waits for animations, trouble filtering for items, and excessive scrolling through crafting lists. He estimated that a fishing animation took about 12 seconds, with roughly seven seconds of extra presentation around the action. He wanted to rework animations across several skills while keeping the chance of success tied to each swing while logging or mining. Players complained about frequent camera changes in combat. Jackal initially thought they meant scene changes. Once they clarified, he said he wanted to restore the option to position the camera as before. Short fights still need the presentation to work, and long fights need to remain easy to control.
 
@@ -56,7 +66,7 @@ The **Bonfire** was one of the more developed examples on the call. The team wan
 
 Jackal pictured several people feeding a shared bonfire or cooking fish at it. The counts illustrate the proposed activity.
 
-> **Jackal**
+> **Jackal** · [52:15](#t=3135)
 >
 > “For example, two two people are like bonfire in the bonfire, immediate instantly refreshing the duration of the fire, right? Uh, then, for example, there’s like three other people coming to cook their fish on the fire, and thus making both fire making and cooking a social experience.”
 
@@ -68,19 +78,23 @@ The team asked players for feedback on several other ideas.
 
 ## 6. FOREST had deployed cloud hosting and wanted to make generation cheaper
 
+[28:34](#t=1714)
+
 Euler said active tests of the AI Builder showed that it could generally put together simple on-chain games and applications. He invited the community to use trial credits and send feedback from real projects. According to the call, **Forest Cloud had been deployed**. It brought hosting into the platform so creators did not have to arrange their own cloud servers. It could also hold data that should not live only on the frontend. Euler focused on the Harness that uses existing models, hosting, and infrastructure for in-game economies. He was tentative about SDK support for MCP, and he used agents creating or deploying games on their own to illustrate a direction of travel. [FOREST’s July 3 Playkit announcement](https://forest.inc/news/forest-playkit-infrastructure-behind-zeeverse-economy) · [Forest Cloud documentation for background](https://forest.inc/docs/whitepaper/forest-cloud)
 
 One tester said the feature felt like magic and worried about using up credits too quickly. Euler said the team was looking for a better balance of quality and cost across models. He wanted users to choose between stronger reasoning and lower credit use. The team was also looking at connecting a creator's existing subscription so their own model account would cover the cost. Both ideas were under study. Euler used the difference between personal subscriptions and API billing to explain the costs. He gave no new FOREST price list.
 
 A tester liked the Builder but worried about credit use. Euler first discussed offering cheaper models and then described the idea of connecting an existing subscription.
 
-> **Euler**
+> **Euler** · [28:34](#t=1714)
 >
 > “And then on the other hand, which is a bit more hackish, uh, we are looking in a way how you could uh just connect your subscription uh to Forest Harness \[…\] and and essentially use your own subscription plan, and and skip paying for credits and tokens altogether.”
 
 The call also mentioned recent trades and cross-market arbitrage that generated platform fees. Euler wanted to explore ongoing $FOREST buybacks with those fees and keep talking to other exchanges. He gave no allocation, new exchange name, or date. He also said he would attend the Mr. Block Summit in Taipei the following week. The organizer listed September 4 as the date and Zeeverse and Forest among the participants. [Call transcript on the FOREST Q&A](../transcription/2026-08-27.txt) · [Mr. Block Summit organizer’s event page](https://www.accupass.com/event/2608211102381945389551)
 
 ## 7. Closing remarks and the roadmap at the time
+
+[1:00:29](#t=3629)
 
 Jackal took over after Euler left early. He spun the wheel for three one-month Premium Passes. Winners could open a ticket with Cherry for their codes. Some usernames are hard to spell with confidence from the transcript. Jackal planned to use his own automated transcription and summarization tool to release the recording and text more quickly. He asked for reproducible interaction issues with fishing, changing equipment, filling containers with water, and mounting up. He expected to hold another call in two weeks. [Call transcript on the giveaway and closing remarks](../transcription/2026-08-27.txt)
 

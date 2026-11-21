@@ -6,13 +6,15 @@
 
 ## 一、新教程是主线入口，修复图腾将影响老玩家的日常路线
 
+[03:18](#t=198)
+
 片尾重述了开场未录到的安排。团队希望**下一周**先推教程第一部分，让玩家认识背景故事、走入 Zeme，后续两座副本会分模块跟上。每推一个模块就能观察新玩家是否顺利通关，再调整后面的任务。界面同样在重做，小地图和原本难用的银行／Stash 是直接受益的地方。会前的 1.7.8 已去掉注册硬门槛，并缩小初始下载、优化副本加载。这一轮准备改的是进入之后学什么、故事怎么接。3 月 9 日的 1.8.0 才确认全新教程、界面、小地图和 Stash 一并发布，晚于本场提出的「下周」目标。 [1.7.8 更新日志](https://zeeverse.com/news/1-7-8-release-notes) · [1.8.0 更新日志](https://zeeverse.com/news/1-8-0-release-notes)
 
 主线要把普通副本放进故事里，还会让玩家**修复图腾，之后在修好的图腾之间移动**。有玩家问靠近村庄的便利性，团队确认会有一处靠近日常活动位置，具体地名在转录中较含糊。免费主线图腾还得与 Great Tree、Umbra 等后期移动方式共存。金币和耗时都是会上列出的平衡手段，尚无定案。对高练度的玩家，前几座副本未必有挑战，图腾却可能减少日常打材料的折返。 [任务文档](https://whitepaper.zee-verse.com/gameplay/quests)
 
 说到主线将让玩家修复图腾，主持人解释传送的新用途，以及它和后期传送需要怎样共存。
 
-> **主持人**
+> **主持人** · [03:18](#t=198)
 >
 > “Upon restoring these totems, you'll be able to traverse in between them. However, uh, obviously, we're looking to balance this, because as you know, a free to play campaign versus the endgame quest. \[…\] We're still looking into the balance of these teleports, not to make them, you know, uh, too overpowered.”
 >
@@ -20,11 +22,13 @@
 
 ## 二、后期目标包括可反复挑战的 Boss、独有掉落和新的区域
 
+[00:10](#t=10)
+
 录音从一段已经开始的讨论切入：团队打算把为引导制作的内容再利用，做一场老玩家也有理由打的遭遇，加入 Boss 独有掉落与新机制。开场用 Vulcan 风格举例。后续答玩家「教程做完团队主要投入哪里」时，又提到 Great Tree 和 Forge 等任务会开放物品、区域和移动方式，其中有 Vulcan 以及拟做成多人体验的世界 Boss。两处提法都处于开发叙述，录音无法可靠地把每场战斗逐个对应到任务。
 
 录音从交谈中途开始，主持人正在解释为新玩家做的内容如何用到老玩家能打的后期 Boss 战。
 
-> **主持人**
+> **主持人** · [00:10](#t=10)
 >
 > “I think it's really cool that we found a way how we can um, uh, use the content and and and the stuff we are building for onboarding, and translate that into also a late game experience uh for existing player base. \[…\] It will offer uh boss unique drops.”
 >
@@ -33,6 +37,8 @@
 片尾给出的资源排序是先完成主线，再全面转向 Great Tree、Forge 和其他中后期内容。主线分段交付时两项任务已有工作并行，团队也会继续按进场数据小调引导。对于追问要分配多少时间、多久能玩到的玩家，会上只给出了优先级，未给可验收的日期、掉落表或组队规则。
 
 ## 三、Marketplace 拟卖稀有单品，链下 GEX API 服务池内交易
+
+[07:22](#t=442)
 
 | 玩家要做的事 | 会上给出的路径与进度 |
 |---|---|
@@ -44,7 +50,7 @@ Euler 对 API 的期待是让参与者能管理链上和链下的价差与流动
 
 用能量药举例说明程序化交易后，Euler 回应了有人可能对交易工具有顾虑的问题，并解释为什么团队仍想开放 API。
 
-> **Euler**
+> **Euler** · [07:22](#t=442)
 >
 > “If we want to enable people to uh manage liquidity, manage prices between uh on chain and off chain gap, uh, then then we kind of should give uh tools for people to do that. And and at the end of the day, the more the volume there is, the more utilization for existing liquidity there is.”
 >
@@ -52,13 +58,15 @@ Euler 对 API 的期待是让参与者能管理链上和链下的价差与流动
 
 ## 四、FOREST 讨论了约 700 万枚质押，也把 Seed Vault 放在下一阶段中心
 
+[15:16](#t=916)
+
 玩家问起社区关注的**约 700 万枚 $FOREST** 锁仓。发言者称团队粗查后认为可能是一名交易者或一组交易者几个月前买入再锁仓。会上未给地址、交易哈希或可验证的账户归属。发言者也说，参与质押越多，按每枚质押币看到的 APY 越低是设计中预期的现象。这个回答交代了团队如何理解该笔锁仓，未公布新的收益率、奖励分配公式或价格结果。
 
 平台侧展示了新版界面的一张示例图，目标是随后一周推新 UI 和模板。接入顺序先是 **HTML5 游戏／应用上传并挂到代币上**，然后再考虑用内置 AI 按文字描述生成作品。用 SEED 支付提示词生成、限制用量是提出的方案。2 月 17 日 FOREST 已公告面向发行者的 Staking Template，会上的能力预览处在此基础之后。 [Staking Template 公告](https://forest.inc/news/staking-template-critical-milestone)
 
 在展示 FOREST 界面样图后，Euler 解释接入可玩内容会先开放哪一步。
 
-> **Euler**
+> **Euler** · [15:16](#t=916)
 >
 > “Anyone will be able to upload their HTML 5 uh game or app, uh, on top of the coin. \[…\] We will be adding right after HTML 5, uh, support, uh, inbuilt AI game builder.”
 >
@@ -68,13 +76,15 @@ Euler 对 API 的期待是让参与者能管理链上和链下的价差与流动
 
 被问到 Zeeverse P2A 第四阶段怎样接上 FOREST 空投，Euler 解释为什么想把分发设计成持续竞拍。
 
-> **Euler**
+> **Euler** · [19:25](#t=1165)
 >
 > “That's why uh we have a seed vaults where we will be handing out these air drops for the seeds, as ongoing thing, and I also think it's really cool because it kind of keeps um engagement active across the platform. Because there is al- constantly something happening.”
 >
 > “所以我们设计了 Seed Vault，打算持续让人们用 SEED 参与领取这些空投。我觉得有意思的是，这能让平台保持活跃，因为会一直有活动在进行。”
 
 ## 五、老玩家的活动先做小测试，社交道具和周边仍在讨论
+
+[24:28](#t=1468)
 
 - **链下 GEX 交易赛。** 团队现场提议用易参与的链下 GEX 做一次小试验。对「交易页看不到参与者，怎么证明排名」的追问，答复是先让数据团队每天导出结果，在 Discord 发榜。若受欢迎再考虑内嵌实时榜、持续举办。按成交量、盈亏或持仓时长计分都只是选项，物品范围、奖品和开赛日期会后再聊。
 - **讨论秩序。** 交易赛话题引出对聊天反复争执的讨论，主持方回到对同伴保持尊重，并口头提到给两名成员一周冷静期，可继续看到内容。权限细节与后续执行在录音里没有可核结果。

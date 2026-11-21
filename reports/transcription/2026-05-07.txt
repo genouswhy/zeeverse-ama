@@ -1,1 +1,749 @@
-All right, so, GM everybody, uh, welcome to ano- to another community call, and we already hit with a question ZN 2020 asked what happened to forest? uh, I assume that's the that's the massive green uh uh green spike. Let me quickly uh. Let me quickly dou- double check. Yeah, we see some action happening there. uh,I I I I guess it's just the work we've done compounding certain level, cause uh las-, I think last the seed walls has been quite a big success. And just by looking at these two and seeing the difference between uh. Points used, and token obtain per. uh, Seed is almost two times uh more. So, we basically see like the see the economy is contracting. What honestly kind of excites me, uh, and surprises me at the same time is to see that. Rewards that comes out of those seed balls, rather than becoming a supply that enters the market actually gets locked away. So, what we basically have is this um two forces playing alongside each other, and and yeah, I I I I I guess this is um. Cool side effect, and as we have like upcoming uh campaign, uhProbably starting next week, I I I think it's Monday. uh, We'll we'll probably see uh how this affect place even further. But yeah, I I mean, if you just take a look back. We've spent uh roughly one month, and uh since since we started seed balls, and we basically see there is some actually action happening. um, Inside the market, and then just kind of reflecting there. So, uh, yeah, it's just kind of the first symptoms of us doing something right. I I I guess this is the way how to put it. Yeah, onwards and upwards, huh? uh, Yeah, but yeah, uh, I guess it started with the, sorry sorry, Jair. uh, I I said, um. I guess if we started with the forest, this is probably where we can bring up sub questions and just kind of touch it here. uh, Obviously, we have so many things prepared for the viewers. uh, And I'm like super keen to Kind of going there, as uh it happened that we skipped the AMA last week. So, I guess people should have a bunch of questions. We should have uh we already have a bunch of stuffs, stuffs we wanna share. Yeah, yeah. So so yeah, um, so speaking about forest. Another thing, uh, what we are like working with is uh the stack game, uh, from our partners. We we are currently like working together on that, uh, as we saw like a huge surge of cheating, uh, and they kind of made us realize that, uh, okay, if it's a skill game. Most likely, people will be able to find a way to cheat it, and I mean this probably this case was no different. So, uh, we are pretty much like investigating all that. uh, We. That pretty much all top hundred leaderboard cheaters. So, uh, we will be taking an action. um, So, this morning. So, you know, based on the master, what you're telling me is That it's not us. Yeah, yeah, yeah, it's obviously. Oh my god, what? uh, I mean there are like many players, uh, were just um kind of cracking the way how to. Yeah. Uh, Stack the tiles, uh, probably by using some scripts or or something. And because it's a skill based, it's something we cannot like really validate. uh, We we we try to provide them with some extra tech on that, but like literally there is no Way how uh this can be solved. uh. Yeah, on its own. So, uh, I guess there is bunch of things to learn on that. uh, I'm I'm pretty sure like Stacking will will make sure that um. uh, At least majority of the cheaters are removed, and will reward the community. Obviously, uh, it gonna need some adjustments, uh, as we see like skill games are kind of having a hard time when when they're when the rewards are on the line. And uh but but that kind of opens up for the next the next thing I really wanted to talk about, which is forest is decay, and. This is something we started to work a few weeks ago, and last week we already released that, let's call it like v point one version of this d k. And what it does is just kind of becomes um an easy way for your AI web coded app or your um like Hand coded up whatever. uh, You can just easily tap into uh into our APIs, and you can get ability to look into the users' wallet. You can initiate the swaps, and most importantly, we will be working on the next feature, which which which will um enable um. And allow you, and allow like a developer and app to work with user balances. So for instance, it will give a complete freedom to make, let's call it like a farming game, for instance, where where you have to spend coins to or tokens to build like a farm, and let's sayuh, Then use that farm uh to generate more coins. And in return, you can either use them to upgrade your farm or just go and swap it uh for for for token. uh,And having like this layer, I think will be one of these um crucial kickoff moments, because. I think this will enable users to create games that doesn't depend on a skill. And I already s- like I was like scrolling today, like today's Discord, and already saw like people's basically saying that It's a really hard to work with skill games, but when it comes to crypto. the strategy games slash ponzi type of games are kind of what really works the best, because. There is no way how you can cheat it. uh, The only thing you can do is just make a decisions, and and those decisions um are pretty much stored on chain, so it kind of removes the cheating element, and. uh, Yeah, so, I I I guess the resume of this is we saw like a uh. Good interest in the skill games. I mean the game itself is kind of fun. I I I think Jackal you had a uh you had a few rides, uh you haha few few spins on on on setting high score. On that game, uh, but. Stack. Yeah, I'm stack. Yeah, I just, I I realized that, I mean obviously that I I guess like the automation also comes from. Comes if you crack it, cause like my theory was that, cause I don't know how these games are built, I only know how Zevis is built. uh, I figured that there's probably like a rhythm to it, cause it felt like Really, you know, it do, I I don't wanna like co-, really compare like Sekiro Shadows Die Twice with Stag Game. but there's like, so, like Sekiro has like these parry rhythms, and uh, I'd really reminded me that there's probably a rhythm, which I can't seem touh, Figure it crack out, but um, uh, you know. uh, I'm a I'm a part time, um, I wouldn't call it a musician, but uh you know, the issue I struggle with the musical instruments as well is not being on time, so. Stack, maybe, just isn't for me. Maybe, I I I I guess uh uh what we found out is definitely for uh for cheaters uh to spend some time on that game. But um yeah. I guess we have some some uh some uh some trouble with the skill games. And uh but I guess it's just a fun little game. uh, uh, We we try things we learn, we learn things, and and and then we uh come up with. Some other solutions that we can uh use and find a better fit. So souh, That's kind of on the stack. uh, I I'm I'm pretty sure, uh, the the forest community team will be sending out some updates. Over this week, about the about the prizes. If you see like last minute top hundred score score overtaken by uh apparent cheaters, don't worry. um. There is people like actually looking into it, and will be, we we won't be supporting um some bot farms or cheater farms. Yeah, we, I I I think we do have a track record in uh you know. The being uh quite uh upfront with the people exploiting, guess, uh huh, a harvester, uh huh. um, But uh yeah. So wild and good time. Takes you back, huh? Yeah, we we we we should we should do harvester again. Ha ha. uh, uh, I I I refuse. uh, Ha ha ha ha ha ha. But now, I actually, we, I know, and have we've talked about this, we do have I don't know this kind of attraction to the receiver territory. But uh I've seen uh in testing as well as some uh tournaments. Could uh you know, as they've find some, you know, passive time for some. Passion parts of zivers, uh, they do touch upon, and I know tournaments have been something that at least have been in you know additional testing, and you know I would love to bring back harvester. you know, minus the uh minus the uh community standing around, and me being in the middle, being kicked down to the ground. uh, Minus that part, if we can do that, I I would love another harvester. uh, Ha ha.uh, You know, but uh as you said, uh. We build, I'm, you've said that before we build things, we break things, so we learn from it, and we move on. uh, So yeah, uh, that's the cost of building in public. Yeah, so I, uh, that being said, I guess, uh, to to wrap it up, to wrap up the stack topic. People are looking into it. uh, It's cool that we had a chance to see how skill games work with, when there is like a competition, when there's our incentives. Definitely few things learned. uh, We already are working with the the same team who is building the next game that will be more focused around strategy and planning and resource deployment rather than than skill game. And I I think you gonna love it, and and this will be probably the first build project, that will utilize the the upcoming SDK features. And what's beautiful about it, it will be back as an agent skill. So, uh, anyone who have access to ChatGPT or Claude will be able to just. Enable the skill, and your agent will exactly know how to build an app you describe, and seamlessly integrate. uh, The support for m-, manipulating with user balances, initiating swaps, reading the wallets, and and so on. So, it's it's kind of like a. Super easy to plug and play toolkit that that uh make Really complex things, such as uh managing user balances, uh, deploying smart contracts, etcetera. uh, Super super easy, and for for for you as a builder, it will just allow allow uh to focus on on building like them. The beauty beauty part, I guess I guess uh the surface lay- layer, so you don't really have to focus on the infrastructure. So anyways, that's kind of something to keep your eyes on. uhThere is also coming in a new experimental Walt. This will be the first seed Walt of its kind where we will be partnering with some partner projects, and we will be air droppingum, Some tokens that are not forest token. um. Through these auctions where where where users using seeds. So kind of more utility coming to the seeds, making the seed world game more um dynamic. More um. More more fun, I guess. So, it's it's uh it's something to look forward. So, if you had some seeds uh and you still save them, it's good. uh, Like I said, there will be many opportunities. If you don't, um, it It's it's very very easy to obtain those seeds just by staking some of the tokens that has been lying around, and and at the same time, uh, just keeping your eyes open. uh, We also have a daily quests, uh, and like basically like a quest board that rewards you by inviting friends and incentivizes you to try like different tokens and projects, and in return rewards you with those uh nice seeds. So, uh. It's really simple ecosystem, really simple loop, and and and the nice part is to see it actually all works uh quite well. So, uh, all we have to do is just give it a bit more push, and. I I think we'll soon start to see some wonders happening. Souh, Yeah, I guess that's on the, that's on the forest. uh, Meanwhile, I'm I'm like reading chats, so if there anything else, uh, popping up on your mind minds, feel free to drop questions here. uh, Meanwhile, I'll give war to Jackie. I think he has some cool stuff to share today as well. And yeah, let's uh let's talk Zvers. Yeah, uh, alright, so, uh, you know, to kick things off, uh, Guangzhou said, speaking of horror, so everyone will the ever- ever- ring tasks that one of our community might be released. uh, You'll have to refresh my memory, cause uhQuite frankly, I don't know what you're talking about. uh, But uh you know, maybe I'm just uh misunderstanding something. All right, so, cool, uh, campaign part uh two. That comes with the, you know, uh back in two piece. So, our one of the develop, so the first quest called back in one piece, and one of the developers used the placeholder name. Back in two piece, and I loved it. uh, But if we're not keeping that unfortunately. uh, Is right around the corner. We are submitting builds this week, and we are getting uh getting the part two uh next week. uh, Caveat, uh, the As we are getting a new evolution of Z, uh, and we're getting a new Z that everybody will be able to get. So, we're kind of finally starting to crack at the fact that Z versus. Again, about these, uh, uh, not the worse, but um we're cracking at that, and we'll be introducing finally the tenth. uh, 3Z. So, currently, we have the starter 9, and rest of the DZ have been like collaborations, special editions. uh, And we want More Z to be acquired through casual gameplay, through progressing the story, and Rakko, which is the dark matter uh Z, we're we're getting uh. uh, Next week, uh, will be the first come, and uh wu, do do I have, uh, just one moment? So, uh, I'm just saying, ah, you know what? uh. I think ever two might, uh, ever, I will be dropping both ever one and ever one, r-, raku. uh, Pictures, I think ever two might still might still be working progress, but I don't have uh ever one saved in my clip, pasteboard, so. You're getting both of those. uh, So yeah, Rakun uh Rakko will be um. Dark matter, uh, type Z. uh, The first ability will be able to blind the enemies, uh, and similar to how Zumba works, minus the burn. And the second ability will be similar to Chompa, as it will provide us stealth. um, So, uh, uh, so, I'm sorry, I'm just seeing Guangzhou's, uh, miss, yeah, I'm not reading all that, is that, oh, that's the quest, uh, yeah, quest is coming. Sometime, but I do reckon guys you are more interested in uh great tree and the forge quest rather than the emerald. Actually, fun fact, and this is just you know, behind the scenes uhuh, That I had actually written, you you know, based on the sha- Shalan ark- on ark's quest, I had actually written the Amber Wings Return. And how it would tie into the forge quest. However, uh, we wanted to provide the great tree and tie these two quests together. So we had to, you know, a- a- just a little bit. Original idea was that the Amber Ring would also be a world boss, and I'm not saying it won't, I'm not saying it won't, but uh for now, uh. It'll uh take a little bit. We could we could do this quest, you know, as small as the Jackal's Prank, or like bigger one with like cooler unlocks, and uh we rather go the second run. uh, And yeah, so if you if check the chat, you can see the record. uh, What are we looking at, what are we looking at for in the uh p- part two? So we've shared quite a bit. uh, I wanted to, I I've took some work in progress, things from from the chats. We're getting um actually three new NPCs. uh, I know there's four, but um uh. As you approach these dungeons, and these dungeons have these small uh small, quote unquote puzzles for you to solve. uh, I mean, not really puzzles for uh experience zerver player, but you know, a little challenges for the new.uh, For a new shaman in these lands. uh. uh, These NPCs will kind of be like your checkpoint that will aid you through through this. And um yeah, every dan, uh, there's gonna be one by the overgrown dungeon. Oh, by the way. Also smaller thing, but you know, grass dungeon feels like uh a a a s- a s- a sillier name, and we will be also renaming the dungeons and following the naming scheme. uh, The grass dungeon, as you know know it currently will be called mountainside, and the second dungeon will be called the overgrowth, and the third one will be called the well. And speaking of dwell, I also have a you know a small look at the dwell level, uh, level, uh. Right, yeah. uh, Makes it's uh, there's like some some neat little caveats I could go on about, as for how this is in uh. This is in low quality, but uh the lightning, uh, and this is ra- rather the uh lightning test, uh, as uh we have optimized like nicer lightning for lower end devices, uh, so we actually, the zippers keeps on looking better. uh, With lower devices, but yeah, this this is the levels, uh, the level and the wave select, like wave. Experience through the well dungeon. But yeah, I'll working progress. Honestly, I'm so surprised uh how well we made it look. This is this is auh, This was kind of like, uh, I remember the first time I saw it, I'm just walking by, and I'm asking, okay, is this for like cinematic? And the guys are, no, no, this is like default graphic settings in mobile, I'm like, oh my fucking god. uh, This looks so much as an upgrade, and that kind of pushed us, uh, I remember this kind of pushed us into into the. Into much deeper, hmm, uh, li-, like into the idea that z versus about z's, right? yeah. So so we kind of move the verse away, and and wanted to really focus a bit on more on battles. uh, We realized that the battle like scene and animations and bunch of like balance hasn't really changed since early small island days. uh, And um and and yeah, so so we really wanted to pay some attention here. uh. We had built amazing foundation, so like these changes kind of came relatively easy and quick. But but yeah, again, I I'm like a super um uhuh, Supremely by how well this thing looks, even on like mid mid tier, uh, and maybe even low tier mobile phones. So, uh, yeah, I I I I feel as players. Will be emerging in these dungeons. You will really have a good feel and immersion, and and just, you know, at the end of the day, it's all about like these small nice little things. And and and as we are doing this situation, it's it's great, um it's a great opportunity to just kind of pay more attention to these. Details, and kind of uh give the right impression about this diverse when it comes to vast player audiences. So, um, so yeah, that that's kind of like make two sense on on umI'm seeing the new environments for the battles. Oh, yeah. uh, And to to also, you know, uh, I initially mentioned there's a caveat with the Reco. uh, As Reco will only come in one evolution. uh, Next week, as uh our uh our team does need a little bit more time to finish the second evolution. uh, On the bright side, most likely. You guys won't be able to evolve it just yet, you know, still training it. So, it, nobody will really feel the difference. I I mean, you shouldn't, unless you're like you know, uh crazy grinder. um. So, uh, we will have a follow up update. Maybe even next week, at the end of the week, or hmm you know. Actually, let, uh, I think there is really one cool thing. You just mention evolving, and um I mean, I know, and you know. Some players in our community is is about to kind of break this, uh huh, uh, this idea that you, there is not enough time to actually train and involve them. But uh but yeah, like like you said, uh, they've all evolved version will ship like around one week later, just because uh we had like a few hiccups and we needed touh, Some extra time. uh, but we didn't really want to delay the whole update just because of evil too. But the thing I wanted to kind of point out is, nothing changes guys, in order to evolve. Your uh raccoon. Raccoon, raccoon, raccoon, raccoon, sorry, sorry, uh, I, I, I take blame on myself. In order to evolve Raccoon, you need three freaking Raccoons. Do you understand that? And the beauty of this is that uh if I'm not mistaken, uh, there you can only get one raccoon by completing the quest. Oh, oh yeah. So this kind of brings in this interesting dilemma where you will have to find a bunch of other players who have gotten them. um, Maybe, and just maybe are willing to take part, uh, willing to part, uh, with them. So, I think it it will kind of bring in a bit of like um. Fun little trading angle uh within it for for people who will want to really push on them, and and make sure they can involve it, and and basically I send it. To level 50 plus. So that's kind of one thing, one cool thing to notice is that uh you can obtain it by completing the quest, but it's kind of one per player, so. You'll you'll be, uh, you'll have to. To trade. uh, Cough, follow up the evolve once or twice. I mean every these evolve once after um currently we uh currently the level cap being level 99, uh means you cannot evolve it the second time to evolve three. So, uh, for that, uh, you know, the the simple answer is, yeah, you just don't think about that. Like, we're so far ahead in, I mean, finally, a lot of people like that are not, you know. I would say heavy spenders are finally getting into the uh level 99 range. Oh, Tyler, the longer you don't sell them, the the bigger the stash is gonna get. You better start running those drugs. We're not uh currently, it's not in our plans to do bulk sell from the stash for these relics. uh, So, you you know, uh, ha. The logger, you don't sell them out of spite. uh, Yeah. uh, Ah. That's the, that's the. I I you know, I I ran like I ran like 700 800 chip. Mugs, which like yielded less, and uh you know. You could ask me, shouldn't you be working instead of that? Great question. I will refuse to answer, but I have done that, so why can't you? uh, Ha, I mean, every everybody is doing that, and if you're just collecting the amounts of fight, that I mean, that's the biggest collection probably in the zivers. uh, But um, yeah, but that's a good point about the noted items. uh, We we spoke about this while ago. I'm pretty sure this is already sitting in our uh backlog. And I, uh, see, you you know, you know, can I just quickly like overtake you, and you know, just put one thing out? uh, Tyler, because yesterday, Tyler was like also saying something in regards to a trading interface. And you know, I'll, you know, I'll just be brutally honest right now. We have such little friction for people to exploit us, be that two Two minute wait time for dropping items, or B, that twenty spaces in inventory, so you can only drop twenty items, and to remove that friction to uh to cater to a small percentage of gamers that will have this QOL. to remove that s- uh the e- al- almost non-existing friction already. To you know, empower the exploiters, is just not something we're looking to do right now. You know, 100,000 players, active economy, you need these peo- You know, it's like Wall Street, you know, sell sell, buy, we need these things to go around. Yeah, we're doing all of those things, we're doing all that items, we're doing these things, but you know, uhJust not in our scope right now. Yeah, that's a, that's actually a really good way to put it, because uh. I I I definitely see a way where this is super handy for every legitimate player out there. But but like Jackal said, uh, it's kind of like increases the stakes, so if there is like anything happening. It can happen much much faster, and and and this unfortunately unfortunately just removes some of the time we can uh use to react on these things. uh, But yeah, so. uh, I love the way you put it, love the way you put it. uh, And yeah, I just, I tap the. Cool. uh, I I I love, okay, there is a question from amonga. How is new user onboarding going? Do you have more data regarding that? So Right now, we haven't pushed in any new users. So, what we did, we basically spent last two weeks. Finishing the second and third quest, because what we realized that was that every user we got in in the last campaign. uh. Went through like the most engaged users, not not even the most engaged, just engaged users actually went through the whole uh campaign part one. Too quickly for us to be even able to judge what happens after one day, because most of them just played through the whole thing in in like one or two hours, and and they have naturally question what next. So, before we wanted to see what next we actually have to provide these users with a content. So, uh, right now, we are preparing for the next wave of like getting in users. This time, uh, we are approaching it. On another level, to put that in a context, if they Previous campaign pushed in around like 1,000 user. um, Over like that previous period of time. Now we are looking to put in at least 10,000 users. um, Why? The moment we have like all the three uh main quests out, and and like Jackal said, the beautiful part is, um, we are submitting update this week, and um we are estimating that we gonna release this update on Monday. So And pretty much just three four days, uh, until the update rolls out. And and yeah, and and then we just kind of will push in um bunch bunch more people. uh, We'll be able to monitor the data again. uh, But overall, uh, the data we obtained helped us to fix many issues. uh, Most of them were quite small, but still, uh. Kind of ends up stacking up. So, uh, I guess the simple answer is it's going uh pretty good. Daily rewards are very cool. Please don't stop them. Ha. uh, I was about to, I was about to. ha, Yeah, let's, uh, I mean, because he has. The way we do it is we First, we love to find what people love about Zeevers. And then we just remove it. That's that's kind of the way we do it. I'm joking, I'm joking guys. uh, Actually, uh, I'm super excited to see how daily rewards are working because umThis was more like a, uh, the simple prototype we design. haha, OK, it it it took it took you some time, took you some time to get it. uh. So, the daily rewards uh we introduced, is kind of the prototype of the system we wanted to have originally in a place, but we didn't want to kind of make it too complex before it's time to do that. So, um, rest assured daily awards are staying, and we are actually looking um. Into the system, for a way to add. Another uh layer on top of that, uh, something that will reward you for staying around more than a week. So, we are looking at probably monthly calendars. And maybe some special rewards, and and some some other special stuff as well. So, um, hmm, so yeah, uh, we are we are totally um uh doubling down on that system as we will go. But for now, this is how it is. We want that thing to keep and be simple. So, um, so yeah, um, if you have any ideas, any suggestions. Just drop us, uh, drop them in in any of the channels. So, uh, as a final thing, um, speaking of, you know, us taking away things you love. uh,uh, And let's speak about something something that we will be bringing back. uh, Hiist, um, so, Hiist is not coming uh internet next of them. Maybe together. Because highest was disabled before we did the UI rework. So, uh, while we do wanna keep highest, bring back highest, as like, I think for you guys to do, I think for you to give you guys the ability to build out the highest yourself. uh, We don't wanna, you know, commit too many de- de- resources to the high, cause we are, we can't afford, we can't afford, you know, the more de- resources goes to, for example, high, the later we finish the onboarding campaign, the later you get the forge quest. The longer.  you keep on saying the same stuff uh about uh you know us having abundance zippers uh in the mass chat. So, uh, you know, that resource is quite small on on Hive, but we do need to do a UI rework for Hive. We'll we'll be fixing a couple of small things, small exploits for the heights. uh, But we'll be bringing it um uhuh, Back immediately, and we'll be resetting the yellow to everybody. uh, And you know, as we reset the yellow, uh,In instead of before, I will be pitching the first big question uh for the highest, which will be, should it be 3V3 or 5V5? And you know, I will be listening to a lot of discussions, and I hope we can make a discussion, instead of you know, a lot of people staying silent, and then you know, not being happy. So, uh,highest will become. uh, I can't I can't uh avoid not to use the um the uh funny term, but you know, think of highest as community takeover. uh, Ha ha. I see the offer rise, we will be you know sponsoring the by box and everything. uh, And we will be listening. uh, To you guys, and I will be, you know, taking all of your suggestions, forming them into questions, uh, and putting them back. And guys, you might have the greatest suggestion, but you know, if Other people uh take take over and do not enjoy that, then um that can change. Also, the beauty of heights is you know, as the community you know. uh, As we are closing in on, you know, finishing the onboarding, getting more community in, uh, hopefully getting all of old community, you know, woke and up. uh, These guys rules You know, they can even be proposed to revert revert them, maybe go back to 3V3 or uh revert something. So, uh, Highs will become uh product of the community, and nothing will be setting so. uh, We've talked about this, uh, and just wanted to bring this up back. Now, most likely the update uh pass the next update, uh, and that is not counting the one where we had record over so.uh, I think it's 1.12 most likely than. If you uh if you just allow sell in order without the need of carry items, there there will be no exploits, instant quality of life for everyone, very easy to implement, you do that in the marketplace. uh, but. That's not why we are implementing relics, cause then it's like, oh, what if you just dropped a spirit instead of relics, you know? uh, uh, you know, uh, that's something what we did imagine for you to run. Overall, honestly, that idea is not that bad. I mean, yeah, but temporary solution, because what we are mostly afraid is that, like, ability to stack items that shouldn't be stacked would Like exponentially amplified any damage, uh, that otherwise wouldn't happen. But when it comes to like actually selling these things, the horror, or maybe that's that's a kind of uh nice mill ground. I I I I I I'm just putting out my blessing here, if you think it's a it's a good thing, then uh may maybe we can push it through. uh, But yeah, uh, this is on Jackal, so. uh, If If Jackie thinks it's a good idea, we can get it. It it it's not, I just uh I feel like this ki- kind of conflicts, uh, cause literally the question toum, My question back to the euler, if you're having a public discussion about it is. then uh, uh, it's quite hard from, then, uh, why do we have relics, then, you know, if you can install them from scratch. His good point, his good point. uh, I mean, uh, if you really want to know why we have relics, uh, it's it's actually um. Wine drops, hahaha. The reason why we have relics is because we wanted to have some variety, uh, when it comes to the rewards. And and even if like the actual amount of coins you receive from Spirit you received from the battle on average doesn't really change the perception of the reward really does. And and and and this is kind of just like one on one game design thing. So that's kind of the main purpose what we have here. But obviously kind of Having your relic just picking it up, bringing it and selling it is part of the experience as well. So anyways, let's let's not waste too much time here. uh, I think we have a bunch of other stuff. And one of the questions I wanted to address is by global hope. Where is the majority of downward self pressure for be coming from? Aren't there a lot of be things? uh, And the answer to this question is most likely, uh, it's coming still from the old staking contracts, because the old I haven't really like hmm analyzed uh we token economy last last last month or so. uh, But it's nice that you pointed out, so I'll probably have a look and ask. Our analytics team to look more into it. But uh I'm quite confident that it's coming from um old staking contracts that had uh rewards vested for over a year. uh, And that in practice means that even if we stopped that program, uh, generally remember when we stopped it. When was the last time reward? A lot of reward was sent out. I can quickly uh look up. uh, Wait, uh, last reward for v withdrawals or staking. uh, For all the v uh staking rewards. uh, Withdrawals are long gone. uh, Like, we don't see any any selling pressure coming in from all withdrawals as All of that has been finalized. uh, But I'm afraid that there is still a bit of time left from the old staking, uh, we token staking, uh, reward. Contract that uh still has some rewards in the vesting, and and and these are the tokens that kind of constantly hit the market, because People who stake back then, uh, some of them, I guess, are are just selling it. So, uh, that's a that's That's kind of something we have to just kind of get through. um, After after this, I see the economy to be quite clear. In terms of uh new supply entering the market. Overall, uh, what's quite beautiful is that Zivers has been constantly locking in and consuming uh the v tokens. I mean people are still evolving the disease. People are still using some of them to. To convert them to the V token, and uh also, we see a lot of people like depositing and using Zivus as a system sort of a bridge between Arbitrum and Ronin. So, uh, I We are actually considering to add a like a small fee when it comes to withdrawals. um, Because we see like a lot of activity uh where people just use use Zivrs as as a bridge uh through the the positive withdrawal system. But anyways, uh, putting that aside, um, I I think the main uh. Mainstream of downward selling pressure is coming from uh still uh like a sea taking contracts, and it could be a month or something, maybe more. uh, Check out, do you, do you found it? uh. uh, We, uh, we stopped, if it this is in regards to the ambassador program that happened on the 29th of January. uh, But, yeah, if uh if I got the correct thing. But, no, I mean we had like this old legacy, be token staking contract. I think ambassador program rewards were already air dropped. uh, Legacy contract, uh, we announced the legacy staking contract. That will be sunsining the rewards on 45 days post 19th of January. I do apologize for not being able to do this math mentally, but. OK, but that was like this year or 2024? This year. This year. So that's three months ago, basically four months ago. I'll relay this to the uh trustee, yellow lamp. uh, ha. OK, uh anyways, uh, that's that's kind of one of the sources. uh, But, uh, it's it's pretty much drying up now, so. Comes out, I guess is, fifth of March. Fifth of March, when the legacy contract rewards were sunset. Are you sure it was not 2025? I don't believe we did it like two months ago. Am I guys am I crazy? uh, Have I drank like too many beer? uh, How many farmers are selling to the geckos and dumping v on the decks? uh. Don't really see much of that activity, and and another thing to keep in mind is that the the beauty of this design is that. The token. uh. As a liquidity in the Geekspears is very very limited and isolated. So that means even if there is some item that's being like farm to hell, what will happen is it will leave a relatively small. Impact on on the token price, but it will probably just dis- completely destroy the price uh for that specific item in a pool. So that's why I can, uh, we don't really. uh, We're not quite afraid of somebody coming in and farming some specific item, because uh if that happens, so the impact will be very local and very limited. And we are obviously keeping track uh keeping a track of that. And and and what from what we see usually it's not that a big deal. Maybe there are some guys who made uh some fifty hundred box, but. It's um not nothing nothing to worry about, at least at least for now. So. All right, um, yeah, so, um, I guess on my part, I've uh uh I've uh covered majority of the upcoming stuff, um, and guys, if you have any questions for For uh for me or Yoler, let me know. But Yoler, I guess I can give the ground to you, and uh if not, we can uh you know move forward to the uh premium pass giveaways, and wrap the today's community call. I, I, I see. uh, glo- global was writing something. I mean, boy is still have some time, uh, drop the message, I'll do my best, best answer. Yeah, if there is uh not many other questions, so, I'll wait a minute or few uh before wrapping up. Jago, I'm not sure you mentioned, but uh I think we thought you will be doing like some some some filming with community members for uh for the ads we are creating. uh, sometime, soon. uh, Maybe let's use this time, you can share a bit more detail on that. Sorry, I'm quickly preparing to go away. uh, So, just just a moment. OK, I'll I'll I'll do do your thing, I'll I'll just try to. I'm I'm I'm I'm I'm here and ready to get weird. uh, So, uh, we, I also talked about it during the last stream. That during the next stream, we'll be uh uh raffling out a couple of relics, and I believe I have a blessing to give out one Genesis mask as well. And what we're aiming to do is getting a lot bunch of you guys together, and we'll be performing, you know, various various things. We will be fi- filming, uh, making making a movie around the theme. And what will uh what I'll be doing is filming, as you guys you know are fighting for for uh minds and being in the dungeons. And running run- running around, you know? uh. Popular places or like running uh to the veil of souls. uh, We'll be, I'll be you know, directing all of these actions, and all the participants will be entering uhuh, A giveaway, I wanna make uh your time worth, and ha Ziver's movie, yeah, and uh yeah. getting some cool shots, uh, and you know, we're doing, we're all in this together, so. uh, What is the thing I can say is that uh I think you will want to be there, because I mean the mask is cool, some rewards is cool, but I think the the fact that we'll be using this material as a part of our our ad creative strategy. And and those creatives, uh, I think will hit probably few million views at worst. So, uh, I mean, that's that's a way how to become a bit of like a zero celebrity. uh, Because we will be putting some budgets on on those creatives. And um from what we can already predict, it's gonna be few million views for for those clips. So, uh, I don't know. uh huh, May um be there, and and you'll have something something to brag about. As the time goes. uh, Build the shadow. uh, So, there's a co- question. uh, So, globalhoff asked whether we're going to change the high- high level ingredient drop rates from Numbra to which I had replied no. But then the follow up question is, will the umbra ors be used for higher level tools? And are those from other minds? So, uh, two part here, uh, first follow. They will be used for higher level tools, and that's something uh you know we did postpone with the. uh, With the uh onbo- onboarding uh refocus, but we will be uh allowing you guys to before before you know the land game plays comes out. uh,Craft higher level tools from mythril adamantite on a and oceanite, and later on, you will be also also be able to mind these things on your own private lands. uh, As you do with iron, and coal, and bronze. uh, I'm sorry, copper and tin. So, uh, the the the tools require. B, P, s. What? uh, So, ha, uh, you can you you can uh blueprints, no, uh, those will unlock as a crafting recipes. uh, Um, bergere is uh rare. um. Lanson, uh, you know, let's keep this a positive uh co- community call and skip this question. uh, Haha, no, uh, uh,Post onboarding, we we can resume the f-, uh, focus on the land. Yeah, uh, uh, like, I mean, I understand the question about lands, uh, really that's no going there, but uh. Its lands are now more aligned than ever. uh,um, uh, naturally, just think of this is like that. naturally, when you have some onboarding funnel, and we start on board people, and they start to. Show up every single day, and and and we kind of get a busy city, we start to get busy world. uh. Naturally, most of them will want to mingle, and and and some smaller communities. And I think this is a really good time to even start experimenting with opening some lands, uh, because the moment there is some demand, uh, that's kind of the moment I see, it's it's point even considerate. uh, to push. Further, or or give in, given some some level fairly excess. So, um, yeah, uh, it's it's I think safe to say that uh we are more aligned. With the land release than ever, and and as we see how everything happens, um. It's um yeah, it's it's it's quite positive, so um yeah. Yeah, uh, I guess uh you know, on the, I see Taylor stepping. uh, We can uh, we can wait for everybody finish stepping, and uh yeah, then look to. Any new update plan for Ziv's mini? uh, Really good question. uh,uh, It was not until you asked the question, so maybe there is. Good way to combine it with some of the stuff we're doing in the forest. But yeah, it's skill game too, so it's uh. is gonna have some problems. uh, So, uh, yeah, we'll see we'll see. um, I I still love the Zero's mini. I'm hundred percent sure we're gonna use it. uh, But we have to use it in a correct way. Otherwise, it's gonna be a bad experience for everyone just because uh people are willing to spend their time cheating to win their awards, and and and and that's kind of reality we're in. So, this is just something we keep in mind. But uh yeah, uh, overall the game is super fun. um, Another thing actually about Ziva's mini, but when we really tested Ziva's mini, we were not in this Level of AI era, as we are now. At that time, nobody could just open up uh claude and ask you all write me a script to win this game. um, Which is apparently harder, uh, easier to do now. um. But yeah, uh, thanks for pointing out. I absolutely love to see people remembering and asking about Zero's Minis, because I really really enjoy that game and that project, and And it's very very aligned with what we do, and um uh good that you pointed it out. We'll we'll see what we can do. umTo to bring it back. OK, guys, uh, I guess uh we can wrap up on this note. It was um super cool uh to chat today. uh. I kind of start to think maybe it's even better to have like a one week of pause, because then I feel like all these uh AMAs may have better like dynamic. uh, So that's the thing to keep in mind. Overall, um, love love you guys, I love that you showed up. uh,Really good questions, and uh it's time to be excited uh about the next week's release. So, looking forward, cheers guys. uh, Thank you, thank you,uler. And currently, and now, what we will be doing is we will be having, we will be raffling out three 1 month premium passes. Let me quickly share my screen, and then we can do it. I cannot share my screen. I love it. Never mind, I lied. All right, cool. uh, So yeah, uh, you, I mean most of you already know how this goes. If you win, open up a ticket to claim your one more premium pass there, and if you have a aum, If you have a Genesis, the social chart, you can um, you can share that. you can share that premium pass to somebody uh that's close to you, or you wanna get into the zivers or me uh anyway.um, Alexander wins the first one. E, a key wins the second. Right, and the third premium pass goes to. Z and 2020. Congrats. I'd love to hear what you think. Zine, twenty. And submit ticket. All right, cool. uh, Thank you guys for coming over today, and I will see see you next Tuesday. uh, Let's uh let's uh film a movie huh? All right guys, see you, Chucho.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+All right,
+
+[00:02]
+
+so, GM everybody, uh, welcome to ano- to another community call, and we already hit with a question ZN 2020 asked what happened to forest? uh, I assume that's the that's the massive green uh uh green spike.
+
+[00:18]
+
+Let me quickly uh. Let me quickly dou- double check. Yeah, we see some action happening there. uh,I I I I guess it's just the work we've done compounding certain level, cause uh las-, I think last the seed walls has been quite a big success.
+
+[00:36]
+
+And just by looking at these two and seeing the difference between uh. Points used, and token obtain per. uh, Seed is almost two times uh more.
+
+[00:51]
+
+So, we basically see like the see the economy is contracting. What honestly kind of excites me, uh, and surprises me at the same time is to see that.
+
+[01:06]
+
+Rewards that comes out of those seed balls, rather than becoming a supply that enters the market actually gets locked away. So, what we basically have is this um two forces playing alongside each other, and and yeah, I I I I I guess this is um.
+
+[01:30]
+
+Cool side effect, and as we have like upcoming uh campaign, uhProbably starting next week, I I I think it's Monday. uh, We'll we'll probably see uh how this affect place even further.
+
+[01:44]
+
+But yeah, I I mean, if you just take a look back. We've spent uh roughly one month, and uh since since we started seed balls, and we basically see there is some actually action happening. um, Inside the market, and then just kind of reflecting there.
+
+[02:01]
+
+So, uh, yeah, it's just kind of the first symptoms of us doing something right. I I I guess this is the way how to put it. Yeah, onwards and upwards, huh? uh, Yeah, but yeah, uh, I guess it started with the, sorry sorry, Jair. uh, I I said, um.
+
+[02:20]
+
+I guess if we started with the forest, this is probably where we can bring up sub questions and just kind of touch it here. uh, Obviously, we have so many things prepared for the viewers. uh, And I'm like super keen to Kind of going there, as uh it happened that we skipped the AMA last week.
+
+[02:37]
+
+So, I guess people should have a bunch of questions. We should have uh we already have a bunch of stuffs, stuffs we wanna share. Yeah, yeah. So so yeah, um, so speaking about forest.
+
+[02:51]
+
+Another thing, uh, what we are like working with is uh the stack game, uh, from our partners. We we are currently like working together on that, uh, as we saw like a huge surge of cheating, uh, and they kind of made us realize that, uh, okay, if it's a skill game.
+
+[03:14]
+
+Most likely, people will be able to find a way to cheat it, and I mean this probably this case was no different. So, uh, we are pretty much like investigating all that. uh, We.
+
+[03:27]
+
+That pretty much all top hundred leaderboard cheaters. So, uh, we will be taking an action. um, So, this morning. So, you know, based on the master, what you're telling me is That it's not us.
+
+[03:42]
+
+Yeah, yeah, yeah, it's obviously. Oh my god, what? uh, I mean there are like many players, uh, were just um kind of cracking the way how to.
+
+[03:53]
+
+Yeah. Uh, Stack the tiles, uh, probably by using some scripts or or something. And because it's a skill based, it's something we cannot like really validate. uh, We we we try to provide them with some extra tech on that, but like literally there is no Way how uh this can be solved. uh.
+
+[04:15]
+
+Yeah, on its own. So, uh, I guess there is bunch of things to learn on that. uh, I'm I'm pretty sure like Stacking will will make sure that um. uh, At least majority of the cheaters are removed, and will reward the community.
+
+[04:30]
+
+Obviously, uh, it gonna need some adjustments, uh, as we see like skill games are kind of having a hard time when when they're when the rewards are on the line. And uh but but that kind of opens up for the next the next thing I really wanted to talk about, which is forest is decay, and.
+
+[04:50]
+
+This is something we started to work a few weeks ago, and last week we already released that, let's call it like v point one version of this d k.
+
+[05:02]
+
+And what it does is just kind of becomes um an easy way for your AI web coded app or your um like Hand coded up whatever. uh, You can just easily tap into uh into our APIs, and you can get ability to look into the users' wallet.
+
+[05:22]
+
+You can initiate the swaps, and most importantly, we will be working on the next feature, which which which will um enable um. And allow you, and allow like a developer and app to work with user balances.
+
+[05:39]
+
+So for instance, it will give a complete freedom to make, let's call it like a farming game, for instance, where where you have to spend coins to or tokens to build like a farm, and let's sayuh, Then use that farm uh to generate more coins.
+
+[05:54]
+
+And in return, you can either use them to upgrade your farm or just go and swap it uh for for for token. uh,And having like this layer, I think will be one of these um crucial kickoff moments, because. I think this will enable users to create games that doesn't depend on a skill.
+
+[06:17]
+
+And I already s- like I was like scrolling today, like today's Discord, and already saw like people's basically saying that It's a really hard to work with skill games, but when it comes to crypto.
+
+[06:29]
+
+the strategy games slash ponzi type of games are kind of what really works the best, because. There is no way how you can cheat it. uh, The only thing you can do is just make a decisions, and and those decisions um are pretty much stored on chain, so it kind of removes the cheating element, and. uh, Yeah, so, I I I guess the resume of this is we saw like a uh.
+
+[06:53]
+
+Good interest in the skill games. I mean the game itself is kind of fun. I I I think Jackal you had a uh you had a few rides, uh you haha few few spins on on on setting high score.
+
+[07:06]
+
+On that game, uh, but. Stack. Yeah, I'm stack. Yeah, I just, I I realized that, I mean obviously that I I guess like the automation also comes from. Comes if you crack it, cause like my theory was that, cause I don't know how these games are built, I only know how Zevis is built. uh, I figured that there's probably like a rhythm to it, cause it felt like Really, you know, it do, I I don't wanna like co-,
+
+[07:31]
+
+really compare like Sekiro Shadows Die Twice with Stag Game. but there's like, so, like Sekiro has like these parry rhythms, and uh, I'd really reminded me that there's probably a rhythm, which I can't seem touh, Figure it crack out, but um, uh, you know. uh, I'm a I'm a part time, um, I wouldn't call it a musician, but uh you know, the issue I struggle with the musical instruments as well is not being
+
+[07:56]
+
+on time, so. Stack, maybe, just isn't for me. Maybe, I I I I guess uh uh what we found out is definitely for uh for cheaters uh to spend some time on that game.
+
+[08:10]
+
+But um yeah. I guess we have some some uh some uh some trouble with the skill games. And uh but I guess it's just a fun little game. uh, uh, We we try things we learn, we learn things, and and and then we uh come up with.
+
+[08:31]
+
+Some other solutions that we can uh use and find a better fit. So souh, That's kind of on the stack. uh, I I'm I'm pretty sure, uh, the the forest community team will be sending out some updates.
+
+[08:47]
+
+Over this week, about the about the prizes. If you see like last minute top hundred score score overtaken by uh apparent cheaters, don't worry. um.
+
+[08:59]
+
+There is people like actually looking into it, and will be, we we won't be supporting um some bot farms or cheater farms. Yeah, we, I I I think we do have a track record in uh you know.
+
+[09:11]
+
+The being uh quite uh upfront with the people exploiting, guess, uh huh, a harvester, uh huh. um, But uh yeah.
+
+[09:24]
+
+So wild and good time. Takes you back, huh? Yeah, we we we we should we should do harvester again. Ha ha. uh, uh, I I I refuse. uh, Ha ha ha ha ha ha.
+
+[09:37]
+
+But now, I actually, we, I know, and have we've talked about this, we do have I don't know this kind of attraction to the receiver territory. But uh I've seen uh in testing as well as some uh tournaments. Could uh you know, as they've find some, you know, passive time for some.
+
+[09:54]
+
+Passion parts of zivers, uh, they do touch upon, and I know tournaments have been something that at least have been in you know additional testing, and you know I would love to bring back harvester.
+
+[10:06]
+
+you know, minus the uh minus the uh community standing around, and me being in the middle, being kicked down to the ground. uh, Minus that part, if we can do that, I I would love another harvester. uh, Ha ha.uh, You know, but uh as you said, uh.
+
+[10:24]
+
+We build, I'm, you've said that before we build things, we break things, so we learn from it, and we move on. uh, So yeah, uh, that's the cost of building in public. Yeah, so I, uh, that being said, I guess, uh, to to wrap it up, to wrap up the stack topic.
+
+[10:41]
+
+People are looking into it. uh, It's cool that we had a chance to see how skill games work with, when there is like a competition, when there's our incentives.
+
+[10:52]
+
+Definitely few things learned. uh, We already are working with the the same team who is building the next game that will be more focused around strategy and planning and resource deployment rather than than skill game.
+
+[11:06]
+
+And I I think you gonna love it, and and this will be probably the first build project, that will utilize the the upcoming SDK features. And what's beautiful about it, it will be back as an agent skill.
+
+[11:21]
+
+So, uh, anyone who have access to ChatGPT or Claude will be able to just. Enable the skill, and your agent will exactly know how to build an app you describe, and seamlessly integrate. uh, The support for m-, manipulating with user balances, initiating swaps, reading the wallets,
+
+[11:46]
+
+and and so on. So, it's it's kind of like a. Super easy to plug and play toolkit that that uh make Really complex things, such as uh managing user balances, uh, deploying smart contracts, etcetera. uh, Super super easy, and for for for you as a builder, it will just allow allow uh to focus on on
+
+[12:11]
+
+building like them. The beauty beauty part, I guess I guess uh the surface lay- layer, so you don't really have to focus on the infrastructure. So anyways, that's kind of something to keep your eyes on. uhThere is also coming in a new experimental Walt.
+
+[12:29]
+
+This will be the first seed Walt of its kind where we will be partnering with some partner projects, and we will be air droppingum, Some tokens that are not forest token. um.
+
+[12:43]
+
+Through these auctions where where where users using seeds. So kind of more utility coming to the seeds, making the seed world game more um dynamic. More um.
+
+[12:57]
+
+More more fun, I guess. So, it's it's uh it's something to look forward. So, if you had some seeds uh and you still save them, it's good. uh, Like I said, there will be many opportunities.
+
+[13:08]
+
+If you don't, um, it It's it's very very easy to obtain those seeds just by staking some of the tokens that has been lying around, and and at the same time, uh, just keeping your eyes open. uh, We also have a daily quests, uh, and like basically like a quest board that rewards you by inviting friends and incentivizes you to try like different tokens and
+
+[13:33]
+
+projects, and in return rewards you with those uh nice seeds. So, uh. It's really simple ecosystem, really simple loop, and and and the nice part is to see it actually all works uh quite well.
+
+[13:48]
+
+So, uh, all we have to do is just give it a bit more push, and. I I think we'll soon start to see some wonders happening. Souh, Yeah, I guess that's on the, that's on the forest. uh, Meanwhile, I'm I'm like reading chats, so if there anything else, uh, popping up on your mind minds, feel free to drop questions here. uh, Meanwhile, I'll give war to Jackie.
+
+[14:13]
+
+I think he has some cool stuff to share today as well. And yeah, let's uh let's talk Zvers. Yeah, uh, alright, so, uh, you know, to kick things off, uh, Guangzhou said, speaking of horror, so everyone will the ever- ever- ring tasks that one of our community might be released. uh, You'll have to refresh my memory, cause uhQuite frankly, I don't know what you're talking about. uh, But uh you know, maybe I'm just uh misunderstanding something.
+
+[14:38]
+
+All right, so, cool, uh, campaign part uh two. That comes with the, you know, uh back in two piece. So, our one of the develop, so the first quest called back in one piece, and one of the developers used the placeholder name.
+
+[14:53]
+
+Back in two piece, and I loved it. uh, But if we're not keeping that unfortunately. uh, Is right around the corner. We are submitting builds this week, and we are getting uh getting the part two uh next week. uh, Caveat, uh, the As we are getting a new evolution of Z, uh, and we're getting a new Z that everybody
+
+[15:18]
+
+will be able to get. So, we're kind of finally starting to crack at the fact that Z versus. Again, about these, uh, uh, not the worse, but um we're cracking at that, and we'll be introducing finally the tenth. uh, 3Z.
+
+[15:36]
+
+So, currently, we have the starter 9, and rest of the DZ have been like collaborations, special editions. uh, And we want More Z to be acquired through casual gameplay, through progressing the story, and Rakko, which is the dark matter uh Z, we're we're getting uh. uh, Next week, uh, will be the first come, and uh wu, do do
+
+[16:01]
+
+I have, uh, just one moment? So, uh, I'm just saying, ah, you know what? uh. I think ever two might, uh, ever, I will be dropping both ever one and ever one, r-, raku. uh, Pictures, I think ever two might still might still be working progress, but I don't have uh ever one saved in my clip, pasteboard, so.
+
+[16:21]
+
+You're getting both of those. uh, So yeah, Rakun uh Rakko will be um. Dark matter, uh, type Z. uh, The first ability will be able to blind the enemies, uh, and similar to how Zumba works, minus the burn.
+
+[16:38]
+
+And the second ability will be similar to Chompa, as it will provide us stealth. um, So, uh, uh, so, I'm sorry, I'm just seeing Guangzhou's, uh, miss, yeah, I'm not reading all that, is that, oh, that's the quest, uh, yeah, quest is coming.
+
+[16:56]
+
+Sometime, but I do reckon guys you are more interested in uh great tree and the forge quest rather than the emerald. Actually, fun fact, and this is just you know, behind the scenes uhuh, That I had actually written, you you know, based on the sha- Shalan ark- on ark's quest, I had actually written the Amber Wings Return.
+
+[17:18]
+
+And how it would tie into the forge quest. However, uh, we wanted to provide the great tree and tie these two quests together. So we had to, you know, a- a- just a little bit. Original idea was that the Amber Ring would also be a world boss, and I'm not saying it won't, I'm not saying it won't, but uh for now, uh.
+
+[17:38]
+
+It'll uh take a little bit. We could we could do this quest, you know, as small as the Jackal's Prank, or like bigger one with like cooler unlocks, and uh we rather go the second run. uh, And yeah, so if you if check the chat, you can see the record. uh, What are we looking at, what are we looking at for in the uh p- part two?
+
+[18:02]
+
+So we've shared quite a bit. uh, I wanted to, I I've took some work in progress, things from from the chats. We're getting um actually three new NPCs. uh, I know there's four, but um uh.
+
+[18:18]
+
+As you approach these dungeons, and these dungeons have these small uh small, quote unquote puzzles for you to solve. uh, I mean, not really puzzles for uh experience zerver player, but you know, a little challenges for the new.uh, For a new shaman in these lands. uh. uh, These NPCs will kind of be like your checkpoint that will aid you through through this.
+
+[18:39]
+
+And um yeah, every dan, uh, there's gonna be one by the overgrown dungeon. Oh, by the way. Also smaller thing, but you know, grass dungeon feels like uh a a a s- a s- a sillier name, and we will be also renaming the dungeons and following the naming scheme. uh, The grass dungeon, as you know know it currently will be called mountainside, and the second dungeon will be called
+
+[19:04]
+
+the overgrowth, and the third one will be called the well. And speaking of dwell, I also have a you know a small look at the dwell level, uh, level, uh.
+
+[19:20]
+
+Right, yeah. uh, Makes it's uh, there's like some some neat little caveats I could go on about, as for how this is in uh. This is in low quality, but uh the lightning, uh, and this is ra- rather the uh lightning test, uh, as uh we have optimized like nicer lightning for lower end devices, uh, so we actually, the zippers keeps on looking better. uh, With
+
+[19:45]
+
+lower devices, but yeah, this this is the levels, uh, the level and the wave select, like wave. Experience through the well dungeon. But yeah, I'll working progress.
+
+[19:56]
+
+Honestly, I'm so surprised uh how well we made it look. This is this is auh, This was kind of like, uh, I remember the first time I saw it, I'm just walking by, and I'm asking, okay, is this for like cinematic?
+
+[20:13]
+
+And the guys are, no, no, this is like default graphic settings in mobile, I'm like, oh my fucking god. uh, This looks so much as an upgrade, and that kind of pushed us, uh, I remember this kind of pushed us into into the.
+
+[20:28]
+
+Into much deeper, hmm, uh, li-, like into the idea that z versus about z's, right? yeah. So so we kind of move the verse away, and and wanted to really focus a bit on more on battles. uh, We realized that the battle like scene and animations and bunch of like balance hasn't really changed since early small island days. uh,
+
+[20:54]
+
+And um and and yeah, so so we really wanted to pay some attention here. uh. We had built amazing foundation, so like these changes kind of came relatively easy and quick.
+
+[21:08]
+
+But but yeah, again, I I'm like a super um uhuh, Supremely by how well this thing looks, even on like mid mid tier, uh, and maybe even low tier mobile phones.
+
+[21:21]
+
+So, uh, yeah, I I I I feel as players. Will be emerging in these dungeons. You will really have a good feel and immersion, and and just, you know, at the end of the day, it's all about like these small nice little things.
+
+[21:38]
+
+And and and as we are doing this situation, it's it's great, um it's a great opportunity to just kind of pay more attention to these. Details, and kind of uh give the right impression about this diverse when it comes to vast player audiences.
+
+[21:54]
+
+So, um, so yeah, that that's kind of like make two sense on on umI'm seeing the new environments for the battles. Oh, yeah. uh, And to to also, you know, uh, I initially mentioned there's a caveat with the Reco. uh, As Reco will only come in one evolution. uh, Next week, as uh
+
+[22:19]
+
+our uh our team does need a little bit more time to finish the second evolution. uh, On the bright side, most likely. You guys won't be able to evolve it just yet, you know, still training it.
+
+[22:30]
+
+So, it, nobody will really feel the difference. I I mean, you shouldn't, unless you're like you know, uh crazy grinder. um. So, uh, we will have a follow up update.
+
+[22:44]
+
+Maybe even next week, at the end of the week, or hmm you know. Actually, let, uh, I think there is really one cool thing. You just mention evolving, and um I mean, I know, and you know.
+
+[23:01]
+
+Some players in our community is is about to kind of break this, uh huh, uh, this idea that you, there is not enough time to actually train and involve them.
+
+[23:12]
+
+But uh but yeah, like like you said, uh, they've all evolved version will ship like around one week later, just because uh we had like a few hiccups and we needed touh, Some extra time. uh, but we didn't really want to delay the whole update just because of evil too.
+
+[23:27]
+
+But the thing I wanted to kind of point out is, nothing changes guys, in order to evolve. Your uh raccoon.
+
+[23:39]
+
+Raccoon, raccoon, raccoon, raccoon, sorry, sorry, uh, I, I, I take blame on myself. In order to evolve Raccoon, you need three freaking Raccoons. Do you understand that?
+
+[23:51]
+
+And the beauty of this is that uh if I'm not mistaken, uh, there you can only get one raccoon by completing the quest. Oh, oh yeah.
+
+[24:05]
+
+So this kind of brings in this interesting dilemma where you will have to find a bunch of other players who have gotten them. um, Maybe, and just maybe are willing to take part, uh, willing to part, uh, with them.
+
+[24:21]
+
+So, I think it it will kind of bring in a bit of like um. Fun little trading angle uh within it for for people who will want to really push on them, and and make sure they can involve it, and and basically I send it.
+
+[24:36]
+
+To level 50 plus. So that's kind of one thing, one cool thing to notice is that uh you can obtain it by completing the quest, but it's kind of one per player, so.
+
+[24:47]
+
+You'll you'll be, uh, you'll have to. To trade. uh, Cough, follow up the evolve once or twice. I mean every these evolve once after um currently we uh currently the level cap being level 99, uh means you cannot evolve it the second time to evolve three.
+
+[25:05]
+
+So, uh, for that, uh, you know, the the simple answer is, yeah, you just don't think about that. Like, we're so far ahead in, I mean, finally, a lot of people like that are not, you know.
+
+[25:19]
+
+I would say heavy spenders are finally getting into the uh level 99 range. Oh, Tyler, the longer you don't sell them, the the bigger the stash is gonna get. You better start running those drugs.
+
+[25:31]
+
+We're not uh currently, it's not in our plans to do bulk sell from the stash for these relics. uh, So, you you know, uh, ha. The logger, you don't sell them out of spite. uh, Yeah. uh, Ah. That's the, that's the. I I you know, I I ran like I ran like 700 800 chip.
+
+[25:54]
+
+Mugs, which like yielded less, and uh you know. You could ask me, shouldn't you be working instead of that? Great question. I will refuse to answer, but I have done that, so why can't you? uh, Ha, I mean, every everybody is doing that, and if you're just collecting the amounts of fight, that I mean, that's the biggest collection probably in the zivers. uh, But um, yeah, but
+
+[26:19]
+
+that's a good point about the noted items. uh, We we spoke about this while ago. I'm pretty sure this is already sitting in our uh backlog. And I, uh, see, you you know, you know, can I just quickly like overtake you, and you know, just put one thing out? uh, Tyler, because yesterday, Tyler was like also saying something in regards to a trading interface. And you know, I'll, you know, I'll just be brutally honest
+
+[26:44]
+
+right now. We have such little friction for people to exploit us, be that two Two minute wait time for dropping items, or B, that twenty spaces in inventory, so you can only drop twenty items, and to remove that friction to uh to cater to a small percentage of gamers that will have this QOL.
+
+[27:07]
+
+to remove that s- uh the e- al- almost non-existing friction already. To you know, empower the exploiters, is just not something we're looking to do right now.
+
+[27:18]
+
+You know, 100,000 players, active economy, you need these peo- You know, it's like Wall Street, you know, sell sell, buy, we need these things to go around. Yeah, we're doing all of those things, we're doing all that items, we're doing these things, but you know, uhJust not in our scope right now.
+
+[27:35]
+
+Yeah, that's a, that's actually a really good way to put it, because uh. I I I definitely see a way where this is super handy for every legitimate player out there.
+
+[27:47]
+
+But but like Jackal said, uh, it's kind of like increases the stakes, so if there is like anything happening. It can happen much much faster, and and and this unfortunately unfortunately just removes some of the time we can uh use to react on these things. uh, But yeah, so. uh, I love the way you put it, love the way you put it. uh, And yeah, I just, I tap the. Cool. uh, I I I love, okay,
+
+[28:15]
+
+there is a question from amonga. How is new user onboarding going? Do you have more data regarding that? So Right now, we haven't pushed in any new users. So, what we did, we basically spent last two weeks.
+
+[28:31]
+
+Finishing the second and third quest, because what we realized that was that every user we got in in the last campaign. uh. Went through like the most engaged users, not not even the most engaged, just engaged users actually went through the whole uh campaign part one.
+
+[28:51]
+
+Too quickly for us to be even able to judge what happens after one day, because most of them just played through the whole thing in in like one or two hours, and and they have naturally question what next.
+
+[29:02]
+
+So, before we wanted to see what next we actually have to provide these users with a content. So, uh, right now, we are preparing for the next wave of like getting in users.
+
+[29:13]
+
+This time, uh, we are approaching it. On another level, to put that in a context, if they Previous campaign pushed in around like 1,000 user. um, Over like that previous period of time.
+
+[29:28]
+
+Now we are looking to put in at least 10,000 users. um, Why? The moment we have like all the three uh main quests out, and and like Jackal said, the beautiful part is, um, we are submitting update this week, and um we are estimating that we gonna release this update on Monday.
+
+[29:47]
+
+So And pretty much just three four days, uh, until the update rolls out. And and yeah, and and then we just kind of will push in um bunch bunch more people. uh, We'll be able to monitor the data again. uh, But overall, uh, the data we obtained helped us to fix many issues. uh, Most of them were quite small, but still, uh.
+
+[30:13]
+
+Kind of ends up stacking up. So, uh, I guess the simple answer is it's going uh pretty good. Daily rewards are very cool.
+
+[30:24]
+
+Please don't stop them. Ha. uh, I was about to, I was about to. ha, Yeah, let's, uh, I mean, because he has. The way we do it is we First, we love to find what people love about Zeevers.
+
+[30:40]
+
+And then we just remove it. That's that's kind of the way we do it. I'm joking, I'm joking guys. uh, Actually, uh, I'm super excited to see how daily rewards are working because umThis was more like a, uh, the simple prototype we design. haha, OK, it it it took it took you some time, took you some time to get it. uh. So,
+
+[31:06]
+
+the daily rewards uh we introduced, is kind of the prototype of the system we wanted to have originally in a place, but we didn't want to kind of make it too complex before it's time to do that.
+
+[31:19]
+
+So, um, rest assured daily awards are staying, and we are actually looking um. Into the system, for a way to add.
+
+[31:32]
+
+Another uh layer on top of that, uh, something that will reward you for staying around more than a week. So, we are looking at probably monthly calendars.
+
+[31:44]
+
+And maybe some special rewards, and and some some other special stuff as well. So, um, hmm, so yeah, uh, we are we are totally um uh doubling down on that system as we will go.
+
+[31:56]
+
+But for now, this is how it is. We want that thing to keep and be simple. So, um, so yeah, um, if you have any ideas, any suggestions.
+
+[32:10]
+
+Just drop us, uh, drop them in in any of the channels. So, uh, as a final thing, um, speaking of, you know, us taking away things you love. uh,uh, And let's speak about something something that we will be bringing back. uh, Hiist, um, so, Hiist is not coming uh internet next of them. Maybe together.
+
+[32:44]
+
+Because highest was disabled before we did the UI rework. So, uh, while we do wanna keep highest, bring back highest, as like, I think for you guys to do, I think for you to give you guys the ability to build out the highest yourself. uh, We don't wanna, you know, commit too many de- de- resources to the high, cause we are, we can't afford, we can't afford, you know, the more de- resources goes to, for example, high,
+
+[33:09]
+
+the later we finish the onboarding campaign, the later you get the forge quest. The longer.  you keep on saying the same stuff uh about uh you know us having abundance zippers uh in the mass chat.
+
+[33:20]
+
+So, uh, you know, that resource is quite small on on Hive, but we do need to do a UI rework for Hive. We'll we'll be fixing a couple of small things, small exploits for the heights. uh, But we'll be bringing it um uhuh, Back immediately, and we'll be resetting the yellow to everybody. uh, And you know, as we reset the yellow, uh,In
+
+[33:46]
+
+instead of before, I will be pitching the first big question uh for the highest, which will be, should it be 3V3 or 5V5? And you know, I will be listening to a lot of discussions, and I hope we can make a discussion, instead of you know, a lot of people staying silent, and then you know, not being happy.
+
+[34:05]
+
+So, uh,highest will become. uh, I can't I can't uh avoid not to use the um the uh funny term, but you know, think of highest as community takeover. uh, Ha ha. I see the offer rise, we will be you know sponsoring the by box and everything. uh, And we will be listening. uh, To you guys, and I will be,
+
+[34:30]
+
+you know, taking all of your suggestions, forming them into questions, uh, and putting them back. And guys, you might have the greatest suggestion, but you know, if Other people uh take take over and do not enjoy that, then um that can change.
+
+[34:48]
+
+Also, the beauty of heights is you know, as the community you know. uh, As we are closing in on, you know, finishing the onboarding, getting more community in, uh, hopefully getting all of old community, you know, woke and up. uh, These guys rules You know, they can even be proposed to revert revert them, maybe go back to 3V3 or uh revert something.
+
+[35:11]
+
+So, uh, Highs will become uh product of the community, and nothing will be setting so. uh, We've talked about this, uh, and just wanted to bring this up back.
+
+[35:22]
+
+Now, most likely the update uh pass the next update, uh, and that is not counting the one where we had record over so.uh, I think it's 1.12 most likely than.
+
+[35:37]
+
+If you uh if you just allow sell in order without the need of carry items, there there will be no exploits, instant quality of life for everyone, very easy to implement, you do that in the marketplace. uh, but. That's not why we are implementing relics, cause then it's like, oh, what if you just dropped a spirit instead of relics, you know? uh, uh, you know, uh, that's something what we did imagine for you to run. Overall,
+
+[36:03]
+
+honestly, that idea is not that bad. I mean, yeah, but temporary solution, because what we are mostly afraid is that, like, ability to stack items that shouldn't be stacked would Like exponentially amplified any damage, uh, that otherwise wouldn't happen.
+
+[36:23]
+
+But when it comes to like actually selling these things, the horror, or maybe that's that's a kind of uh nice mill ground. I I I I I I'm just putting out my blessing here, if you think it's a it's a good thing, then uh may maybe we can push it through. uh, But yeah, uh, this is on Jackal, so. uh, If If Jackie thinks it's a good idea, we can get it.
+
+[36:46]
+
+It it it's not, I just uh I feel like this ki- kind of conflicts, uh, cause literally the question toum, My question back to the euler, if you're having a public discussion about it is.
+
+[36:57]
+
+then uh, uh, it's quite hard from, then, uh, why do we have relics, then, you know, if you can install them from scratch. His good point, his good point. uh, I mean, uh, if you really want to know why we have relics, uh, it's it's actually um. Wine drops, hahaha.
+
+[37:15]
+
+The reason why we have relics is because we wanted to have some variety, uh, when it comes to the rewards. And and even if like the actual amount of coins you receive from Spirit you received from the battle on average doesn't really change the perception of the reward really does.
+
+[37:33]
+
+And and and and this is kind of just like one on one game design thing. So that's kind of the main purpose what we have here. But obviously kind of Having your relic just picking it up, bringing it and selling it is part of the experience as well.
+
+[37:50]
+
+So anyways, let's let's not waste too much time here. uh, I think we have a bunch of other stuff. And one of the questions I wanted to address is by global hope. Where is the majority of downward self pressure for be coming from?
+
+[38:04]
+
+Aren't there a lot of be things? uh, And the answer to this question is most likely, uh, it's coming still from the old staking contracts, because the old I haven't really like hmm analyzed uh we token economy last last last month or so. uh, But it's nice that you pointed out, so I'll probably
+
+[38:29]
+
+have a look and ask. Our analytics team to look more into it. But uh I'm quite confident that it's coming from um old staking contracts that had uh rewards vested for over a year. uh, And that in practice means that even if we stopped that program, uh, generally remember when we stopped it.
+
+[38:50]
+
+When was the last time reward? A lot of reward was sent out. I can quickly uh look up. uh, Wait, uh, last reward for v withdrawals or staking. uh, For all the v uh staking rewards. uh, Withdrawals are long gone. uh, Like, we don't see any any selling pressure coming in from all withdrawals as All of that
+
+[39:15]
+
+has been finalized. uh, But I'm afraid that there is still a bit of time left from the old staking, uh, we token staking, uh, reward. Contract that uh still has some rewards in the vesting, and and and these are the tokens that kind of constantly hit the market, because People who stake back then, uh, some of them, I guess, are are just selling it.
+
+[39:40]
+
+So, uh, that's a that's That's kind of something we have to just kind of get through. um, After after this, I see the economy to be quite clear.
+
+[39:53]
+
+In terms of uh new supply entering the market. Overall, uh, what's quite beautiful is that Zivers has been constantly locking in and consuming uh the v tokens.
+
+[40:10]
+
+I mean people are still evolving the disease. People are still using some of them to. To convert them to the V token, and uh also, we see a lot of people like depositing and using Zivus as a system sort of a bridge between Arbitrum and Ronin. So, uh, I We are actually considering to add a like a small fee when it comes to withdrawals. um, Because we see like a lot of
+
+[40:35]
+
+activity uh where people just use use Zivrs as as a bridge uh through the the positive withdrawal system. But anyways, uh, putting that aside, um, I I think the main uh.
+
+[40:49]
+
+Mainstream of downward selling pressure is coming from uh still uh like a sea taking contracts, and it could be a month or something, maybe more. uh, Check out, do you, do you found it? uh. uh, We, uh, we stopped, if it this is in regards to the ambassador program that happened on the 29th of January. uh, But, yeah, if uh if I got the correct thing.
+
+[41:15]
+
+But, no, I mean we had like this old legacy, be token staking contract. I think ambassador program rewards were already air dropped. uh, Legacy contract, uh, we announced the legacy staking contract.
+
+[41:28]
+
+That will be sunsining the rewards on 45 days post 19th of January. I do apologize for not being able to do this math mentally, but.
+
+[41:39]
+
+OK, but that was like this year or 2024? This year. This year. So that's three months ago, basically four months ago.
+
+[41:51]
+
+I'll relay this to the uh trustee, yellow lamp. uh, ha. OK, uh anyways, uh, that's that's kind of one of the sources. uh, But, uh, it's it's pretty much drying up now, so.
+
+[42:05]
+
+Comes out, I guess is, fifth of March. Fifth of March, when the legacy contract rewards were sunset. Are you sure it was not 2025?
+
+[42:16]
+
+I don't believe we did it like two months ago. Am I guys am I crazy? uh, Have I drank like too many beer? uh, How many farmers are selling to the geckos and dumping v on the decks? uh.
+
+[42:33]
+
+Don't really see much of that activity, and and another thing to keep in mind is that the the beauty of this design is that.
+
+[42:46]
+
+The token. uh. As a liquidity in the Geekspears is very very limited and isolated. So that means even if there is some item that's being like farm to hell, what will happen is it will leave a relatively small.
+
+[43:04]
+
+Impact on on the token price, but it will probably just dis- completely destroy the price uh for that specific item in a pool. So that's why I can, uh, we don't really. uh, We're not quite afraid of somebody coming in and farming some specific item, because uh if that happens, so the impact will be very local and very limited.
+
+[43:28]
+
+And we are obviously keeping track uh keeping a track of that. And and and what from what we see usually it's not that a big deal. Maybe there are some guys who made uh some fifty hundred box, but.
+
+[43:41]
+
+It's um not nothing nothing to worry about, at least at least for now. So. All right, um, yeah, so, um, I guess on my part, I've uh uh I've uh covered majority of the upcoming stuff, um, and guys, if you have any questions for For uh for me or Yoler, let me
+
+[44:06]
+
+know. But Yoler, I guess I can give the ground to you, and uh if not, we can uh you know move forward to the uh premium pass giveaways, and wrap the today's community call. I, I, I see. uh, glo- global was writing something.
+
+[44:20]
+
+I mean, boy is still have some time, uh, drop the message, I'll do my best, best answer. Yeah, if there is uh not many other questions, so, I'll wait a minute or few uh before wrapping up.
+
+[44:36]
+
+Jago, I'm not sure you mentioned, but uh I think we thought you will be doing like some some some filming with community members for uh for the ads we are creating. uh, sometime, soon. uh, Maybe let's use this time, you can share a bit more detail on that.
+
+[44:55]
+
+Sorry, I'm quickly preparing to go away. uh, So, just just a moment. OK, I'll I'll I'll do do your thing, I'll I'll just try to.
+
+[45:08]
+
+I'm I'm I'm I'm I'm here and ready to get weird. uh, So, uh, we, I also talked about it during the last stream. That during the next stream, we'll be uh uh raffling out a couple of relics, and I believe I have a blessing to give out one Genesis mask as well.
+
+[45:28]
+
+And what we're aiming to do is getting a lot bunch of you guys together, and we'll be performing, you know, various various things. We will be fi- filming, uh, making making a movie around the theme.
+
+[45:41]
+
+And what will uh what I'll be doing is filming, as you guys you know are fighting for for uh minds and being in the dungeons.
+
+[45:52]
+
+And running run- running around, you know? uh. Popular places or like running uh to the veil of souls. uh, We'll be, I'll be you know, directing all of these actions, and all the participants will be entering uhuh, A giveaway, I wanna make uh your time worth, and ha Ziver's movie, yeah, and uh yeah.
+
+[46:15]
+
+getting some cool shots, uh, and you know, we're doing, we're all in this together, so. uh, What is the thing I can say is that uh I think you will want to be there, because I mean the mask is cool, some rewards is cool, but I think the the fact that we'll be using this material as a part of our our ad creative strategy.
+
+[46:40]
+
+And and those creatives, uh, I think will hit probably few million views at worst. So, uh, I mean, that's that's a way how to become a bit of like a zero celebrity. uh, Because we will be putting some budgets on on those creatives.
+
+[46:56]
+
+And um from what we can already predict, it's gonna be few million views for for those clips. So, uh, I don't know. uh huh, May um be there, and and you'll have something something to brag about.
+
+[47:11]
+
+As the time goes. uh, Build the shadow. uh, So, there's a co- question. uh, So, globalhoff asked whether we're going to change the high- high level ingredient drop rates from Numbra to which I had replied no.
+
+[47:25]
+
+But then the follow up question is, will the umbra ors be used for higher level tools? And are those from other minds? So, uh, two part here, uh, first follow.
+
+[47:37]
+
+They will be used for higher level tools, and that's something uh you know we did postpone with the. uh, With the uh onbo- onboarding uh refocus, but we will be uh allowing you guys to before before you know the land game plays comes out. uh,Craft higher level tools from mythril adamantite on a and oceanite, and later
+
+[48:02]
+
+on, you will be also also be able to mind these things on your own private lands. uh, As you do with iron, and coal, and bronze. uh, I'm sorry, copper and tin.
+
+[48:13]
+
+So, uh, the the the tools require. B, P, s. What? uh, So, ha, uh, you can you you can uh blueprints, no, uh, those will unlock as a crafting recipes. uh, Um, bergere is uh rare. um. Lanson, uh, you know, let's keep this a positive uh
+
+[48:39]
+
+co- community call and skip this question. uh, Haha, no, uh, uh,Post onboarding, we we can resume the f-, uh, focus on the land. Yeah, uh, uh, like, I mean, I understand the question about lands, uh, really that's no going there, but uh. Its lands are now more aligned than ever. uh,um, uh, naturally, just think of this is like that.
+
+[49:04]
+
+naturally, when you have some onboarding funnel, and we start on board people, and they start to. Show up every single day, and and and we kind of get a busy city, we start to get busy world. uh.
+
+[49:21]
+
+Naturally, most of them will want to mingle, and and and some smaller communities. And I think this is a really good time to even start experimenting with opening some lands, uh, because the moment there is some demand, uh, that's kind of the moment I see, it's it's point even considerate. uh, to push.
+
+[49:41]
+
+Further, or or give in, given some some level fairly excess. So, um, yeah, uh, it's it's I think safe to say that uh we are more aligned.
+
+[49:53]
+
+With the land release than ever, and and as we see how everything happens, um. It's um yeah, it's it's it's quite positive, so um yeah.
+
+[50:07]
+
+Yeah, uh, I guess uh you know, on the, I see Taylor stepping. uh, We can uh, we can wait for everybody finish stepping, and uh yeah, then look to. Any new update plan for Ziv's mini? uh, Really good question. uh,uh, It was not until you asked the question, so maybe there is.
+
+[50:30]
+
+Good way to combine it with some of the stuff we're doing in the forest. But yeah, it's skill game too, so it's uh. is gonna have some problems. uh, So, uh, yeah, we'll see we'll see. um, I I still love the Zero's mini.
+
+[50:49]
+
+I'm hundred percent sure we're gonna use it. uh, But we have to use it in a correct way. Otherwise, it's gonna be a bad experience for everyone just because uh people are willing to spend their time cheating to win their awards, and and and and that's kind of reality we're in.
+
+[51:08]
+
+So, this is just something we keep in mind. But uh yeah, uh, overall the game is super fun. um, Another thing actually about Ziva's mini, but when we really tested Ziva's mini, we were not in this Level of AI era, as we are now. At that time, nobody could just open up uh claude and ask you all write me a script to win this game. um,
+
+[51:34]
+
+Which is apparently harder, uh, easier to do now. um. But yeah, uh, thanks for pointing out. I absolutely love to see people remembering and asking about Zero's Minis, because I really really enjoy that game and that project, and And it's very very aligned with what we do, and um uh good that you pointed it out.
+
+[51:59]
+
+We'll we'll see what we can do. umTo to bring it back. OK, guys, uh, I guess uh we can wrap up on this note. It was um super cool uh to chat today. uh.
+
+[52:16]
+
+I kind of start to think maybe it's even better to have like a one week of pause, because then I feel like all these uh AMAs may have better like dynamic. uh, So that's the thing to keep in mind.
+
+[52:28]
+
+Overall, um, love love you guys, I love that you showed up. uh,Really good questions, and uh it's time to be excited uh about the next week's release.
+
+[52:43]
+
+So, looking forward, cheers guys. uh, Thank you, thank you,uler. And currently, and now, what we will be doing is we will be having, we will be raffling out three 1 month premium passes.
+
+[52:59]
+
+Let me quickly share my screen, and then we can do it. I cannot share my screen. I love it. Never mind, I lied. All right, cool. uh, So yeah, uh, you, I mean most of you already know how this goes.
+
+[53:12]
+
+If you win, open up a ticket to claim your one more premium pass there, and if you have a aum, If you have a Genesis, the social chart, you can um, you can share that.
+
+[53:24]
+
+you can share that premium pass to somebody uh that's close to you, or you wanna get into the zivers or me uh anyway.um, Alexander wins the first one. E, a key wins the second. Right,
+
+[54:01]
+
+and the third premium pass goes to. Z and 2020. Congrats. I'd love to hear what you think. Zine, twenty.
+
+[54:23]
+
+And submit ticket. All right, cool. uh, Thank you guys for coming over today, and I will see see you next Tuesday. uh, Let's uh let's uh film a movie huh?
+
+[54:34]
+
+All right guys, see you, Chucho.

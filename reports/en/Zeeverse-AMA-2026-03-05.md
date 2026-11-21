@@ -6,11 +6,13 @@ Jackal gave two answers on the same call when players asked when the tutorial wo
 
 ## 1. The tutorial and UI would ship together, and veterans were invited to try the first hour
 
+[18:25](#t=1105)
+
 The call showed screenshots from an internal build. Jackal pointed out new text and dialogue, a rearranged village square and vegetation, the minimap, Stash, and the fog of war that remained on the map. The old Stash had been a frequent source of friction, so players who had already cleared the first round of dungeons would benefit from the UI rework, too. Jackal said the team wanted to avoid a Friday launch to allow time for stability checks and fixes. The update in the second half of the call confirmed a combined release. The team intended to submit on Friday and targeted Monday if it passed review without delays. The March 9 announcement for 1.8.0 later confirmed that **the new tutorial, UI, minimap, and reworked Stash** shipped together. [1.8.0 release notes](https://zeeverse.com/news/1-8-0-release-notes)
 
 Jackal opened by saying the UI might come later. After receiving a message from the team, he updated the plan for submitting the tutorial and UI together.
 
-> **Jackal**
+> **Jackal** · [18:25](#t=1105)
 >
 > “I actually got a message. \[…\] We will not be splitting the UI update, uh, with the uh tutorial, and uh, looks to, looks that we're submitting it tomorrow, uh, so, if everything goes smoothly, then release Monday.”
 
@@ -18,11 +20,13 @@ Jackal invited veteran players to start a new account after the update and repor
 
 ## 2. The main quest uses dungeon loot to repair a village structure, then introduces puzzles and bosses
 
+[06:26](#t=386)
+
 Jackal said work had begun on the first quest after the tutorial. Players would clear the first dungeon and bring **two items** back to the village to repair an important structure. That would open up more characters and dialogue. Unlocking the second and third dungeons would introduce puzzles, more ways to interact with the world, and the main antagonist. The fourth and fifth dungeons would move the Grasslands story forward, with the final boss coming after the sixth and seventh. The tutorial would offer a small preview of the encounter. This would complete the first Grasslands story arc. Great Tree and Forge would still be separate quests for later, with no new details on either during the call. [Quest game documentation](https://whitepaper.zee-verse.com/gameplay/quests)
 
 After showing the tutorial, Jackal previewed the first main quest and explained what would happen when players returned to the village after the first dungeon.
 
-> **Jackal**
+> **Jackal** · [06:26](#t=386)
 >
 > “The first quest uh will have you complete the first dungeon. \[…\] Return to the village two two items from the dungeons, and restore uh important thing into the village that will also unlock characters \[…\] and they will want to talk to you.”
 
@@ -30,11 +34,13 @@ This was a development plan at the time of the call. Jackal said the team's inte
 
 ## 3. The first island's boss would be repeatable, and Radiant and Dark Matter Zee were both considered for support roles
 
+[09:03](#t=543)
+
 The plan was to let players fight the main quest boss again after the first clear, with difficulty rising as their teams grew stronger. Jackal gave a main quest clear at about level 30 to 40 as an example of why the repeatable fight needed to offer higher-level players a challenge. That was an example in discussion. The recommended level for the first clear and the difficulty tiers for repeat runs were still open. The team sketched out how players might get the two new Zee.
 
 While describing the boss that closes the Grasslands story, Jackal explained why players would have a reason to return after beating it.
 
-> **Jackal**
+> **Jackal** · [09:03](#t=543)
 >
 > “One of them coming from um uh the boss fight, because we will be making the boss fight replayable uh post the campaign, and I believe it will be, it will also like scale. \[…\] We're gonna like scale it up, and you're gonna be able to get the eggs.”
 
@@ -47,11 +53,13 @@ The team said there were already more DPS options and fewer choices for support.
 
 ## 4. The inventory Q&A focused on bags for specific items and progression through crafting
 
+[19:09](#t=1149)
+
 A player described how quickly the 20-slot inventory filled up when carrying an axe, a fishing rod, a pickaxe, and farming supplies. Jackal said **there were no plans for a separate tool inventory or more slots across the board**. He preferred letting players store items from a category in a dedicated bag, such as a Soul Pouch for certain types of souls or teleport supplies or another bag for seeds. Crafting a bag at level 50 or letting a companion Zee carry a few items were examples. The team had yet to find a good way to reduce the space needed for fishing rods and bait.
 
 A player said an axe, fishing rod, pickaxe, and farming supplies quickly filled the 20-slot backpack and asked whether tools could have a separate bag.
 
-> **Jackal**
+> **Jackal** · [19:09](#t=1149)
 >
 > “No, uh, there's nothing to be a separate backpack. \[…\] Let's say um a soul pouch, but it can hold like three types of souls. Or uh I'm I'm not say, like, this, these are not confirmed feature.”
 
@@ -59,11 +67,13 @@ When asked about closer ties between in-game items and $VEE staking, Jackal said
 
 A player asked whether in-game items would be tied more closely to $VEE staking. Jackal described the design limits he and Euler had discussed.
 
-> **Jackal**
+> **Jackal** · [22:20](#t=1340)
 >
 > “I think it was in in relation to the ambassador program. \[…\] The base design theme was like, not pay to win. So call it like uh convenience, uh, rather than you know buffs, uh, or you know another inventory, n, no nothing like that.”
 
 ## 5. Closing giveaway and plans for the following week
+
+[27:48](#t=1668)
 
 At the end of the stream, Jackal drew three winners for one-month Premium Passes and asked them to open tickets so moderators could provide redemption codes. The Tuesday stream and the next Community Call were expected to go ahead on the usual schedule. He highlighted the new UI as something to see on the following week's stream. Some usernames are unclear in the transcript, so the report records the number of passes and how winners could claim them.
 

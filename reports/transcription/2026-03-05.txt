@@ -1,1 +1,427 @@
-All right, um, hello hello, uh, this is the Yan and Lazy Versus Community Call. uh, My name is Jackal, and I will be your today's host. So, uh. uh, What's up? Where's the tutorial? uh, We are, uh, you know, I'm just I'm just getting into the, I'm just like diving straight in. Tutorial uh is coming out, the start of the next week. We are looking at uh Monday. uh, You know, uh, we don't like Friday releases, uh, because there's so much things that can go wrong over the weekend. So, uh, uh,uh, We are looking at the start of the week. uh, You know, final uh uh final stability checks, final uh bug fixes, final bug introductions. That's a joke. uh, But uh yeah, so uh there's two things here. uh, First of all, getting new tutorial, uh, uh, second uh second thing is, and this like a question mark, uh, uh. Are we getting the UI rework? uh. With it, uh, it's still on a question mark that we might postpone it, uh, like, to a a little bit later release, just so. uh, It's clean, cause uh uh UI Reveal comes with a quite a bit of new things. uh. And remind you, everything gets reward, like everything, right? So, that's a quite a big thing that uh uhWe're doing. All right, uh, so I I mean I I've set the ground, uh, I've set the baseline. So, uh, I will put these in Vision later, so everybody can see. I will put them in Vision without context, but you guys will be getting context. I will solely be put putting screenshots from the new tutorial, and uh you can check that into the chat, and And checking those screen prints, you will also see the new, uh, sorry, that's my, that's my Z coming through the screen. uh, Checking the screen prints, you will also begin to see The new uh UI elements, we have shared this before. uh, But you know, it's coming together, it's coming clean. There's new font, uh. New dialogue, but like, every, it's so, it's so fresh, it's so new, everything changes. uh, And uh yeah, I'm uh you know. Respect to you guys, uh, I will not give you context uh to the tutorial, just so you can um uhexperienced it, because this tutorial also sets the scene for the Z Versus like main campaign, main story. uh, And yeah, yeah, as Yuler, as Yuler have said. As, and as I'm speaking, guys, you can check uh as I'm putting more and more things into into the uh chat. As you all have said, we do encourage you guys to make new accounts. And um. After the update, and tried out, played the tutorial, and literally let us know what did you like, what didn't you like, what beats did you enjoy? What what like didn't click right? uh, Cause uhuh, You know, I'm, uh, I'll, I said this the last time. I'll say it again. Even after all this time, uh, uh, like where we have been working on the onboarding. So many of you like come to the weekly calls. You you give your insight. You you give your suggestions, opinions, your complaints, uh, um. Shout out the last community, go. uh. So, you're already working with us, right? So, uh, that just another another day at the office for uh both me and you. uh, All right, uh, let me uh. Put couple more. um, All right, so um I kinda covered tutorial. uh, Couple more things, uh, in the next uh in the next uh screenshot, you're gonna see the revorked UI. For the map and everything, and what we have done is cleaned up the village square as well. We also have like clea- cleaned up greenery all around the map. And added and changed quite a bit of things around the map, which will only like change more and more uh as we introduce the next steps of the campaign. But uh uh well, here, here's he Here is it, uh, and I think uh for those more uh active killers, uh. this task rework is a game changer, uh, that's uh all coming together with the UI rework. uh, I also shared that screen shot, that task changes everything, because you know, currently, like uh. Currently, uh, this dash feel like medieval torture uh mechanism, and uh yeah, we're looking to uh. uh, Not we're looking to, we have changed this already. So, yeah, uh, I guess one more thing which I wanted to share from like what I, like, I just have a build open right now. uh, What I wanted to share is, you know, it's still, there's still Fog of War on the map, but uh the the map is getting a new look as well. So, uh. Yeah, that's that's what uh what we're looking at uh next week, uh, again, uh, yourRework might be pushed for a bit, but uh. I don't think so, I'm just, you know, I'm like uh you know, managing expectations here. uh, All right, and what happens next, and. And yeah, I'll I'll also tal- talk about a couple more uh interesting things that I've been working on. uh, uh, Yeah, that uh might be of interest to you guys. So, after this tutorial We immediately, and like, at, uh, we have literally started working on the next part of uh the uh onboarding. So, the tutu- tutorial is finished, and then you'll get to the first quest. Which uh is currently in development, and the first quest uh will have you complete the first dungeon. um, And obviously, there's a caveat to it, as you'll need to extract theuh, And return to the village, two two items from the dungeons, and restore uh important thing into the village that will also unlock characters oruh. In the village, and they will want to talk to you, and so on and so forth. um, After which, uh, and that's like one part. So, after it comes the next part, uh, which is the Dungeon 2 and Dungeon 3.uh, And that's my Z again. uh. uh, Sorry, guys. Ha. uh, Af- after that comes the part of Dungeon 2 and Dungeon 3, which uh will introduce more. uh, Puzzle mechanics into the unlock of the dungeon and more world interactions. uh, And And uh yeah, and through through that, you will also, you know, meet the game's main antagonist. And uh and yeah, work work hard to defeat, or you know, at the very least undo the damage he has uh uh put into the world. And after that comes Dungeons 4 and 5. uh, Do you like, do you do you like the sound of this? uh, And uh you know, same thing, main main campaign progresses. You you you know, you clean up the grasslands, and then comes the dungeon 6 and 7, and the boss fight. uh, Which we are working on. uh, You kind of actually will get a taste of the boss fight. A taste is a big word for this, but you'll kind of get a taste of the uh new boss fight during the tutorial.Uh, But. Yeah, after uh the boss fight, that kind of concludes the uh first fall, the onboarding. uh, That concludes the story of grasslands. In like main campaign story sense, there's still couple of things we're gonna do here, main namely the great tree and the forge. But you know, out of respect towards time, cause you know, the same people are here. uh, I've talked about the great tree and the forge so many times before, I will not talk about it this time. However, uh, we're getting the boss fight, right? And um. We are getting a new Z. We're actually getting two new Zs. uh, uh, One of them coming from Umbrar, and one of them coming from um uh the boss fight, because we will be making the boss fight replayable. uh, Post the campaign, and I believe it will be, it will also like scale, so, you know, uh, I, if you're plan, if you're ramming the campaign for like levels 30 and 40.uh, You know, at the time of completion, uh. You know, wha- what's a Conrad gonna do there? No, we're gonna like scale it up, and you're gonna be able to get the eggs, and obviously the the two new diseases we are introducing will follow the. A regular uh evolution pattern, so, no skips, no gimmicks. uh, You know, you will have to sacrifice two of the same types these, but here is. uh, You know what I've been saving on. uh, The two new Z Z's we're gonna add is uh in main campaign, you will be able to get a radiant type Z. And in Umbra Dungeons, obviously, a dark matter is he comes, which is also something I like, wanna, you know, speculate with you guys about, the, because that's something I've been working on. uh, So, we are kind of looking for both disease to be support class, cause we have, I I, and I know like that's like common practice to have more DPS than you know s- supports. For variety, however, we are like drastically needing the uh support. uh, And and you know, we have an AG as like the fourth tank we we've had in the zeevers, butuh, Very support. We're like uh really excited to bring you more, and uh what uh like uh we've had like so many interesting discussions aboutuh, What could the dark matter support do? And we really like the concept of, you know, it, I mean, guys, it will be like a vampire team, like a bat team Z, right? What does it do? And like, we love the idea of the Z, uh, sacrificing its health to cast abilities. um, And uh you know. Using blood magic, something that Om Bircham is about, and we're like really looking into like going this direction to drive its uh you know, to have a unique identity to disease, and you know,um, The main main campaign boss, so, is this as well? And uh yeah, and um just because there are no more uh there there In, sorry, uh, just because there isn't any evolution one, uh, uh, dark matter already and these, you will need to farm these bosses. uh, Far more bra, which I mean most of you are doing. You will need to farm them to acquire uh the evolutions, you know? So, yeah, all in all, I know I speedrun this, but uh you know, usually we do, we have like a discussion. I'm I'm here like you know, bam bam bam bam. Plus, I wasn't on the Tuesday stream, so uh I have, I just have so much things to say. Ha ha. uh, But yeah, Guang Guang says I hope support, they can support me.uh, To buy more masks and lenses, uh. Yes, my answer, my my answer to that is yes yes. Um, Yeah, so. All in all, that's some, that's quite, you know, quite a bit of big things are coming, uh, you know, for endgame users. Obviously, doesn't feel that big. uh, But I think we've talking about, uh, we've talked about this in every community, guy. But it it It is. Imperative for, you know, for us to be like level with uh our community, and you know, for us to be on the same page with you guys. uh, As you uh uh you know, uh. We need a new user, right? I mean, who who what game doesn't, right? Well, we need the influence, we need the onboarding to be perfect, we need the onboarding to feel good. uh, And obviously, it comes at a cost of like current features, but uh you know, ha, like. I'm like uh. Imagine same zippers, but like, with uh 10 times more people, right? So, that comes to 10 times bigger demand, uh, I mean 10 times bigger supply. But you know, given you're the endgame users, you you're actually Are the uh supply providers for many things? uh, So, yeah, uh. I'm excited about what we have done. I'm excited about the uh roadmap of the things, uh, we're gonna be doing. I, I didn't mention what we will be aiming to do. Is uh uh though, it is to, you know. Do like uh two week updates. So, after we ship this, we like internally are aiming to put out the next part, that like the next module of the toto uh campaign. uh, In two weeks, cause you know everything is mapped out, we're working on it, and like uh whole team is like hyper focused on this. uh, So. Yeah, and we, uh, and uh we'd like uh. Schedule will also be starting to acquire users, like, seeing, like uh how good does it go, was the retention, or. You know, where do we get a drop of users? Analyzing that, actively adjusting uh you know, working both backwards and forwards, because you know, adjusting uh both sides, we'll s- gonna see like where tutorial experience is bigger dro- drop offs. Adjusting that, perhaps it's dialogue, perhaps it's like uh uh something's too long, something's too short. And yeah, uh, again, um, at the, at, you know, uh, I know I'm repeating myself, but your opinion has driven zvers up to this point. Your suggestions, your needs, your wants, your complaints, uh, your uh you know, kind asks, uh, have gotten us here, and You know? I know I don't I know the like content drought sucks, but uh uh we need you guys, let's make. The best tutorial, not only a tutorial, we think it's cool. Not only tutorial, you know, just like the data says it's fine, but the tutorial. You guys enjoy as well, cause at the end of the day, uh, when we are representing Zeevers, we are representing you guys as well, uh, cause. You you're here, I see you guys online every day. uh, I see you on Discord, I see you in game, and uh you know, uh, Z versus uhAs a big of a part of me as it is of you, and it's very, you know. It's important for us, you know, to be on the same page. I I know I kind of went on a tangent here, but I hope um uh. I hope it make sense, and uh yeah. Everyone goes to when winds meet and ask people, do you know Zeevers? It's a fun game. uh, Like guerrilla marketing, uh, it's like when Red Bull became popular, they wereuh, The, they're an Austrian brand, and they were like going for like uh I think in Vienna, uh, like leaving Red Bull cans all all over the place. and like in bars and trash. Trash bags, not like full, uh, full, but like empty, and like uh just so, I, yeah, um. uh, But, yeah, uh, I mean 30 minutes of uh of a monologue here. uh, Guys, uh. You know, I'ma I'ma give you guys a couple mo- a couple minutes to ask me questions, if there isn't any. I think we, you know, we can keep it uh short and simple. And uh wrap up today's community call. I will be doing like uh uh 3 1 1 premium pass uh giveaway afterwards. About, yeah. How did it go? What do you think? How would you rate it? Do you love it? Do you hate it? uh, ha, uh, What do you think, think guys? And. Yeah, how do you feel about this? Jack can make me rich. They refused to comment. Ha. uh, Yeah, cool. Is there anything else can I, that I can tease you? uh, All right, so I actually got a message. uh, uh,I got a message. uh. So, we will not be splitting the UI update, uh, with the uhTutorial, and uh looks to, looks that we're submitting it tomorrow, uh, so, if everything goes smoothly, then release Monday. uh, Alright, little fast, uh, asked, or you know, there's bigger. I've always been curious about this. Are you planning on adding separate backpack for inventory, for example, so we can take take an axe? Fishing rod, a pickaxe, uh, and everything we need for farming without it taking up space in the backpack. This is very inconvenient because the backpack already has 20 items, I haven't them taken my inventory space. That's the idea of it, right? So, uh. No, uh, there's nothing to be a separate backpack. However, uh, and um. I don't remember who also said this, I think it was like on my stream. So, a couple of things here. uh, What we, what definitely will happen is, you know. Let's say um a soul pouch. But it can hold like three types of souls. Or uh I'm I'm not say, like, this, these are not confirmed feature, is is like I'm giving you guys like a spiritual uh look out, a look of this. Look, or a seat back. Contains all of your seats. um, E- especially, you you know, especially problematic later on. Becomes, you know. uh, Fishing stick, uh, fishing stick and bait. Yeah, there's not really a place you know, to speed it up, uh, to to to compress it. But you know, then again, soap, uh, you get a soap pouch, right? You can keep all your, uh, like teleports, uh, as there, and then that kind of effectively opens up two more inventories. I think Yola has mentioned something about, you know, perhaps being able to use these as storage. But obviously, if as these is a story, you know, not the storage, but like perhaps it can carry like 6 or right? uh, Maybe that means you can be, you will have to walk back, I don't, I mean teleport back as well. uh, That's something we. That's something that I don't wanna say will happen, but most likely, it will happen, uh, eventually. And uh yeah. uh, So, you know, just to break it down, we are not planning to add more inventory slots. It's like tailor made, uh. Solutions for like certain items, like bundling them up, and you getting this convenience, and it's not like, oh, everybody can get a soul part, it's like And I know a little fast, uh, uh, it won't be a problem for you. but like, I, I don't know, like, just, you know, speed volume here, 50 crafting. You can make a soap out, right? You need to work for it, but after, like, and then, like, the game gradually becomes more accessible, easier, and you effectively gain more inventory spaces, uh, because you are Yeah, I I I hope, I mean I know this answer your question. maybe not in the way like you were very expecting, but I hope it gives some clarity, and you know. Maybe you have some ideas, uh, on, you know, what could be a good way to bundle up items? Will there be more integration between game items and we staking? uh, It's an interesting question, which I don't really wanna answer without Yuler. uh, What I can say is me and Yuler have talked about. I think it was in in relation to the ambassador program. uh, But yeah, essentially having like some pair. In game, but like, the base design theme was like, not pay to win. So. Call it like uh. Convenience, uh, rather than you know buffs, uh, or you know another inventory, n, no nothing like that. um. Cool. Z Versus 6B can uh uh. I mean I love bacon Now I'm a uh哦。Yeah, yeah. I lo-, you know, love the guys. uh, If uh there could ever be uh uh you know, we've had like some co-streams with them. But if there were, would ever be like a. Good way that feels like natural to collaborate. uh, We'd be down. I love Nan's. So, we've, I I I mean, we haven't do, uh, we haven't been in touch for a while, but uh uh, yeah, cool. um. All right, guys. uh, You know. Let's let's uh let's look to ask any questions, if any, uh, in the next 3 minutes. If not, we can uh you know keep it charming civil. Wrap it up, and uh yeah, uh,I think I've like given such a compressed uh compressed um. uh, I mean for, uh, like, you know, really overloaded you guys. uh, I think which usually, you know, gets a bit more stretched out when it's like Me and you are talking, and then there's these discussions, but. Yeah, I don't see. uh. Uh, I take it back, a little faster stepping. um. Cool, uh, who who out of breath already? uh, Yeah, like uh. 啊。Not as easy. Why did you skip the stream on Tuesday? uh, Because we had a guest streamer. uh, I think uh generally, uh, uh. uh, If we have other streamers that wanna stream ZeeVerse, you know? We uh we do that, uh, and you know, cause more eyes on the verse, right? uh, But um yeah, uh, I think like Tuesdays are Like these little hangout we have amongst. uh, You guys are obviously like premium bus farming simulator, but uh but uh yeah, um. I don't know. Gotta ask Cherry. uh, Will I be back next week? uh, Am I fired? As the w- world's zeevers, uh, as the zeevers is wor-, as the world's first zeevers streamer. If I haven't been fired from the post, uh, I will be seeing you guys next week. um. And um yeah, uh, also, it's been 3 minutes, uh, so, on this note, I would like to officially conclude the uh uh community call. I thank you for coming. I will be uh you know, usually uh usually I do it well, you'll you'll are talking. I will be currently uh asking uh a large language model to write out your name, so we can I can put this in. To the wheel of names, and then we can do the giveaway. uh, So, uh, if you would excuse me for, you know, 30 seconds. All right, let me let me share my screen real quick. And uh yep. Alright, uh. But a bing, but the boom. All right, so, we take out both cherries, also we ban cherry for multi-counting. uh. We take out Craig, but unfortunately, Voso, hmm, no, I'm I'm sorry, Voso. uh. Alright, uh, yeah, uh, quite lean today, um, but um you know, I I guess it's a. 1/5. 20 percent chance of, no, I guess you you know, let's not ask uh Jack Ma mathematics. uh, All right, uh, you know, nothing to it but to. Do it. uh, So, the first premium uh a pass goes to uh. Void E Void E, ha, am I like tripping, or have you been like on a roll? I feel like you've been winning. uh, Also, if you hear me, can you can you tag tag the winners? uh, uh. So I I don't have to like concentrate manually. All right, uh, so void the. Comes out. Uh huh. All right, next one. Thank you. What's up? Crypto Blade uh. Yeah, I I think so, I I think Vodka has been pretty lucky. Crypto blade, uh, congratulations. uh, You'll get this, a second, uh, one more premium pass. um. Time to time to time to time to play. All right, uh, and the final one goes to. Julia or. Beautiful Life by A Pixel, that's that's that's crazy. uh. Angel, uh, one one premium pass for you as well, guys. To claim these premium passes, please open up uh uh. Uh, Please open up a ticket, uh, claimed the reward there, uh, our our moderators will provide you with a code, and but a big but a boom. Uh. Yeah, uh, that's that's it for us this week. Next week, I also stream's gonna be great, cause you know, reworked UI. uh, So, uh,uh, Just, you know, summarize what we're looking next week. uh. Tutorial rework, UI rework, Jackal's stream, community call with Jackal. I might even hmm I won, I might even message something in the general chat, guys. You you you are not getting rid of me. Ha! All right, uh, Joe said, uh, as always, been a pleasure, love you guys, and um yeah, see you next week, uh, bye, have a good end of the week.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+All right, um, hello hello, uh, this is the Yan and Lazy Versus Community Call. uh, My name is Jackal, and I will be your today's host. So, uh. uh, What's up?
+
+[00:13]
+
+Where's the tutorial? uh, We are, uh, you know, I'm just I'm just getting into the, I'm just like diving straight in. Tutorial uh is coming out, the start of the next week. We are looking at uh Monday. uh, You know, uh, we don't like Friday releases, uh, because there's so much things that can go wrong over the weekend.
+
+[00:33]
+
+So, uh, uh,uh, We are looking at the start of the week. uh, You know, final uh uh final stability checks, final uh bug fixes, final bug introductions.
+
+[00:44]
+
+That's a joke. uh, But uh yeah, so uh there's two things here. uh, First of all, getting new tutorial, uh, uh, second uh second thing is, and this like a question mark, uh, uh.
+
+[00:59]
+
+Are we getting the UI rework? uh. With it, uh, it's still on a question mark that we might postpone it, uh, like, to a a little bit later release, just so. uh, It's clean, cause uh uh UI Reveal comes with a quite a bit of new things. uh.
+
+[01:22]
+
+And remind you, everything gets reward, like everything, right? So, that's a quite a big thing that uh uhWe're doing. All right, uh, so I I mean I I've set the ground, uh, I've set the baseline.
+
+[01:37]
+
+So, uh, I will put these in Vision later, so everybody can see. I will put them in Vision without context, but you guys will be getting context. I will solely be put putting screenshots from the new tutorial, and uh you can check that into the chat, and And checking those screen prints, you will also see the new, uh, sorry, that's my, that's my Z coming through the screen. uh,
+
+[02:02]
+
+Checking the screen prints, you will also begin to see The new uh UI elements, we have shared this before. uh, But you know, it's coming together, it's coming clean.
+
+[02:14]
+
+There's new font, uh. New dialogue, but like, every, it's so, it's so fresh, it's so new, everything changes. uh, And uh yeah, I'm uh you know.
+
+[02:29]
+
+Respect to you guys, uh, I will not give you context uh to the tutorial, just so you can um uhexperienced it, because this tutorial also sets the scene for the Z Versus like main campaign, main story. uh, And yeah, yeah, as Yuler, as Yuler have said.
+
+[02:47]
+
+As, and as I'm speaking, guys, you can check uh as I'm putting more and more things into into the uh chat. As you all have said, we do encourage you guys to make new accounts.
+
+[02:59]
+
+And um. After the update, and tried out, played the tutorial, and literally let us know what did you like, what didn't you like, what beats did you enjoy?
+
+[03:14]
+
+What what like didn't click right? uh, Cause uhuh, You know, I'm, uh, I'll, I said this the last time. I'll say it again. Even after all this time, uh, uh, like where we have been working on the onboarding.
+
+[03:29]
+
+So many of you like come to the weekly calls. You you give your insight. You you give your suggestions, opinions, your complaints, uh, um.
+
+[03:40]
+
+Shout out the last community, go. uh. So, you're already working with us, right? So, uh, that just another another day at the office for uh both me and you. uh, All right, uh, let me uh.
+
+[03:56]
+
+Put couple more. um, All right, so um I kinda covered tutorial. uh, Couple more things, uh, in the next uh in the next uh screenshot, you're gonna see the revorked UI.
+
+[04:08]
+
+For the map and everything, and what we have done is cleaned up the village square as well. We also have like clea- cleaned up greenery all around the map.
+
+[04:19]
+
+And added and changed quite a bit of things around the map, which will only like change more and more uh as we introduce the next steps of the campaign. But uh uh well, here, here's he Here is it, uh, and I think uh for those more uh active killers, uh.
+
+[04:45]
+
+this task rework is a game changer, uh, that's uh all coming together with the UI rework. uh, I also shared that screen shot, that task changes everything, because you know, currently, like uh.
+
+[05:00]
+
+Currently, uh, this dash feel like medieval torture uh mechanism, and uh yeah, we're looking to uh. uh, Not we're looking to, we have changed this already. So, yeah, uh, I guess one more thing which I wanted to share from like what I, like, I just have a build open right now. uh, What I wanted to share is, you know, it's still, there's still Fog of
+
+[05:25]
+
+War on the map, but uh the the map is getting a new look as well. So, uh. Yeah, that's that's what uh what we're looking at uh next week, uh, again, uh, yourRework might be pushed for a bit, but uh.
+
+[05:47]
+
+I don't think so, I'm just, you know, I'm like uh you know, managing expectations here. uh, All right, and what happens next, and.
+
+[05:58]
+
+And yeah, I'll I'll also tal- talk about a couple more uh interesting things that I've been working on. uh, uh, Yeah, that uh might be of interest to you guys. So, after this tutorial We immediately, and like, at, uh, we have literally started working on the next part of uh the uh onboarding.
+
+[06:19]
+
+So, the tutu- tutorial is finished, and then you'll get to the first quest. Which uh is currently in development, and the first quest uh will have you complete the first dungeon. um, And obviously, there's a caveat to it, as you'll need to extract theuh, And return to the village, two two items from the dungeons, and restore uh
+
+[06:44]
+
+important thing into the village that will also unlock characters oruh. In the village, and they will want to talk to you, and so on and so forth. um, After which, uh, and that's like one part.
+
+[06:56]
+
+So, after it comes the next part, uh, which is the Dungeon 2 and Dungeon 3.uh, And that's my Z again. uh. uh, Sorry, guys. Ha. uh, Af- after that comes the part of Dungeon 2 and Dungeon 3, which uh will introduce more. uh, Puzzle mechanics into the unlock of the dungeon and more world interactions. uh,
+
+[07:22]
+
+And And uh yeah, and through through that, you will also, you know, meet the game's main antagonist. And uh and yeah, work work hard to defeat, or you know, at the very least undo the damage he has uh uh put into the world.
+
+[07:41]
+
+And after that comes Dungeons 4 and 5. uh, Do you like, do you do you like the sound of this? uh, And uh you know, same thing, main main campaign progresses.
+
+[07:53]
+
+You you you know, you clean up the grasslands, and then comes the dungeon 6 and 7, and the boss fight. uh, Which we are working on. uh, You kind of actually will get a taste of the boss fight.
+
+[08:10]
+
+A taste is a big word for this, but you'll kind of get a taste of the uh new boss fight during the tutorial.Uh, But. Yeah, after uh the boss fight, that kind of concludes the uh first fall, the onboarding. uh, That concludes the story of grasslands.
+
+[08:31]
+
+In like main campaign story sense, there's still couple of things we're gonna do here, main namely the great tree and the forge. But you know, out of respect towards time, cause you know, the same people are here. uh, I've talked about the great tree and the forge so many times before, I will not talk about it this time.
+
+[08:49]
+
+However, uh, we're getting the boss fight, right? And um. We are getting a new Z. We're actually getting two new Zs. uh, uh, One of them coming from Umbrar, and one of them coming from um uh the boss fight, because we will be making the boss fight replayable. uh, Post the campaign, and
+
+[09:14]
+
+I believe it will be, it will also like scale, so, you know, uh, I, if you're plan, if you're ramming the campaign for like levels 30 and 40.uh, You know, at the time of completion, uh.
+
+[09:28]
+
+You know, wha- what's a Conrad gonna do there? No, we're gonna like scale it up, and you're gonna be able to get the eggs, and obviously the the two new diseases we are introducing will follow the.
+
+[09:42]
+
+A regular uh evolution pattern, so, no skips, no gimmicks. uh, You know, you will have to sacrifice two of the same types these, but here is. uh, You know what I've been saving on. uh, The two new Z Z's we're gonna add is uh in main campaign, you will be able to get a radiant type Z.
+
+[10:05]
+
+And in Umbra Dungeons, obviously, a dark matter is he comes, which is also something I like, wanna, you know, speculate with you guys about, the, because that's something I've been working on. uh, So, we are kind of looking for both disease to be support class, cause we have, I I, and I know like that's like common practice to have more DPS than you know s- supports.
+
+[10:29]
+
+For variety, however, we are like drastically needing the uh support. uh, And and you know, we have an AG as like the fourth tank we we've had in the zeevers, butuh, Very support.
+
+[10:42]
+
+We're like uh really excited to bring you more, and uh what uh like uh we've had like so many interesting discussions aboutuh, What could the dark matter support do?
+
+[10:53]
+
+And we really like the concept of, you know, it, I mean, guys, it will be like a vampire team, like a bat team Z, right?
+
+[11:05]
+
+What does it do? And like, we love the idea of the Z, uh, sacrificing its health to cast abilities. um, And uh you know.
+
+[11:17]
+
+Using blood magic, something that Om Bircham is about, and we're like really looking into like going this direction to drive its uh you know, to have a unique identity to disease, and you know,um, The main main campaign boss, so, is this as well?
+
+[11:34]
+
+And uh yeah, and um just because there are no more uh there there In, sorry, uh, just because there isn't any evolution one, uh, uh, dark matter already and these, you will need to farm these bosses. uh, Far more bra, which I mean most of you are doing.
+
+[11:58]
+
+You will need to farm them to acquire uh the evolutions, you know? So, yeah, all in all, I know I speedrun this, but uh you know, usually we do, we have like a discussion.
+
+[12:12]
+
+I'm I'm here like you know, bam bam bam bam. Plus, I wasn't on the Tuesday stream, so uh I have, I just have so much things to say. Ha ha. uh, But yeah, Guang Guang says I hope support, they can support me.uh, To buy more masks and lenses, uh.
+
+[12:30]
+
+Yes, my answer, my my answer to that is yes yes. Um, Yeah, so. All in all, that's some, that's quite, you know, quite a bit of big things are coming, uh, you know, for endgame users.
+
+[12:51]
+
+Obviously, doesn't feel that big. uh, But I think we've talking about, uh, we've talked about this in every community, guy. But it it It is.
+
+[13:02]
+
+Imperative for, you know, for us to be like level with uh our community, and you know, for us to be on the same page with you guys. uh, As you uh uh you know, uh.
+
+[13:16]
+
+We need a new user, right? I mean, who who what game doesn't, right? Well, we need the influence, we need the onboarding to be perfect, we need the onboarding to feel good. uh, And obviously, it comes at a cost of like current features, but uh you know, ha, like.
+
+[13:36]
+
+I'm like uh. Imagine same zippers, but like, with uh 10 times more people, right? So, that comes to 10 times bigger demand, uh, I mean 10 times bigger supply.
+
+[13:50]
+
+But you know, given you're the endgame users, you you're actually Are the uh supply providers for many things? uh, So, yeah, uh.
+
+[14:01]
+
+I'm excited about what we have done. I'm excited about the uh roadmap of the things, uh, we're gonna be doing. I, I didn't mention what we will be aiming to do.
+
+[14:12]
+
+Is uh uh though, it is to, you know. Do like uh two week updates. So, after we ship this, we like internally are aiming to put out the next part, that like the next module of the toto uh campaign. uh, In two weeks, cause you know everything is mapped out, we're working on it, and like uh whole team is like hyper focused on this. uh,
+
+[14:38]
+
+So. Yeah, and we, uh, and uh we'd like uh. Schedule will also be starting to acquire users, like, seeing, like uh how good does it go, was the retention, or.
+
+[14:53]
+
+You know, where do we get a drop of users? Analyzing that, actively adjusting uh you know, working both backwards and forwards, because you know, adjusting uh both sides, we'll s- gonna see like where tutorial experience is bigger dro- drop offs.
+
+[15:10]
+
+Adjusting that, perhaps it's dialogue, perhaps it's like uh uh something's too long, something's too short. And yeah, uh, again, um, at the, at, you know, uh, I know I'm repeating myself, but your opinion has driven zvers up to this point.
+
+[15:29]
+
+Your suggestions, your needs, your wants, your complaints, uh, your uh you know, kind asks, uh, have gotten us here, and You know?
+
+[15:42]
+
+I know I don't I know the like content drought sucks, but uh uh we need you guys, let's make. The best tutorial, not only a tutorial, we think it's cool.
+
+[15:56]
+
+Not only tutorial, you know, just like the data says it's fine, but the tutorial. You guys enjoy as well, cause at the end of the day, uh, when we are representing Zeevers, we are representing you guys as well, uh, cause.
+
+[16:14]
+
+You you're here, I see you guys online every day. uh, I see you on Discord, I see you in game, and uh you know, uh, Z versus uhAs a big of a part of me as it is of you, and it's very, you know.
+
+[16:30]
+
+It's important for us, you know, to be on the same page. I I know I kind of went on a tangent here, but I hope um uh. I hope it make sense, and uh yeah.
+
+[16:44]
+
+Everyone goes to when winds meet and ask people, do you know Zeevers? It's a fun game. uh, Like guerrilla marketing, uh, it's like when Red Bull became popular, they wereuh, The, they're an Austrian brand, and they were like going for like uh I think in Vienna, uh, like leaving Red Bull cans all all over the place.
+
+[17:05]
+
+and like in bars and trash. Trash bags, not like full, uh, full, but like empty, and like uh just so, I, yeah, um. uh, But, yeah, uh, I mean 30 minutes of uh of a monologue here. uh, Guys, uh.
+
+[17:23]
+
+You know, I'ma I'ma give you guys a couple mo- a couple minutes to ask me questions, if there isn't any. I think we, you know, we can keep it uh short and simple. And uh wrap up today's community call.
+
+[17:36]
+
+I will be doing like uh uh 3 1 1 premium pass uh giveaway afterwards. About, yeah. How did it go? What do you think?
+
+[17:48]
+
+How would you rate it? Do you love it? Do you hate it? uh, ha, uh, What do you think, think guys? And. Yeah, how do you feel about this?
+
+[17:59]
+
+Jack can make me rich. They refused to comment. Ha. uh, Yeah, cool. Is there anything else can I, that I can tease you? uh, All right, so I actually got a message. uh, uh,I got a message. uh.
+
+[18:24]
+
+So, we will not be splitting the UI update, uh, with the uhTutorial, and uh looks to, looks that we're submitting it tomorrow, uh, so, if everything goes smoothly, then release Monday. uh, Alright, little fast, uh, asked, or you know, there's bigger.
+
+[18:47]
+
+I've always been curious about this. Are you planning on adding separate backpack for inventory, for example, so we can take take an axe? Fishing rod, a pickaxe, uh, and everything we need for farming without it taking up space in the backpack.
+
+[19:00]
+
+This is very inconvenient because the backpack already has 20 items, I haven't them taken my inventory space. That's the idea of it, right? So, uh. No, uh, there's nothing to be a separate backpack.
+
+[19:13]
+
+However, uh, and um. I don't remember who also said this, I think it was like on my stream. So, a couple of things here. uh, What we, what definitely will happen is, you know.
+
+[19:29]
+
+Let's say um a soul pouch. But it can hold like three types of souls. Or uh I'm I'm not say, like, this, these are not confirmed feature, is is like I'm giving you guys like a spiritual uh look out, a look of this.
+
+[19:46]
+
+Look, or a seat back. Contains all of your seats. um, E- especially, you you know, especially problematic later on.
+
+[19:58]
+
+Becomes, you know. uh, Fishing stick, uh, fishing stick and bait. Yeah, there's not really a place you know, to speed it up, uh, to to to compress it.
+
+[20:13]
+
+But you know, then again, soap, uh, you get a soap pouch, right? You can keep all your, uh, like teleports, uh, as there, and then that kind of effectively opens up two more inventories.
+
+[20:24]
+
+I think Yola has mentioned something about, you know, perhaps being able to use these as storage. But obviously, if as these is a story, you know, not the storage, but like perhaps it can carry like 6 or right? uh, Maybe that means you can be, you will have to walk back, I don't, I mean teleport back as well. uh, That's something we.
+
+[20:47]
+
+That's something that I don't wanna say will happen, but most likely, it will happen, uh, eventually. And uh yeah. uh, So, you know, just to break it down, we are not planning to add more inventory slots.
+
+[21:03]
+
+It's like tailor made, uh. Solutions for like certain items, like bundling them up, and you getting this convenience, and it's not like, oh, everybody can get a soul part, it's like And I know a little fast, uh, uh, it won't be a problem for you.
+
+[21:24]
+
+but like, I, I don't know, like, just, you know, speed volume here, 50 crafting. You can make a soap out, right? You need to work for it, but after, like, and then, like, the game gradually becomes more accessible, easier, and you effectively gain more inventory spaces, uh, because you are Yeah, I I I hope, I mean
+
+[21:49]
+
+I know this answer your question. maybe not in the way like you were very expecting, but I hope it gives some clarity, and you know. Maybe you have some ideas, uh, on, you know, what could be a good way to bundle up items?
+
+[22:03]
+
+Will there be more integration between game items and we staking? uh, It's an interesting question, which I don't really wanna answer without Yuler. uh, What I can say is me and Yuler have talked about.
+
+[22:20]
+
+I think it was in in relation to the ambassador program. uh, But yeah, essentially having like some pair. In game, but like, the base design theme was like, not pay to win.
+
+[22:38]
+
+So. Call it like uh. Convenience, uh, rather than you know buffs, uh, or you know another inventory, n, no nothing like that. um.
+
+[22:55]
+
+Cool. Z Versus 6B can uh uh. I mean I love bacon Now I'm a uh哦。Yeah, yeah. I lo-, you know, love the guys. uh, If uh there could ever be uh uh you know, we've had like some co-streams with them.
+
+[23:18]
+
+But if there were, would ever be like a. Good way that feels like natural to collaborate. uh, We'd be down.
+
+[23:30]
+
+I love Nan's. So, we've, I I I mean, we haven't do, uh, we haven't been in touch for a while, but uh uh, yeah, cool. um. All right, guys. uh, You know.
+
+[23:44]
+
+Let's let's uh let's look to ask any questions, if any, uh, in the next 3 minutes. If not, we can uh you know keep it charming civil.
+
+[23:55]
+
+Wrap it up, and uh yeah, uh,I think I've like given such a compressed uh compressed um. uh, I mean for, uh, like, you know, really overloaded you guys. uh, I think which usually, you know, gets a bit more stretched out when it's like Me and you are talking, and then there's these discussions, but.
+
+[24:20]
+
+Yeah, I don't see. uh. Uh, I take it back, a little faster stepping. um. Cool, uh, who who out of breath already? uh, Yeah, like uh. 啊。Not as easy.
+
+[24:45]
+
+Why did you skip the stream on Tuesday? uh, Because we had a guest streamer. uh, I think uh generally, uh, uh. uh, If we have other streamers that wanna stream ZeeVerse, you know?
+
+[25:01]
+
+We uh we do that, uh, and you know, cause more eyes on the verse, right? uh, But um yeah, uh, I think like Tuesdays are Like these little hangout we have amongst. uh, You guys are obviously like premium bus farming simulator, but uh but uh yeah, um.
+
+[25:26]
+
+I don't know. Gotta ask Cherry. uh, Will I be back next week? uh, Am I fired? As the w- world's zeevers, uh, as the zeevers is wor-, as the world's first zeevers streamer.
+
+[25:41]
+
+If I haven't been fired from the post, uh, I will be seeing you guys next week. um. And um yeah, uh, also, it's been 3 minutes, uh, so, on this note, I would like to officially conclude the uh uh community call.
+
+[26:03]
+
+I thank you for coming. I will be uh you know, usually uh usually I do it well, you'll you'll are talking. I will be currently uh asking uh a large language model to write out your name, so we can I can put this in.
+
+[26:17]
+
+To the wheel of names, and then we can do the giveaway. uh, So, uh, if you would excuse me for, you know, 30 seconds.
+
+[26:48]
+
+All right, let me let me share my screen real quick. And uh yep. Alright, uh. But a bing, but the boom.
+
+[27:07]
+
+All right, so, we take out both cherries, also we ban cherry for multi-counting. uh. We take out Craig, but unfortunately, Voso, hmm, no, I'm I'm sorry, Voso. uh.
+
+[27:24]
+
+Alright, uh, yeah, uh, quite lean today, um, but um you know, I I guess it's a. 1/5. 20 percent chance of, no, I guess you you know, let's not ask uh Jack Ma mathematics. uh, All right, uh, you know, nothing to it but to.
+
+[27:48]
+
+Do it. uh, So, the first premium uh a pass goes to uh. Void E Void E, ha, am I like tripping, or have you been like on a roll?
+
+[28:02]
+
+I feel like you've been winning. uh, Also, if you hear me, can you can you tag tag the winners? uh, uh.
+
+[28:14]
+
+So I I don't have to like concentrate manually. All right, uh, so void the. Comes out. Uh huh. All right, next one.
+
+[28:27]
+
+Thank you. What's up? Crypto Blade uh. Yeah, I I think so, I I think Vodka has been pretty lucky. Crypto blade, uh, congratulations. uh, You'll get this, a second, uh, one more premium pass. um.
+
+[28:46]
+
+Time to time to time to time to play. All right, uh, and the final one goes to. Julia or. Beautiful Life by A Pixel, that's that's that's crazy. uh.
+
+[29:10]
+
+Angel, uh, one one premium pass for you as well, guys. To claim these premium passes, please open up uh uh. Uh, Please open up a ticket, uh, claimed the reward there, uh, our our moderators will provide you with a code, and but a big but a boom. Uh.
+
+[29:29]
+
+Yeah, uh, that's that's it for us this week. Next week, I also stream's gonna be great, cause you know, reworked UI. uh, So, uh,uh, Just, you know, summarize what we're looking next week. uh.
+
+[29:44]
+
+Tutorial rework, UI rework, Jackal's stream, community call with Jackal. I might even hmm I won, I might even message something in the general chat, guys.
+
+[29:58]
+
+You you you are not getting rid of me. Ha! All right, uh, Joe said, uh, as always, been a pleasure, love you guys, and um yeah, see you next week, uh, bye, have a good end of the week.

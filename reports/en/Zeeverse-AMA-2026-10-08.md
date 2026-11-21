@@ -6,17 +6,21 @@ Jackal said Chapter 3 content was finished and in QA. He was about to play throu
 
 ## 1. Chapter 3 content is complete, and QA will determine the release date
 
+[02:26](#t=146)
+
 Jackal said **Main Campaign Part 3** had gone to QA and the build was back with him. He planned to play the entire quest after the call. He revisited the two dungeons, **The Ship** and **The Wicker**. Since he had previously described a fight with two bosses, he counted three bosses across the two encounters. The new Totem, story cutscenes, and two jewelry slots were moving forward together. Players would dig up a chest using a treasure map for a chance at the extremely rare ring. This time Jackal put an image of The Wicker in the chat. Earlier calls showed stage selection screens for both dungeons and a ghost fight from The Ship. The source transcript is inconsistent about the spellings of the villain and the Avatar. The story centers on protecting the grasslands and stopping warriors sent by the opposing side. [Call transcript on QA and The Wicker](../transcription/2026-10-08.txt) · [September 24 transcript on The Ship preview](../transcription/2026-09-24.txt)
 
 Asked when it would go live, Jackal said the following weekend was the best case and later was more likely. It depended on how many issues QA found. **After the call**, 1.18.0 announced **Third Time’s the Charm** on November 2 and officially delivered both dungeons and treasure digging. The announcement said maps came from the two dungeons and players could use a shovel to dig for chests at 20 locations around the world. Jackal did not repeat the ring's specific figures on this call. [1.18.0 release notes, published November 2 after the call](https://zeeverse.com/news/1-18-0-release-notes)
 
 After handing Chapter 3 to QA, Jackal treated the end of the following week as a best case. The timing depended on what QA found.
 
-> **Jackal**
+> **Jackal** · [02:26](#t=146)
 >
 > “Best case, uh, we should be getting it, uh, I mean ideally end of next week, most likely maybe after next week, uh, you know we do wanna we do wanna get as much bugs out of it as possible before we get, um, get it out to you guys.”
 
 ## 2. The final campaign quest might split in two, and world bosses would let players attack together
+
+[03:01](#t=181)
 
 Chapter 3 was the second-to-last part of the campaign as planned at the time. Jackal said the final quest might be split in two. The story would end with players freeing the grasslands from corruption and was expected to grant a new **Radiant Zee**. Jackal gave no name, acquisition requirements, or stats for that Zee. The team was also working on **Prestige** to give players a reason to revisit dungeons, with higher difficulty and new drops.
 
@@ -24,11 +28,13 @@ After the campaign, the team hoped to focus on the **Great Tree**, multiplayer w
 
 ## 3. Halloween brings three scarecrow armor pieces and a legendary axe benchmarked against Mithril
 
+[05:46](#t=346)
+
 Jackal previewed another year of fighting wild Zee and finding a carriage with a guaranteed drop. The team planned a legendary axe and three Epic scarecrow-themed armor pieces, a Mask, Top, and Bottoms. The combat stats targeted the midgame, slightly above Steel, with an extra use for getting around. The axe was designed to match a **Mithril Axe** for logging, with later high-tier axes expected to be stronger. Jackal first said 50 legendary items and 150 armor sets, then said “50 of each,” leaving the intended quantities ambiguous. At the time he was considering a teleport that required wearing two pieces. [Call transcript on the Halloween preview](../transcription/2026-10-08.txt)
 
 Jackal positioned the gear for midgame players through a modest stat increase over steel and an added teleport. Two pieces was the condition in this preview. The event initially launched with a three-piece requirement.
 
-> **Jackal**
+> **Jackal** · [05:46](#t=346)
 >
 > “And this armor set, uh, you’ll need to wear at least two pieces to unlock a free teleport somewhere in the map. Uh, just a little mobility. Now, uh, stat wise, it will have stats. It will be epic rarity, however, it will have, uh, it will have stats that are just as much better than steel.”
 
@@ -36,23 +42,27 @@ Jackal positioned the gear for midgame players through a modest stat increase ov
 
 ## 4. Evolution was moving in-game, with 420 CRV still mentioned for Curve Llama
 
+[10:25](#t=625)
+
 When the recording began, Jackal said he had just explained why a mechanic was disabled and how to restore it. He promised to include the same information in the written summary. The surviving machine transcript calls it “vote” at the start and “Zebra Ford” at the close. The operating instructions are missing. The remaining text cannot establish the full name of the mechanic, why it was disabled, or how to restore it.
 
 The recording does cover moving evolution into the game. Jackal said evolution for Curve Llama, Fox, and ordinary Zee would return through an off-chain, in-game flow. The figure for Curve Llama was still **420 CRV**, with plans to let players deposit it into the game through the Zeeverse website. An older official guide also gave 420 CRV as the evolution cost for Curve Llama. **After the call**, version 1.17.7 on October 12 confirmed that Zee and Fox could evolve directly in the game without an on-chain transaction. It also improved the button cues for whether evolution was ready or the Zee first had to be deposited into the game. Version 1.17.9 on October 26 then confirmed Llama evolution with off-chain CRV, without specifying the amount. [Earlier official Curve Llama evolution guide for the CRV amount](https://zeeverse.medium.com/zeeverse-shamans-guide-to-treasure-connect-be40d12e49e4) · [1.17.7 release notes, published October 12 after the call](https://zeeverse.com/news/1-17-7-release-notes) · [1.17.9 release notes, published October 26 after the call](https://zeeverse.com/news/1-17-9-release-notes)
 
 Discussing the return of evolution, Jackal used Curve Llama to distinguish the existing cost from the planned in-game process. The machine transcript renders Llama and Zeeverse phonetically.
 
-> **Jackal**
+> **Jackal** · [10:25](#t=625)
 >
 > “Lamus will still need 420 curve tokens, and you’ll be able to deposit that from, uh, uh, a Zivert website into the game, or in an offline version. So, nothing kind of changes. We’re just be kind of migrating this to the offline version of it.”
 
 ## 5. Zee passives would give companions different strengths in everyday activities
 
+[20:10](#t=1210)
+
 Near the close, Jackal said the team had settled on a simpler version of **Zee Passives**. A Zee could have one or two passive Traits that grow with level. Each would do one specific thing, such as a chance to get an extra log, save a piece of fuel when lighting a fire, or cook two fish at once. He gave no condition for unlocking the second passive or base odds for individual Traits. The team also wanted to rework the calculations for logging and mining. Jackal used several combinations of skill level, axe quality, and a Zee with a logging Trait to explain the idea. Zee would amplify the benefit of suitable tools, giving players a reason to raise their own skill levels, improve their gear, and train their Zee. The formulas had yet to be published. [Call transcript on passives and gathering calculations](../transcription/2026-10-08.txt) · [Zeeverse Skills documentation for terminology](https://whitepaper.zee-verse.com/gameplay/skills)
 
 Near the end, Jackal explained the team’s simpler approach to passives through examples. The call did not give the underlying chances or trigger conditions.
 
-> **Jackal**
+> **Jackal** · [20:10](#t=1210)
 >
 > “For example, like woodcutting and farming, and every every of those trades will scale with level, and every of those, uh, uh, trades will grant you like one specific thing, uh, that is for example double logs, uh, from chopping or saving a log while making a fire or cooking two fish at the same time.”
 
@@ -60,11 +70,13 @@ Near the end, Jackal explained the team’s simpler approach to passives through
 
 ## 6. When can the game launch globally, and why is onboarding still changing?
 
+[08:45](#t=525)
+
 A player asked whether all the onboarding work had been enough for a global release and followed up about marketing. Jackal said a global launch depended on **retention data reaching the team's target** and gave no fixed period for polishing the game. Current acquisition campaigns brought in players so the team could see where they quit or got stuck and adjust the tutorial and the rest of the flow. A large marketing push would probably accompany the global release. Jackal left the strategy to Euler. Version 1.17.6, published on October 6 before the call, already listed guidance about the party after losing the first dungeon fight, Handiwork tracking by default after Arrival, map and quest hints, and fewer steps in parts of the gathering tutorial. [1.17.6 release notes from October 6](https://zeeverse.com/news/1-17-6-release-notes) · [Call transcript on the global launch and player acquisition Q&A](../transcription/2026-10-08.txt)
 
 A player asked whether the game needed stronger marketing. Jackal said these acquisition campaigns helped find friction, while the global launch depended on reaching the retention target.
 
-> **Jackal**
+> **Jackal** · [08:45](#t=525)
 >
 > “We’re we’re running these campaigns, getting the people in. Seeing, uh, seeing how, uh, uh, you know, when do people leave? Uh, what people find friction with, and, uh, how can we amend it? How can we improve this flow, make it as frictionless?”
 

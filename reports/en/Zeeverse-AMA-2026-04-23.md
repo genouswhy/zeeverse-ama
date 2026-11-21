@@ -8,11 +8,13 @@ For longtime players, the biggest discussion was **how to bring back Heist and h
 
 ## 1. Paid acquisition exposed a gap in the campaign, with retention still to measure
 
+[22:16](#t=1336)
+
 Euler said the team recruits a batch of players once a build is reasonably stable, then uses the data to assess the design and player flows before deciding how to run the next round. It had already begun A/B testing Google Play store graphics to see which images attracted more players. The latest batch advanced through the campaign faster than expected. The **nearly 40%** figure was the share of that sample who completed the quest on day one. Long-term retention, growth in daily active users, and how many people stayed after the campaign were still open questions. The team paused paid acquisition that week while it prepared new marketing assets and more content.
 
 Asked about retention and daily activity after acquisition, Euler explained why the team had paused ads that week.
 
-> **Euler**
+> **Euler** · [27:22](#t=1642)
 >
 > “And once they complete the quest, they still find themselves without, um, without the purpose, so generally without, uh, the next campaign. So, but overall we saw, I, I think, close to like 40 percent of, uh, day one completion for the quests.”
 
@@ -22,17 +24,21 @@ The roughly 40% first-day completion rate tells us how many players the availabl
 
 ## 2. Campaign part two was estimated at two to three weeks, with Jungle access tied to completion
 
+[10:29](#t=629)
+
 Jackal said this part would continue the story of what Aka set in motion. It would add **two dungeons, two bosses, Rako, a raccoon-like Dark Matter Zee**, and new NPCs to move the quest forward. His estimate was **two to three weeks** to public release. Longtime players with established teams were expected to clear it quickly. Its main role was to teach newcomers how to advance the story and take on dungeons. **After the call**, the May 11 announcement for 1.11.0 listed the new main quest **A Longer Ask**, changes to early dungeons, new bosses, and Rako. [May 11 release notes for 1.11.0](https://zeeverse.com/news/1-11-0-release-notes)
 
 Jackal said that after the update, players would need to complete the main quest to regain access to the Jungle. They would repair a second Totem near the Sawmill and unlock fast travel between the two Totems. That route could shorten the walk for regular Hollow Trials players. The team also discussed bringing players closer to the cave through a future Great Tree teleport or putting a teleport ability on jewelry. Jackal used Mr. Block’s jewelry as an example. The item and destination were still undecided.
 
 After previewing the new dungeons in campaign part two, Jackal gave a release estimate and explained the requirement for re-entering the Jungle.
 
-> **Jackal**
+> **Jackal** · [11:26](#t=686)
 >
 > “Not this week, and I'm pretty sure not next week either. We're looking at like two to three weeks, until we are ready to, uh, release that into the public. And, uh, with this update, uh, you will be losing the ability to access the Jungle area until you cle- clear the campaign.”
 
 ## 3. The plan was to bring Heist back with five Zees and let the community vote on the rules
+
+[12:57](#t=777)
 
 Heist had been suspended in an earlier release. Jackal said a revised version tried by some Tribe players received mixed reviews, and the team needed to prioritize the early campaign. His plan at the time was to bring Heist back with **five Zees**, then turn community proposals into questions players could vote on. Examples included **whether to reset Elo each week and whether to award more points for the same amount of time**. Votes could run every two weeks or whenever enough people were available to take part. Euler was open to letting the community discuss putting Heist on-chain if the team could support it with its existing development capacity. The team reserved room to rebalance rules that gave some players too large an advantage. Jackal said a severe imbalance the team could not fix might lead to another suspension. [October 22, 2025 release notes for 1.7.3](https://zeeverse.com/news/1-7-3-release-notes)
 
@@ -40,11 +46,13 @@ For rewards, the team was willing to allocate some **$VEE** each month to **the 
 
 A player asked whether Heist would again offer VEE rewards. Euler explained how the team would fund the GEX pool and what decisions the community would make.
 
-> **Euler**
+> **Euler** · [43:47](#t=2627)
 >
 > “So, what we said we are willing to, uh, allocate certain amount of the token every month, uh, that can be distributed in rewards. \[…\] And all we will do is provide liquidity, so those high tokens can be exchanged. But yeah, everything else is up to community to decide how, if and when.”
 
 ## 4. The trading economy depends on player progression, with mobile payments and evolution still to resolve
+
+[30:34](#t=1834)
 
 Asked how established players might benefit from the items they already hold, Euler used the **Shield of Souls** as an example. Once new players progress far enough to need stronger equipment, they could buy it from established players on the planned in-game marketplace, with the platform taking a commission. The example of upgrading from steel, a listing price of about **15 million $VEE**, and tens of thousands of new players illustrated how demand could arise. The call provided no actual sale price, acquisition volume, or platform commission data.
 
@@ -56,11 +64,13 @@ Euler hoped to attract mainstream mobile players through Facebook, TikTok, and I
 
 A player asked whether trading every item would take away the reason to explore. Euler offered a hypothetical first trade for a newcomer with an empty balance.
 
-> **Euler**
+> **Euler** · [48:25](#t=2905)
 >
 > “The idea behind the GEX is that every item is tradable, and and and having some liquidity there becomes a way for people to get their first tokens. So, and and then maybe, uh, you will see people looking for apples, like picking up ten apples, uh, getting their first \[…\] 50V tokens, and then spending them to buy maybe something they actually need.”
 
 ## 5. Seed Vault connects participation, and Stack tests whether a game can hold players’ attention
+
+[00:57](#t=57)
 
 Looking back on the first auction, Euler estimated that about **9 million Seeds** had been entered. He said the second auction had nearly two days to run and had drawn about **1.6 million Seeds** so far. He expected some late bids, so the reward per effective Seed would become clear only when bidding ended. The public auction record shows that bidding for Genesis #1 ran **April 4–11** and consumed **8,254,756.07 Seeds**. Genesis #2 ran **April 18–25** and consumed **4,215,305.27 Seeds**. The dates are in UTC, and April 4 and 18 on the public listing are the opening dates. Each auction had a **100,000 FOREST** prize pool. [Official Seed Vault auction record](https://forest.inc/vault)
 
@@ -72,13 +82,15 @@ The forthcoming **Forest SDK** was the other part of the plan, aimed at develope
 
 While describing the upcoming Forest SDK, Euler used a game example to show how tokens could be used for upgrades and production.
 
-> **Euler**
+> **Euler** · [05:36](#t=336)
 >
 > “You can basically build like a bitcoin mining simulator where people are using the coins to upgrade the their, uh, rigs. And, uh, and and then they can just, uh, uh, use it to mine more coins.”
 
 **Stack**, from partner **Acid Gamez**, was the live example covered on the call. Players could start for free and try to score by timing their block placements. The same day’s announcement advertised **$10,000** in $STACK across multiple seasons and **$1,000** in $STACK for the first season, which ran from April 23 to May 7. [April 23 Stack event announcement](https://forest.inc/news/stack-10-000-play-campaign-by-acid-gamez)
 
 ## 6. Other questions and closing remarks
+
+[08:37](#t=517)
 
 - **Does combat feel slower at 3× speed?** Jackal said the redesign mainly sped up attack actions, whereas the old design sped up the entire sequence. He planned to compare it with his earlier records of average dungeon completion times. The call included no measured results yet.
 - **Could Hollow Trials get a countdown or a direct entrance?** The team preferred to keep the interface simple. It discussed a countdown at the cave entrance and checking who receives reset notifications. A direct route tied to one Zee would serve a small group, so the discussion favored access everyone could use. A one-use portal out of Hollow Cave was already available after claiming rewards. **After the call**, 1.12.1 added a cooldown timer above the cave entrance on May 22. [February 16 release notes for 1.7.8](https://zeeverse.com/news/1-7-8-release-notes) [May 22 release notes for 1.12.1](https://zeeverse.com/news/1-12-1-release-notes)

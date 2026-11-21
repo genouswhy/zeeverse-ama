@@ -8,11 +8,13 @@
 
 ## 一、第一轮买量测出了主线的内容缺口，尚需验证留存
 
+[22:16](#t=1336)
+
 Euler 说，团队会在版本相对稳定时投放一批用户，用数据来验证设计和操作流程，再按结果决定下一批投放。Google Play 的商店宣传图已经开始做 A/B 测试，比较不同图片吸引玩家的表现。近期这批玩家推进主线的速度超出预期，会上给出的**接近 40%**是这轮样本的首日任务完成情况，长期留存、日活增长和活动结束后留下多少玩家仍待测。团队当周暂停继续买量，等新宣传素材和后续内容就绪再招募。
 
 玩家问买量后的留存和日活。Euler 用任务完成后的情况解释为什么当周暂停投放。
 
-> **Euler**
+> **Euler** · [27:22](#t=1642)
 >
 > “And once they complete the quest, they still find themselves without, um, without the purpose, so generally without, uh, the next campaign. So, but overall we saw, I, I think, close to like 40 percent of, uh, day one completion for the quests.”
 >
@@ -24,13 +26,15 @@ Euler 说，团队会在版本相对稳定时投放一批用户，用数据来�
 
 ## 二、主线第二部分预计还需两到三周，通关后才开放 Jungle
 
+[10:29](#t=629)
+
 Jackal 介绍，这段主线会继续讲 Aka 引发的事件，加入 **两个 Dungeon、两个 Boss、一只浣熊外形的 Dark Matter Zee Rako**，以及推动任务的新 NPC。他在会上估计公开发布还需约 **两到三周**。队伍已成型的老玩家预计可较快通关，这一段的主要作用是教新玩家推进剧情和副本。**会后核对**，5 月 11 日的 1.11.0 公告列出主线 **A Longer Ask**、早期副本调整、新 Boss 和 Rako。 [5 月 11 日 1.11.0 更新日志](https://zeeverse.com/news/1-11-0-release-notes)
 
 按 Jackal 当天的说法，更新后需要先过主线，才能重新进入 Jungle。任务会让玩家修复靠近 Sawmill 的第二座 Totem，从而在两座 Totem 之间快速旅行。对常去 Hollow Trials 的人，这条路线有望缩短步行距离。另一个提到的方向是日后由 Great Tree 传送点接近洞穴，或在饰品上提供传送功能。Jackal 用 Mr. Block 的饰品举例，具体物品和传送落点仍未定。
 
 介绍主线第二段的新副本后，Jackal 接着说了预计发布时间和 Jungle 的进入条件。
 
-> **Jackal**
+> **Jackal** · [11:26](#t=686)
 >
 > “Not this week, and I'm pretty sure not next week either. We're looking at like two to three weeks, until we are ready to, uh, release that into the public. And, uh, with this update, uh, you will be losing the ability to access the Jungle area until you cle- clear the campaign.”
 >
@@ -38,19 +42,23 @@ Jackal 介绍，这段主线会继续讲 Aka 引发的事件，加入 **两个 D
 
 ## 三、Heist 拟先按五只 Zee 的版本回归，规则交给社区投票
 
+[12:57](#t=777)
+
 Heist 在此前版本暂停开放。Jackal 说，曾由部分部族玩家试过的改版评价分歧，团队资源也得先保证新手主线。当前做法是先按他当时所说的**五只 Zee** 形式恢复，再由他把社区提议整理成可表决的问题，例如 **Elo 是否每周重置、单位时间积分是否调高**。投票可按两周一轮或有足够参与人数时发起。Euler 允许社区讨论是否上链，只要落在既有开发能力内。若规则让部分玩家优势过大，团队保留平衡调整的空间。失衡严重且无法修正时，Jackal 提到可能再次停用。 [2025 年 10 月 22 日 1.7.3 更新日志](https://zeeverse.com/news/1-7-3-release-notes)
 
 奖励方面，团队愿意按月拨出一部分 **$VEE**，放入 **GEX 的 Heist Token 流动性池**。玩家先依社区决定的规则获得 Heist Token，再按池中条件换取 $VEE。分配给谁、何时分配，以及流动性一次投入还是分批注入，都可讨论。会上举了「每月一次投入一千万」作为讨论节奏的例子，实际拨款数额和回购频率仍待定。GEX 文档说明，交易基于道具与 $VEE 的独立池进行，兑换受池中价格和流动性影响。 [GEX 官方文档](https://whitepaper.zee-verse.com/economy/game-exchange-gex)
 
 玩家追问 Heist 会不会恢复 VEE 奖励。Euler 说明团队拟为 GEX 池提供什么，以及哪些发放决定留给社区。
 
-> **Euler**
+> **Euler** · [43:47](#t=2627)
 >
 > “So, what we said we are willing to, uh, allocate certain amount of the token every month, uh, that can be distributed in rewards. \[…\] And all we will do is provide liquidity, so those high tokens can be exchanged. But yeah, everything else is up to community to decide how, if and when.”
 >
 > “我们说过，愿意每个月拨出一部分代币来发奖励。\[…\] 我们只负责提供流动性，好让这些 Heist 代币能兑换。至于怎么发、要不要发、什么时候发，其他都由社区决定。”
 
 ## 四、交易经济设想依赖新玩家实际进度，移动端支付和进化还有门槛
+
+[30:34](#t=1834)
 
 被问到老玩家的道具怎么受益，Euler 举了 **Shield of Souls** 的例子。新玩家玩到需要更强装备时，可以在规划中的游戏内市场向老玩家购买，平台收取佣金。例子里的钢制装备进阶、约 **1,500 万 $VEE** 挂价、数以万计的新玩家进入，都用来说明需求如何产生。会上还没有给出成交价、获客规模或平台佣金数据。
 
@@ -62,13 +70,15 @@ Euler 希望通过 Facebook、TikTok、Instagram 等渠道招来被角色和玩�
 
 玩家担心道具都有市场后就没人主动探索。Euler 用零余额新手的第一笔交易作了假设。
 
-> **Euler**
+> **Euler** · [48:25](#t=2905)
 >
 > “The idea behind the GEX is that every item is tradable, and and and having some liquidity there becomes a way for people to get their first tokens. So, and and then maybe, uh, you will see people looking for apples, like picking up ten apples, uh, getting their first \[…\] 50V tokens, and then spending them to buy maybe something they actually need.”
 >
 > “GEX 的想法是让每样东西都能交易。有了流动性，玩家就能用它赚到第一笔代币。你们也许会看到有人去找苹果，比如捡十个苹果，拿到第一笔 \[…\] 50 枚 VEE，再用来买自己需要的东西。”
 
 ## 五、FOREST：Seed Vault 开始形成参与循环，Stack 测游戏能否接住流量
+
+[00:57](#t=57)
 
 Euler 回顾首轮拍卖时估计投入约 **900 万 Seeds**，说第二轮离结束还有近两天，现场累计投入约 **160 万 Seeds**。他预期尾盘还会有出价，个人每颗有效 Seed 能分到多少奖励要等竞价结束。公开拍卖记录显示，Genesis #1 于 **4 月 4 日至 11 日**竞价，最终消耗 **8,254,756.07 Seeds**。#2 于 **4 月 18 日至 25 日**竞价，最终消耗 **4,215,305.27 Seeds**。日期按 UTC，公开列表的 4 月 4 日和 18 日是开拍日。两轮奖池均为 **10 万 FOREST**。 [Seed Vault 官方拍卖记录](https://forest.inc/vault)
 
@@ -80,7 +90,7 @@ Seed Vault 按有效 Seeds 比例分配固定奖池，排名靠前者可能获�
 
 Euler 说明即将发布的 Forest SDK 设想，举例讲代币如何用于升级和产出。
 
-> **Euler**
+> **Euler** · [05:36](#t=336)
 >
 > “You can basically build like a bitcoin mining simulator where people are using the coins to upgrade the their, uh, rigs. And, uh, and and then they can just, uh, uh, use it to mine more coins.”
 >
@@ -89,6 +99,8 @@ Euler 说明即将发布的 Forest SDK 设想，举例讲代币如何用于升�
 合作方 **Acid Gamez** 的 **Stack** 是会上举出的在运行案例，玩家免费开始，以踩准时机叠方块争取成绩。同日公告列明，整个多赛季活动宣传规模为价值 **1 万美元**的 $STACK，4 月 23 日至 5 月 7 日的第一赛季为价值 **1,000 美元**的 $STACK。两笔数字对应不同范围。 [4 月 23 日 Stack 活动公告](https://forest.inc/news/stack-10-000-play-campaign-by-acid-gamez)
 
 ## 六、其余问答和片尾
+
+[08:37](#t=517)
 
 - **3× 战斗速度看起来变慢了吗？** Jackal 说重构后主要加快出招动作，过去是整段一起加速。他打算用自己早前记录的副本均时做对照，会上还没给出实测结果。
 - **Hollow Trials 能加倒计时或直达入口吗？** 团队倾向保持界面简洁，讨论在洞口显示倒计时，也可先检查重置推送覆盖。对只服务一小群玩家的 Zee 专属直达建议，讨论倾向为所有人设计入口。此前已有领取奖励后从 Hollow Cave 离开的单次传送门。**会后核对**，5 月 22 日发布的 1.12.1 把冷却计时器加到洞口上方。 [2 月 16 日 1.7.8 更新日志](https://zeeverse.com/news/1-7-8-release-notes) [5 月 22 日 1.12.1 更新日志](https://zeeverse.com/news/1-12-1-release-notes)

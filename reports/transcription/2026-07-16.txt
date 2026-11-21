@@ -1,1 +1,825 @@
-All right. Greg is locked and loaded. um, I guess, uh, yeah, um, let's wait for you to get dirty, but probably the more, the you know. What's freshest, we probably should, you know, talk to you guys about uh the new battle UI. uh, And you know, there's been a lot of feedback, and You know, just walk you guys through like our thought process there, and obviously uh uh. Nothing final, and like this obviously optimized for earlier dungeons. But you know, uh, I'm hogging the mic again. uh, I'm I'm I'll give the floor to youler. uh. I guess uh. There will be a lot of questions. I I usually uhThink that a little bit of abstinence, uh,Is actually really healthy. So, if you had like a bunch of already preferred questions, uh, this is probably a good time to shoot them. But yeah, we've been umI'm working pretty hard uh during the last few weeks, and and this is actually one of the pretty big updates we shipped. uh, It was interesting to read chat and see like what people are thinking. um, To, like surprise surprise, most of people um again don't really understand why we did it, and uh cause it doesn't like directly contribute toum, The current community's biggest pain point, which is like a new content. And I'm I'm kind of like, I'll probably be boring today on that side, because I'll be repeating what we've been saying for like past Months, and I would say even argue a years, uh, that what we are doing here is we are building a business. and we are building a game that's able to scale. Oh, naturally, we've been uh focused on early onboarding experience, and early like funnel and early retention data. So, most of our focus has been aim towards the things that player see. uh,uh, Within the first few minutes when they join the game, and obviously a lot of these things are not just some some like local um small changes. uh, They actually spill over into uh mid game and end game experience. And the thing I can pro, I should probably add is uhuh, The last update uh came out, I would say relatively smooth, as long as it touches the early onboarding, but we saw like a lot of um. Errors and problems that should be addressed, um, this week, uh, with a hotfix update. I think we are actually submitting it today, if I'm not correc-, if I'm not wrong. Yeah. And that will fix a lot of the issues you see in Ombre or Hollow Trials, um, uh, together, that will introduce essentially with this new combat system. And also a thing to kind of keep in mind is that. This was a relatively uh big change, uh, in terms of user experience. And we see uh a lot of good stuff that came out of it, uh, but we also see a lot of rough edges. uh, Which became quite apparent, and uh all I can say is we will be polishing, uh, and our goal is to generally turn this into. As smooth as we possibly can. So, uh, even even if you see some things that could be improved, feel free to share them, and we'll do our best to address them. uh, Cause at the end of the day, what we wanna do is we wanna make Like The battle feel um something that you wanna play with it, and obviously at the point where you are in. In your journey of repeating the same dungeon, uh, for the hundred time, and you use auto play. We basically understood that, and we offered a way more like kind of. Easier, uh, and more simplified experience, and we are basically trying to find like a good balance between between uh giving this first wow effect where People actually feeling control of the battle, versus the experience what lot of like existing players would actually uh ask for. which generally is less battle and moreuh, I mean, at the end of the day, at least Based on what we've seen in the data is that uh a lot of players would probably. Consider removing all battle an- animations, and just kind of being able to to auto complete. Like uh spend 10000 energy to complete 10000 dungeons in a single click. I would probably guess this would pass a vote. uh, But yeah, so. The end of the day, we wanna find a good balance uh between that, and um and uh and and this is what we're doing, and that we see a pretty promising results uh during the New onboarding experience as well. uh, A lot of you've noticed the you can now s- when you upgrade and when you like select your Z, it actually. Feels way more immersive, and this was actually one of the really cool things we wanted to introduce for the new player. I mean, like there is so much stuff going on, and what happens within the first hour of experience. In the game, and I could probably go on. uh. But um guys, I'm here here, so if you have like a bunch of questions or something, I would love to really address them. uh, I also have a bunch of stuff I want to share about the forest. uh, I think uh there, if you if if there are like people here who have been following, uh all we've been doing on the forest side. uh, You should actually be quite excited, uh, cause the AI Builder uh is now pretty much capable of building um. One shut blockchain games and apps. uh, Just With one prompt, and and that's a pretty freaking cool, and uh and this is a experience, and this is basically one of the directions where we are advancing our technology very very fast. And um I think you'll soon start to see a bit more direct, also direction we take with the forest, where uh you will be able to launch apps and remix existing apps. 呃And Actually launch them without a token, if if that's what you wou-, what what the people wanna do, and then kind of take those apps and remix them into the tokens with which has apps. But like generally, uh. It's uh, it's being sorry, it's like remix apps on the platform, or uh like you know, uh, hey, let I wanna do Candy Crush. On on a platform, cause, oh, okay. Yeah, I mean if somebody creates uh a Candy Crush on on on on the forest. And you think that you know how to make it better, there will be a remix button, and you can basically turn that game into your own. Launch doggy. I mean like, for instance, one thing we did the, uh,With um with with the with the teams we worked together, and they uh they were, they basically had the like, was diamond miner, and and gold miner. I think these were two games. That were uh launched sometime ago, and a lot of people had, at at least that what I heard, uh, people were quite vocal about how these things should be built. uh, How they should be launched, and this basically means that now, uh. All it takes is pressing one button for you to uh change things, and and launch and build them the way you see them fit. So, um,Yeah, uh, generally, it's gonna speed up uh a content creation. Multiple fold, and um it's really really interesting to just see where where this um uh where this is going, and this is also something what umWe see a lot of interesting from institutions, and generally. um. And gen- general market, uh, in in in in so so, uh, yeah, but let's let's maybe get back on uh on the Zeevers, and then I'll just leave a bit of side for uh what's up on the forest. what we're doing there, where we are pushing it, and and so on. So, Jiao, maybe you you have some some agenda. uh, Prepared, regarding the zivers, or uh, how do you go? I don't see any questions on chat yet. Yeah, no, not particularly, cause lat-, we, I've been uh I've been keeping community up to date for the both weeks. uh, We've been uhuh, Heavily grinding the uh the first hour, and I think we've been on the grind for uh. I mean what feels eternity, but uh for the, I think like last two or three months. uh, You know, uh, that, uh, well guys, first of. Every everybody is like so dedicated to Zivert. We're working weekends, we're working nights. uh, We just like uh e- everybody over and beat through just once uhsee they ever succeed, uh, and are passionate about the project. uh, And uh yeah, uh, though, you know, uh, takes a while, uh, takes a while to polish these things, and. uh, Takes a while to see the data. Takes a wha- uh, And you know, e- everything k- keeps on tak- uh, taking a while guys, and. Sucks, for, I mean, for uh for me, for you guys, cause we all play Zeros. But uh. uh, Yeah, I I've been saying this every every community call, but uh. uh, I, you know, it's it's hard, but uh ultimately, we're not only doing this for ourselves, but for you guys as well. uh. But I mean, yeah, this is, there is like there is no other way, like uh uh like games. Die and live by these numbers, so you better get them right. And and like like polishing these things. Like generally. The really good way to put it is what we are essentially doing is. We are gai-, breaking game into smaller pieces for the new people, and and then we are building these things that will. Immerse them into the world, a piece by piece, so it feels organic, so it creates these like like reinforcement loops that people understand the things they are doing, because let's be real, Zivous is. Freaking complex universe already, with the content we do have. For new player, it's overwhelming, it's overwhelming to understand every idea, every skill, every Z thing, abilities, quests, like literally so much stuff is happening at the same time, and um and and and it can be quite terrifying experience. uh, for a new player, and and this is something where the real art lies into. Of making complex things easy and exciting, and this essentially have been something what we do uh for a while. uh, There is actually one uh. New system, it which is going to be introduced, not with this hotfix update, but with the next update. And actually, Jackal is working on that, um, which is we'll add the daily quest system. So, this is something we wanna test in a way where we're gonna probably start quite simple, but uh we understand that um. New players, they need some direction, and uh And to be honest, I'm not the biggest fan of the idea where we start to build like these artificial task systems on top of Zeevers. But this is something we wanna play with, and we wanna try. So, we will build and launch uh a more updated the daily login system that will now also involve uh. A set of tasks that can be completed every single day. uh, uh, I think we're gonna start really simple, but uh if this is something what. People really enjoy, we may advance it uh to more complex and more demanding. So, uh, our more experience and season players will find a good thing. So, good, like. Something fun to do, uh, for for for them every single day. uh, If if it's just like a few tasks that they could generally find um. Challenging in a way, so. Yeah, um, uh, in the, uh, yeah, just, I I think I did uh did give give some some some of the guys either in my streams or the community call. uh, I talked about daily quest system, and ju- just wanted to add that yeah, initially we're uh rolling out the daily quest is like one size fits all. And they will like uh start with like very simple simple tasks, but the ultimate goal here obviously, if if it proves to be a success. And we can invest more resource into it. Would be that these delicate quests are tailored to the uh user state, right? For example, you can mind coal rocks so. Now the daily question can get take uh take you call rock mining, right? uh, uh, and so on and so forth. Yeah, so it it will generally. Give you a few directions to follow. uh, And and and if we see this as something cool, we may make it into like actually uh challenges. uh, Something that, um, yeah, something that our season, most season players will find exciting. But anyways, we are, as always, we start with these things relatively easy and slow. And uh and we gonna have um this thing coming out ACP, with one of the next update. We aim uh to use this system to um. Open up the zivers in small chunks and small easy things for people to go and do and explore. And and and yeah, so we gonna go there from this system. Yeah, and there is there is a bit of background noise. I mean, no, I I can't hear anything. Then the Discord noise portion is free, uh, free. I'm I'm kind of back in Latvia, but I'm like still moving around, so I'm in like, yeah, one of my friend's houses, uh, house and. His kids are having some arguments. uh, But so, yeah, if if there is no, begging or not. That being said, uh, about the quests, so this generally is a direction what you can then essentially expect to follow later down the road. Is a nice twist how this will be turned into uh a human system where uh where we want to basically gather all the autistic behavior in one place and collect them uh and and measure that. and and then reward it. So, um, think of this as as uh something. Yeah, craft craft hundred thousand buckets, and the reward is ability to craft five hundred thousand buckets.uh, So. Yeah, I I I guess that's one way to think about it, but anyways, uh, these few things, uh, we are able to start to lay on top of the foundation, it's gonna add way more things to do inside the ZeeVerse. and it's gonna add. Probably way more things to, um, like. Optimizing and go go towards. So generally, uh, I think this it will be quite welcomed uh improvement. um. The same kind of goes with one of the concept, we also do have in the roa- roadmap, uh, basically in short term roadmap, which is Z-DEX. So, we want to empower collection, and then this is also, I think it kind of goes hand in hand with your achievement log. So, plus uh informational Like, uh, we also s- look at it this information, you know, about Zeevers should be readily available within the Zeevers instead of uh. uh, Being in the know, and having to, you know, go to an external site, just you know, see what see what what these are about. uh, uh, However, uh, you know, there's a I just sorry, uh, you'll learn for tripping. uh, Try again. um, We, the way we will approach Zivors, uh, sorry, ZDEX, will be uh encountered and owned. But to unlock the entry, you will need to encounter it, and it won't count seeing as a follower. So, I reckon I reckon everybody will be challenging Boyman to battle, because he has a one of a kind entity. uh, So, uh, so, yeah, that's something I immediately thought of, that Boyman will be instrumental for people to complete their Ctext, which is very cool. uh, But yeah. Yeah, this is an interesting way to actually, yeah, put it. um, Yeah, um, now. I see one one has uh are the passive skill on. uh, This, oh, this is something I completely forgot to mention. uh, This is also being like worked on, and we are I think the taka has a passive skills, we're already working. Yeah. uh, Some of the stuff still doesn't uh contribute, so some of these still doesn't contribute to the skills. But that's just because um we still need to finalize the new like um uh skilling formulas. uhuh, It doesn't really expect to change much, uh, when you um. I actually will change, uh, but it will change hmm things to feel relatively easier and more rewarding. So, what we wanted to do and achieve with this change besides uh finding a way how we can include your z's into like equation. uh,Which decides whether you succeed when you try to mind the rock or no. uh, Is that we wanna make sure that the this like the difference between levels what you achieve. Actually will be um uh something you can feel, and where the type of pickaxe you use also kind of counts in. So, there is um. uh, Some some stuff happening behind the scenes, uh, to make it possible. But this is also coming in. uh, What else? uh, Oh, I think we have a pretty big topic, uh, which actually goes To the Jackal, which is Hyst. So, how are we looking on Hyst? So, uh, uh, uh, you know, every week, uh, nothing has changed for the highest development, as uh they're currently. Oh, very heavy working on the annual inspect screens, a a sham and inspect screens also uh having a rework pretty soon, right? um. Yeah, uh, highest, uh, well, quick rundown needed to do now. uh, We need to refresh the UI. uh,Unfortunately, uh, rig the cameras and introduce the new battle uh battle sys- UI system uh in the um in the heights as well. And uh then we are uhGreat to launch the uh launch his back on, in the uh you know, same, not uh not well perceived state as it was. And immediately pop out propositions, uh, vote vote's pass, and then we implemented. uh, Though, uh, you know, I, you know, just a precaution guys. It this highest will not take priority. It's something we will allocate some dev resource to, but uh obviously onboarding uhTakes uh all of our effort, and obviously, uh huh, as much as the next guy, we are, uh huh, I want this uh this to be done and dusted. uh, For us to have smooth onboarding, so we can uh finally return and start working on, you know, the fun content. And as a fun content, there is still. Two chapters on the main campaign left. uh, Which uh I think is gonna be. I I think most of like a lot of the stuff regarding that campaign is already in place. I mean, it's. Yeah, uh, we're like we have auh, We have devs on uh uh when they're not actively working on some onboarding stuff, they are already like uh uh rigging everything together. uh, And uh yeah, I did, you all sorry for that, I did spoil what's the crazy Ultra Mega Ray Ring was. uh, That's coming. hmm-hmm. In the in the ring slots which you're getting the next camp, uh, next chapter of the campaign, and um yeah, uh, for Those uh who haven't heard that we will be introducing jewelry slots with the next campaign quests. and being next uh necklaces and rings. And we will be introducing treasure map system. uh, You will be able to get treasure maps as a drops from dungeons, and uh you will need to find where the treasure is uh buried. Go there, excavated, and open it. So, it it it's like a little 3 minute, 5 minute distraction. If you know where to dig, if you know where to dig. However, uh, we will be introducing, I think one in 5,000 drop chance. uh, A ring, uh, which is a crazy ultraman gear ring, uh, which will increase uh uh your luck by 20 percent. uh, Nowum, How uh how the luck will work, it is uh wherever possible. For example, this won't work on like, so uh uh Genesis a load buds, butuh, Like dungeon drops, wild drops, you will have 20 percent chance to roll the whole table again. uh, So, you know, uh, basically you are getting extra slot, extra drop. In, yeah, in 20 percent, uh, of times. Yeah. uh, So, uh, not sure, not, I mean we gotta check uh the expected values for Hollow Trials, cause uh you know, uh, 20 percent chance, for example, roll additional 5 slots might be busted, but then again, so is the ring. And that's what it's meant to. I mean, I, in in terms of how a trials that would generally translate into on average instead of getting 5 rolls, getting 6 rolls. uh, I did I did run to uh you know, through our uh trusty LLM, I did run some uh ex-, uh, like, when can users expect uh the first ring drop, uh, given, you know? You you you get that, and the uh you get the map every like uh so often, if you complete a number dungeon in 2 minutes, and then you have to go do it, if you know where to do it. And we're looking at like 129 days for the first week to drop uh at the current user base, obviously, as we get more users. uh. That would uh come. uh, Yeah, faster, but yeah, uh, and the design logic for this was because we don't want to introduce. Items it stats as drops from somewhere, uh, uh, cause we do want to reserve these uh items to be crafted by the community through the uh player on land content. uh, And you That's the reason uh uh why we're like looking at uh you know uh. Gear horizontally rather than vertically. But yeah. I mean like uh generally, we are, we're like withholding a lot of fun content just because the game is not ready for that yet. And uh I mean players are ready. Like many of existing players are have been ready two years ago for that, but uh no. But uh I mean, uh, we will will have plenty of time to like bring it all on. And um yeah, I I mean, uh. Honest hard work, but we are getting 1 percent better every single day. And one way or another, there is actually a way how we can even track it, which is we've been doing quite quite a lot recently. so, um, like I said, for maybe people who haven't been here since the beginning, uh, we've been spending a lot of time there, and we see gradual improvement in onboarding. And when we actually start to understand how players feel, and on early on, and then we know and understand that we need to give them a bit more direction indirectly. Like, that that's actually a funny thing, because hmm, um, let's let's let let let let's dive deep into players' mind on mobile gaming market, and mobile gaming market says generally thatuh, The median season median. a season linked, uh, for first season is session is uh eight minutes. So, in those eight minutes, this is kind of Close TikTok brain we are playing with, as. We have to get people interested enough for them to complete at least uh ending your feet. In in kind of one go, uh, cause uh like. The the funny thing, and and that's actually um. Bit of irony here is that players hate tutorials. freaking hate tutorials. they want a freedom, they want to go out and explore. uh,Um, Moment, uh. We give them this freedom, they realize they need guidance, and and what we really try to do right now is to find a good balance between. Giving them this freedom early enough, but then providing them guidance, uh, which comes not in a form of being hard-locked into. quest sequence or something. But I mean like right now, players can um pretty much start playing game after completing finding your feet, which on average takes around 16 minutes. uh, We actually see maybe a way to actually get it even shorter, but that's kind of. No, no. In within the current sequence, which uh uh made uh. uh, In, have, may may have a little bit of impact on playtimes, but on average we are looking like for these 15 minutes of being somewhat locked into the experience. Before we allow you to like really proceed, um, and and explore game on your own on your own terms. uh, So, uh, yeah, this mean, uh, this is like pretty much what we dealing with, because um hmm. At the end of the day. The better we do it, the better are the results, and and and the more fun stuff we can do after. I I I I I guess, uh, I, you know, uh, I guess, uh, once we, uh, obviously get closer to the global launch, and start uhRunning these ads in, for example, USA, you know, people will be more talkative in the chat, and they uh game will definitely liven up immediately.uh, But you know, uh, obvi- obviously. two things like, I still see like a daily where's no more question, which you know, I love to see that, and you know obviously, you have to like. uh, Offer some guidance to the uh to the normal as well. uh, I believe I did the. Did I? I think, I believe I did adjust the normal dialogue a little bit recently. uh, Be- uh, because he's like, why is everybody looking for me these days? uh, Or something like that. But. Actually, I do have one thing, and this is probably experiment we gonna run, uh, at some point in time. But I would love to hear uh community's opinion on this. So, one of the feedback uh I received from uh. Basically. Tester who had the first experience within the zivers. uh, I know him personally, so we had a pretty much straightforward talk. And and one of his first reactions was why the Joren is so freaking ugly. And uh and wouldn't player want to have like a sexy shaman girl instead with a big boobs uh welcoming? hmm, uh. Player in the world. So, I would love to hear what do you think of uh how attractive Joran is, as as as your first uh Oh, Cherry has opinion. Ha. I uh, I I I really liked the the, I I really, oh wait, I may maybe I can find and share this with with uh with you guys. I really enjoyed. So, uh, we were working with Kiwi on like developing Back in One Piece and Joran, and Kiwi was drawing these uh uh like. Scheduling boards for like the sequences. And I really like how he drew Jordan there. uh, And you know, it's gonna be really comedic. I will quickly look To find it, uh. Yeah, no, uh, I. Yeah. Anyways, uh, well well, Jackal is searching for that. uh, I think this is seriously, we, I think we gonna at some point run. A small AB test where we will be just kind of getting in um few uh hundred, maybe few thousand players, and like new players, and we'll be measuring what. How they feel about uh Jorien uh as a beautiful lady versus Jorien as uh how it is right now. um, So, that's just. uh, One. thing, I thought uh maybe a fun thing to put out here. um, And something to just consider. uh, So, yeah, that's uh but I mean at the end of the day, it's all about like these small things. um, And if we see for some reason uh that the sexy jordan is working better, uh, we may actually do a small change there. um, But yeah, that's um that's um. Something to put it out here. Still don't see any questions from people. uh, Maybe maybe we have answered everything. Yeah, we probably answered everything. um, Yup, so. We are going steady and strong. hmm, Keep iterating, keep adding uh better experience, uh, fine tuning UI. I saw there were some people uh actually bit um. 呃，我 would be the best way to put it uh Concerned about our obsession with the polishing UI and doing these things instead of like come introducing new raid bosses It's not about us. Like one thing to do these things, it's because these things uh directly change the way how um people perceive. the zivers, and this perception uh plays a dramatic role into hmm. How likely they gonna stick around after their first or third or or fifth or tenth session? And obviously, it's not just This, it's like all the things combined. So, whenever you see us doing these things, don't think that we try to fix end game with the UI update. What we try to do is fix confusing things that. You are already uh familiar with, but new player basically find confusing. So, this is basically what we trying to cater for to. So, um, yeah, speaking about fun stuff, there is also um a plenty of improvements for World Z battles. And I'm not sure if you noticed, but now you canuh, Flee from the battle, if you started it, um, just by running away with your Shaman. And I don't think anyone here has notice given how strong everybody here is, but maybe maybe, yeah, but The, that's a pretty handy thing, uh, cause sometimes you just made accidentally click or realize you gonna die. uh, now you wanna get away, so, um. Also, it's way more uh into you, because generally, uh. Not, it it kind of looks broken if you start a battle, and then that battle may be taking one minute or two minute to complete, but you are already at the other side of the map. but your Z is kind of trying to finish the deed. Yeah. So. I get, I I I yeah, I get, I guess there was um this umuh, Yeah, as Guangwen said, uh, ge- generally user found it out as they were like trying to multitask and uh scale in uh. If you are within a distance. I I do, I'm not mining. I don't know if uh fishing, uh, some woodcutting might be possible, but generally the least distance is quite auh, Quite small, which we can always down to re-adjust and tune, but uh uh, yeah, yeah. Kill more fish. But uh but yeah, it was generally fine, we'll find like, if if if it doesn't work right now, uh, we may actually introduce umI fix that, or just increase the range until the battle is considered to be over. uh, And this also will become really handy when we bring in like the boss battles, uh, on like world bosses. Cause you don't wanna be stuck forever. uh. In a boss battle, there needs to be a way for you to kind of get away. uh, And this also means, and this is something I've been playing around with in my head for a while. uh, We may we may try to do it, we may not try to do it. But the world Z battles, uh, slowly improving and evolving means that uh we are already able to build more complex systems, such as uh world bosses that can be slain by multiple people at the same time. uh, And I think that that's gonna be amazing um experience, uh, for every type of player to be like basically uh side by side with your bros and and trying to slay the big boss for for something. uh, But it may also introduce uh the idea of PVP zones where uh you could be able to just launch an attack on every bypasser. And and then your Zs would just kind of do the real time fight on the world map, and and and then you can try to run and other guys basically chasing you. And I I think it may add um um. Quite a bit of uhSpiciness, uh, to the to the game, and and so on. But this is just something uh I see as one of possible paths for uh having relatively advanced the. uh, Volley battles. So, um, sorry, uh, just said it out loud. uh, Maybe it gets some uh somebody to rally behind this idea. uh, We may sometimes drop um an experiment or something for people to test and have fun with. Yeah, so, uh. Let me get maybe a bit of attention around what we'll be doing in the forest. And then we can look to wrap it yeah. Yeah, and then w- in meantime, there are some questions hopping up, uh, like, feel free to drop them. uh, So, uh, like I mentioned, we've been uh also advancing on on our tech side on the forest. So, there is a lot of um uh development happening at honestly shocking speed. Like uh the the tech we have. I mean, it's AI that we are building with AI, and and and the speed at which it compounds is actually quite scary. So, if like two weeks ago, we were able to put. Barely put together some sort of front end. Experience with maybe 5 attempts. Now, what we have launched is uh forest cloudy cloud service behind it. Which is able to host all the back end multiplayer functionality, databases, literally whatever uh. Data. Resistance, uh, the application or game would need. uh, Automatically hosted by Forest, uh, hosted by Forest and uh and and basically made seamless. And now, uh. You can generally just build a game or app with just one prompt. And in most cases, you will one shot relatively simple experiences. uh, Yeah, in general, you can create a multiplayer game. uh, We already tested it with um uh leaderboards. So, like you just describe what you want, souh, Some of the things may take a few more, like few, more than few uh prompts, but it's already pretty good at one shutting a lot of stuff. And it's it's just getting better. And when I say it's get it's getting better, it's getting better, like, freaking every single day. Because every single day, it's just. Solving so many problems, and suddenly it makes it so easy. uh, So, like. It's crazy that right now, you can pretty much just build a game or app with one prompt. And um and it may have a token, it may have a multiplayer functionality, it may store the user data, uh, it may. Actually offer real time experiences. uh, Yeah, you can basically build the the highest. You can build. Uh huh, No, you can't. No, that was a joke, but can you build multiplayer games? And. Yeah, you can. uh, Like there is a lot of like angles we are trying with, but this is actually where we really invite hmm people to come in and try and report the problems they find, and actually. uh, Yeah, exactly. Like that's what forest cloud is. It essentially is is uh is cloud infrastructure that's uh uh hosting the back end logic and services. of the games being built uh by its users. So, uh, this uh kind of um yeah, it's it it's uh Honestly, I'm astonished by it myself. It's a pretty scary, uh, it's pretty scary good, and it's getting better uh every single day, uh, and and right now, we are working, starting to work withuh, Multiple ecosystems around that side. uh, So, I think um for forest, it's pretty much matter of time when um we'll start to see some breakouts happening. uh, Either either from the people finding it freaking useful for what they want to achieve, or uh just market deciding, uh, discovering uh that we actually do have one of the hottest narratives. uh, On on on the art, so. Like, I mean, go in, try for yourself, uh, and we gonna, uh, I think I think like, the way we do it is every. Week, we basically do maybe two or three public updates. uh, You don't usually see them, it's happening behind the scenes. uh, Where we just. Improve the functionality, and uh and fix a lot of issues, uh, optimize for efficiency. And what's also interesting is that the. uh, This will kind of play uh in in a very strong uh synergy with the zeevers, because. The games rely on is user acquisition, and user acquisition needs a lot of creatives to work with. uh, And some of these creatives, some of the best. Performing creatives in the market are playable ads, which are just generally dumbed down mini game versions that hopefully attract the same crowd that would be in. Interested into uh full experience, and and and forest, the builder is. expectation, excep- exceptionally well at building these things at the scale and at the speed. And and we also do still have um um full compa- compa- bility with uh more custom experiences. Uh, If you don't want to use the builder, uh. Just check what's already possible with agents. I actually had, like I was in uh Taiwan hmm last uh month, uh, last basically week, hmm, last two weeks. And I was meeting a lot of our existing investor, and I had like this uh weird, the somewhat weird exchange conver- con- conversion, uh, con- conversation with uh one of the guys. Who asked um did you have a chance to try a forest play kit? uh, And and he's he said Yes, and it just worked. He was so, 'cause usually these things, it takes. Takes few tries to get them working, or always it's like, oh, you know, you have to do this and this and this. And he said, I'm no developer, and only thing I did, I basically pointed towards the agent skill. Page, and said you'll make me uh game that actually use this token, and it did. And it shocked him, it shocked the uh. It actually shocked me as well, cause I I didn't thought it's just gonna work so well. So, um, right now, Forest has ability to umGive you full control over the hmm development experience, over your data, everything. So you can just use PlayKit to. uh, Connect, and at the same time, uh, uh,At the same time, uh, you can use the builder to just uh. To just uh. Detail translation today. Jack out that's on you. To which language? Ha, oh, uh, so so yeah, and and getting back to the forest part, um. uh, It's it's getting scary good. It's it's getting scary good. I I uh really recommend you to go and have Have a have a try. uh, I think it's gonna soon start to make some waves around that. uh. Another thing which also we have realized, and and this is uh I think one of our um. Competitive edges, and and this and this um. Of AI. Is that it's not anymore about like the models you use. It's actually about the harness. So, uh, when you think of forest, don't think of just like a wrapper or some some Some stuff that's utilizing the brain of uh current current uh fight ship or like AI models, et cetera. uh, We actually don't even use the flagship models, cause we found we need to found like a good mix between efficiency and quality. But it's not even about the models anymore themselves. It's about the hardness, and it's about the about the context you can provide. So, um, one of the things we realizedUh, Which. Nobody has really solved is that. It's not about building the games. It may not be even about distributing the games, but it's actually about designing the games. Because uh this is, I mean like, think of this in a form of um. uh, You know, like there is a company called perplexity. They are generally, they don't have their own models, but they're really good at uh choosing the right model for you. But what they're exceptionally good at is uh knowing the things you will need before you even need them. So, uh, it's probably the top one tool to analyze the finances. And if you are like a, let's say rookie investor, or or or just generally not the PhD level or in in finance. And you may ask a question about like some company or about some stock or about some crypto. It will ensure that you actually receive then more things it knows you will need, because it's like like freaking good at it. And it will serve uh this before you even ask. And the reason I'm mentioning is that the same kind of um. Way of thinking, and can be applied uh to game making. Because it's not about saying, yo, make me a Candy Crush. uh, Make it work, and no bugs please. It's actually about understanding what makes Candy Crush addictive, what makes Candy Crush engaging, what retains, how the level design works. How the level should be designed? What kind of uh little things that may need to be um included for that game? To not just look like a game, but a- actually feel like a game. This is like what we see in in this AI era of, oh, uh, there are like companies that produce nowadays like tens of thousands of games from single like uh prompts uh that came out as a AI slop. But it doesn't really matters, because none of they look like games, but there are no games, because there is no like real, know how. How to design those experiences? And this is where our moat generally is, because uh we have been in this industry for freaking 15 years. We know what makes games work. We know what engages people. We know how to monetize that, and essentially through the Forest Builder. uh, And through the hardness we are building, uh, we are adding this lens of knowledge into these different genres. And what we will be essentially end up doing is we will go out. We will find like the the top uh experts in every single genre. So we will find like the best people who are at building much three games, best people who are at building like uh strategy games, whatever thing you can imagine, there is somebody who is Expert at PhD level. and knows how to do these things, uh, and knows how to design these things, and these things then can be essentially applied to whatever you wanna make. So, this is just like a bit of um uh thinking what we see behind the tech we have on our hands, and we've been building, and and we'll be using this. First of all, to uh grow the forest ecosystem. uh, We'll be using this uh to build our competitive advantage for the Zee versus user acquisition. And I generally seen like this is um yeah, I mean, at the speed at which is advancing, and we all have only like probably dedicated. 10 percent of our uh maybe 10 15 percent of our in-house resource team, uh, for for the forest, and it's just moving at light speed. So, um, uh, so, yeah, that's just a bit, uh, what's what's up with the forest? uh, Where our minds are at with the forest. I also don't believe that uh this kind of sideway paying beer market will last forever. uh, I think uh some point is gonna turn, and the winners will be the ones who built when it was hard. So, um, so, yeah, uh, we we've been uh behind the forest and behind the zebras, uh, and we are just generally Doubling down doubling down on what we do, and um and I I I truly believe is gonna pay off. So so, yeah, uh. My resume is uh forest. Is becoming quite an interesting place to be at, and build that. I invite everybody to just for sake of trying and exploring, going and try. um, I think we might even add some some builder credits for people to have a a free way to. Experiment with those tools, but but yeah, like I said, it's already scary good, and you can pretty much build uh complete experiences and complete blockchain apps just with a single prompt. So, yeah, let's let's end on that. uh. And uh I ge- uh yeah, I I guess uh. Great times ahead for the Zeevers and for the forest. uh, That's that's a better way to end it. So, uh, thank you everybody for uh joining today. uh, Jackie will probably be doing closing ceremony. And I will be having, doing a stream today as well. Yeah, and and and and it actually feels good to be back on community AMA. I do apologize for missing the last one, and then missing the one which was intended to make up for the missing the the previous one. uh, It was a bit uh hec- hectic. uh, I I I I think I got the COVID or some something like that. Was uh. Pretty uh. Had a bit of reality check, so take care of your health. But it's pretty it's pretty uh good to be back, and very very uh. to see so many of you guys uh joining in and tuning uh for our weekly AMA. Thank you and bye. Alright, uh, so, I've already taken your screen, uh, taken the screenshots. So, uh, yeah, let's do three premium passes. uh, For, everybody in the screen should aside from the Craig and unfortunately aside from the Cherry. uh, Let me share my screen. Yeah, I mean you guys already know the rules, so let's just spin it. As just spin it. But a bing, but a boom, chef shaw. You get a pass. U R. You get a pass. And the final one, uh, yeah, uh, if you get a pass, open up a raffle rewards uh ticket. uh. The cherry will provide you with one crypto blade. All right, guys. uh, That's gonna be it uh for the community call today. uh, You can tune in. For um uhStream later, I will be streaming on YouTube, uh, and uh exactly an hour. So yeah, uh, we can talk more zivers, uh, try to upgrade more traits, and uh yeah, uh, check out how the battles Battle see work, and yeah, cool, anyways, thank you guys, uh, see you. and bye, John.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+All right. Greg
+
+[00:02]
+
+is locked and loaded. um, I guess, uh, yeah, um, let's wait for you to get dirty, but probably the more, the you know.
+
+[00:13]
+
+What's freshest, we probably should, you know, talk to you guys about uh the new battle UI. uh, And you know, there's been a lot of feedback, and You know, just walk you guys through like our thought process there, and obviously uh uh.
+
+[00:30]
+
+Nothing final, and like this obviously optimized for earlier dungeons. But you know, uh, I'm hogging the mic again. uh, I'm I'm I'll give the floor to youler. uh.
+
+[00:41]
+
+I guess uh. There will be a lot of questions. I I usually uhThink that a little bit of abstinence, uh,Is actually really healthy.
+
+[00:55]
+
+So, if you had like a bunch of already preferred questions, uh, this is probably a good time to shoot them. But yeah, we've been umI'm working pretty hard uh during the last few weeks, and and this is actually one of the pretty big updates we shipped. uh, It was interesting to read chat and see like what people are thinking. um, To, like surprise surprise, most of
+
+[01:20]
+
+people um again don't really understand why we did it, and uh cause it doesn't like directly contribute toum, The current community's biggest pain point, which is like a new content.
+
+[01:34]
+
+And I'm I'm kind of like, I'll probably be boring today on that side, because I'll be repeating what we've been saying for like past Months, and I would say even argue a years, uh, that what we are doing here is we are building a business.
+
+[01:52]
+
+and we are building a game that's able to scale. Oh, naturally, we've been uh focused on early onboarding experience, and early like funnel and early retention data.
+
+[02:09]
+
+So, most of our focus has been aim towards the things that player see. uh,uh, Within the first few minutes when they join the game, and obviously a lot of these things are not just some some like local um small changes. uh, They actually spill over into uh mid game and end game experience.
+
+[02:32]
+
+And the thing I can pro, I should probably add is uhuh, The last update uh came out, I would say relatively smooth, as long as it touches the early onboarding, but we saw like a lot of um.
+
+[02:49]
+
+Errors and problems that should be addressed, um, this week, uh, with a hotfix update. I think we are actually submitting it today, if I'm not correc-, if I'm not wrong. Yeah. And that will fix a lot of the issues you see in Ombre or Hollow Trials, um, uh, together, that will introduce essentially with this new combat system.
+
+[03:09]
+
+And also a thing to kind of keep in mind is that. This was a relatively uh big change, uh, in terms of user experience.
+
+[03:20]
+
+And we see uh a lot of good stuff that came out of it, uh, but we also see a lot of rough edges. uh, Which became quite apparent, and uh all I can say is we will be polishing, uh, and our goal is to generally turn this into.
+
+[03:40]
+
+As smooth as we possibly can. So, uh, even even if you see some things that could be improved, feel free to share them, and we'll do our best to address them. uh, Cause at the end of the day, what we wanna do is we wanna make Like The battle feel um something that you wanna play with it, and obviously at the point where you are in.
+
+[04:05]
+
+In your journey of repeating the same dungeon, uh, for the hundred time, and you use auto play. We basically understood that, and we offered a way more like kind of.
+
+[04:17]
+
+Easier, uh, and more simplified experience, and we are basically trying to find like a good balance between between uh giving this first wow effect where People actually feeling control of the battle, versus the experience what lot of like existing players would actually uh ask for.
+
+[04:37]
+
+which generally is less battle and moreuh, I mean, at the end of the day, at least Based on what we've seen in the data is that uh a lot of players would probably.
+
+[04:50]
+
+Consider removing all battle an- animations, and just kind of being able to to auto complete. Like uh spend 10000 energy to complete 10000 dungeons in a single click.
+
+[05:07]
+
+I would probably guess this would pass a vote. uh, But yeah, so. The end of the day, we wanna find a good balance uh between that, and um and uh and and this is what we're doing, and that we see a pretty promising results uh during the New onboarding experience as well. uh, A lot of you've noticed the you can now s- when you
+
+[05:32]
+
+upgrade and when you like select your Z, it actually. Feels way more immersive, and this was actually one of the really cool things we wanted to introduce for the new player.
+
+[05:44]
+
+I mean, like there is so much stuff going on, and what happens within the first hour of experience. In the game, and I could probably go on. uh.
+
+[05:56]
+
+But um guys, I'm here here, so if you have like a bunch of questions or something, I would love to really address them. uh, I also have a bunch of stuff I want to share about the forest. uh, I think uh there, if you if if there are like people here who have been following, uh all we've been doing on the forest side. uh, You should actually be quite excited, uh, cause the AI Builder uh
+
+[06:21]
+
+is now pretty much capable of building um. One shut blockchain games and apps. uh, Just With one prompt, and and that's a pretty freaking cool, and uh and this is a experience, and this is basically one of the directions where we are advancing our technology very very fast.
+
+[06:43]
+
+And um I think you'll soon start to see a bit more direct, also direction we take with the forest, where uh you will be able to launch apps and remix existing apps. 呃And Actually launch them without a token, if if that's what you wou-, what what the people wanna do, and then kind of take those apps and remix them into the tokens with
+
+[07:08]
+
+which has apps. But like generally, uh. It's uh, it's being sorry, it's like remix apps on the platform, or uh like you know, uh, hey, let I wanna do Candy Crush.
+
+[07:22]
+
+On on a platform, cause, oh, okay. Yeah, I mean if somebody creates uh a Candy Crush on on on on the forest. And you think that you know how to make it better, there will be a remix button, and you can basically turn that game into your own.
+
+[07:40]
+
+Launch doggy. I mean like, for instance, one thing we did the, uh,With um with with the with the teams we worked together, and they uh they were, they basically had the like, was diamond miner, and and gold miner.
+
+[07:55]
+
+I think these were two games. That were uh launched sometime ago, and a lot of people had, at at least that what I heard, uh, people were quite vocal about how these things should be built. uh, How they should be launched, and this basically means that now, uh.
+
+[08:15]
+
+All it takes is pressing one button for you to uh change things, and and launch and build them the way you see them fit. So, um,Yeah, uh, generally, it's gonna speed up uh a content creation.
+
+[08:33]
+
+Multiple fold, and um it's really really interesting to just see where where this um uh where this is going, and this is also something what umWe see a lot of interesting from institutions, and generally. um.
+
+[08:51]
+
+And gen- general market, uh, in in in in so so, uh, yeah, but let's let's maybe get back on uh on the Zeevers, and then I'll just leave a bit of side for uh what's up on the forest.
+
+[09:03]
+
+what we're doing there, where we are pushing it, and and so on. So, Jiao, maybe you you have some some agenda. uh, Prepared, regarding the zivers, or uh, how do you go?
+
+[09:16]
+
+I don't see any questions on chat yet. Yeah, no, not particularly, cause lat-, we, I've been uh I've been keeping community up to date for the both weeks. uh, We've been uhuh, Heavily grinding the uh the first hour, and I think we've been on the grind for uh.
+
+[09:35]
+
+I mean what feels eternity, but uh for the, I think like last two or three months. uh, You know, uh, that, uh, well guys, first of.
+
+[09:48]
+
+Every everybody is like so dedicated to Zivert. We're working weekends, we're working nights. uh, We just like uh e- everybody over and beat through just once uhsee they ever succeed, uh, and are passionate about the project. uh, And uh yeah, uh, though, you know, uh, takes a while, uh, takes a while to polish these things, and. uh, Takes a while to see the
+
+[10:13]
+
+data. Takes a wha- uh, And you know, e- everything k- keeps on tak- uh, taking a while guys, and. Sucks, for, I mean, for uh for me, for you guys, cause we all play Zeros.
+
+[10:27]
+
+But uh. uh, Yeah, I I've been saying this every every community call, but uh. uh, I, you know, it's it's hard, but uh ultimately, we're not only doing this for ourselves, but for you guys as well. uh.
+
+[10:46]
+
+But I mean, yeah, this is, there is like there is no other way, like uh uh like games. Die and live by these numbers, so you better get them right.
+
+[10:59]
+
+And and like like polishing these things. Like generally. The really good way to put it is what we are essentially doing is.
+
+[11:10]
+
+We are gai-, breaking game into smaller pieces for the new people, and and then we are building these things that will.
+
+[11:24]
+
+Immerse them into the world, a piece by piece, so it feels organic, so it creates these like like reinforcement loops that people understand the things they are doing, because let's be real, Zivous is.
+
+[11:40]
+
+Freaking complex universe already, with the content we do have. For new player, it's overwhelming, it's overwhelming to understand every idea, every skill, every Z thing, abilities, quests, like literally so much stuff is happening at the same time, and um and and and it can be
+
+[12:05]
+
+quite terrifying experience. uh, for a new player, and and this is something where the real art lies into. Of making complex things easy and exciting, and this essentially have been something what we do uh for a while. uh, There is actually one uh.
+
+[12:24]
+
+New system, it which is going to be introduced, not with this hotfix update, but with the next update. And actually, Jackal is working on that, um, which is we'll add the daily quest system.
+
+[12:36]
+
+So, this is something we wanna test in a way where we're gonna probably start quite simple, but uh we understand that um. New players, they need some direction, and uh And to be honest, I'm not the biggest fan of the idea where we start to build like these artificial task systems on top of Zeevers.
+
+[13:01]
+
+But this is something we wanna play with, and we wanna try. So, we will build and launch uh a more updated the daily login system that will now also involve uh.
+
+[13:16]
+
+A set of tasks that can be completed every single day. uh, uh, I think we're gonna start really simple, but uh if this is something what. People really enjoy, we may advance it uh to more complex and more demanding.
+
+[13:32]
+
+So, uh, our more experience and season players will find a good thing. So, good, like. Something fun to do, uh, for for for them every single day. uh, If if it's just like a few tasks that they could generally find um. Challenging in a way, so.
+
+[13:53]
+
+Yeah, um, uh, in the, uh, yeah, just, I I think I did uh did give give some some some of the guys either in my streams or the community call. uh, I talked about daily quest system, and ju- just wanted to add that yeah, initially we're uh rolling out the daily quest is like one size fits all.
+
+[14:14]
+
+And they will like uh start with like very simple simple tasks, but the ultimate goal here obviously, if if it proves to be a success.
+
+[14:25]
+
+And we can invest more resource into it. Would be that these delicate quests are tailored to the uh user state, right? For example, you can mind coal rocks so.
+
+[14:36]
+
+Now the daily question can get take uh take you call rock mining, right? uh, uh, and so on and so forth. Yeah, so it it will generally.
+
+[14:47]
+
+Give you a few directions to follow. uh, And and and if we see this as something cool, we may make it into like actually uh challenges. uh, Something that, um, yeah, something that our season, most season players will find exciting.
+
+[15:05]
+
+But anyways, we are, as always, we start with these things relatively easy and slow. And uh and we gonna have um this thing coming out ACP, with one of the next update.
+
+[15:19]
+
+We aim uh to use this system to um. Open up the zivers in small chunks and small easy things for people to go and do and explore.
+
+[15:33]
+
+And and and yeah, so we gonna go there from this system. Yeah, and there is there is a bit of background noise.
+
+[15:44]
+
+I mean, no, I I can't hear anything. Then the Discord noise portion is free, uh, free. I'm I'm kind of back in Latvia, but I'm like still moving around, so I'm in like, yeah, one of my friend's houses, uh, house and.
+
+[16:00]
+
+His kids are having some arguments. uh, But so, yeah, if if there is no, begging or not. That being said, uh, about the quests, so this generally is a direction what you can then essentially expect to follow later down the road.
+
+[16:23]
+
+Is a nice twist how this will be turned into uh a human system where uh where we want to basically gather all the autistic behavior in one place and collect them uh and and measure that.
+
+[16:38]
+
+and and then reward it. So, um, think of this as as uh something. Yeah, craft craft hundred thousand buckets, and the reward is ability to craft five hundred thousand buckets.uh, So.
+
+[16:55]
+
+Yeah, I I I guess that's one way to think about it, but anyways, uh, these few things, uh, we are able to start to lay on top of the foundation, it's gonna add way more things to do inside the ZeeVerse.
+
+[17:06]
+
+and it's gonna add. Probably way more things to, um, like. Optimizing and go go towards. So generally, uh, I think this it will be quite welcomed uh improvement. um.
+
+[17:25]
+
+The same kind of goes with one of the concept, we also do have in the roa- roadmap, uh, basically in short term roadmap, which is Z-DEX. So, we want to empower collection, and then this is also, I think it kind of goes hand in hand with your achievement log.
+
+[17:43]
+
+So, plus uh informational Like, uh, we also s- look at it this information, you know, about Zeevers should be readily available within the Zeevers instead of uh. uh, Being in the know, and having to, you know, go to an external site, just you know, see what see what what these are about. uh, uh,
+
+[18:09]
+
+However, uh, you know, there's a I just sorry, uh, you'll learn for tripping. uh, Try again. um, We, the way we will approach Zivors, uh, sorry, ZDEX, will be uh encountered and owned.
+
+[18:23]
+
+But to unlock the entry, you will need to encounter it, and it won't count seeing as a follower. So, I reckon I reckon everybody will be challenging Boyman to battle, because he has a one of a kind entity. uh, So, uh, so, yeah, that's something I immediately thought of, that Boyman will be
+
+[18:48]
+
+instrumental for people to complete their Ctext, which is very cool. uh, But yeah. Yeah, this is an interesting way to actually, yeah, put it. um, Yeah, um, now.
+
+[19:05]
+
+I see one one has uh are the passive skill on. uh, This, oh, this is something I completely forgot to mention. uh, This is also being like worked on, and we are I think the taka has a passive skills, we're already working.
+
+[19:19]
+
+Yeah. uh, Some of the stuff still doesn't uh contribute, so some of these still doesn't contribute to the skills. But that's just because um we still need to finalize the new like um uh skilling formulas. uhuh, It doesn't really expect to change much, uh, when you um.
+
+[19:43]
+
+I actually will change, uh, but it will change hmm things to feel relatively easier and more rewarding. So, what we wanted to do and achieve with this change besides uh finding a way how we can include your z's into like equation. uh,Which decides whether you succeed when you try to mind the rock or no. uh,
+
+[20:08]
+
+Is that we wanna make sure that the this like the difference between levels what you achieve. Actually will be um uh something you can feel, and where the type of pickaxe you use also kind of counts in.
+
+[20:26]
+
+So, there is um. uh, Some some stuff happening behind the scenes, uh, to make it possible. But this is also coming in. uh, What else? uh, Oh, I think we have a pretty big topic, uh, which actually goes To the Jackal, which is Hyst.
+
+[20:43]
+
+So, how are we looking on Hyst? So, uh, uh, uh, you know, every week, uh, nothing has changed for the highest development, as uh they're currently.
+
+[21:00]
+
+Oh, very heavy working on the annual inspect screens, a a sham and inspect screens also uh having a rework pretty soon, right? um.
+
+[21:12]
+
+Yeah, uh, highest, uh, well, quick rundown needed to do now. uh, We need to refresh the UI. uh,Unfortunately, uh, rig the cameras and introduce the new battle uh battle sys- UI system uh in the um in the heights as well.
+
+[21:31]
+
+And uh then we are uhGreat to launch the uh launch his back on, in the uh you know, same, not uh not well perceived state as it was.
+
+[21:44]
+
+And immediately pop out propositions, uh, vote vote's pass, and then we implemented. uh, Though, uh, you know, I, you know, just a precaution guys.
+
+[21:57]
+
+It this highest will not take priority. It's something we will allocate some dev resource to, but uh obviously onboarding uhTakes uh all of our effort, and obviously, uh huh, as much as the next guy, we are, uh huh, I want this uh this to be done and dusted. uh, For us to have smooth onboarding, so we can uh finally
+
+[22:22]
+
+return and start working on, you know, the fun content. And as a fun content, there is still. Two chapters on the main campaign left. uh, Which uh I think is gonna be.
+
+[22:38]
+
+I I think most of like a lot of the stuff regarding that campaign is already in place. I mean, it's. Yeah, uh, we're like we have auh, We have devs on uh uh when they're not actively working on some onboarding stuff, they are already like uh uh rigging everything together. uh, And uh yeah, I did, you all sorry for that, I did spoil
+
+[23:03]
+
+what's the crazy Ultra Mega Ray Ring was. uh, That's coming. hmm-hmm. In the in the ring slots which you're getting the next camp, uh, next chapter of the campaign, and um yeah, uh, for Those uh who haven't heard that we will be introducing jewelry slots with the next campaign quests.
+
+[23:24]
+
+and being next uh necklaces and rings. And we will be introducing treasure map system. uh, You will be able to get treasure maps as a drops from dungeons, and uh you will need to find where the treasure is uh buried.
+
+[23:41]
+
+Go there, excavated, and open it. So, it it it's like a little 3 minute, 5 minute distraction. If you know where to dig, if you know where to dig.
+
+[23:54]
+
+However, uh, we will be introducing, I think one in 5,000 drop chance. uh, A ring, uh, which is a crazy ultraman gear ring, uh, which will increase uh uh your luck by 20 percent. uh, Nowum, How uh how the luck will work, it is uh wherever possible.
+
+[24:17]
+
+For example, this won't work on like, so uh uh Genesis a load buds, butuh, Like dungeon drops, wild drops, you will have 20 percent chance to roll the whole table again. uh, So, you know, uh, basically you are getting extra slot, extra drop.
+
+[24:36]
+
+In, yeah, in 20 percent, uh, of times. Yeah. uh, So, uh, not sure, not, I mean we gotta check uh the expected values for Hollow Trials, cause uh you know, uh, 20 percent chance, for example, roll additional 5 slots might be busted, but then again, so is the ring.
+
+[24:56]
+
+And that's what it's meant to. I mean, I, in in terms of how a trials that would generally translate into on average instead of getting 5 rolls, getting 6 rolls. uh, I did I did run to uh you know, through our uh trusty LLM, I did run some uh ex-, uh, like, when can users expect uh the first ring drop, uh, given, you know?
+
+[25:21]
+
+You you you get that, and the uh you get the map every like uh so often, if you complete a number dungeon in 2 minutes, and then you have to go do it, if you know where to do it.
+
+[25:32]
+
+And we're looking at like 129 days for the first week to drop uh at the current user base, obviously, as we get more users. uh. That would uh come. uh, Yeah, faster, but yeah, uh, and the design logic for this was because we don't want to introduce.
+
+[25:51]
+
+Items it stats as drops from somewhere, uh, uh, cause we do want to reserve these uh items to be crafted by the community through the uh player on land content. uh, And you That's the reason uh uh why we're like looking at uh you know uh.
+
+[26:11]
+
+Gear horizontally rather than vertically. But yeah. I mean like uh generally, we are, we're like withholding a lot of fun content just because the game is not ready for that yet.
+
+[26:24]
+
+And uh I mean players are ready. Like many of existing players are have been ready two years ago for that, but uh no. But uh I mean, uh, we will will have plenty of time to like bring it all on.
+
+[26:41]
+
+And um yeah, I I mean, uh. Honest hard work, but we are getting 1 percent better every single day. And one way or another, there is actually a way how we can even track it, which is we've been doing quite quite a lot recently.
+
+[27:00]
+
+so, um, like I said, for maybe people who haven't been here since the beginning, uh, we've been spending a lot of time there, and we see gradual improvement in onboarding.
+
+[27:13]
+
+And when we actually start to understand how players feel, and on early on, and then we know and understand that we need to give them a bit more direction indirectly.
+
+[27:25]
+
+Like, that that's actually a funny thing, because hmm, um, let's let's let let let let's dive deep into players' mind on mobile gaming market, and mobile gaming market says generally thatuh, The median season median. a season linked, uh, for first season is session is uh eight minutes.
+
+[27:47]
+
+So, in those eight minutes, this is kind of Close TikTok brain we are playing with, as. We have to get people interested enough for them to complete at least uh ending your feet.
+
+[28:05]
+
+In in kind of one go, uh, cause uh like. The the funny thing, and and that's actually um. Bit of irony here is that players hate tutorials.
+
+[28:19]
+
+freaking hate tutorials. they want a freedom, they want to go out and explore. uh,Um, Moment, uh. We give them this freedom, they realize they need guidance, and and what we really try to do right now is to find a good balance between.
+
+[28:44]
+
+Giving them this freedom early enough, but then providing them guidance, uh, which comes not in a form of being hard-locked into. quest sequence or something.
+
+[28:56]
+
+But I mean like right now, players can um pretty much start playing game after completing finding your feet, which on average takes around 16 minutes. uh, We actually see maybe a way to actually get it even shorter, but that's kind of. No, no.
+
+[29:26]
+
+In within the current sequence, which uh uh made uh. uh, In, have, may may have a little bit of impact on playtimes, but on average we are looking like for these 15 minutes of being somewhat locked into the experience.
+
+[29:43]
+
+Before we allow you to like really proceed, um, and and explore game on your own on your own terms. uh, So, uh, yeah, this mean, uh, this is like pretty much what we dealing with, because um hmm.
+
+[29:59]
+
+At the end of the day. The better we do it, the better are the results, and and and the more fun stuff we can do after. I I I I I guess, uh, I, you know, uh, I guess, uh, once we, uh, obviously get closer to the global launch, and start uhRunning these ads in, for example, USA, you know, people will be more talkative in the chat, and they uh game will definitely
+
+[30:24]
+
+liven up immediately.uh, But you know, uh, obvi- obviously. two things like, I still see like a daily where's no more question, which you know, I love to see that, and you know obviously, you have to like. uh, Offer some guidance to the uh to the normal as well. uh, I believe I did the.
+
+[30:45]
+
+Did I? I think, I believe I did adjust the normal dialogue a little bit recently. uh, Be- uh, because he's like, why is everybody looking for me these days? uh, Or something like that.
+
+[30:57]
+
+But. Actually, I do have one thing, and this is probably experiment we gonna run, uh, at some point in time. But I would love to hear uh community's opinion on this.
+
+[31:11]
+
+So, one of the feedback uh I received from uh. Basically. Tester who had the first experience within the zivers. uh, I know him personally, so we had a pretty much straightforward talk.
+
+[31:28]
+
+And and one of his first reactions was why the Joren is so freaking ugly. And uh and wouldn't player want to have like a sexy shaman girl instead with a big boobs uh welcoming? hmm, uh.
+
+[31:48]
+
+Player in the world. So, I would love to hear what do you think of uh how attractive Joran is, as as as your first uh Oh, Cherry has opinion.
+
+[32:01]
+
+Ha. I uh, I I I really liked the the, I I really, oh wait, I may maybe I can find and share this with with uh with you guys. I really enjoyed. So, uh, we were working with Kiwi on like developing Back in One Piece and Joran, and Kiwi was drawing these uh uh like. Scheduling boards for like the sequences.
+
+[32:25]
+
+And I really like how he drew Jordan there. uh, And you know, it's gonna be really comedic. I will quickly look To find it, uh.
+
+[32:36]
+
+Yeah, no, uh, I. Yeah. Anyways, uh, well well, Jackal is searching for that. uh, I think this is seriously, we, I think we gonna at some point run.
+
+[32:47]
+
+A small AB test where we will be just kind of getting in um few uh hundred, maybe few thousand players, and like new players, and we'll be measuring what.
+
+[32:58]
+
+How they feel about uh Jorien uh as a beautiful lady versus Jorien as uh how it is right now. um, So, that's just. uh, One.
+
+[33:13]
+
+thing, I thought uh maybe a fun thing to put out here. um, And something to just consider. uh, So, yeah, that's uh but I mean at the end of the day, it's all about like these small things. um, And if we see for some reason uh that the sexy jordan is working better, uh, we may actually do a small change there. um, But yeah, that's um
+
+[33:39]
+
+that's um. Something to put it out here. Still don't see any questions from people. uh, Maybe maybe we have answered everything.
+
+[33:54]
+
+Yeah, we probably answered everything. um, Yup, so. We are going steady and strong. hmm, Keep iterating, keep adding uh better experience, uh, fine tuning UI.
+
+[34:07]
+
+I saw there were some people uh actually bit um. 呃，我 would be the best way to put it uh Concerned about our obsession with the polishing UI and doing these things instead of like come introducing new raid bosses It's not about us.
+
+[34:32]
+
+Like one thing to do these things, it's because these things uh directly change the way how um people perceive.
+
+[34:43]
+
+the zivers, and this perception uh plays a dramatic role into hmm. How likely they gonna stick around after their first or third or or fifth or tenth session?
+
+[35:00]
+
+And obviously, it's not just This, it's like all the things combined. So, whenever you see us doing these things, don't think that we try to fix end game with the UI update.
+
+[35:13]
+
+What we try to do is fix confusing things that. You are already uh familiar with, but new player basically find confusing. So, this is basically what we trying to cater for to.
+
+[35:26]
+
+So, um, yeah, speaking about fun stuff, there is also um a plenty of improvements for World Z battles. And I'm not sure if you noticed, but now you canuh, Flee from the battle, if you started it, um, just by running away with your Shaman.
+
+[35:48]
+
+And I don't think anyone here has notice given how strong everybody here is, but maybe maybe, yeah, but The, that's a pretty handy thing, uh, cause sometimes you just made accidentally click or realize you gonna die. uh, now you wanna get away, so, um.
+
+[36:10]
+
+Also, it's way more uh into you, because generally, uh. Not, it it kind of looks broken if you start a battle, and then that battle may be taking one minute or two minute to complete, but you are already at the other side of the map.
+
+[36:30]
+
+but your Z is kind of trying to finish the deed. Yeah. So. I get, I I I yeah, I get, I guess there was um this umuh, Yeah, as Guangwen said, uh, ge- generally user found it out as they were like trying to multitask and uh scale in uh.
+
+[36:50]
+
+If you are within a distance. I I do, I'm not mining. I don't know if uh fishing, uh, some woodcutting might be possible, but generally the least distance is quite auh, Quite small, which we can always down to re-adjust and tune, but uh uh, yeah, yeah. Kill more fish.
+
+[37:14]
+
+But uh but yeah, it was generally fine, we'll find like, if if if it doesn't work right now, uh, we may actually introduce umI fix that, or just increase the range until the battle is considered to be over. uh, And this also will become really handy when we bring in like the boss battles, uh, on like world bosses.
+
+[37:36]
+
+Cause you don't wanna be stuck forever. uh. In a boss battle, there needs to be a way for you to kind of get away. uh, And this also means, and this is something I've been playing around with in my head for a while. uh, We may we may try to do it, we may not try to do it.
+
+[37:58]
+
+But the world Z battles, uh, slowly improving and evolving means that uh we are already able to build more complex systems, such as uh world bosses that can be slain by multiple people at the same time. uh, And I think that that's gonna be amazing um experience, uh, for every type of player to
+
+[38:23]
+
+be like basically uh side by side with your bros and and trying to slay the big boss for for something. uh, But it may also introduce uh the idea of PVP zones where uh you could be able to just launch an attack on every bypasser.
+
+[38:43]
+
+And and then your Zs would just kind of do the real time fight on the world map, and and and then you can try to run and other guys basically chasing you.
+
+[38:55]
+
+And I I think it may add um um. Quite a bit of uhSpiciness, uh, to the to the game, and and so on. But this is just something uh I see as one of possible paths for uh having relatively advanced the. uh, Volley battles.
+
+[39:19]
+
+So, um, sorry, uh, just said it out loud. uh, Maybe it gets some uh somebody to rally behind this idea. uh, We may sometimes drop um an experiment or something for people to test and have fun with.
+
+[39:39]
+
+Yeah, so, uh. Let me get maybe a bit of attention around what we'll be doing in the forest. And then we can look to wrap it yeah.
+
+[39:54]
+
+Yeah, and then w- in meantime, there are some questions hopping up, uh, like, feel free to drop them. uh, So, uh, like I mentioned, we've been uh also advancing on on our tech side on the forest.
+
+[40:07]
+
+So, there is a lot of um uh development happening at honestly shocking speed. Like uh the the tech we have.
+
+[40:18]
+
+I mean, it's AI that we are building with AI, and and and the speed at which it compounds is actually quite scary.
+
+[40:30]
+
+So, if like two weeks ago, we were able to put. Barely put together some sort of front end. Experience with maybe 5 attempts.
+
+[40:45]
+
+Now, what we have launched is uh forest cloudy cloud service behind it. Which is able to host all the back end multiplayer functionality, databases, literally whatever uh.
+
+[41:00]
+
+Data. Resistance, uh, the application or game would need. uh, Automatically hosted by Forest, uh, hosted by Forest and uh and and basically made seamless.
+
+[41:17]
+
+And now, uh. You can generally just build a game or app with just one prompt. And in most cases, you will one shot relatively simple experiences. uh, Yeah, in general, you can create a multiplayer game. uh, We already tested it with um uh leaderboards.
+
+[41:38]
+
+So, like you just describe what you want, souh, Some of the things may take a few more, like few, more than few uh prompts, but it's already pretty good at one shutting a lot of stuff.
+
+[41:53]
+
+And it's it's just getting better. And when I say it's get it's getting better, it's getting better, like, freaking every single day. Because every single day, it's just.
+
+[42:06]
+
+Solving so many problems, and suddenly it makes it so easy. uh, So, like. It's crazy that right now, you can pretty much just build a game or app with one prompt.
+
+[42:22]
+
+And um and it may have a token, it may have a multiplayer functionality, it may store the user data, uh, it may. Actually offer real time experiences. uh, Yeah, you can basically build the the highest.
+
+[42:40]
+
+You can build. Uh huh, No, you can't. No, that was a joke, but can you build multiplayer games? And. Yeah, you can. uh, Like there is a lot of like angles we are trying with, but this is actually where we really invite hmm people to come in and try and report the problems they find, and actually. uh,
+
+[43:05]
+
+Yeah, exactly. Like that's what forest cloud is. It essentially is is uh is cloud infrastructure that's uh uh hosting the back end logic and services.
+
+[43:18]
+
+of the games being built uh by its users. So, uh, this uh kind of um yeah, it's it it's uh Honestly, I'm astonished by it myself.
+
+[43:31]
+
+It's a pretty scary, uh, it's pretty scary good, and it's getting better uh every single day, uh, and and right now, we are working, starting to work withuh, Multiple ecosystems around that side. uh, So, I think um for forest, it's pretty much matter of time when um we'll start to see some breakouts happening. uh, Either either from the people
+
+[43:56]
+
+finding it freaking useful for what they want to achieve, or uh just market deciding, uh, discovering uh that we actually do have one of the hottest narratives. uh, On on on the art, so.
+
+[44:13]
+
+Like, I mean, go in, try for yourself, uh, and we gonna, uh, I think I think like, the way we do it is every.
+
+[44:25]
+
+Week, we basically do maybe two or three public updates. uh, You don't usually see them, it's happening behind the scenes. uh, Where we just.
+
+[44:36]
+
+Improve the functionality, and uh and fix a lot of issues, uh, optimize for efficiency. And what's also interesting is that the. uh, This will kind of play uh in in a very strong uh synergy with the zeevers, because.
+
+[45:01]
+
+The games rely on is user acquisition, and user acquisition needs a lot of creatives to work with. uh, And some of these creatives, some of the best.
+
+[45:12]
+
+Performing creatives in the market are playable ads, which are just generally dumbed down mini game versions that hopefully attract the same crowd that would be in.
+
+[45:24]
+
+Interested into uh full experience, and and and forest, the builder is. expectation, excep- exceptionally well at building these things at the scale and at the speed.
+
+[45:43]
+
+And and we also do still have um um full compa- compa- bility with uh more custom experiences. Uh, If you don't want to use the builder, uh.
+
+[45:57]
+
+Just check what's already possible with agents. I actually had, like I was in uh Taiwan hmm last uh month, uh, last basically week, hmm, last two weeks. And I was meeting a lot of our existing investor, and I had like this uh weird, the somewhat weird exchange conver- con- conversion, uh, con- conversation with uh one of the guys.
+
+[46:21]
+
+Who asked um did you have a chance to try a forest play kit? uh, And and he's he said Yes, and it just worked.
+
+[46:34]
+
+He was so, 'cause usually these things, it takes. Takes few tries to get them working, or always it's like, oh, you know, you have to do this and this and this.
+
+[46:46]
+
+And he said, I'm no developer, and only thing I did, I basically pointed towards the agent skill. Page, and said you'll make me uh game that actually use this token, and it did.
+
+[47:03]
+
+And it shocked him, it shocked the uh. It actually shocked me as well, cause I I didn't thought it's just gonna work so well. So, um, right now, Forest has ability to umGive you full control over the hmm development experience, over your data, everything.
+
+[47:24]
+
+So you can just use PlayKit to. uh, Connect, and at the same time, uh, uh,At the same time, uh, you can use the builder to just uh.
+
+[47:40]
+
+To just uh. Detail translation today. Jack out that's on you. To which language? Ha, oh, uh, so so yeah, and and getting back to the forest part, um. uh, It's it's getting scary good.
+
+[48:03]
+
+It's it's getting scary good. I I uh really recommend you to go and have Have a have a try. uh, I think it's gonna soon start to make some waves around that. uh.
+
+[48:19]
+
+Another thing which also we have realized, and and this is uh I think one of our um. Competitive edges, and and this and this um.
+
+[48:35]
+
+Of AI. Is that it's not anymore about like the models you use. It's actually about the harness. So, uh, when you think of forest, don't think of just like a wrapper or some some Some stuff that's utilizing the brain of uh current current uh fight ship or like AI models, et cetera. uh,
+
+[49:00]
+
+We actually don't even use the flagship models, cause we found we need to found like a good mix between efficiency and quality. But it's not even about the models anymore themselves.
+
+[49:12]
+
+It's about the hardness, and it's about the about the context you can provide. So, um, one of the things we realizedUh, Which.
+
+[49:23]
+
+Nobody has really solved is that. It's not about building the games. It may not be even about distributing the games, but it's actually about designing the games.
+
+[49:36]
+
+Because uh this is, I mean like, think of this in a form of um. uh, You know, like there is a company called perplexity.
+
+[49:48]
+
+They are generally, they don't have their own models, but they're really good at uh choosing the right model for you. But what they're exceptionally good at is uh knowing the things you will need before you even need them.
+
+[50:05]
+
+So, uh, it's probably the top one tool to analyze the finances. And if you are like a, let's say rookie investor, or or or just generally not the PhD level or in in finance.
+
+[50:22]
+
+And you may ask a question about like some company or about some stock or about some crypto. It will ensure that you actually receive then more things it knows you will need, because it's like like freaking good at it.
+
+[50:38]
+
+And it will serve uh this before you even ask. And the reason I'm mentioning is that the same kind of um. Way of thinking, and can be applied uh to game making.
+
+[50:54]
+
+Because it's not about saying, yo, make me a Candy Crush. uh, Make it work, and no bugs please. It's actually about understanding what makes Candy Crush addictive, what makes Candy Crush engaging, what retains, how the level design works.
+
+[51:11]
+
+How the level should be designed? What kind of uh little things that may need to be um included for that game?
+
+[51:22]
+
+To not just look like a game, but a- actually feel like a game. This is like what we see in in this AI era of, oh, uh, there are like companies that produce nowadays like tens of thousands of games from single like uh prompts uh that came out as a AI slop.
+
+[51:42]
+
+But it doesn't really matters, because none of they look like games, but there are no games, because there is no like real, know how. How to design those experiences?
+
+[51:54]
+
+And this is where our moat generally is, because uh we have been in this industry for freaking 15 years. We know what makes games work.
+
+[52:05]
+
+We know what engages people. We know how to monetize that, and essentially through the Forest Builder. uh, And through the hardness we are building, uh, we are adding this lens of knowledge into these different genres.
+
+[52:20]
+
+And what we will be essentially end up doing is we will go out. We will find like the the top uh experts in every single genre. So we will find like the best people who are at building much three games, best people who are at building like uh strategy games, whatever thing you can imagine, there is somebody who is Expert at PhD
+
+[52:45]
+
+level. and knows how to do these things, uh, and knows how to design these things, and these things then can be essentially applied to whatever you wanna make.
+
+[52:56]
+
+So, this is just like a bit of um uh thinking what we see behind the tech we have on our hands, and we've been building, and and we'll be using this.
+
+[53:09]
+
+First of all, to uh grow the forest ecosystem. uh, We'll be using this uh to build our competitive advantage for the Zee versus user acquisition.
+
+[53:20]
+
+And I generally seen like this is um yeah, I mean, at the speed at which is advancing, and we all have only like probably dedicated. 10 percent of our uh maybe 10 15 percent of our in-house resource team, uh, for for the forest, and it's just moving at light speed.
+
+[53:40]
+
+So, um, uh, so, yeah, that's just a bit, uh, what's what's up with the forest? uh, Where our minds are at with the forest.
+
+[53:51]
+
+I also don't believe that uh this kind of sideway paying beer market will last forever. uh, I think uh some point is gonna turn, and the winners will be the ones who built when it was hard.
+
+[54:10]
+
+So, um, so, yeah, uh, we we've been uh behind the forest and behind the zebras, uh, and we are just generally Doubling down doubling down on what we do, and um and I I I truly believe is gonna pay off.
+
+[54:27]
+
+So so, yeah, uh. My resume is uh forest. Is becoming quite an interesting place to be at, and build that.
+
+[54:41]
+
+I invite everybody to just for sake of trying and exploring, going and try. um, I think we might even add some some builder credits for people to have a a free way to.
+
+[54:59]
+
+Experiment with those tools, but but yeah, like I said, it's already scary good, and you can pretty much build uh complete experiences and complete blockchain apps just with a single prompt.
+
+[55:14]
+
+So, yeah, let's let's end on that. uh. And uh I ge- uh yeah, I I guess uh. Great times ahead for the Zeevers and for the forest. uh, That's that's a better way to end it.
+
+[55:28]
+
+So, uh, thank you everybody for uh joining today. uh, Jackie will probably be doing closing ceremony. And I will be having, doing a stream today as well.
+
+[55:40]
+
+Yeah, and and and and it actually feels good to be back on community AMA. I do apologize for missing the last one, and then missing the one which was intended to make up for the missing the the previous one. uh, It was a bit uh hec- hectic. uh, I I I I think I got the COVID or some something like that.
+
+[56:04]
+
+Was uh. Pretty uh. Had a bit of reality check, so take care of your health. But it's pretty it's pretty uh good to be back, and very very uh.
+
+[56:21]
+
+to see so many of you guys uh joining in and tuning uh for our weekly AMA. Thank you and bye. Alright, uh, so, I've already taken your screen, uh, taken the screenshots.
+
+[56:37]
+
+So, uh, yeah, let's do three premium passes. uh, For, everybody in the screen should aside from the Craig and unfortunately aside from the Cherry. uh, Let me share my screen.
+
+[56:56]
+
+Yeah, I mean you guys already know the rules, so let's just spin it. As just spin it. But a bing, but a boom, chef shaw. You get a pass. U R. You get a
+
+[57:28]
+
+pass. And the final one, uh, yeah, uh, if you get a pass, open up a raffle rewards uh ticket. uh. The cherry will provide you with one crypto blade.
+
+[57:44]
+
+All right, guys. uh, That's gonna be it uh for the community call today. uh, You can tune in. For um uhStream later, I will be streaming on YouTube, uh, and uh exactly an hour.
+
+[57:59]
+
+So yeah, uh, we can talk more zivers, uh, try to upgrade more traits, and uh yeah, uh, check out how the battles Battle see work, and yeah, cool, anyways, thank you guys, uh, see you.
+
+[58:14]
+
+and bye, John.

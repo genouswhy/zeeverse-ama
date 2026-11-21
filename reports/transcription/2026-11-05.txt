@@ -1,1 +1,631 @@
-Start today, um, we just had pretty major update, so maybe walk us through, and then I would love to share a bit more. um. On on the changes we are doing right now within the map. So, I'll I just I'll just walk you through guys and give you give and shed a bit of light behind that. Dragon Hall, I guess. um. Yeah, yeah guys, so um I'm um we're very happy to see the uh the uh good and great feedback you've had our Around the recent quest, I know that there were some small bugs uh related at the very beginning. uh, a small rough edges, but that were uh literally only in product environment. solve them, but uh yeah, it's out, and we already are uh have started the work on the the uh next couple of quests, and uh the uh end of the campaign. Now, this does not put us into any like uh uh relaxed period whatsoever. uh, The uh we've uh. We're s- picking, we're still continuing the uh work on quite a bit of new features that will not only um make the uh uh the new quest experience and post quest experience better. Uh, But um uh. We're dipping in dipping into the uh end game as well. By the way, I I know there were some questions in regards to the uh in regards to the uh new ring you can only get from the treasure maps. uh, A couple of things in regards to that that new ring, uh, it's uh it's the uh on the first and the only legendary ring we currently have in the game. And it gives you 20 percent chance to additionally roll uh drop table. So, for example, you get an, uh, you you finish Uber level, and you get 20 percent chance to roll it again. So For example, you get adjudicators staff, you roll it again, and uh if an R- uh RNG god is real, you you get another adjudicators staff. So yeah, uh, all right, uh, we, uh, you you'll, uh, stop me when you want to, but uh, uh, I will give you guys a cou- a couple of teasers about new and upcoming things we have. Also uh cooking up, so uh. uh, I will leave one one thing to talk over with you later, but uh, in the next update, we will be seeing the Z Passports finally arrive to your Zs. uh, Now, these are. uh, Every Z will uh have one passive, and evolution will give you another passive. Now now um these passives will be skill related. So for example, woodcutting, mining, fishing, cooking. So on and so forth, and every, when you have like for example woodcutting trade, it will give you a chance to give you an extra log when you um cut down a tree. Now this chance will grow as you level it up. Unfortunately, uh huh, but we did we did opt to not give passive skills for these that are amountable. uh, Just because we uh generally the way passives will work, it will only to us is from your active z. so we did not want to, you know, put too much things into one z. uh, we want to promote uh switching of z's and training of z's. um, yeah, so on and so forth. uh, Cool. uh, All right, let me let me see what I have noted down in regards to the. Next of it, yeah. uh, So, Z eggs, uh, we will be adding Z eggs as a drop rate from uh as a s- uhSmall drop chance from uh all of the wild bees, and they will be um basically. drags will only drop drags, and um. Jack will only drop Jack, and so, new players, cause you know, uh huh, uh, I assume majority of you guys here already have all of the starters, but. Yeah, that's the way uh new players will be able to get, and grind out the Z they actually wanna get. um. uh, Now, before you ask, no, we will not be putting lobster eggs in. uh, That supply is locked, and will not be changing. So, uh, update after that, after that, uh, there's one more thing in regards to the previous update, I'm just gonna quickly get, give you a high level overview first of what's coming. In uh update, after that, we will be introducing uh missile, adamantite, and oceanite tools. uh, That is an axe and a pickaxe. uh, Now, some of you who didn't get the de-watcher's axe. You can rejoice uh as uh uh it will uh missile act will be as as strong as the new watchers act with thehmm, hmm, with furth- with further tools being better. uh, And uh yeah, to craft them, uh, for material, you will use elder logs, which currently you can get through gecks. uh, Cause the elder tree, and and legendary fish bowl will unlock in the grove area in the grand tree, in the great tree quest. uh, uh, but we will be adding two new material drops to umbra, which is the frost tree and the coral tree, which respectively you will use to combine them. And create these tools. Now, ob- obviously, initially, nobody will have these tools, and they will, you will need a uh appropriate drafting level, and it will be Kind of a grind, you know, for the first ones who come into the game. uh, That is the intention, because we don't really want to. discredit these resources that will come uh through uh uh player on lands. uh, yeah, alright, uh, I guess uhI guess uh that I have a bit more, uh, bit bigger things that's coming in like after a while. But uh I guess let's uh you'll, let's talk about uh the uh Z means. And now, we're gonna introduce quite a bit of eggs, and we're also changing uh uh these these being actually. Jail, I think we could actually leave this for announcement. Oh. uh, But uh yeah, not not not to steal all beans there right now. ha ha. But uh ha ha ha. uh, Sorry. uh, Yeah, uh, we are we are essentially like, um, so, like a lot of reasoning behind this, uh, and and the way, and where, uh, actually I'm Spending a lot of my effort right now. I mean, technically, the game is pretty much complete. uh, When we talk about like the existing uh. Existing like systems and existing framework, there will be some tweaks, but the the last big piece, which uh doesn't really change. The way how game works, but that changes everything for the player is uh the way map design works. And uh as as many of you are here today, you may remember that when um. uh, When we launch this big world map at the beginning, so basically when you spend a week on a ship in order to land here on this world. uh. Since then, map really hasn't changed much. And you can see there is like a lot of uh lot of decorations, lot of uh vegetation actually has um. uh, Quickly answering to monk's question about the inflation, everything else. uh, There will be um this will actually be addressed exactly to that, but for this, just wait for announcement. It actually may come, uh, I think early next week. So, uh, there will be some changes there. We basically think we figured it out. So, ideally this will makeuh, Community very happy, and it also will uh make obtain the way how people are obtaining these way more meaningful. So, um, I I I I think we have a good solution for this. uh, And it should be like a win-win. But again, an- always getting back to the world. uh. So, when we built a lot of this stuff, we were just pretty much adding it on a map, and and seeing what works, and testing a lot of things technically, and working out all the quest lines. But you may see like a lot of buildings are empty. uh, A lot of buildings actually look quite different from each other, not even in terms of graphics, but also in terms of like art style. There are some slight variations. So, for in for instance, you go look on a building that's sitting on the mountain top, and and you look on like a Gag's building for instance. You will see that they look kind of different, or you go and compare like um. our existing totems with some other buildings. there again is some like inco- inconsistencies, um, which is not that bad, but it's really bad when you look at all the vegetation, all the bushes, all the trees. uh, Most of the trees actually are relatively complex in the shape. So, when we apply the voxel like hmm. uh, Box a lot, let's put it that way. uh, We see that these complex shapes they become and turn into a lot of noise. But then on another hand, if you go and compare it how the spirit really looks like. It's still kind of the same style, but a bit different technique. But the result is much much smoother. So, we are generally kind of applying like a pretty big art pass on everything around the world. uh, And we are actually doing it as we speak right now. uh, Another thing we gonna do is uh. Like most of the map actually looks the same, and the most of like vegetation and everything we have there, uh, is essentially shared across the whole island. So, if you I've recently opened the map. uh,In a game, you may notice some uh names for different regions have popped up. And what we gonna do is we will add like a a little bit of um a theme to all these assets within those different regions. So, it becomes um. Way more atmospheric and more uh. Organic, uh, to. Enter these regions, and and get the kind of the vibe of the region, plus whenever you enter the region, it's um. It's it should feel like something new, something you just discovered. And at the same time, uh, when you're within those regions, you're pretty much always sure where in the world you are. Even without opening the minimap, and and this is uh uhYeah, and and this is pretty much pretty important, because if you go to the umbra, you always you are always aware that you're in umbra. If you are, if you go in. Anywhere else? Kind of all looks the same, so it's really hard, uh, for people to find the ways, and people get lost. We are will be improving the road system. So right now, we have just one type of roads, and no matter where you are on the road, you never know, either you're on like a main road, or you're in like some side track, or you're on like some secret small road. So all of these things they will. be uh kind of marked differently. So the main road will be very distinguishable from like these smaller side roads. And that means whenever you are uh on the main road, you always know that just by keep going, by keeping going in that direction, you will find yourself. uh. Entering the next region or or next next harbor or city. So this is a bit of uh thinking behind uh the way we approach uh. the visuals, but more importantly, the visuals actually have to play the role of guiding players throughout the map, and kind of um. Building the desire to explore, and that's only possible if you are not actually lost in a map. Another thing what we are doing right now is we are um restructuring. Where some of the resources are placed on the map. Cause right now, I mean every everybody probably who's here have uh have noticed that Almost all of the resources are really scattered. So what we gonna do is we gonna uhAnd scattered them, and and essentially turn them into more like a smaller hubs. So instead of you going to five different places to cut down uh like this epic tree, epic spirit tree. um. You will kind of always whenever you meet a people, you will have a competition. And it's a pretty frustrating experience. So instead, we gonna pull some of these resou- resources together into hubs. So for instance, when you arrive to cut like high level tree, there will be only few spots where actually these legendary or uh like epic trees are. But they will be uh placed together in some sort of like a hub. Where you go, and you can actually meet other players, and you can, and it's, and again, it becomes clear where you are in the map, and and also like killing becomes. I would say way more enjoyable, and and and productive, more productive as well at the same time. So, this is something we're gonna do with the with with all these hubs. um, All these resource hubs, we can just pull them together. Another thing where I think many players will be excited, uh, so we understand that. uh, One of the most. Important. uh, Vendor essentially is a stash. So, we gonna create these little like mini villages. I don't want even call them villages. They will be just like a little like a Like a traveler, sports hubs where. We will add ability to access stash, and and and maybe some other guys like Horider or um. Or Or Or is this sanctuary? So, you gonna see uh after this like map update that there is now multiple uh locations from where you can access the stash, and that will like just dramatically change How uh you are kind of killing and and exploring the world. because instead of having one stash, there will be, I think, I'm pretty sure we gonna go with roughly three. uh, Stash locations across the map. So, it becomes more accessible, the long travels become uh. Let's say, let's put that way more um more meaningful. There is a place for you to heal your disease and so on. So, bunch of uh cool stuff. uh, With more access to the vendors, and also we are besides just while these dropping their uh respective eggs. uh, We are also looking to make these drops again even more meaningful. So, you will find some certain these uh built around dropping uh. And dropping um some some crafting materials and etcetera. So. It will become that, if you wanna, let's say, ess- essentially get that z, and form some resources, you're going to these small hubs, you're killing these these. Another thing which is um uh kind of even like a new functionality in a way. But uh it just makes sense. uh, Some of these these will be aggressive, so even if you go uh. Near them without like clicking, they will start attacking you. So, this becomes um. A way for people to to kind of. Probably end up dying when they whenever whenever they discover the world, but it adds like this sense and level of danger to the world, and some of these diseases will be like chilling around, these aggressive diseases chill will be chilling around. uh, The mining spots or like woodcutting spots and so on. So, on one hand, it protects uh low, these spots from low level players. On another hand, it allows you to actually. Mine or or or or do woodcutting or fishing or or whatever, while also yours these are battling and training. So, it adds a bit of um. meaning um to these different locations. So so yeah, if we just kind of look on everything together, uh, every piece of the map Will have a bit more of identity, uh, more of a meaning, um. More of um. I I I guess it will just finally really make sense whenever you go around the Zivert's map and you explore. And And uh yeah, so this is something we are like actively working right now. We got like a super cool uh editor tool, so essentially it allows us to move. The objects are on the map, uh, at the same time as we play the game. So we can always just move a tree and actually look how that tree looks uh from the player's perspective. So, this is this is um I mean there is a lot of lot of stuff around this that we are going uh to shape on the parallel with everything else. Most of this stuff is just our team related, and since we shipped the last quest, the our team our team finally has a free hands. So, um, yeah, there is gonna be um. White substantial upgrade to map visuals, uh, research placements, roads, um, these, and and overall like the theme for each region. So, um, yeah, that's something to, I guess uh everybody will benefit. uh,uh, But this is where my mind currently is at, and and and yeah, uh, these worlds should be as playable as everything else within the Zeevers, and I feel this is um kind ofuh. One of the last missing uh big things we had, uh, which we didn't really had time to to Make sure that they just look good and make sense, and and now we do have this time. So, uh, this is where I'm, I'll begin to be probably working this in next week. And uh yeah, we gonna be looking to ship this as soon as we can, cause uh once this is out, we will also be starting um to. Acquire players in more quality markets. So, uh, maybe some of you have noticed the game have already been released in four Nordic countries, and this is the place where we gonna start uh acquiring players. uh, With much higher value, but at the same time, we need um to fix the last missing pieces, because this is not a technical launch anymore. This is actually where we are looking how these players. uh, Integrate within the community, how how they progress, um, after they have completed the tutorial, and and and so on, so. It's uh it's it's pretty exciting, and this is also a a very very low hanging fruit. And I I I feel that this will make Zeevers feel way more alive, because Wherever you go, um,There will be much much higher chance to meet a fellow shaman. uh. To the system where everything is really like scattered around, and it's it's just kind of. Determined by the lock, not by destination. So, uh, yeah, expect a lot of life of quality upgrades, uh, pretty much everything will become Smoother, uh. More enjoyable, uh, to farm. uh,uh, More access points, and and every region will have its own WiFi. And on top of that, due to these regions, the way we plan to structure them is that Every region generally holds some special resource. So, it won't be that every region now holds. Like every region holds most of the stuff. Now every region essentially holds like some specia- special stuff, and this will also apply to the new these. So after we are done with this We are planning to introduce around 9 or 10 new these that will be uh. uh, Yeah, that will you you will be able to discover and obtain uh within these exis- existing regions. So, think of this also as um as a piece of content. That we are adding, uh, and making sure the game is Essentially fun after you have obtained all the all the existing nine starters. So, essentially it just doubles the Z Z collection. um. So essentially doubles that. So, uh, yeah, Jekyll, I'm, I I feel I'm being kind of uh yapping too much. So, uh, what what do you think of this? And maybe you have some questions. You think? Yeah, no, I just um I something that Doesn't really like concern existing and you know active active users, but obviously this change will also you know juggle around a couple of you know quest objectives. And how the quest plays out, there's no rewards, everything, every, ma-, hmm, hmm, uh, so, you know, no worries, guys. But uh yeah, I I uh. I'm I'm happy we got around, I got around doing this, cause uh. uh, I, I, you know, I'm not a big fan of the current my player. uh, I, you know, I, it's something like we've already talked about, is the uh uh. Well, what what was word I used like the uh flog, the. uh, You know, I I I forgot the word, what I meant was, you know, the basic travel, and you know, doing basic things causes friction, and by us like uh uh aiming to. Resolve that uh even you know basic actions such as you know fishing and woodcutting can become you know small social gatherings, and uh yeah, cool. uh, But we guys, uh, if you check your chat This is uh still working progress screenshot. uh, The the but you know we're you know it's it's almost done, but yeah guys. Do you have any idea where this is and what this place is? Anybody? uh, Ha. um, Yeah, uh, I know I know we di-, we we said we're gonna, you know. uh, I know we said. We're not gonna put any effort into it, but uh we couldn't. uh, And yeah, you know, uh, it's like a minor face lift. uh, Guys, don't worry, don't worry, just as I promised, it's gonna come out as broken as it was before. But uh me and you guys, we're gonna work on it, and um an And uh yeah. Yeah, so, you know, get ready, uh, get ready, uh, figure out figure out all of the things, if you remember what you really didn't like about it, and you know, communicate, uh,Because you you know you guys you can be a uh. You can be a. uh, What was was the correct phrasing here? Active or retroactive? uh, But yeah, uh, anyway, that's uh. I think we kind of speed on it, but there's like crazy amount of things we're in, we're working on, that's coming, that's close to being already released. And uh yeah, I'm just really happy we get spend all of this effort, uh uh, you know, obviously this is also about user acquisition, but We get to spend all this effort to to deliver something that actually affects. you know, those those loyal twenty people that come to the community calls every week or you know every other week now. uh, But uh yeah, Guangzhou, uh, cool, yeah, so, you'll, uh, I think I think. Like, I don't really like wanna go over. For example, we did talk last week about the world boss, and that's like in progress. I don't really wanna, I think we have quite a bit of new things, and I guess. I I I would love to actually hear some questions from you guys, and maybe you can share a bunch of stuff you really like, uh, bald the map, you hate the bald the map. There is a lot of things I don't really like about the map, so that's why we are working on it. And I feel that um map in MMRPGs. Pretty much like a crucial part of what makes these games enjoyable, and and what drives uh the desire to explore. So, yeah, this was left as almost low-hanging fruit that we didn't really hmm spend time making sure it. does its job, and I feel like after we have done this, then we essentially have this, we basically have this diverse in in its. More or less final shape, uh, before we start adding new stuff. And um yeah, so from from that point, I feel uh we mostly focus on just. Adding new regions, new pool stuff, uh, forge new bosses, new, essentially just a new content, and uh and um yeah, so. I I feel it's gonna be. It will take a lot of uh. A lot of you by surprise how. How better life can become playing Z Versus, when the map actually is fun, and and uh and make sense. So, yeah, uh. uh, WebGL playing. uh, I think this would probably uh kill most of the phones uh out there. This is Essentially, it is available, but when it comes to uh day and night cycles, uh, it's not just about things getting moodier or or or just changing the vibe. It also affects uh it should affect a lot of mechanics. So, there should be like quest givers who are giving quests only at night, or appear only at night. There should be some resources. That can be only obtained in some of these um some parts of this day cycle, and and and that's actually a lot of complexity. So, I don't think we're gonna go for that. Instead, uh, some of the regions you may explore in the future, you will feel that you have entered the night. uh, Or or some regions you will feel that you are actually in in this uh very very different lighting lightning. So, yeah. Uh, I think this is the. I I I I think I think this is kind of the way how I would. uh. Think about it. So, uh, easy answer is no. Uh, Guangwents, uh, Guangwen uh asked whether there will be po-, more powerful rings or necklaces. uh, cough, cough, uh, Mr. Block stress, uh, uh, whether there will be more powerful rings or necklaces. Sorry, I got something stuck in my throat. And uh you know that uh uh teleportation plays to um to the uh fox plays, uh, to the peak, to the mountain top. hmm, I wonder, w- wonder whether uhWhether whether um any new jewelry we could add, could uh also uh hold a teleport option there, really. I don't know. uh huh. But uh yeah, I I guess I guess. Well, it's not a smaller thing, but um. We're also uh we've been uh um obviously this was, you know, postponed, but we've also picked up the work on the uh uh the uh I thinkuler, I mean, shoot me if I'm if I'm saying too much. but we picked up the work on the uh second iteration of Mr. Block's chest contents, uh contents of it, and. And yeah, I don't wanna obviously jewelry is the you know, the hot new thing. uh, And you'll definitely find jewelry there, but I won't really spoil. Too much about it. Essentially, we added those slots, so there is going to be a lot of different rings, a lot of different necklaces. And and also, one had a pretty cool question about equipment. uh, We actually had uh this a long time ago on the roadmap that uh some al- already there are some equipment that is focused on the scaling, but generally uh there will be more. And uh and this is also something we will be looking into, cause uh not all equipment should be about battles that's. A lot of equipment should be actually about. Getting around, even if you look at the getting around or getting some some perks when killing or or some bonuses. So, uh, we are we are actually Already stepping in that direction, uh, when it comes to a last Halloween setup, uh, which gives you a teleport. So, yeah, not not planning to slow down on that. And as speaking for timing, uh, I think there is a pretty good chance that the boss uh and the world the map design uh would come around at the same time. Giant tree is, uh, I I think so. Some, I mean I think web will be a bit faster, but uh but will, but definitely not a big gap in between Android. Yeah, and also uh there will be some gradual changes to map as well, so I don't think we can then just deliver it all at the same time. We gonna start by just moving things around, and then we'll we'll be. gradually this polishing layer. So When we see everything is in the right place, and it works as it should, uh, then we basically will make sure a lot of details we take care of, and it just looks Even even even like better. so basically adding like last 10 percent. uh, Yeah, so. What else do we have on the questions here? uh, It's not much. Yeah, uh, I have, I, you know, uh, I guess we get, we get time to talk about forest, if there's some more viewers questions we can Wrap up with don- with them. uh, Yeah, what's uh what's uh good on the other side? uh, You mean. On forest side. Oh, yeah, yeah, yeah. So, uh, on the forest side, it's it's a bit quieter right now, because uh since we released the Windows harness, this was one of the big parts we wanted to ship out. Right now, we are essentially um I mean both harnesses fully functioning. There is some activity on the market. It's cool to see that, uh, right now where we are um. generally, let's say our focus is uh how we can use the harness. um. Work on some. Zivers relieved stuff, essentially playable ads and ads as as as as a whole concept. And and this would become um. Very important tool, uh, for for zivers, so we can basically acquire the players, but at the same time, the technology that's it's being made there. Will become, and it become accessible to uh everybody else, uh, who is using forest harness. And I feel that this becomes comes as almost like a win-win. Where we actually invest in some of aspects that really. uh, Move the needle, uh, while the same time, uh, everything of everything, everything of that becomes uh accessible and usable by the community. So I think it's gonna have um uhYeah, we gonna we gonna have a pretty pretty damn good harness. uh, Once once we get uh pass this round, but yeah, uh, essen- essentially the forest is. uh, Being improved, there is still like hundreds of little small things we need to improve and change the way how um. Oh yeah, as speaking about creator awards, we had actually kicked up. I'll ask uh maybe we can go uh over with the cherry. uh, So, for some creators who qualified, we will be sending out the rewards. uh, Hopefully this week, actually. So, but yeah, overall, um, there is still a lot of tuning going on, um, to ensure that the creations are Looking good and feeling good, uh, but technically the infrastructure and platform is pretty sound. So, what we are waiting for is essentially uh a good opportunity to do the push. uh, Meanwhile, we are just uh uh pushing in the required technicalities so we can use it for the zippers as well. Yeah, but I I I probably won't go to day deeper into the marketing strategy, strategy around it, et cetera. uh, Essentially, what we want to build isuh, Something that solves a problem. uh,And and we already see it solves problem for like many different use cases. uh,um, Which still feel a maybe a bit shallow, but once we have something that's production ready, uh, on on production level. I feel that the games and comment produced by the hardness actually becomes uh uh. surprisingly good. so, yeah, uh, again, I feel like I'm kind of yapping on this topic, but uh the the way we work on these things and the way we switch isuh, We do these heavy pushes on on either zebras or forest. So right now, I've also located a bit more of my uh effort and focus on the zebras, because we need to Essentially launch the zivers into the Nordics. uh. Really soon. So, this is where I'm spending most of my time, uh, this week, and will probably spend over the next week. But there is a bunch of stuff happening behind the scenes on the forest. uh, And most of that is just to ensure the stuff we create. some use, and actually is good. So, yeah. And any updates on public lands like finance land, it's funny because uh. uh, I I think we can uh probably change a bit the theme. uh, But uh we will make sure that there are these uh buff pools. Which is really really cool thing, but overall, uh, the finance lobby, finance land essentially it means um it means a rework, cause it's. There since since day one essentially, and uh and and and we have, we haven't paid. Much attention there. So, uh. So, yeah, that's uh something I think. uh. We'll see. Make order. If if if that's the way to put it. So, yeah, um, Dagle, uh, OK, I see. Gwan is writing something, but. Do you have anything else? Go on, but maybe we can call it a day today, and just answer the last questions. Yeah, yeah, there's like some bit and pieces I don't think it's are that important to you know, say, uh, leave it for the leave it for the surprise of dev notes. uh, Ha. But yeah, uh,I don't I don't I don't remember, I just don't remember if I talked about it last week. But um uh one thing that's also coming your way guys is uhuh, quite big, um, rework, not rework, a balancing patch, which we haven't had for years literally. um. uh, We're gonna ba-, be buffing a couple of things, and we're gonna be nerfing a couple of things. uh, You know, jockey cater stuff. uh, Fun fact, guys, you know, I've built the battle simulator, which really helps me to, you know. Simulate various various situations in insane quantities, in millions of battles, and fun fact, judicator staff is the best off hand. uh, Also, the easi easiest one to get of them all. uh, So, you know, we've we've we've been uh we're gonna be uh balancing a couple of things to have strength of the uh assets be where, you know, they're supposed to be. And this will also come toward you know uh these. Now, uh, is Zoom but the best Z in the game? Yeah, yeah, it, yeah, I mean, yeah. um, um, we will be adjusting a couple of things. For example, is Jack a divorcee in the game? Yeah, yeah, Jack is a divorcee in the game. uh, So, we definitely need to, you know, uh, bring all of these things, you know, together. Obviously, you don't need to be afraid, uh, uh, it's not like we're gonna kill uhNot Matoka the best. uh, Well, not, uh, there is nuance. uh, If Matoka has Celestial Hymn, uh, then yeah, cause you have sustain. But uh, if you don't have Blightthers, thenum, The zombie is the best support in the game. uh, And um yeah, plus the burn. uh, It's it's both DPS and support. But yeah, uh, I've drawn the same card twice now. Why can't I get the box? uh. uh, What? uh, It, so, treasure maps have 5 percent chance to give you another treasure map. Now, this does not change reward, they just, you know. Extends, uh, cause um um cause uh you know some some treasures are further uh than the others. But yeah, uh, that's the small ya from me. uh, Expect uh better balancing. uh, I think a lot of you guys will be. And positive from this balancing patch. uh, Now, judicators getting uh getting a nerf. Nina Watcher will also be getting a nerf. uh,But uh you know, I'll, not not not the crazy one. uh, But uh yeah, so something like that. uh. You can you can place your bet. uh, You can place your bet, uh, which which items are getting a buff, and which items are getting a nerf? um. But uh yeah, uh, by the way, uh. I I I don't know I don't know how much I how much I get a yab here, but yeah, a couple of things will be getting a rework as well. uh, Like treasure stuff, and you know, as we just talked about judicator stuff. Juricator staff will also be getting a small rework in its ability. uh, It's gonna be a cool ability, but uh uh nevertheless. All right, yeah, I guess that's uh that's that's me. um, I can uh Look to do the give right now. Cool. OK, guys. Thanks for uh showing up. um, And a lot of stuff to share. Actually can't wait to actually show you that. So, uh, yeah. You, see you on next day, I may, and uh stay tuned, and if anyone has strong opinions about the map, about the things they like or hate about the current resources, and so on. um, Just let us let let us know. I would love to hear your feedback. OK, see you guys. Bye. Uh, All right, I guess you're here with me. Uh, Give me give me just second, I'll I'll I'll prep your names for the for the google. In the meanwhile, Cherry can uh entertain you guys. All right, cherry out, unfortunately, uh. All the other times. Thank you, Cherry. uh, Let me let me share my screen. uh. It uh. I really after, after I guess after two years, I don't gotta tell you what to do. uh, uh. uh, You know where to claim it, you know what happens if you win. uh, 1 month premium pass, I figured I should probably at least tell that. Bola mamba. 哦。Thank you all of you. hmm, Chef shall. I didn't take out Kiwi, but uh I don't. Well, well, that tough, if Kiwi wins, then you know, up to him, up to him. Is it Barley? It is. All right, guys. uh, Thank you for coming. uh, Probably next, uh, probably will be, we will be having an update out already. The next time we, the next time we meet, so. uh, Yeah, cool. Thanks for coming, and I will see you um in uh in two weeks. It's, yeah, cool. Bye bye.
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+Start today, um, we just had pretty major update, so maybe walk us through, and then I would love to share a bit more. um.
+
+[00:12]
+
+On on the changes we are doing right now within the map. So, I'll I just I'll just walk you through guys and give you give and shed a bit of light behind that. Dragon Hall, I guess. um.
+
+[00:24]
+
+Yeah, yeah guys, so um I'm um we're very happy to see the uh the uh good and great feedback you've had our Around the recent quest, I know that there were some small bugs uh related at the very beginning. uh, a small rough edges, but that were uh literally only in product environment.
+
+[00:44]
+
+solve them, but uh yeah, it's out, and we already are uh have started the work on the the uh next couple of quests, and uh the uh end of the campaign.
+
+[00:56]
+
+Now, this does not put us into any like uh uh relaxed period whatsoever. uh, The uh we've uh. We're s- picking, we're still continuing the uh work on quite a bit of new features that will not only um make the uh uh the new quest experience and post quest experience better. Uh, But um uh.
+
+[01:22]
+
+We're dipping in dipping into the uh end game as well. By the way, I I know there were some questions in regards to the uh in regards to the uh new ring you can only get from the treasure maps. uh, A couple of things in regards to that that new ring, uh, it's uh it's the uh on the first and the only legendary ring we currently have in the game.
+
+[01:45]
+
+And it gives you 20 percent chance to additionally roll uh drop table. So, for example, you get an, uh, you you finish Uber level, and you get 20 percent chance to roll it again.
+
+[01:58]
+
+So For example, you get adjudicators staff, you roll it again, and uh if an R- uh RNG god is real, you you get another adjudicators staff. So yeah, uh, all right, uh, we, uh, you you'll, uh, stop me when you want to, but uh, uh, I will give you guys a cou- a couple of teasers about new and upcoming things we have.
+
+[02:21]
+
+Also uh cooking up, so uh. uh, I will leave one one thing to talk over with you later, but uh, in the next update, we will be seeing the Z Passports finally arrive to your Zs. uh, Now, these are. uh, Every Z will uh have one passive, and evolution will give you another passive.
+
+[02:44]
+
+Now now um these passives will be skill related. So for example, woodcutting, mining, fishing, cooking. So on and so forth, and every, when you have like for example woodcutting trade, it will give you a chance to give you an extra log when you um cut down a tree.
+
+[03:00]
+
+Now this chance will grow as you level it up. Unfortunately, uh huh, but we did we did opt to not give passive skills for these that are amountable. uh, Just because we uh generally the way passives will work, it will only to us is from your active z.
+
+[03:20]
+
+so we did not want to, you know, put too much things into one z. uh, we want to promote uh switching of z's and training of z's. um, yeah, so on and so forth. uh, Cool. uh, All right, let me let me see what I have noted down in regards to the.
+
+[03:44]
+
+Next of it, yeah. uh, So, Z eggs, uh, we will be adding Z eggs as a drop rate from uh as a s- uhSmall drop chance from uh all of the wild bees, and they will be um basically. drags will only drop drags, and um. Jack will only drop Jack, and so, new
+
+[04:09]
+
+players, cause you know, uh huh, uh, I assume majority of you guys here already have all of the starters, but. Yeah, that's the way uh new players will be able to get, and grind out the Z they actually wanna get. um. uh, Now, before you ask, no, we will not be putting lobster eggs in. uh, That supply is locked, and will
+
+[04:34]
+
+not be changing. So, uh, update after that, after that, uh, there's one more thing in regards to the previous update, I'm just gonna quickly get, give you a high level overview first of what's coming. In uh update, after that, we will be introducing uh missile, adamantite, and oceanite tools. uh, That is an axe and a pickaxe. uh, Now,
+
+[04:59]
+
+some of you who didn't get the de-watcher's axe. You can rejoice uh as uh uh it will uh missile act will be as as strong as the new watchers act with thehmm, hmm, with furth- with further tools being better. uh, And uh yeah, to craft them, uh, for material, you will use elder logs, which currently you
+
+[05:24]
+
+can get through gecks. uh, Cause the elder tree, and and legendary fish bowl will unlock in the grove area in the grand tree, in the great tree quest. uh, uh, but we will be adding two new material drops to umbra, which is the frost tree and the coral tree, which respectively you will use to combine them.
+
+[05:47]
+
+And create these tools. Now, ob- obviously, initially, nobody will have these tools, and they will, you will need a uh appropriate drafting level, and it will be Kind of a grind, you know, for the first ones who come into the game. uh, That is the intention, because we don't really want to.
+
+[06:07]
+
+discredit these resources that will come uh through uh uh player on lands. uh, yeah, alright, uh, I guess uhI guess uh that I have a bit more, uh, bit bigger things that's coming in like after a while.
+
+[06:24]
+
+But uh I guess let's uh you'll, let's talk about uh the uh Z means. And now, we're gonna introduce quite a bit of eggs, and we're also changing uh uh these these being actually. Jail, I think we could actually leave this for announcement.
+
+[06:45]
+
+Oh. uh, But uh yeah, not not not to steal all beans there right now. ha ha. But uh ha ha ha. uh, Sorry. uh, Yeah, uh, we are we are essentially like, um, so, like a lot of reasoning behind this, uh, and and the way, and where, uh, actually I'm Spending a lot of my effort right now.
+
+[07:05]
+
+I mean, technically, the game is pretty much complete. uh, When we talk about like the existing uh. Existing like systems and existing framework, there will be some tweaks, but the the last big piece, which uh doesn't really change.
+
+[07:25]
+
+The way how game works, but that changes everything for the player is uh the way map design works. And uh as as many of you are here today, you may remember that when um. uh, When we launch this big world map at the beginning, so basically when you spend a week on a ship in order to land here on this world. uh.
+
+[07:51]
+
+Since then, map really hasn't changed much. And you can see there is like a lot of uh lot of decorations, lot of uh vegetation actually has um. uh, Quickly answering to monk's question about the inflation, everything else. uh, There will be um this will actually be addressed exactly
+
+[08:16]
+
+to that, but for this, just wait for announcement. It actually may come, uh, I think early next week. So, uh, there will be some changes there. We basically think we figured it out.
+
+[08:27]
+
+So, ideally this will makeuh, Community very happy, and it also will uh make obtain the way how people are obtaining these way more meaningful.
+
+[08:39]
+
+So, um, I I I I think we have a good solution for this. uh, And it should be like a win-win. But again, an- always getting back to the world. uh. So, when we built a lot of this stuff, we were just pretty much adding it on a map, and and seeing what works, and testing a lot of things technically, and working out all the quest lines.
+
+[08:59]
+
+But you may see like a lot of buildings are empty. uh, A lot of buildings actually look quite different from each other, not even in terms of graphics, but also in terms of like art style.
+
+[09:11]
+
+There are some slight variations. So, for in for instance, you go look on a building that's sitting on the mountain top, and and you look on like a Gag's building for instance. You will see that they look kind of different, or you go and compare like um.
+
+[09:28]
+
+our existing totems with some other buildings. there again is some like inco- inconsistencies, um, which is not that bad, but it's really bad when you look at all the vegetation, all the bushes, all the trees. uh, Most of the trees actually are relatively complex in the shape.
+
+[09:48]
+
+So, when we apply the voxel like hmm. uh, Box a lot, let's put it that way. uh, We see that these complex shapes they become and turn into a lot of noise.
+
+[10:02]
+
+But then on another hand, if you go and compare it how the spirit really looks like. It's still kind of the same style, but a bit different technique. But the result is much much smoother.
+
+[10:13]
+
+So, we are generally kind of applying like a pretty big art pass on everything around the world. uh, And we are actually doing it as we speak right now. uh, Another thing we gonna do is uh.
+
+[10:30]
+
+Like most of the map actually looks the same, and the most of like vegetation and everything we have there, uh, is essentially shared across the whole island. So, if you I've recently opened the map. uh,In a game, you may notice some uh names for different regions have popped up.
+
+[10:51]
+
+And what we gonna do is we will add like a a little bit of um a theme to all these assets within those different regions. So, it becomes um.
+
+[11:03]
+
+Way more atmospheric and more uh. Organic, uh, to. Enter these regions, and and get the kind of the vibe of the region, plus whenever you enter the region, it's um.
+
+[11:19]
+
+It's it should feel like something new, something you just discovered. And at the same time, uh, when you're within those regions, you're pretty much always sure where in the world you are.
+
+[11:32]
+
+Even without opening the minimap, and and this is uh uhYeah, and and this is pretty much pretty important, because if you go to the umbra, you always you are always aware that you're in umbra.
+
+[11:44]
+
+If you are, if you go in. Anywhere else? Kind of all looks the same, so it's really hard, uh, for people to find the ways, and people get lost.
+
+[11:58]
+
+We are will be improving the road system. So right now, we have just one type of roads, and no matter where you are on the road, you never know, either you're on like a main road, or you're in like some side track, or you're on like some secret small road.
+
+[12:13]
+
+So all of these things they will. be uh kind of marked differently. So the main road will be very distinguishable from like these smaller side roads.
+
+[12:24]
+
+And that means whenever you are uh on the main road, you always know that just by keep going, by keeping going in that direction, you will find yourself. uh. Entering the next region or or next next harbor or city.
+
+[12:38]
+
+So this is a bit of uh thinking behind uh the way we approach uh. the visuals, but more importantly, the visuals actually have to play the role of guiding players throughout the map, and kind of um.
+
+[12:54]
+
+Building the desire to explore, and that's only possible if you are not actually lost in a map. Another thing what we are doing right now is we are um restructuring.
+
+[13:05]
+
+Where some of the resources are placed on the map. Cause right now, I mean every everybody probably who's here have uh have noticed that Almost all of the resources are really scattered.
+
+[13:18]
+
+So what we gonna do is we gonna uhAnd scattered them, and and essentially turn them into more like a smaller hubs. So instead of you going to five different places to cut down uh like this epic tree, epic spirit tree. um.
+
+[13:40]
+
+You will kind of always whenever you meet a people, you will have a competition. And it's a pretty frustrating experience. So instead, we gonna pull some of these resou- resources together into hubs.
+
+[13:51]
+
+So for instance, when you arrive to cut like high level tree, there will be only few spots where actually these legendary or uh like epic trees are. But they will be uh placed together in some sort of like a hub.
+
+[14:05]
+
+Where you go, and you can actually meet other players, and you can, and it's, and again, it becomes clear where you are in the map, and and also like killing becomes.
+
+[14:17]
+
+I would say way more enjoyable, and and and productive, more productive as well at the same time. So, this is something we're gonna do with the with with all these hubs. um, All these resource hubs, we can just pull them together.
+
+[14:33]
+
+Another thing where I think many players will be excited, uh, so we understand that. uh, One of the most. Important. uh, Vendor essentially is a stash.
+
+[14:49]
+
+So, we gonna create these little like mini villages. I don't want even call them villages. They will be just like a little like a Like a traveler, sports hubs where.
+
+[15:03]
+
+We will add ability to access stash, and and and maybe some other guys like Horider or um. Or Or Or is this sanctuary?
+
+[15:14]
+
+So, you gonna see uh after this like map update that there is now multiple uh locations from where you can access the stash, and that will like just dramatically change How uh you are kind of killing and and exploring the world.
+
+[15:32]
+
+because instead of having one stash, there will be, I think, I'm pretty sure we gonna go with roughly three. uh, Stash locations across the map. So, it becomes more accessible, the long travels become uh.
+
+[15:48]
+
+Let's say, let's put that way more um more meaningful. There is a place for you to heal your disease and so on. So, bunch of uh cool stuff. uh, With more access to the vendors, and also we are besides just while these dropping their uh respective eggs. uh, We are also looking to make these drops again even more meaningful.
+
+[16:12]
+
+So, you will find some certain these uh built around dropping uh. And dropping um some some crafting materials and etcetera.
+
+[16:24]
+
+So. It will become that, if you wanna, let's say, ess- essentially get that z, and form some resources, you're going to these small hubs, you're killing these these.
+
+[16:35]
+
+Another thing which is um uh kind of even like a new functionality in a way. But uh it just makes sense. uh, Some of these these will be aggressive, so even if you go uh.
+
+[16:51]
+
+Near them without like clicking, they will start attacking you. So, this becomes um. A way for people to to kind of.
+
+[17:02]
+
+Probably end up dying when they whenever whenever they discover the world, but it adds like this sense and level of danger to the world, and some of these diseases will be like chilling around, these aggressive diseases chill will be chilling around. uh, The mining spots or like woodcutting spots and so on.
+
+[17:20]
+
+So, on one hand, it protects uh low, these spots from low level players. On another hand, it allows you to actually. Mine or or or or do woodcutting or fishing or or whatever, while also yours these are battling and training.
+
+[17:38]
+
+So, it adds a bit of um. meaning um to these different locations. So so yeah, if we just kind of look on everything together, uh, every piece of the map Will have a bit more of identity, uh, more of a meaning, um.
+
+[18:01]
+
+More of um. I I I guess it will just finally really make sense whenever you go around the Zivert's map and you explore. And And uh yeah, so this is something we are like actively working right now.
+
+[18:14]
+
+We got like a super cool uh editor tool, so essentially it allows us to move. The objects are on the map, uh, at the same time as we play the game.
+
+[18:26]
+
+So we can always just move a tree and actually look how that tree looks uh from the player's perspective. So, this is this is um I mean there is a lot of lot of stuff around this that we are going uh to shape on the parallel with everything else.
+
+[18:43]
+
+Most of this stuff is just our team related, and since we shipped the last quest, the our team our team finally has a free hands. So, um, yeah, there is gonna be um.
+
+[18:55]
+
+White substantial upgrade to map visuals, uh, research placements, roads, um, these, and and overall like the theme for each region.
+
+[19:07]
+
+So, um, yeah, that's something to, I guess uh everybody will benefit. uh,uh, But this is where my mind currently is at, and and and yeah, uh, these worlds should be as playable as everything else within the Zeevers, and I feel this is um kind ofuh.
+
+[19:28]
+
+One of the last missing uh big things we had, uh, which we didn't really had time to to Make sure that they just look good and make sense, and and now we do have this time.
+
+[19:40]
+
+So, uh, this is where I'm, I'll begin to be probably working this in next week. And uh yeah, we gonna be looking to ship this as soon as we can, cause uh once this is out, we will also be starting um to.
+
+[19:56]
+
+Acquire players in more quality markets. So, uh, maybe some of you have noticed the game have already been released in four Nordic countries, and this is the place where we gonna start uh acquiring players. uh, With much higher value, but at the same time, we need um to fix the last missing pieces, because this is not a technical launch anymore.
+
+[20:20]
+
+This is actually where we are looking how these players. uh, Integrate within the community, how how they progress, um, after they have completed the tutorial, and and and so on, so.
+
+[20:34]
+
+It's uh it's it's pretty exciting, and this is also a a very very low hanging fruit. And I I I feel that this will make Zeevers feel way more alive, because Wherever you go, um,There will be much much higher chance to meet a fellow shaman. uh.
+
+[20:54]
+
+To the system where everything is really like scattered around, and it's it's just kind of. Determined by the lock, not by destination. So, uh, yeah, expect a lot of life of quality upgrades, uh, pretty much everything will become Smoother, uh.
+
+[21:14]
+
+More enjoyable, uh, to farm. uh,uh, More access points, and and every region will have its own WiFi. And on top of that, due to these regions, the way we plan to structure them is that Every region generally holds some special resource.
+
+[21:34]
+
+So, it won't be that every region now holds. Like every region holds most of the stuff. Now every region essentially holds like some specia- special stuff, and this will also apply to the new these.
+
+[21:47]
+
+So after we are done with this We are planning to introduce around 9 or 10 new these that will be uh. uh, Yeah, that will you you will be able to discover and obtain uh within these exis- existing regions.
+
+[22:02]
+
+So, think of this also as um as a piece of content. That we are adding, uh, and making sure the game is Essentially fun after you have obtained all the all the existing nine starters.
+
+[22:17]
+
+So, essentially it just doubles the Z Z collection. um. So essentially doubles that. So, uh, yeah, Jekyll, I'm, I I feel I'm being kind of uh yapping too much.
+
+[22:30]
+
+So, uh, what what do you think of this? And maybe you have some questions. You think? Yeah, no, I just um I something that Doesn't really like concern existing and you know active active users, but obviously this change will also you know juggle around a couple of you know quest objectives.
+
+[22:51]
+
+And how the quest plays out, there's no rewards, everything, every, ma-, hmm, hmm, uh, so, you know, no worries, guys. But uh yeah, I I uh.
+
+[23:03]
+
+I'm I'm happy we got around, I got around doing this, cause uh. uh, I, I, you know, I'm not a big fan of the current my player. uh, I, you know, I, it's something like we've already talked about, is the uh uh.
+
+[23:20]
+
+Well, what what was word I used like the uh flog, the. uh, You know, I I I forgot the word, what I meant was, you know, the basic travel, and you know, doing basic things causes friction, and by us like uh uh aiming to.
+
+[23:39]
+
+Resolve that uh even you know basic actions such as you know fishing and woodcutting can become you know small social gatherings, and uh yeah, cool. uh, But we guys, uh, if you check your chat This is uh still working progress screenshot. uh, The the but you know we're you know it's it's almost done, but yeah guys.
+
+[24:00]
+
+Do you have any idea where this is and what this place is? Anybody? uh, Ha. um, Yeah, uh, I know I know we di-, we we said we're gonna, you know. uh, I know we said.
+
+[24:16]
+
+We're not gonna put any effort into it, but uh we couldn't. uh, And yeah, you know, uh, it's like a minor face lift. uh, Guys, don't worry, don't worry, just as I promised, it's gonna come out as broken as it was before.
+
+[24:31]
+
+But uh me and you guys, we're gonna work on it, and um an And uh yeah. Yeah, so, you know, get ready, uh, get ready, uh, figure out figure out all of the things, if you remember what you really didn't like about it, and you know, communicate, uh,Because you you know you guys you can be a uh.
+
+[24:55]
+
+You can be a. uh, What was was the correct phrasing here? Active or retroactive? uh, But yeah, uh, anyway, that's uh. I think we kind of speed on it, but there's like crazy amount of things we're in, we're working on, that's coming, that's close to being already released.
+
+[25:16]
+
+And uh yeah, I'm just really happy we get spend all of this effort, uh uh, you know, obviously this is also about user acquisition, but We get to spend all this effort to to deliver something that actually affects.
+
+[25:32]
+
+you know, those those loyal twenty people that come to the community calls every week or you know every other week now. uh, But uh yeah, Guangzhou, uh, cool, yeah, so, you'll, uh, I think I think.
+
+[25:52]
+
+Like, I don't really like wanna go over. For example, we did talk last week about the world boss, and that's like in progress. I don't really wanna, I think we have quite a bit of new things, and I guess.
+
+[26:04]
+
+I I I would love to actually hear some questions from you guys, and maybe you can share a bunch of stuff you really like, uh, bald the map, you hate the bald the map. There is a lot of things I don't really like about the map, so that's why we are working on it.
+
+[26:18]
+
+And I feel that um map in MMRPGs. Pretty much like a crucial part of what makes these games enjoyable, and and what drives uh the desire to explore.
+
+[26:35]
+
+So, yeah, this was left as almost low-hanging fruit that we didn't really hmm spend time making sure it.
+
+[26:46]
+
+does its job, and I feel like after we have done this, then we essentially have this, we basically have this diverse in in its.
+
+[26:57]
+
+More or less final shape, uh, before we start adding new stuff. And um yeah, so from from that point, I feel uh we mostly focus on just.
+
+[27:11]
+
+Adding new regions, new pool stuff, uh, forge new bosses, new, essentially just a new content, and uh and um yeah, so.
+
+[27:23]
+
+I I feel it's gonna be. It will take a lot of uh. A lot of you by surprise how. How better life can become playing Z Versus, when the map actually is fun, and and uh and make sense.
+
+[27:44]
+
+So, yeah, uh. uh, WebGL playing. uh, I think this would probably uh kill most of the phones uh out there.
+
+[27:57]
+
+This is Essentially, it is available, but when it comes to uh day and night cycles, uh, it's not just about things getting moodier or or or just changing the vibe.
+
+[28:10]
+
+It also affects uh it should affect a lot of mechanics. So, there should be like quest givers who are giving quests only at night, or appear only at night. There should be some resources.
+
+[28:21]
+
+That can be only obtained in some of these um some parts of this day cycle, and and and that's actually a lot of complexity. So, I don't think we're gonna go for that.
+
+[28:32]
+
+Instead, uh, some of the regions you may explore in the future, you will feel that you have entered the night. uh, Or or some regions you will feel that you are actually in in this uh very very different lighting lightning.
+
+[28:49]
+
+So, yeah. Uh, I think this is the. I I I I think I think this is kind of the way how I would. uh. Think about it.
+
+[29:01]
+
+So, uh, easy answer is no. Uh, Guangwents, uh, Guangwen uh asked whether there will be po-, more powerful rings or necklaces. uh, cough, cough, uh, Mr. Block stress, uh, uh, whether there will be more powerful rings or necklaces.
+
+[29:20]
+
+Sorry, I got something stuck in my throat. And uh you know that uh uh teleportation plays to um to the uh fox plays, uh, to the peak, to the mountain top. hmm, I wonder, w- wonder whether uhWhether whether um any new jewelry we could add, could uh also uh hold a teleport option there, really.
+
+[29:42]
+
+I don't know. uh huh. But uh yeah, I I guess I guess. Well, it's not a smaller thing, but um. We're also uh we've been uh um obviously this was, you know, postponed, but we've also picked up the work on the uh uh the uh I thinkuler, I mean, shoot me if I'm if I'm saying too much.
+
+[30:05]
+
+but we picked up the work on the uh second iteration of Mr. Block's chest contents, uh contents of it, and. And yeah, I don't wanna obviously jewelry is the you know, the hot new thing. uh, And you'll definitely find jewelry there, but I won't really spoil.
+
+[30:25]
+
+Too much about it. Essentially, we added those slots, so there is going to be a lot of different rings, a lot of different necklaces. And and also, one had a pretty cool question about equipment. uh, We actually had uh this a long time ago on the roadmap that uh some al- already there are some equipment that is focused on the scaling, but generally uh
+
+[30:51]
+
+there will be more. And uh and this is also something we will be looking into, cause uh not all equipment should be about battles that's. A lot of equipment should be actually about.
+
+[31:04]
+
+Getting around, even if you look at the getting around or getting some some perks when killing or or some bonuses. So, uh, we are we are actually Already stepping in that direction, uh, when it comes to a last Halloween setup, uh, which gives you a teleport.
+
+[31:21]
+
+So, yeah, not not planning to slow down on that. And as speaking for timing, uh, I think there is a pretty good chance that the boss uh and the world the map design uh would come around at the same time.
+
+[31:36]
+
+Giant tree is, uh, I I think so. Some, I mean I think web will be a bit faster, but uh but will, but definitely not a big gap in between Android. Yeah, and also uh there will be some gradual changes to map as well, so I don't think we can then just deliver it all at the same time.
+
+[31:55]
+
+We gonna start by just moving things around, and then we'll we'll be. gradually this polishing layer. So When we see everything is in the right place, and it works as it should, uh, then we basically will make sure a lot of details we take care of, and it just looks Even even even like better.
+
+[32:15]
+
+so basically adding like last 10 percent. uh, Yeah, so. What else do we have on the questions here? uh, It's not much. Yeah, uh, I have, I, you know, uh, I guess we get, we get time to talk about forest, if there's some more viewers questions we can Wrap up with don- with them. uh, Yeah, what's uh what's uh good on the other side? uh,
+
+[32:42]
+
+You mean. On forest side. Oh, yeah, yeah, yeah. So, uh, on the forest side, it's it's a bit quieter right now, because uh since we released the Windows harness, this was one of the big parts we wanted to ship out.
+
+[32:56]
+
+Right now, we are essentially um I mean both harnesses fully functioning. There is some activity on the market. It's cool to see that, uh, right now where we are um.
+
+[33:09]
+
+generally, let's say our focus is uh how we can use the harness. um. Work on some. Zivers relieved stuff, essentially playable ads and ads as as as as a whole concept.
+
+[33:28]
+
+And and this would become um. Very important tool, uh, for for zivers, so we can basically acquire the players, but at the same time, the technology that's it's being made there.
+
+[33:41]
+
+Will become, and it become accessible to uh everybody else, uh, who is using forest harness. And I feel that this becomes comes as almost like a win-win.
+
+[33:52]
+
+Where we actually invest in some of aspects that really. uh, Move the needle, uh, while the same time, uh, everything of everything, everything of that becomes uh accessible and usable by the community.
+
+[34:10]
+
+So I think it's gonna have um uhYeah, we gonna we gonna have a pretty pretty damn good harness. uh, Once once we get uh pass this round, but yeah, uh, essen- essentially the forest is. uh, Being improved, there is still like hundreds of little small things we need to improve and change the way how um. Oh yeah, as
+
+[34:37]
+
+speaking about creator awards, we had actually kicked up. I'll ask uh maybe we can go uh over with the cherry. uh, So, for some creators who qualified, we will be sending out the rewards. uh, Hopefully this week, actually.
+
+[34:50]
+
+So, but yeah, overall, um, there is still a lot of tuning going on, um, to ensure that the creations are Looking good and feeling good, uh, but technically the infrastructure and platform is pretty sound.
+
+[35:04]
+
+So, what we are waiting for is essentially uh a good opportunity to do the push. uh, Meanwhile, we are just uh uh pushing in the required technicalities so we can use it for the zippers as well.
+
+[35:21]
+
+Yeah, but I I I probably won't go to day deeper into the marketing strategy, strategy around it, et cetera. uh, Essentially, what we want to build isuh, Something that solves a problem. uh,And and we already see it solves problem for like many different use cases. uh,um, Which still feel a maybe a bit shallow, but
+
+[35:46]
+
+once we have something that's production ready, uh, on on production level. I feel that the games and comment produced by the hardness actually becomes uh uh.
+
+[36:00]
+
+surprisingly good. so, yeah, uh, again, I feel like I'm kind of yapping on this topic, but uh the the way we work on these things and the way we switch isuh, We do these heavy pushes on on either zebras or forest.
+
+[36:18]
+
+So right now, I've also located a bit more of my uh effort and focus on the zebras, because we need to Essentially launch the zivers into the Nordics. uh.
+
+[36:29]
+
+Really soon. So, this is where I'm spending most of my time, uh, this week, and will probably spend over the next week. But there is a bunch of stuff happening behind the scenes on the forest. uh, And most of that is just to ensure the stuff we create.
+
+[36:46]
+
+some use, and actually is good. So, yeah. And any updates on public lands like finance land, it's funny because uh. uh, I I think we can uh probably change a bit the theme. uh, But uh we will make sure that there are these uh buff pools.
+
+[37:06]
+
+Which is really really cool thing, but overall, uh, the finance lobby, finance land essentially it means um it means a rework, cause it's.
+
+[37:17]
+
+There since since day one essentially, and uh and and and we have, we haven't paid. Much attention there. So, uh.
+
+[37:30]
+
+So, yeah, that's uh something I think. uh. We'll see. Make order. If if if that's the way to put it. So, yeah, um, Dagle, uh, OK, I see. Gwan is writing something, but.
+
+[37:47]
+
+Do you have anything else? Go on, but maybe we can call it a day today, and just answer the last questions. Yeah, yeah, there's like some bit and pieces I don't think it's are that important to you know, say, uh, leave it for the leave it for the surprise of dev notes. uh, Ha.
+
+[38:06]
+
+But yeah, uh,I don't I don't I don't remember, I just don't remember if I talked about it last week. But um uh one thing that's also coming your way guys is uhuh, quite big, um, rework, not rework, a balancing patch, which we haven't had for years literally. um. uh, We're gonna ba-, be buffing a couple of things, and
+
+[38:31]
+
+we're gonna be nerfing a couple of things. uh, You know, jockey cater stuff. uh, Fun fact, guys, you know, I've built the battle simulator, which really helps me to, you know.
+
+[38:43]
+
+Simulate various various situations in insane quantities, in millions of battles, and fun fact, judicator staff is the best off hand. uh, Also, the easi easiest one to get of them all. uh, So, you know, we've we've we've been uh we're gonna be uh balancing a couple of things to have strength of the uh assets be
+
+[39:08]
+
+where, you know, they're supposed to be. And this will also come toward you know uh these. Now, uh, is Zoom but the best Z in the game? Yeah, yeah, it, yeah, I mean, yeah. um, um, we will be adjusting a couple of things.
+
+[39:26]
+
+For example, is Jack a divorcee in the game? Yeah, yeah, Jack is a divorcee in the game. uh, So, we definitely need to, you know, uh, bring all of these things, you know, together. Obviously, you don't need to be afraid, uh, uh, it's not like we're gonna kill uhNot Matoka the best. uh, Well, not, uh, there is nuance. uh, If Matoka has Celestial Hymn, uh,
+
+[39:51]
+
+then yeah, cause you have sustain. But uh, if you don't have Blightthers, thenum, The zombie is the best support in the game. uh, And um yeah, plus the burn. uh, It's it's both DPS and support.
+
+[40:06]
+
+But yeah, uh, I've drawn the same card twice now. Why can't I get the box? uh. uh, What? uh, It, so, treasure maps have 5 percent chance to give you another treasure map.
+
+[40:19]
+
+Now, this does not change reward, they just, you know. Extends, uh, cause um um cause uh you know some some treasures are further uh than the others.
+
+[40:31]
+
+But yeah, uh, that's the small ya from me. uh, Expect uh better balancing. uh, I think a lot of you guys will be. And positive from this balancing patch. uh, Now, judicators getting uh getting a nerf. Nina Watcher will also be getting a nerf. uh,But uh you know, I'll,
+
+[40:56]
+
+not not not the crazy one. uh, But uh yeah, so something like that. uh. You can you can place your bet. uh, You can place your bet, uh, which which items are getting a buff, and which items are getting a nerf? um.
+
+[41:15]
+
+But uh yeah, uh, by the way, uh. I I I don't know I don't know how much I how much I get a yab here, but yeah, a couple of things will be getting a rework as well. uh, Like treasure stuff, and you know, as we just talked about judicator stuff. Juricator staff will also be getting a small rework in its ability. uh, It's gonna be a cool ability, but uh uh nevertheless.
+
+[41:38]
+
+All right, yeah, I guess that's uh that's that's me. um, I can uh Look to do the give right now. Cool. OK, guys. Thanks for uh showing up. um, And a lot of stuff to share.
+
+[41:51]
+
+Actually can't wait to actually show you that. So, uh, yeah. You, see you on next day, I may, and uh stay tuned, and if anyone has strong opinions about the map, about the things they like or hate about the current resources, and so on. um, Just let us let let us know.
+
+[42:13]
+
+I would love to hear your feedback. OK, see you guys. Bye. Uh, All right, I guess you're here with me. Uh, Give me give me just second, I'll I'll I'll prep your names for the for the google.
+
+[42:31]
+
+In the meanwhile, Cherry can uh entertain you guys. All right, cherry out, unfortunately, uh. All the
+
+[43:12]
+
+other times. Thank you, Cherry. uh, Let me let me share my screen. uh. It uh. I really after, after I guess after two years, I don't gotta tell you what to do. uh, uh. uh, You know where to claim it,
+
+[43:37]
+
+you know what happens if you win. uh, 1 month premium pass, I figured I should probably at least tell that. Bola mamba. 哦。Thank you all of you. hmm,
+
+[44:03]
+
+Chef shall. I didn't take out Kiwi, but uh I don't. Well, well, that tough, if Kiwi wins, then you know, up to him, up to him.
+
+[44:27]
+
+Is it Barley? It is. All right, guys. uh, Thank you for coming. uh, Probably next, uh, probably will be, we will be having an update out already.
+
+[44:39]
+
+The next time we, the next time we meet, so. uh, Yeah, cool. Thanks for coming, and I will see you um in uh in two weeks. It's, yeah, cool.
+
+[44:50]
+
+Bye bye.

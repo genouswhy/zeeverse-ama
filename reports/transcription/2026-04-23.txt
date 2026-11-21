@@ -1,1 +1,767 @@
-To our weekly AMA. Oh, nice, then people. All we had to do was just turn on camera. Ha ha. Yes, sir. All right, cool. um, Yeah, the Craig is in, and we are good to go. So, uh, Euler, is there anything you wanna uh begin with or uh. I mean there is always something I wanna begin with. Ha, uh, uh, yeah, I just, you know, I guess the first question I wanna ask you is what's up? uh, Where are we? uh, And what's going on? OK, uh, we are we are in the. I think we are kind of in a position where it's relatively calm before the storm. We already start to see some signals happening around the forest. I'm like um I'm getting more and more excited to see uh how it all like um starts to fit together. We kicked off like the first Feed wall, two weeks ago. uh, We had a quite a big competition happening there. I think there was like nine million seeds, so, uh. Allocated to that, uh, basically bid it by people. uh, We ha-, we saw some um. Some people like uh funding and not really understanding how the whole process works. Oh, why did I get so few tokens proceed? Now, we are already in uhIn a in a finishing line, almost like in finishing line, there is almost two days left for the second seed ball. And we only see 1.6 million seeds uh committed. I have a feeling that over the, like like usually what happens with these auctions is at the last minute there is some like last minute bidders. But I feel that this auction will bring way bigger value for a seed. And it will be just interesting to see uh what happens on the third wall. And I think people will start, and is starting to soon soon realize how these things work. How these things um work together with rest of the stuff? Because um then. You can go and participate in bunch of different activities across the whole protocol where you can actually earn those seeds, uh, and and and sometimes even skip the staking part. So anyways, uh, my point here is Seed vault is becoming uh. Pretty big thing for for a protocol. We see how it works, and also what's even more interesting is we start to see how. uh, Protocol level liquidity is starting to affect the price. And I think like uh we've been in in in a bleeding mode for Fast few months, uh, pretty much everybody who wanted to sell probably already sold. And and and and now we are seeing like some some action starting to happen, and it will, it it it's basically like a snowball, you know? Because uh when. When we get a momentum on other end, and. And and people start adding more coins, and even start to trade more coins on the protocol. Every single transaction generates a fee, and we are not like collecting those fees and going and dump them. We we they basically just sit most likely for for forever in a wallet. And it just kind of constantly create this uh upwards uh buying pressure, which then triggers some some explosions within it. And this is what what we already pretty much see. So, it's it's it's really cool start see these things happening. uh, Start to see how every single piece falls together, and and and how it's all interconnected. So, uh, yeah, and and what makes me even more excited is uh upcoming SDK release for the forest, because um this will. Probably the first time where builders will uh actually start to see the real uh real value they get out of the forest as a tool. And SDK will generally allow Anyone with coding skills or no coding skills at all, and just, I don't know, ChatGPT subscription or cloud subscription or whatever, uh, AI you are using. uh, This DK will come with a skill. And in short, it will allow you to make games or apps that can use your token as As As, for for whatever you want or forever, for for whatever you can even imagine, right? So, I I I I give you an example. So let's say I wanna build a. I want to build like a. Jaguar, we need an example. For for a Jaguar, we want to build like a Jaguar coin app, right? And and and and okay, that will be probably very bad example.uh, uh, uh, All right. Yeah, I guess, I mean the point is you can build like literally any other application. And the that. Spend some tokens. You you can play, you can you can basically build like a bitcoin mining simulator where people are using the coins to upgrade the their uh rigs. And uh and and then they can just uh uh use it to mine more coins. I mean you can build like, if you can imagine. You can easily build it, and and and this is probably the first time where you have like this aspect of security guaranteed by by protocol. uh, Because SDK basically make sure like all these uh withdrawals and deposits for your tokens are safe. uh, While we give you full freedom to basically build whatever crazy ideas you may want, and and and this is probably the first time, because anyone can launch a coin. um. But what's hard is building an app that actually use those coins. And and if we are. If you are basically pushing in the direction where um displayables service utility, then then uh having ability to use those coins becomes Almost like um. And the three type of thing. So anyways, uh, SDK will bring in a new wave of creativity. uh, We are already working with some partners, uh, wh- who are like building some mini games. uh, There is stack competition happening. uh, So, this is pretty fun game. I I would say the quality is there, and and this is definitely a a game where. You shouldn't be. It's a written game. I, I, we, I, we tried it on the on our stream, and there's like some written to it, but it takes a while for you to find it, you know? Yeah, that's true, that's true. What I wanted to say, this is probably like a real game where uh whi- which you are not ashamed. To show your friend, I mean, this is not like your uh standard AI slop stuff. This is pretty pretty uh OK game to play. I I I I spent some time, I had bunch of fun with it. So, yeah, and and we have a price pool allocated for that. So, go ahead, give it to go. uh, It cost nothing to start, and and. Yeah, so, um, I guess I guess that's that bunch of stuff uh on the forest, actually a lot of stuff on the forest, also a lot of stuff having on zebras. And I'll probably let's touch zivers there. I I would love to hear maybe if there are any questions regarding the forest or stuff we just uh spoke about. Feel free to use chat. Uh, If If if no, like, I mean Jack, all you probably also have agenda, so we can uh we can kick it off. Yeah, uh, you all are feel free to, you know, uh,Interrupt me whenever. uh. Beautiful beautiful life has uh uh has a question from. Oh, I didn't see see this, it was like before we joined. uh. Cheers to the teams. Please make the 3X speed faster. I don't have time to play and speed slow me down. Someday I I play it all. Really make a travel spell to hollow cave. I enjoy picking berries very cute. So, first of all, uh, uh, I'm, I, you gotta time this, and uh I will I will time it myself as well. Oh, uh, my premium person, I just remembered. uh, ha, uh, but I will time it, but what we did is uh re-factor the uh s uh x three speed. So instead of like speeding up everything It speeds up the move. uh, It uh look slower, but it shouldn't be that much slower. uh, It's like uh it should be visual illusion. I will however get back to you on this, so I will do some testing myself, cause I I have uh um previously uh taken my averages in specific dungeons, just so I can estimate the grind speed. And I will I will see if my speeds have changed, and if uh they shouldn't have changed so drastically, but yeah, we'll take a look. Also, will we make a spell to travel to Hollow Cave? Wow! What a cool uh concert, wha- what a cool functionality for maybe upcoming uh mister block of uh miss- mister blocks accessories uh that will allow you to teleport. Hmm, hmm, hmm, can be. uh, Anyway, uh, ha, yeah, no, I would definitely, uh, uh,Ola trails, uh, teleport, one way or another, is coming. uh, The other being the great tree, as you will be able to teleport to the great tree, and then you could run down. But, uh, that's that, uh, other than that, heavy uh heavy work and uh heavy effort on development of the part two of the main campaign quest. uh. It uh. It's huge, two dungeon, two new bosses, a new Z, uh,Mechanic wise, nothing really that much, but it comes with a big quest, uh, new NPC. uh, And quite a bit to be done. uh, I think. uh, That's a raccoon type. uh, It's a dark matter is it that will resemble a racoon a racoon, um, racco is how we call it. So, yeah, quite a bit of coming in that front, however. Not this week, and I'm pretty sure not next week either. We're looking at like two to three weeks, until we are ready to uh release that into the public. And uh with this update, uh you will be losing the ability to access the jungle area until you cle- clear the campaign. But similarly, how it worked with the first uhuh, Dungeon for those experience players here, which from what I'm seeing is all of you guys. It will it will be a breeze through for you, but you will actually get to, you know, more in depthly uh learn about the story of s- zivers, and what uh Arka has caused, and at the end uh. Fast travel system between two totems, which actually uh uh answering beautiful life's question, kind of gets you closer to Hollow Trails, because the totem will be restoring in the next part will be located near the sawmill. So that's already uh quite uh close to the um. I'm just thinking is that is that closer to than the Omber Teleport, and I think it is yeah. But yeah, uh, that's I, I, you know, we've talked, we talked very in deeply about uh. Wh- what's coming, also in the previous community call, so I don't really wanna, you know, uh. Regurgitate, ha, what what's been what's been said already, so to keep it lean. uh,But what I did wanna take a time to talk about is uh and you know, a refresher is the highest. uh, uh, Euler would have to. He gave us the better like time we know, on when can we expect the highs to come back. But for those who haven't heard it, what we were planning to do isuh, Bring back hasted literally as it was. We took it out cause it's broken, right? But uh but, wha- what we wanna do is because even for example, when we did Which the tribals tested. Some of you guys loved it, and some of you guys hated the hell out of it, right? uh, So, we're gonna try a different approach, also because we do not have the dev resources to totally rebuild the heights. What we'll be doing is reintroducing Haste, and putting, taking community feedback uh through me. I'm gonna be the lens that's gonna put These questions back to you. For example, should heights have a weekly ill or reset? Or should heights give increased uh points per hour? uh, All these questions will be brought back to you as community, and you will be able to vote on these things, and we can implement them, and we can do these votes, you know, by weekly or. Whenever enough people uh uh you know get a quorum. But yeah, and for example, we can uh uh brainstorm theory craft for a better heights on my uhUse the streams. And yeah, all in all, that's kind of how, where we're at with the heights. Cause uh even with the next part of the campaign for endgame users, obviously not that much content, new Z Cool, new bosses, cool, but not challenging for you. And uh we wanna bring back hives, so, uh, there's a More competitiveness, and there's more things for you guys to do. Can you add HD timer to our UI? uh, Somewhere easy to work it. uh, Generally we do wanna uh keep the um. uh, UI be colored, uh, without adding uh adding uh timers upon timers upon timers, and. uh, You are correct me if I'm wrong, correct me if I'm wrong, or do you, if you will differently, but there's two things for the college child, for example, me. I go in daily, because I don't track uh uh my time. If you wanna squeeze in more Hollow Trials, that's your responsibility to track your time between runs, and uh. Yeah, but I think uh we can perhaps find a middle ground here. So, I just, you know, don't wanna get you guys to think, oh, Jackal being a dick today. uh, Butuler, I think we could do what we could do is add a timer uh above the entrance of Hollow Trails. uh, So you don't have to like go into the end of the cave to see. I mean that could be a thing, but then again, at the same time, uh, we also do have a bunch of stuff, uh, such as push notifications. So, I mean, let's not, it it's shouldn't be about like overcomplicating stuff. And you know, when uh when you receive a notification which says, yo, the trials has been reseted, I think it's enough uh in many cases. So, uh. I mean, we can think of it, for sure. Jack, I'll just make a note. uh, But it feels quite a good. I mean uh the moment we we uh we have nothing better to build or or or um uh improve. uh, I think this is this is that that that's going to be a good time. uh, Yeah, I mean the point is, uh, we already have push notifications for that. uh, We can actually double check if notifications are included. uh, Maybe maybe as we go forward. We can make some some stuff for these convenience, but. But generally, like we don't wanna kind of go into tooling and building tools. uh, This is something what community can do themselves, and I mean, at the end of the day, just press uh. Put put on an alarm, and and and you should be able to like uh. Optimize your runs around the clock. So, yeah, uh, uh, so, I kinda, I uh wanted to add a couple more things. uh, High staff chain, uh, Eular. It will eyes be of trend, or is this something uh people will vote on? uh, I I think they can vote on, I honestly, uh, like my point was, I don't care. Yeah. That was my point, I don't care. uh, As long as it can fall within the existing, like umDevelopment constraints, uh, we have in a place. It's up, it's totally up to you. What we said is we are okay to allocate certain v budget. Which will be distributed uh by using Gex, so we will be constantly dripping into liquidity pool uh to support high tokens in a form of rewards. Everything else is up for community to decide. So. So, yeah. Yeah, uh. And the five highest 5Z uh, we're bringing it back as it was. uh, So 5Zs, that's for you uh guys to uh work on. Is that something you like? Obviously. uh, If, for example, the highest would spiral through these boats to like very, for example, and but Unbalanced mode, like you know, that's like heavy to, for example, a minority of the group. We might like look to, you know, introduce a general balancing to the heights. But uh, I mean like, if if heights will end up being fucked to the point where it can't be unfucked anymore. uh, Then, then there will be for- for removal of high stone, I guess. uh, But, yeah, and. No, no, yeah, but what we're, I kind of wanting to do, you know, for for you guys not to take out uhNot to take what you learn out of context, at about we don't care. It's we are giving you guys the full freedom of handling the heights. The uh the caveat here is you have to be on the same page, or you know, in a majority, because the majority will win. So, uh, so, yes, uh, that's that, uh, so there was a couple more things, uh. uh, Teleport directly to uh in in energy the sacred. So, guys, it's like, oh, can we add highest teleports to 11 people in the world? Come on. uh,Now we gotta think about you know general solutions. uh. I mean, Hice itself is so close. uh, Sorry, it's not Hice, Holo Trials, Holo Trials. Oh, Holo Trials. Sorry, my my bad. Yeah, guys. I, I, me as an owner of the theater, I think that's like such a selfish suggestion, guys. Let's think about you know, everybody. However, uh, there's also a question uh about umCan we may, can we ruffle some mister block's chests of uh wonderful delights, if I remember, uh, enchanted delights, sorry, uh, if I remember correctly. Is there some something That we could. I mean, when when it's time, and when we are releasing the chest, uh, that's probably a good time to consider it. But uh yeah, uh, I I think we can come up with something for sure. You will be. uh, Like, I mean always, we always find a way to distribute some rewards, uh, as as as we find a good fit and time for that. So, probably once once this is going to be released. will be looking into it, and yeah, I think so. Need, but yeah, guys, you you know, just to like manage the expectations here. Got, I I I f-, I hate to say this like every week, but onboarding first. Real, really important, and you can uh I, you all can also talk more about the onboarding campa-, uh, the campaigns, uh, we run, the results that have happened, and uh I think we're also planning to have a bit Larger scale campaign to get even more data. And uh yeah, you all could you could you talk about that? I mean, it's almost never ending process. This is something we go through, uh, as we start to enter more serious uhuh, State for the game. So, every time we do some update, we need the data to validate if we made like a good or bad decision around the designs around likeuh, The user user flows. So, every time we get let's say a bit stable version of the game, we can afford. uh, To put in a bit more resource into user acquisition. So every time we basically hmm come back with the bigger campaigns. uh, which are then improved on many different aspects. And and if you like pay attention, um, the app stores already have some new screens. So, as we are like doing all this, and measuring the data from the user acquisition, and kind of understanding what people are really looking after, when they are looking for a new game, and we are. And we basically take these learnings and apply them um stuff yeah, for for instance, this this screenshot, we actually do have a few more uh which are in A B testing, so like uhThe google stores are automatically uh testing to find which which of these screenshots.  uh end up. This is not like necessarily screenshot, this is more like a like a marketing promo shot. But uh it finds and optimizes uh. uh, Yeah, basi- basically gives us the idea of which things perform the better, uh, the best, and and uh and yeah, and and that kind of puts us in a place where. We start to gain more confidence uh when it comes to spending on user acquisition, and when it comes to like opening our doors to larger audiences. So, uh, like Jackal said, uh, we we run this quest, we saw pretty good data, we saw like. I would say, I don't wanna say like this, I had a uh low hopes, uh, but I didn't had a low hopes, I actually had a pretty high expectation for for what we gonna see. uh, but Honestly, I didn't thought people will like constant, like actually rush through the main campaign, and and that will put us in a place where we need to come up with even more content. uh, to keep keep Keep going the test. So, uh, that's I think really uh really cool thing to have in place. And also this week's update uh broad in maybe some smaller things, but. They kind of move the needle. I mean uh the daily login uh system just basically gives simple and clear reason for new players to log in every day and generally just develop a habit. Of coming back to the game and playing. uh, I personally think one of one of like a huge missing pieces which we added was uh objects that are spawning inside the game, and and uh also hidden chests. uh, Because we had this big world which felt really empty. uh, I think there is still a room to add money more things, but This layer of having some rewards built across the world. uhDefinitely made um world more explorable more rewarding uh as you explore So um yeah I I really like to see how it all 啊。Gets piece by piece together. So, I yeah, I I I I I ge- I guess this, that's a way to put it. It used to give four v for daily cook. Daily tests at the very beginning. uh, You guys, you really think Rudo- uh Rupert ha- Rudo, sorry, Rupert has, Rupert would leave we lying around? uh, Ha, but, uh, yeah, uh,I know, I I, I know we talked about this uh but obviously these are these are more targeted to early game users, and uh while next right it just I mean will still be, but they will contain better rewards. Also as a one time chance, but it will come with, you know, small puzzles, um, and battles to challenge you and See if you're fit to open the chest. Yeah. All right, um, cool, uh, mo- moving on, Euler, do you wanna uh uh, oh, actually I did have uh a couple more questions in regards to the uhCampaigns, uh, what's the what's the retention looking like? uh, How we increase the daily active users? uh, How many people stay after the campaigns over, and uh, that's actually the big problem we ha-, we where we stopped actually pushing users over this week, because uhOnce people they completed the quest way faster than we thought they will. And once they complete the quest, they still. find themselves without um. Without the purpose, so generally without uh the next campaign. So, but overall we saw I I think close to like 40 percent of uh day one completion for the quests. Which based on uh still non-optimized data is uh much more than we thought we gonna see. So, uh, so yeah, I mean like we haven't, we don't have like active campaigns running. As of now, we are waiting um we are waiting for new creatives, and we are also waiting for the next update. But uh generally, it looks we are in a really good trajectory. uh. trajectory. yeah, so we are uh we're pretty much getting there step by step. and uh that's uh that's pretty cool s- thing to see. i mean. Part of the process, so. Yeah, uh, so this something I did ask you in pri- pri- uh privately, but I did what, did wanna make this in- an interesting. Conversation topic, because uh uh I'm sure there has at least there been a thought, and a question of this to our community members. But how will these new users uh. Change the life of existing users with the existing asset, and then all we have the marketplace coming. uh, So, my question. I mean how how how the new users with their money gonna change the lives of existing communities? No, no. Like years ago, uh, when when we started Zeeverse, the whole point was now we are closed net community where people are being really involved inside. The building and development of the game, they own. Own the game in different ways, through the assets, through the tokens, basically through bunch of different ways, and and um and it's not about like. Adding another utility uh that will suddenly increase the value of those assets. uh, What's what's what increases the value of the assets is the inflow of new demand. And and and now, let's let's just imagine for instance, for all all these last years, basically we've been maybe. 1000 like real active players. I'm not like counting in some campaigns where we got farmed by some some farmer or or or or just some uhuh, Kind of uh. Tourists, let's let's call them tourists right? And and so, at the best, I would say we we are like thousand people, thousand players. And now, uh, when the game is being launched, and we start to see basically influx of tens of thousands of players a day. 啊。And they keep progressing, and at some point they start to realize that in order to compete in the game, they actually need uh much more uh. More expensive equipment, and the only way to get this equipment is actually buy it from uh the existing users, cause we are not like, we are not selling uh shield of souls in the store. uh. We we are not doing any of these things, right? So, it basically means with acquiring users, we are also acquiring uhConstant s- constant demand into uh zero economy. And and and and thi- this this this should inevitably result into. More demand, more price. Appreciation for the existing assets, and uh yeah, so that's that that was always a goal. uh, We are we are uh bunch of players, bunch of guys who are early on, and and then we launch the game, and we put in Hundreds of thousands of players, and they all at some point realize that their steel equipment is probably not the best equipment in the game. So then what they do, they go. And uh and they go to the in-game marketplace, and in-game marketplace does what? It allows you to list items of chain. You basically can list your sh- shield of souls. But if you want at least your shield of souls for the V token. I would assume currently the price for sh- show the souls would be close to something like, I don't know, 15 million of token, maybe maybe more. And then these guys realize, oh shit, I need to buy the V token. uh, How do I do that? They go, they buy the V token, we see the increasing price for the V token, and then we see that That token is being spent uh to buy the equipment, and where are we in in middle of that. we just take commission, and and this is I think way more friendly and way more sustainable uh monetization model for memos. 啊。uh Which pretty much gives power to the player uh While while we kind of are the middlemen that makes it all happen So um, Yeah, I I I it's it's pretty straightforward. It it's it's kind of same thing will happen if you have a coin which has only few buyers, and then suddenly there is huge surge of new players, new buyers. Yeah, the result this point goes up. This uh uh this uh this uh wait, there's a amongst question about are we positive a new user? Oh my god, I I love this question. This is this is so good question because. I feel, and and guys don't take me wrong, don't take me wrong. I I I absolutely love the idea of crypto gaming, but I think crypto gaming has completely fucked. How people think in this in this crypto gaming bubble about games? uh. Gaming, mobile gaming specifically is, and Obama is it's not like um it's the, it's it's um it's it's not like uh I'm trying to say you said anything bad or anything against, it's just kind of like this general idea.um, And. Yeah, so the so the point is, uh,Mobile gaming is still growing, and it's the biggest gaming industry in the whole world. The mobile gamers are spending right now around 100 billion dollars a year, 100 fucking billion dollars a year. On inner purchases, and whenever they spend that money, they never get a single send back. They never get back anything at all. All they get back is some pixels on the screen, uh, and and bragging rights within the game's social community, right? And and none of them even have this idea that they should be getting something in return, something of monetary value in return. And when we are going, we are we are not going to guilt. I feel. The late earn guilds are one of the biggest cancers in the whole industry. Because that's like uh b- basically the army of extractors. So, like we we would Basically do everything to keep away from from the gilds, from the play to earn communities, all that. What we do, we go to the facebook, we go to the tiktok, we go to the instagram. We run ads there. We are paying to acquire those users, and those users have no freaking clue that you can even earn in this game. All they all they see, all they know is, oh, I. This is a new game. I like the characters. I might like the play style. uh, Like, come men. So, so, I think the moment These players. After spending maybe few hundred dollars, will realize that. Out spending, they're actually investing. That will uh that will probably skyrocket the uh the amount of money they're willing to put in, because if you're willing to spend 1000 dollars uh which you know you will never. Get back. Then what happens when you realize that you can not only get it back, but you can actually make money out of it. And I think the number of willing, like the willingness of Putting in capital then increases probably fivefold, tenfold. uh, I mean that's that's kind of how it should be, uh, how it look should look like on the paper, right? So, uh, I think uh this is one of our competitive edges, and this is one of like these aha moments we will I'll be bringing on a table for those players, for for for the players who are looking for something new. So, um, I'm look, I get what you're saying, but it's mostly Asian consumers. Yeah, but no, it's like keeping your hand of the industry though. It's uh And I wanna actually argue it's definitely not Asian uh consumers. uh, There is a big part, uh, I mean Asia is obviously a huge market. But the biggest spenders in mobile games are Americans. They're spending more than Asians on mobile gaming. I I be, it probably kind of depends on the gender, right? But overall overall, um. United States is. In insanely, uh, insanely. Yeah, like your new market for for for the gamers who spend. uh. Obviously, Asia is big. uh, I know uh Korea is one of the huge markets, but that's almost like its own bubble. uh, It's really hard to get in there with your games, and and they usually play Mostly like a local titles. So, I don't even, I'm not even looking in that direction yet. uh, However, uh, we see people people from from Asia like Zeevers. I think we find a a pretty good. Stick in terms of art style, in terms of cuteness, maybe a bit of weirdness. uh, But yeah, um, like ask ask ask an AI, but it should give you some idea of how big the gaming market is. uh,Based on the countries, but all I can say is United States is huge. uh, You don't even need Asia. uh, There are so many games that don't need Asia at all touh, kind of make few million uh every every few weeks. uh, just just by focusing on uh English speaking. um, uh,western customers. so so yeah, uh, basically what i'm saying is, uh, there is immensely huge market, andum, And and we are going in that direction, step by step, with every week, with every update, with every campaign, an iteration, we are getting closer to that. um, And and and the players are part of that journey, so. So, there was there was uh some follow up uh questions is, before this uh this question, I love the discussion we we we're able to have. But there was couple more questions I wanted to follow up uh follow up with them in terms of new new new new users versus existing users, and you know this um. Relationship. So, first of all, uh, first question being, uh, will users ever be able to purchase gold, which is the option, and weuh, Through their uh through in a purchases. Yeah. That's. That. Yep, exactly. That's pretty much the goal. There are few challenges around that, uh, which we are looking into how to solve. But that that's go, because once that happens. That's crazy on the run. That's that's basically. They wu-  and and the beauty of it, they will have no idea there, like, clearly pumping the token. I have no idea, they just buy some coins so they can spend. It on stuff on the geeks. uh, But behind the scenes, the whole thing is just like freaking pumping the beat token. So, this is one of the things we really want to solve. The problem uh and challenge around this is potential fraud, because some of the um um. Some of that. In a purchase is can be refunded. uh, And and and and as we know the stuff on chain can't be refunded. So we have to find a way so we don't get like uhBasically exploit that. I I see the question. uh, Just to just to wrap up quickly. uh, This kind also answers my question, which was the next one. uh, Who is how the evolution will work. uh, And also, uh, and now looking from web two mo- mobile uh user land. Also, I just wanted to say as a joke, of, of when, uh, we were talking about the markets and playing without monetary incentive. Are you alright? I know I told you about my whiteout survival incident. uh, Ironically, great games with great social features, but uh you do end up spending quite a lot knowing you're not getting any anything in return. And then you'll see so many people around you spending even more, and being so excited about um totally different market, and I really love the uh that uh web three, especially if you're like Only like looking at web three. he really has skewed the perspective, and it's good to take a step back and like, you know, breathe in the whole picture. But uh yeah, the e- the evolutions, uh, I guess yeah, then you then you're just gonna buy the bo- gold coins and be able to evolve, but uh. Sorry to keep this dragging on. I guess my question is the timeframe, because I I know I know there's like some. Hopes to to jump through to make this happen. But for example a player starts playing after the next campaign drops, uh, the next part right? And he grinds and he's ready to evolve, and he can't, uh, because he's forced to be Forced to learn the web three of it all, which you know, that's a the bigger hurdle than number. Actually, that's uh you you pointed out a good thing, because you need to first bring the z on chain. um. So, I guess the uh. I guess once they get there, we'll have to figure it out. uh, Maybe we'll allow to evolve, of change these. uh, Maybe that's a way. um, As for the him getting like an NFT token, uh, there are plenty of ways to earn the token inside the game by farming stuff and selling in the eggs. But uh but yeah, uh. That's a nice problem we'll have. uh, I I'm I'm pretty sure we can will come up with a good solution. So so yeah, uh, I see the question from Global Hope. uh, Is the highs going going back to be rewards? not, uh, and not entirely. Yeah, I mean not. There are kind of v rewards, right? But uh but not, but not directly. So, what we said we are willing to uh. Allocate certain amount of the token every month, uh, that can be distributed in rewards. But the way we gonna do it is uh we will inject it all. I sell liquidity inside a gex pool, uh, where you will be able to trade it for your high token. So, if the community decides. They want, they will be able basically to decide how they are distributing the high tokens, high reward tokens. uh, And all we will do is provide liquidity, so those high tokens can be exchanged. But yeah, everything else is up to community to decide how, if and when. um, So. So yeah. Just to poke around here, will community be also able to impact the cadence in which the bybacks are happening? Probably yeah, I don't see big. Like, do we do we want 10 10 million once per month by Backer? Do we want his sprinkle? Yeah, I, I, I think like a dripping a little bit. It's like Armageddon one day. Yeah, and then there is just one guy who basically insta-dumps and makes some some profit well, and else. uh. What else is new? Yeah. What else is new? Anyways, uh, yeah, that's that that's about the highest. um, I guess that's the beauty. I don't know, you will come up with ideas, all we did was Committed to uh allocate some liquidity for a ward, and that's it. So yeah. When in bytedance land, you're gonna hate the answer, but both onboarding guys. uh, Ha, uh, he he he he he's talking about the liquidity pools, which I'm so proud of this joke, which I Come up with it, but he's talking about the liquidity pools in the Binance land. That's gonna give. uh, For those that don't know, completing just one more thing quest will unlock the Binance land. uh, It Currently in the process of being rewarked, adding liquid liquidity pools, which will be these like pools of water, which you'll be able to sit in, have a have a little bath, and come out with uh some timed buff. The password is still wrong. We can, I I I I'll make a note of this. I'll I'll look, I'll see if there's anything blocking for us to re- enabling re- enabling the highlander. Today, right now. But yeah, you'll learn. I'm making notes. Can you can you take over a bit? Yeah, I I I I I wanna say the real question is not when Binance lands, it's when Binance listing. uh, But ha ha, that's probably a topic for a different day. So, uh, I guess I guess that's pretty much for it. We shouldn't be stretching too much. uh. I mean lots of, maybe there is even s, uh, is there something what we can share? uh, As an offer from the zivers are side. No, nothing nothing really, cause we we we we've been like optimizing a lot of lightning, uh, lightning, uh, for, uh, so we look even better on lower resolutions. And bunch of that stuff, I can I can share just so we have shared the m- more. Oh wait, no, I do have something to share. I did uh you're uh s- sorry about this, I did leak this last uh Stream my head, but this is the umber z uh umber z a- a- accepted content for evolution one, uh, what we're currently looking at.Uh, So, yeah, alpha. I mean, Tyler has a good question. You said you wanna want want more players exploring the demo to make the world feel alive, but how do you expect anyone. Be bother doing that, if you put every item on the geeks. I mean, that's kind of the whole point. Imagine your new player without single coin in your pocket. This is this is essentially how you get your first coins. Plus uh. The gist is quite a complex concept. uh, We we don't feel or think people will be using GX within their first few days of playing game and starting up. So. The idea behind the GEX is that every item is tradable, and and and having some liquidity there becomes a way for people to get their first tokens. So, and and then maybe, uh, you will see people looking for apples, like picking up ten apples, uh, getting their first uh First 50Z uh 50V tokens, and then spending them to buy maybe something they actually need. uh, Some some armor, or later, later down the road, they will be able, uh, even able touh, Collecting of uh v token so they can buy their z from someone else. So, uh, yeah, I I I I I think it kind of even supports the idea of exploring and and. And uh giving some value for the items that are being found and explored. But yeah, it's not necessarily just connected uh. As a monetary value, it's more just uh battle. hmm. Guys, this is not approved, I'm just like uh I I said it as a joke, but now that I look at it, it looks kind of kind of fitting for zivers in like uh the indigenous wardings better. um-hmm. Yeah, it does. hmm. OK. I think I think we can wrap up. um, Jackal, if you probably need to do uh. They give away. They give away, and I'll leave you. to them or other way around. so, as always, guys, thanks for coming. Good progress. uh, I can't stress enough, pay attention to what happens in the forest. uh,You have um probably really good uh. Position, uh, you're really well positioned, uh, before in the storm. So pay attention, check out the seed auctions. There is so many ways to earn some rewards, and and and just Learn more about ecosystem, because uh I have a feeling we are on really really good path. So, uh, yeah, I'll close with that. And thank you, and see you see you next week. Cheers. See you. um, All right, guys. So, you're you're left with me now. By the way, guys, I will not be able to have a stream uh next tuesday, and we'll do be doing now three woman. The premium pass giveaways. uh, Now, and yeah, I won't be attending uh unfortunately next next community call or the um uh. Or the ziver stream. uh, Because I'm having a time off. uh, ha. uh, But I'll be back soon enough. uh. Cool, uh, alright, so here are the participants. Unfortunately, I did remove Cherry and Craig bot. I know I know guys, justice for Craig, but uh let's rip it. S and K. Congratulations. All right, next up. Bolamopa or Volamoro, I don't know. You tell me. uh, Congrats. And the final one, babaing, babaing. uh, To get your warm on premium pass codes, please open up a ticket, and Cherry will provide you with a code of Manka. Congressman, um, yeah, open up a ticket and claim your codes there. And if you have a Genesis premium pass, you can give me your code. 'cause mine has run out All right guys uh thank you and uh uh耶律啊 is gonna see you sooner uh than I will but uh yeah thank you guys see you ciao bye
+# Original machine transcript
+
+Playback timestamps were aligned to the archived recording.
+
+[00:00]
+
+To our weekly AMA. Oh, nice, then people. All we had to do was just turn on camera. Ha ha. Yes, sir. All right, cool. um, Yeah, the Craig is in, and we are good to go.
+
+[00:15]
+
+So, uh, Euler, is there anything you wanna uh begin with or uh. I mean there is always something I wanna begin with. Ha, uh, uh, yeah, I just, you know, I guess the first question I wanna ask you is what's up? uh, Where are we? uh, And what's going on?
+
+[00:34]
+
+OK, uh, we are we are in the. I think we are kind of in a position where it's relatively calm before the storm. We already start to see some signals happening around the forest.
+
+[00:48]
+
+I'm like um I'm getting more and more excited to see uh how it all like um starts to fit together. We kicked off like the first Feed wall, two weeks ago. uh, We had a quite a big competition happening there.
+
+[01:04]
+
+I think there was like nine million seeds, so, uh. Allocated to that, uh, basically bid it by people. uh, We ha-, we saw some um.
+
+[01:17]
+
+Some people like uh funding and not really understanding how the whole process works. Oh, why did I get so few tokens proceed? Now, we are already in uhIn a in a finishing line, almost like in finishing line, there is almost two days left for the second seed ball. And we only see 1.6 million seeds uh committed.
+
+[01:40]
+
+I have a feeling that over the, like like usually what happens with these auctions is at the last minute there is some like last minute bidders. But I feel that this auction will bring way bigger value for a seed.
+
+[01:54]
+
+And it will be just interesting to see uh what happens on the third wall. And I think people will start, and is starting to soon soon realize how these things work.
+
+[02:05]
+
+How these things um work together with rest of the stuff? Because um then. You can go and participate in bunch of different activities across the whole protocol where you can actually earn those seeds, uh, and and and sometimes even skip the staking part.
+
+[02:25]
+
+So anyways, uh, my point here is Seed vault is becoming uh. Pretty big thing for for a protocol. We see how it works, and also what's even more interesting is we start to see how. uh, Protocol level liquidity is starting to affect the price.
+
+[02:47]
+
+And I think like uh we've been in in in a bleeding mode for Fast few months, uh, pretty much everybody who wanted to sell probably already sold.
+
+[03:00]
+
+And and and and now we are seeing like some some action starting to happen, and it will, it it it's basically like a snowball, you know? Because uh when.
+
+[03:12]
+
+When we get a momentum on other end, and. And and people start adding more coins, and even start to trade more coins on the protocol. Every single transaction generates a fee, and we are not like collecting those fees and going and dump them.
+
+[03:27]
+
+We we they basically just sit most likely for for forever in a wallet. And it just kind of constantly create this uh upwards uh buying pressure, which then triggers some some explosions within it.
+
+[03:43]
+
+And this is what what we already pretty much see. So, it's it's it's really cool start see these things happening. uh, Start to see how every single piece falls together, and and and how it's all interconnected.
+
+[03:58]
+
+So, uh, yeah, and and what makes me even more excited is uh upcoming SDK release for the forest, because um this will.
+
+[04:10]
+
+Probably the first time where builders will uh actually start to see the real uh real value they get out of the forest as a tool.
+
+[04:21]
+
+And SDK will generally allow Anyone with coding skills or no coding skills at all, and just, I don't know, ChatGPT subscription or cloud subscription or whatever, uh, AI you are using. uh, This DK will come with a skill.
+
+[04:40]
+
+And in short, it will allow you to make games or apps that can use your token as As As, for for whatever you want or forever, for for whatever you can even imagine, right?
+
+[04:54]
+
+So, I I I I give you an example. So let's say I wanna build a. I want to build like a. Jaguar, we need an example. For for a Jaguar, we want to build like a Jaguar coin app, right?
+
+[05:09]
+
+And and and and okay, that will be probably very bad example.uh, uh, uh, All right. Yeah, I guess, I mean the point is you can build like literally any other application.
+
+[05:24]
+
+And the that. Spend some tokens. You you can play, you can you can basically build like a bitcoin mining simulator where people are using the coins to upgrade the their uh rigs.
+
+[05:44]
+
+And uh and and then they can just uh uh use it to mine more coins. I mean you can build like, if you can imagine. You can easily build it, and and and this is probably the first time where you have like this aspect of security guaranteed by by protocol. uh, Because SDK basically make sure like all these uh withdrawals
+
+[06:09]
+
+and deposits for your tokens are safe. uh, While we give you full freedom to basically build whatever crazy ideas you may want, and and and this is probably the first time, because anyone can launch a coin. um. But what's hard is building an app that actually use those coins.
+
+[06:27]
+
+And and if we are. If you are basically pushing in the direction where um displayables service utility, then then uh having ability to use those coins becomes Almost like um.
+
+[06:44]
+
+And the three type of thing. So anyways, uh, SDK will bring in a new wave of creativity. uh, We are already working with some partners, uh, wh- who are like building some mini games. uh, There is stack competition happening. uh, So, this is pretty fun game.
+
+[07:03]
+
+I I would say the quality is there, and and this is definitely a a game where. You shouldn't be. It's a written game.
+
+[07:14]
+
+I, I, we, I, we tried it on the on our stream, and there's like some written to it, but it takes a while for you to find it, you know? Yeah, that's true, that's true. What I wanted to say, this is probably like a real game where uh whi- which you are not ashamed.
+
+[07:27]
+
+To show your friend, I mean, this is not like your uh standard AI slop stuff. This is pretty pretty uh OK game to play. I I I I spent some time, I had bunch of fun with it.
+
+[07:40]
+
+So, yeah, and and we have a price pool allocated for that. So, go ahead, give it to go. uh, It cost nothing to start, and and.
+
+[07:51]
+
+Yeah, so, um, I guess I guess that's that bunch of stuff uh on the forest, actually a lot of stuff on the forest, also a lot of stuff having on zebras. And I'll probably let's touch zivers there. I I would love to hear maybe if there are any questions regarding the forest or stuff we just uh spoke about.
+
+[08:10]
+
+Feel free to use chat. Uh, If If if no, like, I mean Jack, all you probably also have agenda, so we can uh we can kick it off.
+
+[08:21]
+
+Yeah, uh, you all are feel free to, you know, uh,Interrupt me whenever. uh. Beautiful beautiful life has uh uh has a question from.
+
+[08:34]
+
+Oh, I didn't see see this, it was like before we joined. uh. Cheers to the teams. Please make the 3X speed faster. I don't have time to play and speed slow me down. Someday I I play it all.
+
+[08:45]
+
+Really make a travel spell to hollow cave. I enjoy picking berries very cute. So, first of all, uh, uh, I'm, I, you gotta time this, and uh I will I will time it myself as well.
+
+[08:59]
+
+Oh, uh, my premium person, I just remembered. uh, ha, uh, but I will time it, but what we did is uh re-factor the uh s uh x three speed. So instead of like speeding up everything It speeds up the move. uh, It uh look slower, but it shouldn't be that much slower. uh, It's like uh it should be visual illusion.
+
+[09:23]
+
+I will however get back to you on this, so I will do some testing myself, cause I I have uh um previously uh taken my averages in specific dungeons, just so I can estimate the grind speed.
+
+[09:38]
+
+And I will I will see if my speeds have changed, and if uh they shouldn't have changed so drastically, but yeah, we'll take a look. Also, will we make a spell to travel to Hollow Cave?
+
+[09:51]
+
+Wow! What a cool uh concert, wha- what a cool functionality for maybe upcoming uh mister block of uh miss- mister blocks accessories uh that will allow you to teleport. Hmm, hmm, hmm, can be. uh, Anyway, uh, ha, yeah, no, I would definitely, uh, uh,Ola trails, uh,
+
+[10:16]
+
+teleport, one way or another, is coming. uh, The other being the great tree, as you will be able to teleport to the great tree, and then you could run down.
+
+[10:27]
+
+But, uh, that's that, uh, other than that, heavy uh heavy work and uh heavy effort on development of the part two of the main campaign quest. uh.
+
+[10:40]
+
+It uh. It's huge, two dungeon, two new bosses, a new Z, uh,Mechanic wise, nothing really that much, but it comes with a big quest, uh, new NPC. uh, And quite a bit to be done. uh, I think. uh, That's a
+
+[11:12]
+
+raccoon type. uh, It's a dark matter is it that will resemble a racoon a racoon, um, racco is how we call it. So, yeah, quite a bit of coming in that front, however.
+
+[11:26]
+
+Not this week, and I'm pretty sure not next week either. We're looking at like two to three weeks, until we are ready to uh release that into the public. And uh with this update, uh you will be losing the ability to access the jungle area until you cle- clear the campaign.
+
+[11:45]
+
+But similarly, how it worked with the first uhuh, Dungeon for those experience players here, which from what I'm seeing is all of you guys. It will it will be a breeze through for you, but you will actually get to, you know, more in depthly uh learn about the story of s- zivers, and what uh Arka has caused, and at the end uh.
+
+[12:11]
+
+Fast travel system between two totems, which actually uh uh answering beautiful life's question, kind of gets you closer to Hollow Trails, because the totem will be restoring in the next part will be located near the sawmill.
+
+[12:25]
+
+So that's already uh quite uh close to the um. I'm just thinking is that is that closer to than the Omber Teleport, and I think it is yeah.
+
+[12:36]
+
+But yeah, uh, that's I, I, you know, we've talked, we talked very in deeply about uh. Wh- what's coming, also in the previous community call, so I don't really wanna, you know, uh.
+
+[12:51]
+
+Regurgitate, ha, what what's been what's been said already, so to keep it lean. uh,But what I did wanna take a time to talk about is uh and you know, a refresher is the highest. uh, uh, Euler would have to. He gave us the better like time we know, on when can we expect the highs to come back.
+
+[13:14]
+
+But for those who haven't heard it, what we were planning to do isuh, Bring back hasted literally as it was. We took it out cause it's broken, right? But uh but, wha- what we wanna do is because even for example, when we did Which the tribals tested.
+
+[13:32]
+
+Some of you guys loved it, and some of you guys hated the hell out of it, right? uh, So, we're gonna try a different approach, also because we do not have the dev resources to totally rebuild the heights.
+
+[13:45]
+
+What we'll be doing is reintroducing Haste, and putting, taking community feedback uh through me. I'm gonna be the lens that's gonna put These questions back to you.
+
+[13:56]
+
+For example, should heights have a weekly ill or reset? Or should heights give increased uh points per hour? uh, All these questions will be brought back to you as community, and you will be able to vote on these things, and we can implement them, and we can do these votes, you know, by weekly or.
+
+[14:18]
+
+Whenever enough people uh uh you know get a quorum. But yeah, and for example, we can uh uh brainstorm theory craft for a better heights on my uhUse the streams.
+
+[14:33]
+
+And yeah, all in all, that's kind of how, where we're at with the heights. Cause uh even with the next part of the campaign for endgame users, obviously not that much content, new Z Cool, new bosses, cool, but not challenging for you.
+
+[14:48]
+
+And uh we wanna bring back hives, so, uh, there's a More competitiveness, and there's more things for you guys to do.
+
+[15:00]
+
+Can you add HD timer to our UI? uh, Somewhere easy to work it. uh, Generally we do wanna uh keep the um. uh, UI be colored, uh, without adding uh adding uh timers upon timers upon timers, and. uh, You are correct me if I'm wrong, correct me if I'm
+
+[15:25]
+
+wrong, or do you, if you will differently, but there's two things for the college child, for example, me. I go in daily, because I don't track uh uh my time.
+
+[15:37]
+
+If you wanna squeeze in more Hollow Trials, that's your responsibility to track your time between runs, and uh. Yeah, but I think uh we can perhaps find a middle ground here.
+
+[15:51]
+
+So, I just, you know, don't wanna get you guys to think, oh, Jackal being a dick today. uh, Butuler, I think we could do what we could do is add a timer uh above the entrance of Hollow Trails. uh, So you don't have to like go into the end of the cave to see.
+
+[16:10]
+
+I mean that could be a thing, but then again, at the same time, uh, we also do have a bunch of stuff, uh, such as push notifications. So, I mean, let's not, it it's shouldn't be about like overcomplicating stuff.
+
+[16:24]
+
+And you know, when uh when you receive a notification which says, yo, the trials has been reseted, I think it's enough uh in many cases.
+
+[16:36]
+
+So, uh. I mean, we can think of it, for sure. Jack, I'll just make a note. uh, But it feels quite a good.
+
+[16:50]
+
+I mean uh the moment we we uh we have nothing better to build or or or um uh improve. uh, I think this is this is that that that's going to be a good time. uh, Yeah, I mean the point is, uh, we already have push notifications for that. uh, We can actually double check if notifications are included. uh, Maybe maybe as we go forward.
+
+[17:14]
+
+We can make some some stuff for these convenience, but. But generally, like we don't wanna kind of go into tooling and building tools. uh, This is something what community can do themselves, and I mean, at the end of the day, just press uh.
+
+[17:34]
+
+Put put on an alarm, and and and you should be able to like uh. Optimize your runs around the clock. So, yeah, uh, uh, so, I kinda, I uh wanted to add a couple more things. uh, High staff chain, uh, Eular.
+
+[17:55]
+
+It will eyes be of trend, or is this something uh people will vote on? uh, I I think they can vote on, I honestly, uh, like my point was, I don't care.
+
+[18:07]
+
+Yeah. That was my point, I don't care. uh, As long as it can fall within the existing, like umDevelopment constraints, uh, we have in a place.
+
+[18:18]
+
+It's up, it's totally up to you. What we said is we are okay to allocate certain v budget. Which will be distributed uh by using Gex, so we will be constantly dripping into liquidity pool uh to support high tokens in a form of rewards.
+
+[18:34]
+
+Everything else is up for community to decide. So. So, yeah. Yeah, uh. And the five highest 5Z uh, we're bringing it back as it was. uh, So 5Zs, that's for you uh guys to uh work on.
+
+[18:51]
+
+Is that something you like? Obviously. uh, If, for example, the highest would spiral through these boats to like very, for example, and but Unbalanced mode, like you know, that's like heavy to, for example, a minority of the group.
+
+[19:12]
+
+We might like look to, you know, introduce a general balancing to the heights. But uh, I mean like, if if heights will end up being fucked to the point where it can't be unfucked anymore. uh, Then, then there will be for- for removal of high stone, I guess. uh, But, yeah, and.
+
+[19:33]
+
+No, no, yeah, but what we're, I kind of wanting to do, you know, for for you guys not to take out uhNot to take what you learn out of context, at about we don't care.
+
+[19:45]
+
+It's we are giving you guys the full freedom of handling the heights. The uh the caveat here is you have to be on the same page, or you know, in a majority, because the majority will win.
+
+[19:57]
+
+So, uh, so, yes, uh, that's that, uh, so there was a couple more things, uh. uh, Teleport directly to uh in in energy the sacred.
+
+[20:11]
+
+So, guys, it's like, oh, can we add highest teleports to 11 people in the world? Come on. uh,Now we gotta think about you know general solutions. uh.
+
+[20:23]
+
+I mean, Hice itself is so close. uh, Sorry, it's not Hice, Holo Trials, Holo Trials. Oh, Holo Trials. Sorry, my my bad. Yeah, guys. I, I, me as an owner of the theater, I think that's like such a selfish suggestion, guys.
+
+[20:37]
+
+Let's think about you know, everybody. However, uh, there's also a question uh about umCan we may, can we ruffle some mister block's chests of uh wonderful delights, if I remember, uh, enchanted delights, sorry, uh, if I remember correctly.
+
+[20:51]
+
+Is there some something That we could. I mean, when when it's time, and when we are releasing the chest, uh, that's probably a good time to consider it. But uh yeah, uh, I I think we can come up with something for sure.
+
+[21:06]
+
+You will be. uh, Like, I mean always, we always find a way to distribute some rewards, uh, as as as we find a good fit and time for that.
+
+[21:17]
+
+So, probably once once this is going to be released. will be looking into it, and yeah, I think so. Need, but yeah, guys, you you know, just to like manage the expectations here.
+
+[21:31]
+
+Got, I I I f-, I hate to say this like every week, but onboarding first. Real, really important, and you can uh I, you all can also talk more about the onboarding campa-, uh, the campaigns, uh, we run, the results that have happened, and uh I think we're also planning to have a bit Larger scale campaign to get even more data.
+
+[21:56]
+
+And uh yeah, you all could you could you talk about that? I mean, it's almost never ending process. This is something we go through, uh, as we start to enter more serious uhuh, State for the game.
+
+[22:16]
+
+So, every time we do some update, we need the data to validate if we made like a good or bad decision around the designs around likeuh, The user user flows.
+
+[22:28]
+
+So, every time we get let's say a bit stable version of the game, we can afford. uh, To put in a bit more resource into user acquisition.
+
+[22:40]
+
+So every time we basically hmm come back with the bigger campaigns. uh, which are then improved on many different aspects. And and if you like pay attention, um, the app stores already have some new screens.
+
+[22:55]
+
+So, as we are like doing all this, and measuring the data from the user acquisition, and kind of understanding what people are really looking after, when they are looking for a new game, and we are. And we basically take these learnings and apply them um stuff yeah, for for instance, this this screenshot, we actually do have a few more uh which are in A B testing, so
+
+[23:20]
+
+like uhThe google stores are automatically uh testing to find which which of these screenshots.  uh end up. This is not like necessarily screenshot, this is more like a like a marketing promo shot.
+
+[23:32]
+
+But uh it finds and optimizes uh. uh, Yeah, basi- basically gives us the idea of which things perform the better, uh, the best, and and uh and yeah, and and that kind of puts us in a place where.
+
+[23:50]
+
+We start to gain more confidence uh when it comes to spending on user acquisition, and when it comes to like opening our doors to larger audiences. So, uh, like Jackal said, uh, we we run this quest, we saw pretty good data, we saw like.
+
+[24:09]
+
+I would say, I don't wanna say like this, I had a uh low hopes, uh, but I didn't had a low hopes, I actually had a pretty high expectation for for what we gonna see. uh, but Honestly, I didn't thought people will like constant, like actually rush through the main campaign, and and that will put us in a place where we need to come up with even more content. uh, to keep keep Keep going
+
+[24:34]
+
+the test. So, uh, that's I think really uh really cool thing to have in place. And also this week's update uh broad in maybe some smaller things, but.
+
+[24:46]
+
+They kind of move the needle. I mean uh the daily login uh system just basically gives simple and clear reason for new players to log in every day and generally just develop a habit.
+
+[24:59]
+
+Of coming back to the game and playing. uh, I personally think one of one of like a huge missing pieces which we added was uh objects that are spawning inside the game, and and uh also hidden chests. uh, Because we had this big world which felt really empty. uh, I think there is still a room to add money more things,
+
+[25:24]
+
+but This layer of having some rewards built across the world. uhDefinitely made um world more explorable more rewarding uh as you explore So um yeah I I really like to see how it all 啊。Gets piece by piece together.
+
+[25:46]
+
+So, I yeah, I I I I I ge- I guess this, that's a way to put it. It used to give four v for daily cook. Daily tests at the very beginning. uh, You guys, you really think Rudo- uh Rupert ha- Rudo, sorry, Rupert has, Rupert would leave we lying around? uh, Ha, but, uh,
+
+[26:11]
+
+yeah, uh,I know, I I, I know we talked about this uh but obviously these are these are more targeted to early game users, and uh while next right it just I mean will still be, but they will contain better rewards.
+
+[26:27]
+
+Also as a one time chance, but it will come with, you know, small puzzles, um, and battles to challenge you and See if you're fit to open the chest.
+
+[26:40]
+
+Yeah. All right, um, cool, uh, mo- moving on, Euler, do you wanna uh uh, oh, actually I did have uh a couple more questions in regards to the uhCampaigns, uh, what's the what's the retention looking like? uh, How we increase the daily active users? uh,
+
+[27:06]
+
+How many people stay after the campaigns over, and uh, that's actually the big problem we ha-, we where we stopped actually pushing users over this week, because uhOnce people they completed the quest way faster than we thought they will.
+
+[27:22]
+
+And once they complete the quest, they still. find themselves without um. Without the purpose, so generally without uh the next campaign. So, but overall we saw I I think close to like 40 percent of uh day one completion for the quests.
+
+[27:40]
+
+Which based on uh still non-optimized data is uh much more than we thought we gonna see. So, uh, so yeah, I mean like we haven't, we don't have like active campaigns running.
+
+[27:52]
+
+As of now, we are waiting um we are waiting for new creatives, and we are also waiting for the next update. But uh generally, it looks we are in a really good trajectory. uh.
+
+[28:04]
+
+trajectory. yeah, so we are uh we're pretty much getting there step by step. and uh that's uh that's pretty cool s- thing to see. i mean. Part of the process, so.
+
+[28:17]
+
+Yeah, uh, so this something I did ask you in pri- pri- uh privately, but I did what, did wanna make this in- an interesting. Conversation topic, because uh uh I'm sure there has at least there been a thought, and a question of this to our community members.
+
+[28:36]
+
+But how will these new users uh. Change the life of existing users with the existing asset, and then all we have the marketplace coming. uh, So, my question.
+
+[28:47]
+
+I mean how how how the new users with their money gonna change the lives of existing communities? No, no.
+
+[29:06]
+
+Like years ago, uh, when when we started Zeeverse, the whole point was now we are closed net community where people are being really involved inside.
+
+[29:17]
+
+The building and development of the game, they own. Own the game in different ways, through the assets, through the tokens, basically through bunch of different ways, and and um and it's not about like.
+
+[29:33]
+
+Adding another utility uh that will suddenly increase the value of those assets. uh, What's what's what increases the value of the assets is the inflow of new demand.
+
+[29:48]
+
+And and and now, let's let's just imagine for instance, for all all these last years, basically we've been maybe.
+
+[29:59]
+
+1000 like real active players. I'm not like counting in some campaigns where we got farmed by some some farmer or or or or just some uhuh, Kind of uh. Tourists, let's let's call them tourists right?
+
+[30:16]
+
+And and so, at the best, I would say we we are like thousand people, thousand players. And now, uh, when the game is being launched, and we start to see basically influx of tens of thousands of players a day. 啊。And they keep progressing, and at some point they start to realize that in order to compete in the game, they actually need uh
+
+[30:42]
+
+much more uh. More expensive equipment, and the only way to get this equipment is actually buy it from uh the existing users, cause we are not like, we are not selling uh shield of souls in the store. uh.
+
+[30:57]
+
+We we are not doing any of these things, right? So, it basically means with acquiring users, we are also acquiring uhConstant s- constant demand into uh zero economy.
+
+[31:13]
+
+And and and and thi- this this this should inevitably result into. More demand, more price. Appreciation for the existing assets, and uh yeah, so that's that that was always a goal. uh, We are we are uh bunch of players, bunch of guys who are early on, and and then we launch the
+
+[31:38]
+
+game, and we put in Hundreds of thousands of players, and they all at some point realize that their steel equipment is probably not the best equipment in the game.
+
+[31:49]
+
+So then what they do, they go. And uh and they go to the in-game marketplace, and in-game marketplace does what? It allows you to list items of chain.
+
+[32:01]
+
+You basically can list your sh- shield of souls. But if you want at least your shield of souls for the V token. I would assume currently the price for sh- show the souls would be close to something like, I don't know, 15 million of token, maybe maybe more.
+
+[32:19]
+
+And then these guys realize, oh shit, I need to buy the V token. uh, How do I do that? They go, they buy the V token, we see the increasing price for the V token, and then we see that That token is being spent uh to buy the equipment, and where are we in in middle of that.
+
+[32:36]
+
+we just take commission, and and this is I think way more friendly and way more sustainable uh monetization model for memos. 啊。uh Which pretty much gives power to the player uh While while we kind of are the middlemen that makes it all happen So um, Yeah, I I I
+
+[33:01]
+
+it's it's pretty straightforward. It it's it's kind of same thing will happen if you have a coin which has only few buyers, and then suddenly there is huge surge of new players, new buyers.
+
+[33:16]
+
+Yeah, the result this point goes up. This uh uh this uh this uh wait, there's a amongst question about are we positive a new user? Oh my god, I I love this question. This is this is so good question because. I feel, and and guys don't take me wrong, don't take me wrong.
+
+[33:33]
+
+I I I absolutely love the idea of crypto gaming, but I think crypto gaming has completely fucked. How people think in this in this crypto gaming bubble about games? uh.
+
+[33:48]
+
+Gaming, mobile gaming specifically is, and Obama is it's not like um it's the, it's it's um it's it's not like uh I'm trying to say you said anything bad or anything against, it's just kind of like this general idea.um, And.
+
+[34:07]
+
+Yeah, so the so the point is, uh,Mobile gaming is still growing, and it's the biggest gaming industry in the whole world. The mobile gamers are spending right now around 100 billion dollars a year, 100 fucking billion dollars a year.
+
+[34:25]
+
+On inner purchases, and whenever they spend that money, they never get a single send back. They never get back anything at all. All they get back is some pixels on the screen, uh, and and bragging rights within the game's social community, right?
+
+[34:44]
+
+And and none of them even have this idea that they should be getting something in return, something of monetary value in return. And when we are going, we are we are not going to guilt.
+
+[34:57]
+
+I feel. The late earn guilds are one of the biggest cancers in the whole industry. Because that's like uh b- basically the army of extractors. So, like we we would Basically do everything to keep away from from the gilds, from the play to earn communities, all that.
+
+[35:14]
+
+What we do, we go to the facebook, we go to the tiktok, we go to the instagram. We run ads there. We are paying to acquire those users, and those users have no freaking clue that you can even earn in this game.
+
+[35:29]
+
+All they all they see, all they know is, oh, I. This is a new game. I like the characters. I might like the play style. uh, Like, come men. So, so, I think the moment These players.
+
+[35:46]
+
+After spending maybe few hundred dollars, will realize that. Out spending, they're actually investing. That will uh that will probably skyrocket the uh the amount of money they're willing to put in, because if you're willing to spend 1000 dollars uh which you know you will never.
+
+[36:11]
+
+Get back. Then what happens when you realize that you can not only get it back, but you can actually make money out of it. And I think the number of willing, like the willingness of Putting in capital then increases probably fivefold, tenfold. uh, I mean that's that's kind of how it should be, uh, how it look should look like on the paper, right?
+
+[36:36]
+
+So, uh, I think uh this is one of our competitive edges, and this is one of like these aha moments we will I'll be bringing on a table for those players, for for for the players who are looking for something new.
+
+[36:51]
+
+So, um, I'm look, I get what you're saying, but it's mostly Asian consumers. Yeah, but no, it's like keeping your hand of the industry though. It's uh And I wanna actually argue it's definitely not Asian uh consumers. uh, There is a big part, uh, I mean Asia is obviously a huge market.
+
+[37:11]
+
+But the biggest spenders in mobile games are Americans. They're spending more than Asians on mobile gaming.
+
+[37:23]
+
+I I be, it probably kind of depends on the gender, right? But overall overall, um. United States is.
+
+[37:35]
+
+In insanely, uh, insanely. Yeah, like your new market for for for the gamers who spend. uh. Obviously, Asia is big. uh, I know uh Korea is one of the huge markets, but that's almost like its own bubble. uh, It's really hard to get in there with your games, and and they usually play Mostly like a local titles.
+
+[38:00]
+
+So, I don't even, I'm not even looking in that direction yet. uh, However, uh, we see people people from from Asia like Zeevers. I think we find a a pretty good.
+
+[38:13]
+
+Stick in terms of art style, in terms of cuteness, maybe a bit of weirdness. uh, But yeah, um, like ask ask ask an AI, but it should give you some idea of how big the gaming market is. uh,Based on the countries, but all I can say is United States is huge. uh, You don't even need Asia. uh, There are so many games that don't need Asia at all touh,
+
+[38:39]
+
+kind of make few million uh every every few weeks. uh, just just by focusing on uh English speaking. um, uh,western customers. so so yeah, uh, basically what i'm saying is, uh, there is immensely huge market, andum, And and we are going in that direction, step by step, with every week, with every
+
+[39:04]
+
+update, with every campaign, an iteration, we are getting closer to that. um, And and and the players are part of that journey, so. So, there was there was uh some follow up uh questions is, before this uh this question, I love the discussion we we we're able to have.
+
+[39:23]
+
+But there was couple more questions I wanted to follow up uh follow up with them in terms of new new new new users versus existing users, and you know this um.
+
+[39:34]
+
+Relationship. So, first of all, uh, first question being, uh, will users ever be able to purchase gold, which is the option, and weuh, Through their uh through in a purchases. Yeah.
+
+[39:49]
+
+That's. That. Yep, exactly. That's pretty much the goal. There are few challenges around that, uh, which we are looking into how to solve. But that that's go, because once that happens.
+
+[40:04]
+
+That's crazy on the run. That's that's basically. They wu-  and and the beauty of it, they will have no idea there, like, clearly pumping the token.
+
+[40:15]
+
+I have no idea, they just buy some coins so they can spend. It on stuff on the geeks. uh, But behind the scenes, the whole thing is just like freaking pumping the beat token.
+
+[40:27]
+
+So, this is one of the things we really want to solve. The problem uh and challenge around this is potential fraud, because some of the um um. Some of that. In a purchase is can be refunded. uh, And and and and as we know the stuff on chain can't be refunded.
+
+[40:49]
+
+So we have to find a way so we don't get like uhBasically exploit that. I I see the question. uh, Just to just to wrap up quickly. uh, This kind also answers my question, which was the next one. uh, Who is how the evolution will work. uh, And also, uh, and now looking from web two mo- mobile uh user land.
+
+[41:13]
+
+Also, I just wanted to say as a joke, of, of when, uh, we were talking about the markets and playing without monetary incentive. Are you alright? I know I told you about my whiteout survival incident. uh, Ironically, great games with great social features, but uh you do end up spending quite a lot knowing you're not getting any anything in return.
+
+[41:38]
+
+And then you'll see so many people around you spending even more, and being so excited about um totally different market, and I really love the uh that uh web three, especially if you're like Only like looking at web three. he really has skewed the perspective, and it's good to take a step back and like, you know, breathe in the whole picture.
+
+[41:59]
+
+But uh yeah, the e- the evolutions, uh, I guess yeah, then you then you're just gonna buy the bo- gold coins and be able to evolve, but uh.
+
+[42:10]
+
+Sorry to keep this dragging on. I guess my question is the timeframe, because I I know I know there's like some. Hopes to to jump through to make this happen.
+
+[42:23]
+
+But for example a player starts playing after the next campaign drops, uh, the next part right? And he grinds and he's ready to evolve, and he can't, uh, because he's forced to be Forced to learn the web three of it all, which you know, that's a the bigger hurdle than number.
+
+[42:44]
+
+Actually, that's uh you you pointed out a good thing, because you need to first bring the z on chain. um. So, I guess the uh.
+
+[42:55]
+
+I guess once they get there, we'll have to figure it out. uh, Maybe we'll allow to evolve, of change these. uh, Maybe that's a way. um, As for the him getting like an NFT token, uh, there are plenty of ways to earn the token inside the game by farming stuff and selling in the eggs.
+
+[43:14]
+
+But uh but yeah, uh. That's a nice problem we'll have. uh, I I'm I'm pretty sure we can will come up with a good solution.
+
+[43:26]
+
+So so yeah, uh, I see the question from Global Hope. uh, Is the highs going going back to be rewards? not, uh, and not entirely.
+
+[43:38]
+
+Yeah, I mean not. There are kind of v rewards, right? But uh but not, but not directly. So, what we said we are willing to uh.
+
+[43:50]
+
+Allocate certain amount of the token every month, uh, that can be distributed in rewards. But the way we gonna do it is uh we will inject it all. I sell liquidity inside a gex pool, uh, where you will be able to trade it for your high token.
+
+[44:07]
+
+So, if the community decides. They want, they will be able basically to decide how they are distributing the high tokens, high reward tokens. uh, And all we will do is provide liquidity, so those high tokens can be exchanged.
+
+[44:24]
+
+But yeah, everything else is up to community to decide how, if and when. um, So. So yeah. Just to poke around here, will community be also able to impact the cadence in which the bybacks are happening?
+
+[44:41]
+
+Probably yeah, I don't see big. Like, do we do we want 10 10 million once per month by Backer? Do we want his sprinkle? Yeah, I, I, I think like a dripping a little bit.
+
+[44:52]
+
+It's like Armageddon one day. Yeah, and then there is just one guy who basically insta-dumps and makes some some profit well, and else. uh.
+
+[45:03]
+
+What else is new? Yeah. What else is new? Anyways, uh, yeah, that's that that's about the highest. um, I guess that's the beauty.
+
+[45:14]
+
+I don't know, you will come up with ideas, all we did was Committed to uh allocate some liquidity for a ward, and that's it. So yeah.
+
+[45:25]
+
+When in bytedance land, you're gonna hate the answer, but both onboarding guys. uh, Ha, uh, he he he he he's talking about the liquidity pools, which I'm so proud of this joke, which I Come up with it, but he's talking about the liquidity pools in the Binance land.
+
+[45:41]
+
+That's gonna give. uh, For those that don't know, completing just one more thing quest will unlock the Binance land. uh, It Currently in the process of being rewarked, adding liquid liquidity pools, which will be these like pools of water, which you'll be able to sit in, have a have a little bath, and come out with uh some timed buff.
+
+[46:02]
+
+The password is still wrong. We can, I I I I'll make a note of this. I'll I'll look, I'll see if there's anything blocking for us to re- enabling re- enabling the highlander.
+
+[46:14]
+
+Today, right now. But yeah, you'll learn. I'm making notes. Can you can you take over a bit? Yeah, I I I I I wanna say the real question is not when Binance lands, it's when Binance listing. uh, But ha ha, that's probably a topic for a different day.
+
+[46:34]
+
+So, uh, I guess I guess that's pretty much for it. We shouldn't be stretching too much. uh. I mean lots of, maybe there is even s, uh, is there something what we can share? uh, As an offer from the zivers are side.
+
+[46:51]
+
+No, nothing nothing really, cause we we we we've been like optimizing a lot of lightning, uh, lightning, uh, for, uh, so we look even better on lower resolutions.
+
+[47:04]
+
+And bunch of that stuff, I can I can share just so we have shared the m- more. Oh wait, no, I do have something to share. I did uh you're uh s- sorry about this, I did leak this last uh Stream my head, but this is the umber z uh umber z a- a- accepted content for evolution one, uh, what we're currently looking at.Uh,
+
+[47:29]
+
+So, yeah, alpha. I mean, Tyler has a good question. You said you wanna want want more players exploring the demo to make the world feel alive, but how do you expect anyone.
+
+[47:48]
+
+Be bother doing that, if you put every item on the geeks. I mean, that's kind of the whole point. Imagine your new player without single coin in your pocket.
+
+[48:01]
+
+This is this is essentially how you get your first coins. Plus uh. The gist is quite a complex concept. uh, We we don't feel or think people will be using GX within their first few days of playing game and starting up.
+
+[48:22]
+
+So. The idea behind the GEX is that every item is tradable, and and and having some liquidity there becomes a way for people to get their first tokens.
+
+[48:35]
+
+So, and and then maybe, uh, you will see people looking for apples, like picking up ten apples, uh, getting their first uh First 50Z uh 50V tokens, and then spending them to buy maybe something they actually need. uh, Some some armor, or later, later down the road, they will be able, uh, even able touh, Collecting of uh
+
+[49:00]
+
+v token so they can buy their z from someone else. So, uh, yeah, I I I I I think it kind of even supports the idea of exploring and and.
+
+[49:11]
+
+And uh giving some value for the items that are being found and explored. But yeah, it's not necessarily just connected uh. As a monetary value, it's more just uh battle. hmm. Guys, this is not approved, I'm just like uh I I said it as a joke, but now that I look at it, it looks kind of kind of fitting for zivers in like uh the indigenous wardings
+
+[49:36]
+
+better. um-hmm. Yeah, it does. hmm. OK. I think I think we can wrap up. um, Jackal, if you probably need to do uh.
+
+[49:47]
+
+They give away. They give away, and I'll leave you. to them or other way around. so, as always, guys, thanks for coming.
+
+[50:00]
+
+Good progress. uh, I can't stress enough, pay attention to what happens in the forest. uh,You have um probably really good uh.
+
+[50:13]
+
+Position, uh, you're really well positioned, uh, before in the storm. So pay attention, check out the seed auctions. There is so many ways to earn some rewards, and and and just Learn more about ecosystem, because uh I have a feeling we are on really really good path.
+
+[50:33]
+
+So, uh, yeah, I'll close with that. And thank you, and see you see you next week. Cheers. See you. um, All right, guys.
+
+[50:45]
+
+So, you're you're left with me now. By the way, guys, I will not be able to have a stream uh next tuesday, and we'll do be doing now three woman. The premium pass giveaways. uh, Now, and yeah, I won't be attending uh unfortunately next next community call or the um uh.
+
+[51:08]
+
+Or the ziver stream. uh, Because I'm having a time off. uh, ha. uh, But I'll be back soon enough. uh. Cool, uh, alright, so here are the participants.
+
+[51:20]
+
+Unfortunately, I did remove Cherry and Craig bot. I know I know guys, justice for Craig, but uh let's rip it.
+
+[51:35]
+
+S and K. Congratulations. All right, next up. Bolamopa or Volamoro, I don't know. You tell me. uh, Congrats.
+
+[52:09]
+
+And the final one, babaing, babaing. uh, To get your warm on premium pass codes, please open up a ticket, and Cherry will provide you with a code of Manka.
+
+[52:20]
+
+Congressman, um, yeah, open up a ticket and claim your codes there. And if you have a Genesis premium pass, you can give me your code. 'cause mine has run out All right guys uh thank you and uh uh耶律啊 is gonna see you sooner uh than I will but uh yeah thank you guys see you ciao bye

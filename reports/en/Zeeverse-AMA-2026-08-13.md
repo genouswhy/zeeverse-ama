@@ -6,11 +6,13 @@ The new release removed fish and Heist Tokens as ingredients for energy potions.
 
 ## I. Cooked fish and HRT can no longer make energy potions
 
+[04:27](#t=267)
+
 Release 1.16.0 on August 12 removed **cooked fish and Heist Tokens as ingredients for Energy Potions**. Euler explained that players originally could only catch and cook fish and had few uses for them. Potions had been added as a use for fishing. As the game added more life skills, the team wanted to scale back the old recipe. He said the recipe had increased the utility of fish while adding to the supply of energy potions. One example of a price change after its removal would not establish what happened on either side. He intended to watch potion supply, Fishing and Cooking before deciding whether a new source was needed. The call did not name a replacement recipe, compensation or market prices. [1.16.0 release notes](https://zeeverse.com/news/1-16-0-release-notes) · [Fishing documentation](https://whitepaper.zee-verse.com/gameplay/skills/fishing)
 
 A player pointed to falling fish values after the recipe was removed. Euler explained that the same recipe had also affected the supply of another item.
 
-> **Euler**
+> **Euler** · [04:27](#t=267)
 >
 > “The fact that you was able to convert fishing to energy potions was actually responsible for the reason why energy potions are so relatively cheap. So, it's it's it's double edge sword \[…\] I will be monitoring what happens with energy potion supply, and um, and at the same time with the uh what's up with the fishing and cooking skills?”
 
@@ -18,11 +20,13 @@ Release 1.16.0 also brought four Daily Quests, onboarding with Sirel, a short sk
 
 ## II. Sirel takes over as guide, with shorter quests and earlier rewards next for Finding Your Feet
 
+[31:43](#t=1903)
+
 Jackal said the team first used an existing aquatic Shaman model to replace the original guide, then rewrote the story and dialogue. **Sirel** rescues newcomers from the water, showing that other Shaman are still around to help after the disaster. The existing Finding Your Feet was a single chain of instructions newcomers had to follow from start to finish. After looking at where players dropped off, the team started breaking it up into shorter objectives so players could earn rewards earlier and pause to explore on their own.
 
 Jackal had looked at where newcomers dropped off. He connected that to the decision to give players places to pause and choose what to do next.
 
-> **Jackal**
+> **Jackal** · [31:43](#t=1903)
 >
 > “Many shorter quests, reward in the middle, and do not have uh um the uh player be committed, because currently, for example, you start finding your feet, you're committed to complete the quest. \[…\] And by introducing these little small quests, you get more agency.”
 
@@ -32,11 +36,13 @@ The call described roughly three smaller quests and six nearby mini-quests. Sire
 
 After describing the mask made for Mudman, Jackal gave an example of why players might gather clay again once they knew the recipe.
 
-> **Jackal**
+> **Jackal** · [34:06](#t=2046)
 >
 > “Now, oh, going further, you will be able to, you know, uh, mine a full inventory of clay. Uh, create 20 masks and go around the village uh selling the mudman the masks for uh some spirit. Uh, so, essentially creating the first, I think, real sustainable early game, skilling, money maker, spirit maker, instead of having it be only dungeons.”
 
 ## III. Player questions on community feedback, accidental discards and the launch strategy
+
+[08:50](#t=530)
 
 - **Translation and the online player count.** The hosts linked missing in-game translation to backend changes after the security incident and gave no date for its return. A speaker did not recall an online count having been available in the lobby. It was unclear whether the online figure mentioned on the call measured the game itself.
 - **Accidentally discarding valuable items.** A player asked for confirmation before discarding items, citing an incident involving about **2,000 energy potions**. Jackal said a warning would be valuable and would require defining high-value items, prioritizing the work and testing. The hosts said the potions had been found. They gave no general recovery policy or release date for the prompt.
@@ -45,21 +51,25 @@ After describing the mask made for Mudman, Jackal gave an example of why players
 
 ## IV. The FOREST airdrop has no new date, and future distributions depend on activity and platform use
 
+[15:43](#t=943)
+
 A player asked what happened to the monthly or quarterly airdrops discussed in the past and what followed the first distribution of about 7%. Euler said market liquidity was limited at the time and that he wanted to avoid a large distribution disconnected from activity. The team was trying SEED, Collector Profile and other ways to identify participation. He said further distributions were still expected, tied to events, user participation and protocol usage. He did not confirm rules or a calendar for the remaining allocation, or say eligibility would be limited to a particular category of active users. The earlier official guide puts the first round at **about 6.67% of each person's total $FOREST allocation at the time**. That figure does not define a new allocation from this call. Zeeverse's own token was still a possible part of the global release strategy, with no launch date announced. [Official historical rewards guide](https://zeeverse.medium.com/masks-lands-p2a-and-staking-forest-x-zeeverse-reward-guide-07b283dbd666) · [Historical SEED claim announcement](https://zeeverse.medium.com/forest-airdrop-unlock-the-seed-based-claim-model-4c230a66f55f)
 
 The player followed up on whether an airdrop could still happen if market conditions improved. Euler framed his answer around a future campaign before discussing ways to identify participants.
 
-> **Euler**
+> **Euler** · [15:43](#t=943)
 >
 > “We we can definitely expect to air drop in the future, but it's it's it's it's kind of combination of all the things. So, uh, once we see uh things going in another direction, and we see how we can build that campaign, uh, and and in in return reward users who are participating that campaign, we will be doing that, so.”
 
 ## V. FOREST plans a cloud Builder trial and fee sharing for original creators through Remix
 
+[37:32](#t=2252)
+
 Euler said the team had tried a simpler app generator about three months earlier and had spent about three months building it into a Builder with cloud infrastructure. The goal on the call was to make it available that day or the next. Interested creators could leave a message in the FOREST channel. The team planned to issue trial credits and collect feedback. Players could start with a prompt to create an on-chain game or app. The July Playkit announcement had already outlined the earlier Builder and its token-economy integration. This call covered a new cloud version. The current creator playbook does not establish how many people actually had access in those two days. [July Playkit and Builder announcement](https://forest.inc/news/forest-playkit-infrastructure-behind-zeeverse-economy) · [FOREST creator playbook](https://forest.inc/docs/creator-playbook)
 
 Euler invited creators to try the new Builder and explained what the team wanted to learn from the trial.
 
-> **Euler**
+> **Euler** · [37:32](#t=2252)
 >
 > “Best way would be you just dropping a message on forest channel, and we'll um, reach out to you and basically give you some credits to play around with the builder. Uh, in return, we expect some feedback.”
 
@@ -67,11 +77,13 @@ The group next planned **Remix**, allowing users to create and release their own
 
 Euler imagined someone publishing a game or app and a fan wanting to make their own version. That was the example he used to explain the proposed fee share.
 
-> **Euler**
+> **Euler** · [38:41](#t=2321)
 >
 > “It finds some people who uh enjoys it, but think they can make it better, or think they can make it slightly different. Now, they will have an easy way to do that by just pressing remix button, and and in return, whatever the fees, the token will generate uh from these remix versions, that fees will be shared with original creator.”
 
 ## VI. A closing question about Epic Land and a roadmap recap
+
+[41:34](#t=2494)
 
 A player asked what they could do after acquiring Epic Land. Jackal said Land gameplay would still have to wait and reiterated that Zeeverse first needed to retain new players so Land would have visitors. He said he understood the wait as a longtime player and asset holder himself. He gave no early access date. Three Premium Passes were drawn on the call.
 

@@ -8,11 +8,13 @@ This report follows an English transcript without line-by-line timestamps or spe
 
 ## 1. FOREST's first trading competition tested RAMEN and exposed chart issues
 
+[01:02](#t=62)
+
 Someone opened by asking what the participant count said about interest in the Launchpad. Euler reported about **36 participants and $50,000 in total trading volume**. He said the token creator had earned about **$700 in fees**. Given the size of the prize pool, the team considered the volume higher than expected. It had fixed some problems with slow chart updates, while anomalies in the curve display still needed investigation. Euler said RAMEN activity had carried over into FOREST-related trades and fees and wanted the next event to be slightly larger. The volume, participant count, and creator fees came from the call, without a settlement breakdown or a way to tell how repeat participants were counted. [Transcript, opening competition recap and FOREST airdrop Q&A](../transcription/2026-01-29.txt)
 
 A player pointed to participation in the first trading competition and asked how the team rated interest in the FOREST platform.
 
-> **Euler**
+> **Euler** · [01:02](#t=62)
 >
 > “The guy who uh launched the token generated roughly seven hundred seven hundred dollars in fees. \[…\] In total, it resulted in roughly 50,000 dollar of uh combined volume, uh, which, considering the relatively small reward pool, is uh way more than we expected.”
 
@@ -22,13 +24,15 @@ The next $FOREST airdrop was still being prepared as an **auction using SEEDS**.
 
 ## 2. Ambassador Program stakes reportedly unlocked, with no compensation planned yet for people still locked in the legacy contract
 
+[36:35](#t=2195)
+
 A player on mic asked whether **the principal staked in the Ambassador Program** would remain tied up. Euler initially said the team was releasing it. He then said he had checked and that it had just unlocked, told players to check their wallets, and said **100% of the principal** would be returned. The call showed no records of funds arriving in wallets, and rewards were still to be handled separately. Euler said there had been cases of inviting existing players as if they were new or creating accounts to qualify for rewards, without bringing in enough genuine referrals. The team wanted to wind down the old program and redesign ambassador status, incentives, and rules. A player suggested allowing ambassadors to join without staking. The new design was still open. [Transcript, Ambassador Program and wallet check with a player on mic](../transcription/2026-01-29.txt)
 
 Another question concerned **Legacy Staking**. On January 22 the team had described a 45-day claim window. This time someone asked about people who would still be unable to withdraw their principal when rewards ended. Euler said there were no compensation arrangements at the time. The old program was originally supposed to pay rewards for a year and had been extended by nearly another year. His estimate was that about 80% could already be unstaked, less than 20% remained locked, and the last portion would unlock in summer. The transcript refers to both the number of stakers and the amount staked, so the exact denominator is unclear. These figures concerned the legacy contract. The Ambassador Program principal was discussed separately. [Official staking page, for the legacy entry](https://zeeverse.com/app/stake) · [January 22 transcript, 45-day window](../transcription/2026-01-22.txt) · [Transcript, Legacy Staking and compensation Q&A](../transcription/2026-01-29.txt)
 
 A player asked whether legacy stakers would be compensated if they still could not withdraw their principal after rewards stopped.
 
-> **Euler**
+> **Euler** · [36:35](#t=2195)
 >
 > “We are not planning any compensation or anything \[…\] we basically said that this is a program that's going to reward users who stake for the next year. Uh, after that year, we \[…\] ended up essentially just extending that period by almost another year.”
 
@@ -36,11 +40,13 @@ The team wanted to reduce passive $VEE emissions while retaining reasons to use 
 
 ## 3. A weekly Tribe Heist could fund its prize pool with entry fees and buffs
 
+[17:11](#t=1031)
+
 Euler said the current Heist had no clear start and finish for each competition. Its Elo rankings were vulnerable to manipulation, especially at the expense of lower-level players. The team drafted a **Tribe vs. Tribe** mode with something at stake. It would keep the main combat and scoring mechanics while making Tribes the competitors.
 
 While proposing a weekly Tribe competition to address manipulation of Heist rankings, Euler explained how the purchase of buffs would grow the prize pool.
 
-> **Euler**
+> **Euler** · [17:11](#t=1031)
 >
 > “As you purchase these modifiers, your Z's, your shaman, uh, you get like many different advantages, but whatever you have paid for those modifiers, uh, that is added to the total uh risk pool. So naturally, it would mean as the tribe gets more buffs, it contributes more to the pool.”
 
@@ -55,11 +61,13 @@ The design was open for feedback. The team especially wanted to know whether pla
 
 ## 4. The public build serves as the soft-launch test, and existing players can help test the new tutorial
 
+[10:58](#t=658)
+
 A player asked why the team was bringing in users from Canada and the Philippines while content was still in development and yet giving existing players no access to unfinished features. Euler described small tests through controlled channels. The team wanted **a few thousand first-time players for each major update**. Observing where they stopped playing would help locate unclear parts of the tutorial and give the team a way to interpret specific community feedback. The public build already provided an accessible test environment. Opening a frequently changing internal staging build would add maintenance. Once the tutorial was out, the hosts invited existing players to start fresh accounts, run through it, and report back. [Transcript, soft launch, internal staging, and the invitation to test onboarding](../transcription/2026-01-29.txt)
 
 A player asked why the team was bringing in new users in Canada and the Philippines while development continued, without giving veterans test access to reportedly finished content.
 
-> **Euler**
+> **Euler** · [10:58](#t=658)
 >
 > “That means we need at least few thousand players in every update, so we can see, OK, uh, this is where like people stop playing. This is where people uh seem to run in issue or don't understand what to do next.”
 
@@ -67,17 +75,21 @@ Euler put the game at a few hundred daily active users at the time, occasionally
 
 ## 5. The mockup showed about 45 visible Stash items, and The Forge showcased Chayara Shamans
 
+[51:38](#t=3098)
+
 The team showed mockups from the UI rework. The new **Stash** was expected to show about **45 items** at once, with a collapsible filter area. Changes to fonts, font sizes, and mobile readability were part of the same work. Some elements were still concept art. The later March 9 release, 1.8.0, documented the Stash, font, minimap, and tutorial rework without listing 45 visible slots as a release specification. [Later 1.8.0 release notes, March 9, 2026](https://zeeverse.com/news/1-8-0-release-notes) · [Transcript, Stash mockup and font sizes](../transcription/2026-01-29.txt)
 
 Jackal shared art for Shamans and blacksmiths from **Chayara**, the fire tribe. He said **players would complete Great Tree before starting The Forge quest**. They would visit the corrupted area where The Forge is located, meet Shamans from the fire tribe, and learn why they were there. The lore documentation lists Chayara, Sinoru, and Takanuwa as the three nations. The hosts used the different character designs to show that the village represents only part of that world. Neither quest had a release date. [Zeeverse lore on the Three Nations](https://whitepaper.zee-verse.com/lore/three-nations) · [Transcript, The Forge area and Chayara concept art](../transcription/2026-01-29.txt)
 
 ## 6. Mr. Block's new chest would introduce rings and necklaces, and Genesis gear would stay scarce
 
+[46:30](#t=2790)
+
 The team was preparing to airdrop what it called **Mr. Block’s Chest of Enchanted Delights** to **eligible attendees of Mr. Block's 2024 in-person summit**. It also considered drawing a small number of names from the core community or Mask holders. The chest would introduce rings and necklaces and their equipment slots. Rare and Epic tiers were mentioned, and one Legendary item was left as a surprise. Jackal used speed as a hint about the ring. Stats, drop rates, and claim dates were all undisclosed. The team hoped crafting and drops would eventually offer additional items for the same slots. [Transcript, Chest of Enchanted Delights and jewelry preview](../transcription/2026-01-29.txt)
 
 While introducing the chest for attendees of Mr. Block's 2024 in-person event, Euler explained how its rings and necklaces would expand the equipment system.
 
-> **Euler**
+> **Euler** · [46:30](#t=2790)
 >
 > “As we introduce ring and we introduce necklace, we are also introducing ring and necklace slots, which generally hints that there is going to be more craftables and and drops from different activities.”
 
@@ -85,9 +97,13 @@ The community asked whether craftable Legendary gear would include old Genesis i
 
 ## 7. A private sale could include Legendary Land, while two unique plots might stay with the team
 
+[06:00](#t=360)
+
 Euler said a bulk private sale of the remaining Land to investors could include Legendary Land if a deal were reached. The Land might be locked up for **one or two years** to prevent near-term resale. It was still a subject of negotiations. Jackal asked how players could access the two one-of-one plots, **Corrupted and Celestial**, which had yet to mint. Euler suggested the team might keep them in the treasury for special quests or experiences. Ownership, access rules, supply, and lockup length remained open. [Land biome documentation](https://whitepaper.zee-verse.com/lands/biomes) · [Transcript, Legendary Land, Celestial, and Corrupted Q&A](../transcription/2026-01-29.txt)
 
 ## 8. Other questions and closing
+
+[02:19](#t=139)
 
 - **Supplies and the backpack.** Someone proposed a healing fountain. The hosts noted that fishing and campfires could provide some supplies. A small camp on the north side of the map was an impromptu suggestion, and spending Coins in Game of Zobi in exchange for a fire was a joke. An ore sack, wood basket, or Soul Pouch would hold one type of material. Being able to carry an extra 10–20 ores was one example. Capacity and unlock requirements were open. [Later 1.15.0 notes, for the Game of Zobi spelling, July 14, 2026](https://zeeverse.com/news/1-15-0-release-notes) · [Transcript, opening suggestions for a healing fountain and tool bag](../transcription/2026-01-29.txt)
 - **Rare Zee and Traits.** The team declined a suggestion to make Legendary Inaji a mount and said it had other ideas in mind. Discussion of more Legendary Zee focused on preserving the scarcity of existing collectibles. No additional mint was announced. Jackal wanted to go for the first level 20 Trait and mentioned the possibility of a unique icon. The Coins cost discussed toward the end was a testing estimate affected by random rerolls. Someone proposed a Zee sink, which Euler thought could ease supply, while sustained demand would still depend on the size of the player base. [Transcript, final Q&A, Legendary Zee, and level 20 Traits](../transcription/2026-01-29.txt)

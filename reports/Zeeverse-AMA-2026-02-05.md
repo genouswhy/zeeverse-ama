@@ -8,11 +8,13 @@ Zeeverse 终于把反复说的「新手优先」拆成了一条可走的路线�
 
 ## 一、先进入游戏再注册，首次可用数据来自软启动
 
+[03:42](#t=222)
+
 开场展示的是 Unity 中制作的新手开场片段，从角色获召唤开始。Euler 说，旧路径要求玩家下载后先注册，他给出的流失量级是 **40%～50%**。这也是新流程让玩家直接进入的原因之一。同时要把手机操作教清楚，减少只按指令点击、缺少理解的步骤。会上分享的是开发中画面，留存目标是让玩家愿意玩到首小时，届时再看更长时间的参与；他没有公布可比较的新旧转化率。 [本期转录，Unity 片段与注册流失讨论](transcription/2026-02-05.txt)
 
 展示 Unity 里的召唤开场后，Jackal 让 Euler 解释为什么重做玩家进入游戏的第一步。
 
-> **Euler**
+> **Euler** · [03:42](#t=222)
 >
 > “The new users won't have to register accounts when they start to play, and and this is extremely important, because uh, because once the users download the game, and they realize they have to register, roughly 40~50 percent of them will bounce.”
 >
@@ -24,13 +26,15 @@ Zeeverse 终于把反复说的「新手优先」拆成了一条可走的路线�
 
 ## 二、主线第一小时用失落图腾串起孵化、探索和战斗
 
+[15:26](#t=926)
+
 Jackal 给出了开场剧透。从 **Waka 召唤**开始，玩家选择承载灵魂的 Shaman 身躯。洞穴内会通过一段饮下药液的演出交代世界异象。之后，玩家在别处险些溺水，被一位渔夫救起。渔夫发现玩家有 Zee，因此知道对方是少见的萨满。Jackal 的世界观解释是，Zee 从灵界而来、在物质世界显现，能与它们建立联系的人很少，因此普通村民通常没有跟随的 Zee。 [Zeeverse 世界观](https://whitepaper.zee-verse.com/lore/your-journey) · [本期转录，Waka 召唤、渔夫与 Shaman 段](transcription/2026-02-05.txt)
 
 村落失去与 **Takanuwa** 信仰相关的图腾，因而失去庇护，土地受损。渔夫请玩家学习孵化、进副本找回图腾。按当时的第一小时方案，玩家要取回两块图腾碎片并完成修复，此前大部分游戏系统保持锁定。Jackal 说 Grasslands 还有其他地方丢失图腾，类似问题可能贯穿更多生态区，长期主线因此有了跨地区的目标。修复后能带回何种资源或效果，会中留作后续细节。 [三族背景文档](https://whitepaper.zee-verse.com/lore/three-nations) · [本期转录，图腾、首小时边界与后续生态的讨论](transcription/2026-02-05.txt)
 
 讲完渔夫请萨满帮忙找回村落图腾，Jackal 说明首小时在哪里结束，以及故事会怎样延续。
 
-> **Jackal**
+> **Jackal** · [15:26](#t=926)
 >
 > “The the tutorial and the first hour of your of your playthrough will end, as you retrieve two totem pieces \[…\] and restore the totems. \[…\] Now there are two more dungeons, right? And as uh as you will find out, more totems are missing around grasslands.”
 >
@@ -40,13 +44,15 @@ Jackal 给出了开场剧透。从 **Waka 召唤**开始，玩家选择承载灵
 
 ## 三、副本首通要走地图，周更关卡计划每轮重走
 
+[39:17](#t=2357)
+
 在当时的地图上，玩家点传送门、选层、打完一场，之后可自动复刷。Jackal 讲的新方案把**第一次打通**放回一个能走动的场景。玩家遇到 Zee，打完一战继续探索，开箱并用技能解小谜题，有的图腾可能藏在角落或谜题后。技能操作会给对应经验，专门到野外练技能预计仍是更高效的做法。团队可以利用做 Land Generator 的技术来制作这批副本场景。 [Land Generator 技术背景（2025-11-28）](https://zeeverse.com/news/zeeverse-worlds-from-words) · [本期转录，新副本路线与技能交叉设计](transcription/2026-02-05.txt)
 
 Jackal 把初步适用范围放在**前三个副本章节与 Forge**，Umbra 放在更晚的考虑中。新场景会有钓点，可以取补给，也可能用在谜题。浆果用于新人的低血量阶段，打到几千点生命值时仍主要靠鱼恢复。在安全规则上，团队希望保留副本里失败不掉物品。首通后可回到已有的自动复刷入口，**周刷新副本计划每个周期重新做一次探索式首通**。不同副本、周重置与普通关卡是否共用同一套规则，仍要按未来版本核对。 [本期转录，转入 $VEE 讨论前的 fishing spots / novel clear 补充](transcription/2026-02-05.txt)
 
 切换到 $VEE 话题前，Jackal 补充了重做副本的失败保护、自动复刷和每周重置规则。
 
-> **Jackal**
+> **Jackal** · [39:17](#t=2357)
 >
 > “We are still looking to keep the dungeon that safe, meaning, you know, no losing of the items. \[…\] You will be able to auto play these levels as they were today after the novel clear. So for dungeons that rotate uh and refresh every week, you will have to do the novel clear every week.”
 >
@@ -56,11 +62,13 @@ Jackal 把初步适用范围放在**前三个副本章节与 Forge**，Umbra 放
 
 ## 四、地图要清理视觉遮挡，再给探索加少量补给
 
+[33:37](#t=2017)
+
 Euler 表示初版地图在开放测试时赶得很快，树木和植被互相穿插，摄像机视野也容易被遮住。团队会逐步整理地图与导航布局，在部分地方添基础资源。会上举的例子是路边长浆果，可及时采下食用或烹饪补给。
 
 Euler 说早期地图有树木挡视野的问题，接着举例说明整理地图时也想沿路补哪些资源。
 
-> **Euler**
+> **Euler** · [33:37](#t=2017)
 >
 > “We are also thinking about adding \[…\] berries that are growing around, and you can just like pick it up and and and then eat it or cook it.”
 >
@@ -72,19 +80,23 @@ Euler 说早期地图有树木挡视野的问题，接着举例说明整理地�
 
 ## 五、$VEE 奖励收拢为一个新质押入口，FOREST 继续测试交易赛
 
+[45:00](#t=2700)
+
 Euler 称旧质押逐步到期，有限量奖励还在释出，新激励集中到可按月领的 $VEE 质押计划。机器稿把其年奖励量级写成「0.5 of total supply a year」。结合上下文可理解为**每年约占总供给 0.5%**，会中没有公开排放表供核对。团队也看到有人在拿回旧质押后转进新合约，有人把 $VEE 存进游戏做链下交易，进化等日常消耗继续存在。会上没有公布再质押比例、金额或完整净流量。 [官方质押页](https://zeeverse.com/app/stake) · [Zeeverse $VEE 文档](https://whitepaper.zee-verse.com/economy/utility-tokens/usdvee) · [本期转录，$VEE 政策段](transcription/2026-02-05.txt)
 
 对于 SEEDS 会不会像大使计划奖励那样发得太多，Euler 答复，首届和即将开始的第二届各是 **50 万 SEEDS**，团队把现阶段当作技术试验，用来排查活动和交易体验。他用「约相当于 12 万枚 $FOREST 质押一年获得的积分」解释规模，美元等值随当时的代币价格变化，这是对积分获取量的粗略对照。会后 **2 月 9 日** 发布的第二届官方公告确认使用 **$BLOOM**，持续五天，奖池确为 **50 万 SEEDS**，榜单交易量按 $FOREST 计。到本场为止仍缺完整的长期排放测算。 [第一届 FOREST 交易竞赛公告（2026-01-26）](https://forest.inc/news/the-first-forest-trading-competition) · [会后第二届竞赛公告（2026-02-09）](https://forest.inc/news/the-second-trading-competition) · [本期转录，SEEDS 与第二届竞赛问答](transcription/2026-02-05.txt)
 
 有玩家担心 FOREST 交易赛发太多 SEEDS，重蹈大使计划发放奖励的问题。
 
-> **Euler**
+> **Euler** · [45:00](#t=2700)
 >
 > “These competitions, at least as of now, are more like a like a technical tests. Last competition taught a lot of stuff about which things are not working, which things are, are are are like broken, and and which things needs to be fixed.”
 >
 > “至少目前，这些比赛更像技术测试。上一场让我们弄清了很多东西：哪些功能不能用，哪些地方出了故障，还有哪些需要修。”
 
 ## 六、钱包、社区管理和片尾
+
+[47:02](#t=2822)
 
 - **钱包管理。** 一位玩家问专门的钱包管理入口，Euler 说当时没有排进待办，可以从网页运行游戏，再用客户端内的钱包功能。 [本期转录，钱包问答](transcription/2026-02-05.txt)
 - **反馈渠道。** Jackal 说会从当日起更主动管理 Discord，持续重复刷同样的争论可能短暂禁言，以保持公共频道可读。具体建议可去建议区，玩家也可以私聊主持人。他承认先做引导给老玩家带来等待，也说 Forge 等内容有人并行推进。 [本期转录，Discord 管理与片尾说明](transcription/2026-02-05.txt)
