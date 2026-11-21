@@ -50,10 +50,12 @@ COPY = {
         "language": "Language",
         "count": "{count} reports",
         "find": "Find a report",
-        "placeholder": "Search titles, dates, or report text",
+        "placeholder": "Search titles, recaps, or transcripts",
         "found": "{count} matching reports",
         "one": "1 matching report",
         "empty": "No matching reports",
+        "transcript_loading": "Loading original transcripts…",
+        "transcript_unavailable": "Transcript search unavailable",
         "contents": "On this page",
         "transcript": "Original transcript",
         "recording": "Original audio",
@@ -83,10 +85,12 @@ COPY = {
         "language": "语言",
         "count": "{count} 期中文 AMA 总结",
         "find": "查找报告",
-        "placeholder": "搜索标题、日期或报告正文",
+        "placeholder": "搜索标题、总结或原始转录",
         "found": "找到 {count} 期",
         "one": "找到 1 期",
         "empty": "没有符合的报告",
+        "transcript_loading": "正在加载原始转录…",
+        "transcript_unavailable": "原始转录搜索暂不可用",
         "contents": "本期目录",
         "transcript": "原始转录",
         "recording": "原始录音",
@@ -309,18 +313,34 @@ def reading_page(locale, day, topic, body, headings, meta, issue, minutes, has_t
 </article></div></main>"""
 
 
-def transcript_page(day, source, media):
+def transcript_passages(source):
+    stamps = list(TRANSCRIPT_STAMP.finditer(source))
+    opening = (source[:stamps[0].start()] if stamps else source).strip()
+    passages = [("transcript-start", None, "", opening)] if opening else []
+    times = {}
+    for index, stamp in enumerate(stamps):
+        seconds = sum(int(part) * 60 ** i for i, part in enumerate(reversed(stamp[2][1:-1].split(":"))))
+        times[seconds] = times.get(seconds, 0) + 1
+        anchor = f"t-{seconds}" if times[seconds] == 1 else f"t-{seconds}-{times[seconds]}"
+        end = stamps[index+1].start() if index + 1 < len(stamps) else len(source)
+        passages.append((anchor, seconds, stamp[2], source[stamp.end():end].strip()))
+    return passages
+
+
+def transcript_page(day, passages, media):
     label = COPY["en"]["transcript"]
-    text = re.sub(r"^# ([^\n]+)", r"<strong>\1</strong>", escape(source), count=1)
-
-    def link_stamp(match):
-        if not media:
-            return f"<strong>{match[2]}</strong>"
-        seconds = sum(int(part) * 60 ** i for i, part in enumerate(reversed(match[2][1:-1].split(":"))))
-        attributes = " ".join(f'{name}="{escape(value)}"' for name, value in audio_cue(media, str(seconds), "en").items())
-        return f"<a {attributes}>{match[2]}</a>"
-
-    text = TRANSCRIPT_STAMP.sub(link_stamp, text)
+    parts = []
+    for anchor, seconds, stamp, passage in passages:
+        content = escape(passage)
+        if seconds is None:
+            content = re.sub(r"^# ([^\n]+)", r"<strong>\1</strong>", content, count=1)
+        elif media:
+            attributes = " ".join(f'{name}="{escape(value)}"'
+                                  for name, value in audio_cue(media, str(seconds), "en").items())
+            content = f"<a {attributes}>{stamp}</a>\n\n{content}"
+        else:
+            content = f"<strong>{stamp}</strong>\n\n{content}"
+        parts.append(f'<div class="transcript-passage" id="{anchor}">{content}</div>')
     body = f"""<main class="wrap reading" id="main"><article class="reading-content transcript-content">
 <header class="report-head"><p class="kicker"><time datetime="{day}">{format_date(day, "en")}</time></p>
 <h1>{label}</h1></header>
@@ -330,7 +350,7 @@ def transcript_page(day, source, media):
 <span aria-current="page">Transcript</span>
 </nav>
 {audio_player("en", media)}
-<div class="report-body transcript-text">{text}</div>
+<div class="report-body transcript-text">{''.join(parts)}</div>
 </article></main>"""
     return html_page("en", f"{day}.html", f"{label} · {day} · {SITE_NAME}", body, transcript=True)
 
@@ -355,7 +375,7 @@ def report_index(markdown, reports):
     return topics, transcripts
 
 
-def archive_page(locale, entries, report_text):
+def archive_page(locale, entries, report_text, transcript_index_src):
     words = COPY[locale]
     count = len(entries)
     first, last = entries[-1][0], entries[0][0]
@@ -379,12 +399,18 @@ def archive_page(locale, entries, report_text):
                                   words["sections"].format(count=len(headings)),
                                   words["minutes"].format(count=minutes)))
             chip = f'<span class="chip">{words["transcript_tab"]}</span>' if has_transcript else ""
+            transcript_hit = ""
+            if has_transcript:
+                transcript_hit = f"""<a class="transcript-hit" href="{transcript_href(day, locale)}" hidden>
+<span class="transcript-hit-label">{words["transcript"]}<span class="transcript-hit-time"></span></span>
+<span class="transcript-hit-excerpt" lang="en"></span>
+</a>"""
             rows.append(f"""<li data-search="{search}"><a class="entry" href="{day}.html">
 <time datetime="{day}">{day}</time>
 <span class="entry-body"><span class="topic">{escape(topic)}</span>
 <span class="entry-meta">{details}{chip}</span><span class="entry-excerpt" hidden></span></span>
 <span class="chevron" aria-hidden="true"></span>
-</a></li>""")
+</a>{transcript_hit}</li>""")
         groups.append(f'<section class="month"><h2>{label} <span class="month-count">{len(rows)}</span></h2>'
                       f'<ul class="entries">{"".join(rows)}</ul></section>')
     search_index = json.dumps(report_text, ensure_ascii=False, separators=(",", ":")).replace("<", r"\u003c")
@@ -395,14 +421,15 @@ def archive_page(locale, entries, report_text):
   <p class="intro">{words["intro"]}</p>
   <dl class="archive-stats">{stats}</dl>
 </section>
-<div class="filter" id="filter" hidden>
+<div class="filter" id="filter" data-transcript-index="{transcript_index_src}" hidden>
   <label class="search-field">
     <span class="magnifier" aria-hidden="true"></span>
     <input id="query" type="search" aria-label="{words["find"]}" placeholder="{words["placeholder"]}" autocomplete="off">
     <kbd aria-hidden="true">/</kbd>
   </label>
   <p class="status" id="result" role="status" data-count="{words["count"]}" data-found="{words["found"]}"
-    data-one="{words["one"]}" data-empty="{words["empty"]}">{words["count"].format(count=count)}</p>
+    data-one="{words["one"]}" data-empty="{words["empty"]}" data-loading="{words["transcript_loading"]}"
+    data-unavailable="{words["transcript_unavailable"]}">{words["count"].format(count=count)}</p>
 </div>
 {''.join(groups)}
 <script id="report-search-index" type="application/json">{search_index}</script>
@@ -444,6 +471,7 @@ def build(reports, output, embed_origin=None, media_base=None):
             files[path.relative_to(assets).as_posix()] = path.read_bytes()
     topic_by_date, indexed_transcripts = report_index(markdown, reports)
     transcripts = {}
+    transcript_index = {}
     for day in dates:
         source = indexed_transcripts.get(day)
         if source is None:
@@ -453,8 +481,16 @@ def build(reports, output, embed_origin=None, media_base=None):
             original = source.read_text(encoding="utf-8-sig")
             if original.strip():
                 transcripts[day] = source
-                files[transcript_href(day, "en")] = transcript_page(day, original, recording_url(day, subdirectory=True))
+                passages = transcript_passages(original)
+                media = recording_url(day, subdirectory=True)
+                files[transcript_href(day, "en")] = transcript_page(day, passages, media)
+                transcript_index[day] = [[anchor, seconds, " ".join(text.split())]
+                                         for anchor, seconds, _, text in passages if text]
     transcript_dates = {path: day for day, path in transcripts.items()}
+    index_data = json.dumps(transcript_index, separators=(",", ":"))
+    index_version = sha256(index_data.encode("utf-8")).hexdigest()[:12]
+    files["transcript-search.js"] = f"globalThis.zeeverseTranscriptData = {index_data};\n"
+    index_src = f"transcript-search.js?v={index_version}"
 
     for locale, reports_by_date in (("en", english), ("zh", inputs)):
         words = COPY[locale]
@@ -490,7 +526,8 @@ def build(reports, output, embed_origin=None, media_base=None):
                                    minutes, day in transcripts, nav, media)
             filename = f"{day}.html"
             files[prefix + filename] = html_page(locale, filename, f"{day} · {SITE_NAME}", article, article=True)
-        files[prefix + "index.html"] = archive_page(locale, entries, report_text)
+        transcript_index_src = ("../" if prefix else "") + index_src
+        files[prefix + "index.html"] = archive_page(locale, entries, report_text, transcript_index_src)
 
     if embed_origin:
         files["surf-bridge.js"] = (PROJECT / "surf-bridge.js").read_text(encoding="utf-8")

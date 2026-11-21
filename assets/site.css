@@ -179,6 +179,21 @@ button, input { font: inherit; }
 .topic { display: block; color: var(--ink); font-weight: 700; line-height: 1.55; overflow-wrap: anywhere; }
 .entry-meta { display: block; margin-top: .3rem; color: var(--muted); font-size: .83rem; }
 .entry-excerpt { display: block; margin-top: .42rem; color: var(--muted); font-size: .9rem; line-height: 1.5; overflow-wrap: anywhere; }
+.transcript-hit {
+  display: block;
+  margin: 0 .5rem .65rem 8.8rem;
+  padding: .45rem .8rem;
+  border-left: 2px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  background: var(--soft);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.transcript-hit:hover { background: var(--hover); }
+.transcript-hit-label { color: var(--green); font-size: .8rem; font-weight: 700; }
+.transcript-hit-time { font: 500 .76rem var(--mono); }
+.transcript-hit-excerpt { display: block; color: var(--body); font-size: .9rem; line-height: 1.5; }
+.transcript-hit mark { background: var(--surface); color: var(--ink); font-weight: 700; }
 .chip {
   display: inline-block;
   margin-left: .55rem;
@@ -296,6 +311,9 @@ th { background: var(--soft); color: var(--ink); }
 tbody tr:last-child td { border-bottom: 0; }
 .transcript-text { margin-top: 1.6rem; white-space: pre-wrap; }
 .transcript-text strong { color: var(--green); font: 500 .9rem var(--mono); }
+.transcript-passage { scroll-margin-top: calc(var(--bar-height) + 4.5rem); }
+.transcript-passage + .transcript-passage { margin-top: 1.25rem; }
+.transcript-passage:target { background: var(--soft); outline: 2px solid var(--accent); outline-offset: .4rem; border-radius: 4px; }
 .nearby { display: flex; flex-wrap: wrap; gap: .85rem; margin-top: 3rem; padding-top: 1.55rem; border-top: 1px solid var(--line); }
 .nearby a { padding: .6rem .85rem; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); text-decoration: none; }
 .nearby a:hover { border-color: var(--green); background: var(--hover); }
@@ -320,6 +338,7 @@ tbody tr:last-child td { border-bottom: 0; }
   .status { margin-left: 0; }
   .entry { grid-template-columns: minmax(0, 1fr) 1rem; gap: .25rem .6rem; }
   .entry time, .entry-body { grid-column: 1; }
+  .transcript-hit { margin-left: .5rem; }
   .chevron { grid-row: 1 / span 2; grid-column: 2; }
   .report-body { font-size: 1.02rem; }
   .audio-player { gap: .25rem .4rem; padding-inline: .45rem; }
