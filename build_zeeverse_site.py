@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a bilingual AMA archive with any available original transcripts."""
+"""Build a bilingual AMA archive with available recordings and transcripts."""
 
 import argparse
 from datetime import date
@@ -10,8 +10,9 @@ import json
 from math import ceil
 from pathlib import Path
 import re
+from shutil import copyfile
 from urllib.parse import unquote, urlsplit
-from zipfile import ZIP_DEFLATED, ZipFile
+from zipfile import ZIP_DEFLATED, ZIP_STORED, ZipFile
 
 try:
     from markdown_it import MarkdownIt
@@ -27,7 +28,8 @@ REPORT_FILE = re.compile(r"Zeeverse-AMA-(\d{4}-\d{2}-\d{2})\.md")
 DATE_HTML = re.compile(r"\d{4}-\d{2}-\d{2}\.html")
 INDEX_ROW = re.compile(r"^\| \[(\d{4}-\d{2}-\d{2})\]\(Zeeverse-AMA-\1\.md\) \| ([^|\n]+) \|([^\n]*)$", re.M)
 TRANSCRIPT_ALIAS = re.compile(r"(?:zeeverse-)?community-call-(\d{4}-\d{2}-\d{2})\.txt")
-TRANSCRIPT_STAMP = re.compile(r"^(\*\*)?(\[\d{2}:\d{2}(?::\d{2})?\])(?(1)\*\*)$", re.M)
+TRANSCRIPT_STAMP = re.compile(r"^(\*\*)?(\[\d{1,3}:\d{2}(?::\d{2})?\])(?(1)\*\*)$", re.M)
+AUDIO_FRAGMENT = re.compile(r"t=(\d{1,6})")
 INTRO_DATE = re.compile(r"^(?:\d{4}\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日|\d{4}-\d\d-\d\d|[A-Za-z]+\s+\d{1,2},\s*\d{4})(?:\s*[|｜·]\s*|$)")
 
 COPY = {
@@ -54,6 +56,10 @@ COPY = {
         "empty": "No matching reports",
         "contents": "On this page",
         "transcript": "Original transcript",
+        "recording": "Original audio",
+        "play_from": "Play audio from {time}",
+        "audio_error": "Audio could not play.",
+        "open_audio": "Open audio directly",
         "table": "Table",
         "older": "Earlier",
         "newer": "Later",
@@ -83,6 +89,10 @@ COPY = {
         "empty": "没有符合的报告",
         "contents": "本期目录",
         "transcript": "原始转录",
+        "recording": "原始录音",
+        "play_from": "从 {time} 播放原声",
+        "audio_error": "录音播放失败。",
+        "open_audio": "直接打开录音",
         "table": "表格",
         "older": "较早一期",
         "newer": "较新一期",
@@ -142,7 +152,19 @@ def transcript_href(day, locale):
     return ("../" if locale == "zh" else "") + f"transcripts/{day}.html"
 
 
-def normalize_links(tokens, dates, locale, report_path, transcript_dates, transcripts):
+def audio_cue(media, seconds, locale):
+    minutes, remainder = divmod(int(seconds), 60)
+    hours, minutes = divmod(minutes, 60)
+    time = f"{hours}:{minutes:02}:{remainder:02}" if hours else f"{minutes:02}:{remainder:02}"
+    return {
+        "href": f"{media}#t={seconds}",
+        "data-audio-time": seconds,
+        "class": "audio-cue",
+        "aria-label": COPY[locale]["play_from"].format(time=time),
+    }
+
+
+def normalize_links(tokens, dates, locale, report_path, transcript_dates, transcripts, media):
     for token in tokens:
         links = []
         for child in token.children or []:
@@ -151,6 +173,11 @@ def normalize_links(tokens, dates, locale, report_path, transcript_dates, transc
                 local_path = Path(unquote(target.path))
                 report = REPORT_FILE.fullmatch(local_path.name)
                 public_link = target.scheme in ("https", "http") or (not target.path and not target.netloc and bool(target.fragment))
+                cue = AUDIO_FRAGMENT.fullmatch(target.fragment)
+                if cue and not target.path and not target.netloc and not target.scheme and not target.query:
+                    if not media:
+                        raise ValueError(f"Audio cue without a recording: {report_path}")
+                    child.attrs.update(audio_cue(media, cue[1], locale))
                 if not target.scheme and not target.netloc and target.path:
                     if report and report[1] in dates:
                         child.attrSet("href", report[1] + ".html")
@@ -234,7 +261,21 @@ def search_text(tokens):
     return " ".join(" ".join(parts).split())
 
 
-def reading_page(locale, day, topic, body, headings, meta, issue, minutes, has_transcript, nearby):
+def audio_player(locale, media):
+    if not media:
+        return ""
+    words = COPY[locale]
+    url = escape(media)
+    return f"""<section class="audio-player" aria-labelledby="recording-label">
+<h2 id="recording-label">{words["recording"]}</h2>
+<audio id="original-audio" controls preload="none" src="{url}" aria-labelledby="recording-label">
+<a href="{url}">{words["open_audio"]}</a>
+</audio>
+<p id="audio-error" role="status" hidden>{words["audio_error"]} <a href="{url}">{words["open_audio"]}</a></p>
+</section>"""
+
+
+def reading_page(locale, day, topic, body, headings, meta, issue, minutes, has_transcript, nearby, media):
     words = COPY[locale]
     rail = ""
     toc = ""
@@ -262,15 +303,24 @@ def reading_page(locale, day, topic, body, headings, meta, issue, minutes, has_t
 </header>
 {tabs}
 {toc}
+{audio_player(locale, media)}
 <div class="report-body">{body}</div>
 {nearby}
 </article></div></main>"""
 
 
-def transcript_page(day, source):
+def transcript_page(day, source, media):
     label = COPY["en"]["transcript"]
     text = re.sub(r"^# ([^\n]+)", r"<strong>\1</strong>", escape(source), count=1)
-    text = TRANSCRIPT_STAMP.sub(r"<strong>\2</strong>", text)
+
+    def link_stamp(match):
+        if not media:
+            return f"<strong>{match[2]}</strong>"
+        seconds = sum(int(part) * 60 ** i for i, part in enumerate(reversed(match[2][1:-1].split(":"))))
+        attributes = " ".join(f'{name}="{escape(value)}"' for name, value in audio_cue(media, str(seconds), "en").items())
+        return f"<a {attributes}>{match[2]}</a>"
+
+    text = TRANSCRIPT_STAMP.sub(link_stamp, text)
     body = f"""<main class="wrap reading" id="main"><article class="reading-content transcript-content">
 <header class="report-head"><p class="kicker"><time datetime="{day}">{format_date(day, "en")}</time></p>
 <h1>{label}</h1></header>
@@ -279,6 +329,7 @@ def transcript_page(day, source):
 <a href="../zh/{day}.html" lang="zh-CN" hreflang="zh-CN">中文报告</a>
 <span aria-current="page">Transcript</span>
 </nav>
+{audio_player("en", media)}
 <div class="report-body transcript-text">{text}</div>
 </article></main>"""
     return html_page("en", f"{day}.html", f"{label} · {day} · {SITE_NAME}", body, transcript=True)
@@ -359,7 +410,7 @@ def archive_page(locale, entries, report_text):
     return html_page(locale, "index.html", f"{SITE_NAME} · {words['archive_title']}", contents)
 
 
-def build(reports, output, embed_origin=None):
+def build(reports, output, embed_origin=None, media_base=None):
     inputs = {}
     for path in reports.glob("Zeeverse-AMA-*.md"):
         name = REPORT_FILE.fullmatch(path.name)
@@ -377,6 +428,15 @@ def build(reports, output, embed_origin=None):
 
     markdown = MarkdownIt("commonmark", {"html": False}).enable("table")
     dates = sorted(inputs, reverse=True)
+    recordings = {day: reports / "audio" / f"{day}.mp3" for day in dates}
+    recordings = {day: path for day, path in recordings.items() if path.is_file()}
+
+    def recording_url(day, subdirectory=False):
+        if day in recordings:
+            prefix = media_base or ("../audio/" if subdirectory else "audio/")
+            return prefix + recordings[day].name
+        return None
+
     assets = PROJECT / "assets"
     files = {name: (assets / name).read_bytes() for name in ("site.css", "site.js")}
     for path in (assets / "fonts").iterdir():
@@ -393,7 +453,7 @@ def build(reports, output, embed_origin=None):
             original = source.read_text(encoding="utf-8-sig")
             if original.strip():
                 transcripts[day] = source
-                files[transcript_href(day, "en")] = transcript_page(day, original)
+                files[transcript_href(day, "en")] = transcript_page(day, original, recording_url(day, subdirectory=True))
     transcript_dates = {path: day for day, path in transcripts.items()}
 
     for locale, reports_by_date in (("en", english), ("zh", inputs)):
@@ -407,7 +467,8 @@ def build(reports, output, embed_origin=None):
             if not original.strip():
                 raise ValueError(f"Empty report: {path}")
             tokens = markdown.parse(original)
-            normalize_links(tokens, dates, locale, path, transcript_dates, transcripts)
+            media = recording_url(day, subdirectory=(locale == "zh"))
+            normalize_links(tokens, dates, locale, path, transcript_dates, transcripts, media)
             report_text[day] = search_text(tokens)
             body, headings, source_title, meta = render_report(markdown, tokens, locale)
             names = [name for _, name in headings]
@@ -426,7 +487,7 @@ def build(reports, output, embed_origin=None):
                 links.append(f'<a href="{newer}.html">{words["newer"]} {newer}</a>')
             nav = f'<nav class="nearby" aria-label="{words["nearby"]}">{"".join(links)}</nav>' if links else ""
             article = reading_page(locale, day, topic, body, headings, meta, len(dates) - position,
-                                   minutes, day in transcripts, nav)
+                                   minutes, day in transcripts, nav, media)
             filename = f"{day}.html"
             files[prefix + filename] = html_page(locale, filename, f"{day} · {SITE_NAME}", article, article=True)
         files[prefix + "index.html"] = archive_page(locale, entries, report_text)
@@ -453,6 +514,17 @@ def build(reports, output, embed_origin=None):
         temporary = target.with_suffix(target.suffix + ".tmp")
         temporary.write_bytes(content if isinstance(content, bytes) else content.encode("utf-8"))
         temporary.replace(target)
+    audio_dir = site / "audio"
+    if recordings:
+        audio_dir.mkdir(exist_ok=True)
+        for source in recordings.values():
+            target = audio_dir / source.name
+            temporary = target.with_suffix(".mp3.tmp")
+            copyfile(source, temporary)
+            temporary.replace(target)
+    for path in audio_dir.glob("*.mp3"):
+        if path.stem not in recordings and DATE_HTML.fullmatch(path.stem + ".html") and not path.is_symlink():
+            path.unlink()
     for directory in (site, site / "zh", site / "transcripts"):
         for path in directory.glob("*.html"):
             filename = path.relative_to(site).as_posix()
@@ -469,9 +541,13 @@ def build(reports, output, embed_origin=None):
     with ZipFile(temporary_zip, "w", ZIP_DEFLATED) as bundle:
         for filename in files:
             bundle.write(site / filename, filename)
+        for path in recordings.values():
+            filename = f"audio/{path.name}"
+            bundle.write(site / filename, filename, compress_type=ZIP_STORED)
     temporary_zip.replace(archive)
     print(f"{len(dates)} report pairs (English + Chinese)")
     print(f"{len(transcripts)} original transcripts")
+    print(f"{len(recordings)} recordings")
     print(site / "index.html")
     print(archive)
 
@@ -483,6 +559,7 @@ def main():
                           "or saved as transcription/YYYY-MM-DD.txt or .md")
     cli.add_argument("--output", type=Path, default=PROJECT / "dist")
     cli.add_argument("--embed-origin", help="Surf origin for synchronizing the embedded archive's address")
+    cli.add_argument("--media-base", help="Published audio directory URL, used when a report is embedded")
     args = cli.parse_args()
     if args.embed_origin:
         parsed = urlsplit(args.embed_origin)
@@ -490,7 +567,12 @@ def main():
                 or parsed.path not in ("", "/") or parsed.query or parsed.fragment:
             cli.error("--embed-origin must be an HTTP(S) origin such as https://archive.surf.computer")
         args.embed_origin = f"{parsed.scheme}://{parsed.netloc}"
-    build(args.reports.resolve(), args.output.resolve(), args.embed_origin)
+    if args.media_base:
+        parsed = urlsplit(args.media_base)
+        if parsed.scheme not in ("https", "http") or not parsed.hostname or parsed.username or parsed.query or parsed.fragment:
+            cli.error("--media-base must be an HTTP(S) directory URL")
+        args.media_base = args.media_base.rstrip("/") + "/"
+    build(args.reports.resolve(), args.output.resolve(), args.embed_origin, args.media_base)
 
 
 if __name__ == "__main__":

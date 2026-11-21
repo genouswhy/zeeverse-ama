@@ -1,2 +1,3 @@
 * text=auto eol=lf
 reports/transcription/** -text
+reports/audio/*.mp3 binary

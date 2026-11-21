@@ -32,7 +32,8 @@ jobs:
       - name: Build the bilingual archive
         run: |
           python -m pip install -r requirements.txt
-          python build_zeeverse_site.py --embed-origin https://zeeverse-ama-736745.surf.computer
+          python build_zeeverse_site.py --embed-origin https://zeeverse-ama-736745.surf.computer \
+            --media-base https://genouswhy.github.io/zeeverse-ama/audio/
       - name: Upload the static site
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:

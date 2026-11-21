@@ -4,13 +4,22 @@ A bilingual archive of Zeeverse community calls, with the original English trans
 
 ## 更新一期
 
-把三份文件按同一日期保存为 UTF-8。
+用同一个 AMA 日期命名文件。文本使用 UTF-8。
 
 | 内容 | 路径 |
 | --- | --- |
 | 中文总结 | reports/Zeeverse-AMA-YYYY-MM-DD.md |
 | English recap | reports/en/Zeeverse-AMA-YYYY-MM-DD.md |
 | 原始转录 | reports/transcription/YYYY-MM-DD.txt（也支持 .md） |
+| 完整录音的 MP3 播放版 | reports/audio/YYYY-MM-DD.mp3 |
+
+报告里的时间链接用 `[03:45](#t=225)`。把时间放在主题标题下和引文署名旁，`#t=` 后是从本期录音开头算起的秒数。中英文报告使用同一组位置。转录稿单独成行的 `[03:45]` 也会成为回听入口。
+
+可以用 ffmpeg 从本期原件生成播放版，发布前核对播放版与原件的时长和跳转位置。归档页打开报告时按需加载音频。
+
+~~~sh
+ffmpeg -i original.mp3 -map 0:a:0 -map_metadata -1 -ac 1 -ar 24000 -c:a libmp3lame -b:a 32k reports/audio/YYYY-MM-DD.mp3
+~~~
 
 提交并推送到 main 后，GitHub Actions 会自动生成目录、两种语言的报告和转录页，并发布到 GitHub Pages。新一期的目录条目会根据报告标题自动生成。 [查看构建状态](https://github.com/genouswhy/zeeverse-ama/actions/workflows/pages.yml)
 

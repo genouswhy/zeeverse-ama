@@ -98,10 +98,28 @@ if (toc) {
   });
 }
 
+const recording = document.getElementById("original-audio");
+if (recording) {
+  const errorMessage = document.getElementById("audio-error");
+  recording.addEventListener("error", () => { errorMessage.hidden = false; });
+  recording.addEventListener("playing", () => { errorMessage.hidden = true; });
+  document.addEventListener("click", (event) => {
+    const cue = event.target.closest("a[data-audio-time]");
+    if (!cue || event.defaultPrevented || event.button !== 0 || event.ctrlKey
+        || event.metaKey || event.altKey || event.shiftKey) return;
+    event.preventDefault();
+    recording.currentTime = Number(cue.dataset.audioTime);
+    recording.play().catch((error) => {
+      if (error.name !== "AbortError") errorMessage.hidden = false;
+    });
+  });
+}
+
 const progress = document.querySelector(".reading-progress");
 if (progress) {
   const links = Array.from(document.querySelectorAll(".toc-rail a"));
   const headings = links.map((link) => document.getElementById(link.hash.slice(1)));
+  const audioPlayer = document.querySelector(".audio-player");
   let active = null;
   let frame = 0;
   function updateReadingPosition() {
@@ -109,8 +127,9 @@ if (progress) {
     const maximum = document.documentElement.scrollHeight - window.innerHeight;
     progress.style.transform = "scaleX(" + (maximum > 0 ? Math.min(1, window.scrollY / maximum) : 0) + ")";
     let position = 0;
+    const readingEdge = 96 + (audioPlayer?.offsetHeight ?? 0);
     for (let index = 0; index < headings.length; index += 1) {
-      if (headings[index].getBoundingClientRect().top > 96) break;
+      if (headings[index].getBoundingClientRect().top > readingEdge) break;
       position = index;
     }
     const next = links[position];
